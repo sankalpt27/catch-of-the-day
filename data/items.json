@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-29T11:13:18.907345+00:00",
- "count": 673,
+ "generated_at": "2026-08-29T11:25:45.852293+00:00",
+ "count": 676,
  "items": [
   {
    "id": "3308f211d77980d3ff5643888fcaab83ed700c52",
@@ -32,6 +32,21 @@
    "author": null,
    "published_at": "2026-08-29T12:00:00+00:00",
    "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": []
+  },
+  {
+   "id": "2a0772eff8e2ab81a57d94027f8d4a306393522a",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/08/29/atp-winston-salem-final-best-bet-fery-buse/",
+   "title": "ATP Winston-Salem Final Best Bet – Arthur Fery Vs Ignacio Buse",
+   "summary": "The ATP Winston-Salem tournament is the 250-point ATP tournament which leads into the 2026 U.S. If you absolutely insist on a bet, over 2.5 sets is the play, especially since Buse has played three three-setters this week in ATP Winston-Salem.",
+   "summary_method": "extract",
+   "author": "Matt Zemek",
+   "published_at": "2026-08-29T11:24:31+00:00",
+   "fetched_at": "2026-08-29T11:25:34.003205+00:00",
    "tags": []
   },
   {
@@ -1106,6 +1121,21 @@
    ]
   },
   {
+   "id": "2444e2600bd74f70e59c2cfdede1563ce727e144",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-243989?at_medium=RSS&at_campaign=rss",
+   "title": "South Africa v Zimbabwe - T20 tri-series scorecard",
+   "summary": "Latest scorecard from the Twenty20 tri-series match between South Africa and Zimbabwe in Windhoek.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-08-29T00:00:00+00:00",
+   "fetched_at": "2026-08-29T11:25:34.003205+00:00",
+   "tags": []
+  },
+  {
    "id": "4ade38c520ea1b9da02528b349d1f4a4c4a163e7",
    "source": "crictracker",
    "source_name": "CricTracker",
@@ -1409,6 +1439,27 @@
    "published_at": "2026-08-28T19:00:06+00:00",
    "fetched_at": "2026-08-29T09:37:02.370741+00:00",
    "tags": []
+  },
+  {
+   "id": "26e14103c6d22f14f52011a2cc9ea246e72c7d34",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13578265/champions-league-2026-27-fixtures-dates-schedule-format-and-who-has-qualified-from-premier-league-and-around-europe",
+   "title": "Champions League fixture schedule confirmed",
+   "summary": "The Champions League fixture dates for Arsenal, Manchester City, Manchester United, Liverpool and Aston Villa have been confirmed.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-08-28T18:50:00+00:00",
+   "fetched_at": "2026-08-29T11:25:34.003205+00:00",
+   "tags": [
+    "champions league",
+    "arsenal",
+    "liverpool",
+    "manchester united",
+    "manchester city"
+   ]
   },
   {
    "id": "4ae8fdf5bd5c4fcbcb0d42d8b48e7b737ddf1513",
