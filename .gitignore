@@ -5,3 +5,4 @@ venv/
 site/
 .pytest_cache/
 .DS_Store
+CLAUDE.md
