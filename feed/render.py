@@ -65,9 +65,26 @@ def render(items: list[Item], statuses: list[dict]) -> None:
     visible = [it for it in items if it.sports_ok]
     counts = {s: sum(1 for it in visible if it.sport == s) for s in SPORTS}
     now = datetime.now(timezone.utc)
+    days = group_by_day(visible)
+
+    # Feature "the catch of the day": the newest recent item that actually reads
+    # as a story — a real (non-stub) summary of decent length, filed in the last
+    # 20h. Skip the hero entirely if nothing qualifies.
+    featured = None
+    if days:
+        for cand in days[0]["entries"][:10]:
+            it = cand["item"]
+            age_h = (now - _local(it.published_at or it.fetched_at)
+                     .astimezone(timezone.utc)).total_seconds() / 3600
+            if age_h <= 20 and it.summary_method in ("feed", "extract") and len(it.summary) >= 140:
+                featured = cand
+                days[0]["entries"] = [e for e in days[0]["entries"] if e is not cand]
+                days[0]["count"] -= 1
+                break
 
     html = _env().get_template("index.html.j2").render(
-        days=group_by_day(visible),
+        days=days,
+        featured=featured,
         recent_open=RECENT_DAYS_OPEN,
         today_key=now.astimezone(_TZ).date().isoformat(),
         sports=SPORTS,

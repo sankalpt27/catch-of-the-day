@@ -17,11 +17,13 @@ _MIN_BODY = 240
 _SENTENCES = 2
 _WORDS = re.compile(r"[a-z']+")
 _LOOKS_LIKE_SENTENCE = re.compile(r"[.!?][\"'’)\]]?$")
-_BOILERPLATE = re.compile(
-    r"use cookies|cookie preferences|enable cookies|accept (?:all )?cookies"
-    r"|we need your permission|to show you this content|subscribe to (?:read|continue)"
-    r"|sign in to|create an account|javascript is disabled",
-    re.IGNORECASE,
+BOILERPLATE = re.compile(
+    r"\bcookies?\b(?=.*\b(?:allow|enable|accept|preferences|technolog|consent|session)\b)"
+    r"|allow cookies|enable cookies|accept (?:all )?cookies|cookie preferences"
+    r"|we need your permission|to (?:show|view) (?:you )?this content|content is provided by"
+    r"|subscribe to (?:read|continue)|sign in to (?:read|continue|your)"
+    r"|create an account|javascript is (?:disabled|required)|please enable javascript",
+    re.IGNORECASE | re.DOTALL,
 )
 
 
@@ -55,7 +57,7 @@ def _prose_only(body: str) -> str:
             continue
         if ". " not in line and not _LOOKS_LIKE_SENTENCE.search(line):
             continue
-        if _BOILERPLATE.search(line):
+        if BOILERPLATE.search(line):
             continue
         kept.append(line)
     return " ".join(kept)
@@ -86,6 +88,6 @@ def article_summary(url: str, title: str = "") -> str | None:
         return None
     if not _LOOKS_LIKE_SENTENCE.search(summary) and ". " not in summary:
         return None
-    if _BOILERPLATE.search(summary) or _too_similar_to_title(summary, title):
+    if BOILERPLATE.search(summary) or _too_similar_to_title(summary, title):
         return None
     return summary

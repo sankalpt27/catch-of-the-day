@@ -4,7 +4,7 @@ from __future__ import annotations
 from datetime import datetime, timezone
 
 from .config import EXTRACT_BUDGET, load_sources
-from .extract import article_summary
+from .extract import BOILERPLATE, article_summary
 from .fetch import FeedError, fetch_feed
 from .models import Item
 from .parse import entries_to_items
@@ -48,7 +48,8 @@ def build() -> None:
                     entries=n_entries, new=len(fresh))
         )
 
-    enriched = _fill_stub_summaries(added)
+    _reset_bad_summaries(store)
+    enriched = _fill_stub_summaries(list(store.values()))
 
     store = prune(store)
     save_items(store)
@@ -61,8 +62,17 @@ def build() -> None:
     )
 
 
+def _reset_bad_summaries(store: dict[str, Item]) -> None:
+    """Self-heal: any cached summary that turns out to be page boilerplate
+    (cookie notices, paywall prompts) is dropped so the extractive pass retries."""
+    for item in store.values():
+        if item.summary and BOILERPLATE.search(item.summary):
+            item.summary = ""
+            item.summary_method = "stub"
+
+
 def _fill_stub_summaries(items: list[Item]) -> int:
-    """Fetch article bodies for new, in-scope items that have no feed summary."""
+    """Fetch article bodies for in-scope items that have no usable feed summary."""
     targets = [it for it in items if it.sports_ok and it.summary_method == "stub"]
     filled = 0
     for item in targets[:EXTRACT_BUDGET]:

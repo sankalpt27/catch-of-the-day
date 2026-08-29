@@ -8,49 +8,55 @@
 <title>Catch of the Day</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500&family=Barlow+Condensed:wght@500;600;700&family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-  /* ---------- palette: a floodlit sporting evening ---------- */
+  /* ================= palette ================= */
+  /* NIGHT — a floodlit sky, warm paper, and the pink of a Saturday sports paper */
   :root {
-    --pitch: #0f1c18;          /* floodlit grass, near-black with a green cast */
-    --pitch-raised: #142621;
-    --chalk: #f1efe4;          /* line paint */
-    --chalk-dim: #93a29a;
-    --chalk-faint: #61716a;
-    --line: #24352e;           /* hairline / the time spine */
-    --line-bright: #3b544a;
-    --sodium: #f6a623;         /* sodium floodlight — the one accent */
-    --sodium-ink: #1a1205;
-    --cricket: #e0674a;        /* seam of a new ball */
-    --f1: #b07cf2;             /* the fastest-lap purple */
-    --football: #4bab63;       /* pitch green */
-    --tennis: #d9e04b;         /* ball yellow */
-    --shadow: rgba(0,0,0,.45);
+    --ink: #141530;
+    --ink-raised: #1d1e40;
+    --ink-sunk: #0f1026;
+    --paper: #f6f3ec;
+    --paper-dim: #a9a6c4;
+    --paper-faint: #74719a;
+    --rule: #2b2c55;
+    --rule-bright: #43447a;
+    --pink: #ff3d8b;
+    --pink-soft: #ff77b0;
+    --on-pink: #24061a;
+    --cricket: #ff7a45;
+    --f1: #9a7bff;
+    --football: #2fd36f;
+    --tennis: #ecdf2f;
+    --shadow: rgba(4, 4, 22, .55);
 
-    --rail: 3.7rem;            /* time gutter + spine */
-    --content-gap: 1.3rem;    /* spine -> text */
-    --maxw: 43rem;
+    --rail: 3.9rem;
+    --gap: 1.35rem;
+    --maxw: 44rem;
 
     --f-display: "Barlow Condensed", "Arial Narrow", system-ui, sans-serif;
     --f-head: "Fraunces", Georgia, "Times New Roman", serif;
     --f-body: "Barlow", system-ui, -apple-system, "Segoe UI", sans-serif;
     --f-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
   }
+  /* DAY — faint pink newsprint, dark ink */
   :root[data-theme="day"] {
-    --pitch: #e7e6db;          /* concrete terrace, chalk dust */
-    --pitch-raised: #f0efe6;
-    --chalk: #17211d;
-    --chalk-dim: #566b62;
-    --chalk-faint: #8a978f;
-    --line: #d0d0c4;
-    --line-bright: #b9baac;
-    --sodium: #c9781a;
-    --sodium-ink: #fff7ec;
-    --cricket: #c14a2f;
-    --f1: #7b46c9;
-    --football: #2f8f49;
-    --tennis: #8f9a17;
-    --shadow: rgba(31,40,36,.14);
+    --ink: #fbf3f1;
+    --ink-raised: #fffaf8;
+    --ink-sunk: #f2e7e3;
+    --paper: #1a1424;
+    --paper-dim: #5c5570;
+    --paper-faint: #8f8aa0;
+    --rule: #e8dcd8;
+    --rule-bright: #d6c8c4;
+    --pink: #de1b6f;
+    --pink-soft: #b81a5e;
+    --on-pink: #ffffff;
+    --cricket: #c8501f;
+    --f1: #6742cc;
+    --football: #1c9b51;
+    --tennis: #8a7f10;
+    --shadow: rgba(70, 40, 55, .16);
   }
 
   * { box-sizing: border-box; min-width: 0; }
@@ -58,230 +64,228 @@
   body {
     margin: 0;
     overflow-x: hidden;
-    background:
-      radial-gradient(120% 42% at 50% -8%, color-mix(in srgb, var(--sodium) 9%, transparent), transparent 70%),
-      var(--pitch);
-    background-attachment: fixed;
-    color: var(--chalk);
+    background: var(--ink);
+    color: var(--paper);
     font: 400 16px/1.6 var(--f-body);
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
   }
-  .headline, .dek { overflow-wrap: anywhere; }
+  /* breathing floodlight glow */
+  body::before {
+    content: "";
+    position: fixed;
+    inset: -20% -20% auto -20%;
+    height: 60vh;
+    background: radial-gradient(70% 100% at 50% 0%,
+      color-mix(in srgb, var(--pink) 16%, transparent), transparent 72%);
+    pointer-events: none;
+    z-index: 0;
+    animation: breathe 11s ease-in-out infinite alternate;
+  }
+  @keyframes breathe { from { opacity: .45; } to { opacity: 1; } }
+
   a { color: inherit; }
-  ::selection { background: var(--sodium); color: var(--sodium-ink); }
+  ::selection { background: var(--pink); color: var(--on-pink); }
   a:focus-visible, button:focus-visible, summary:focus-visible {
-    outline: 2px solid var(--sodium);
-    outline-offset: 2px;
-    border-radius: 1px;
+    outline: 2px solid var(--pink);
+    outline-offset: 3px;
+    border-radius: 2px;
   }
 
-  .shell { max-width: var(--maxw); margin: 0 auto; padding: 0 1.15rem 6rem; }
+  .skip {
+    position: absolute; left: 1rem; top: -3rem; z-index: 60;
+    padding: .5rem .8rem; background: var(--pink); color: var(--on-pink);
+    font-family: var(--f-display); font-weight: 600; letter-spacing: .06em;
+    text-transform: uppercase; font-size: .8rem; text-decoration: none;
+    transition: top .15s;
+  }
+  .skip:focus { top: 1rem; }
 
-  /* ---------- masthead: a timing-screen nameplate ---------- */
+  /* scroll progress — how deep into the day's play you are */
+  .progress {
+    position: fixed; left: 0; top: 0; height: 3px; width: 100%;
+    transform: scaleX(0); transform-origin: left; z-index: 50;
+    background: linear-gradient(90deg, var(--pink), var(--pink-soft));
+    transition: transform .1s linear;
+  }
+
+  .shell { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; padding: 0 1.15rem 6rem; }
+
+  /* ================= masthead ================= */
   .masthead {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 1rem;
-    padding: 2.4rem 0 1rem;
+    display: flex; align-items: flex-end; justify-content: space-between;
+    gap: 1rem; padding: 2.6rem 0 1rem;
   }
   .wordmark {
-    font-family: var(--f-display);
-    font-weight: 700;
-    font-size: clamp(1.9rem, 6vw, 2.9rem);
-    line-height: .9;
-    letter-spacing: .012em;
-    text-transform: uppercase;
     margin: 0;
+    font-family: var(--f-display); font-weight: 700;
+    font-size: clamp(2.1rem, 8vw, 3.6rem);
+    line-height: .86; letter-spacing: .01em; text-transform: uppercase;
   }
   .wordmark .of {
-    display: block;
-    font-size: .3em;
-    letter-spacing: .34em;
-    color: var(--sodium);
-    margin-top: .5em;
-    padding-left: .12em;
+    display: block; margin-top: .55em; padding-left: .1em;
+    font-size: clamp(.62rem, 1.7vw, .8rem); font-weight: 600;
+    letter-spacing: .26em; color: var(--pink); text-transform: uppercase;
   }
   .clock {
-    font-family: var(--f-mono);
-    font-weight: 500;
-    font-size: .95rem;
-    color: var(--sodium);
-    letter-spacing: .04em;
-    white-space: nowrap;
+    font-family: var(--f-mono); font-weight: 500; font-size: .95rem;
+    color: var(--pink); letter-spacing: .04em; white-space: nowrap;
     font-variant-numeric: tabular-nums;
   }
 
   .ledger {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .35rem 1rem;
-    font-family: var(--f-mono);
-    font-size: .74rem;
-    color: var(--chalk-faint);
-    letter-spacing: .02em;
-    padding-bottom: 1.1rem;
-    border-bottom: 2px solid var(--line-bright);
+    display: flex; flex-wrap: wrap; gap: .35rem 1rem;
+    font-family: var(--f-mono); font-size: .74rem; color: var(--paper-faint);
+    letter-spacing: .02em; padding-bottom: 1.1rem;
+    border-bottom: 2px solid var(--rule-bright);
   }
-  .ledger .lit { color: var(--sodium); }
+  .ledger .lit { color: var(--pink); }
+  #new-jump {
+    font: inherit; color: var(--pink); background: none; border: 0; padding: 0;
+    cursor: pointer; letter-spacing: inherit;
+  }
+  #new-jump:hover { text-decoration: underline; text-underline-offset: 3px; }
+  #new-jump .lit { font-weight: 600; }
 
   .warn {
-    margin: 1rem 0 0;
-    padding: .55rem .8rem;
-    border-left: 3px solid var(--cricket);
-    background: var(--pitch-raised);
-    color: var(--chalk-dim);
-    font-size: .82rem;
+    margin: 1rem 0 0; padding: .55rem .8rem;
+    border-left: 3px solid var(--cricket); background: var(--ink-raised);
+    color: var(--paper-dim); font-size: .82rem;
   }
 
-  /* ---------- filter: scoreboard tabs ---------- */
+  /* ================= filter tabs ================= */
   .filters {
-    position: sticky;
-    top: 0;
-    z-index: 20;
-    display: flex;
-    flex-wrap: wrap;
-    gap: .1rem .3rem;
-    margin: 0 -1.15rem;
-    padding: .7rem 1.15rem;
-    background: color-mix(in srgb, var(--pitch) 92%, transparent);
-    backdrop-filter: blur(8px);
-    border-bottom: 1px solid var(--line);
+    position: sticky; top: 0; z-index: 20;
+    display: flex; flex-wrap: wrap; gap: .1rem .3rem;
+    margin: 0 -1.15rem; padding: .7rem 1.15rem;
+    background: color-mix(in srgb, var(--ink) 88%, transparent);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--rule);
   }
   .filters button {
-    font-family: var(--f-display);
-    font-weight: 600;
-    font-size: .82rem;
-    text-transform: uppercase;
-    letter-spacing: .07em;
-    color: var(--chalk-dim);
-    background: none;
-    border: 0;
-    padding: .38rem .5rem .32rem;
-    cursor: pointer;
-    border-bottom: 2px solid transparent;
-    transition: color .12s;
+    font-family: var(--f-display); font-weight: 600; font-size: .84rem;
+    text-transform: uppercase; letter-spacing: .07em; color: var(--paper-dim);
+    background: none; border: 0; padding: .4rem .55rem .34rem; cursor: pointer;
+    border-bottom: 2px solid transparent; transition: color .12s;
   }
-  .filters button:hover { color: var(--chalk); }
-  .filters button[aria-pressed="true"] {
-    color: var(--chalk);
-    border-bottom-color: var(--sodium);
-  }
+  .filters button:hover { color: var(--paper); }
+  .filters button[aria-pressed="true"] { color: var(--paper); border-bottom-color: var(--pink); }
   .filters button .tally {
-    font-family: var(--f-mono);
-    font-weight: 400;
-    font-size: .68rem;
-    letter-spacing: 0;
-    color: var(--chalk-faint);
-    margin-left: .3em;
+    font-family: var(--f-mono); font-weight: 400; font-size: .68rem;
+    letter-spacing: 0; color: var(--paper-faint); margin-left: .3em;
   }
   .filters button[data-sport="cricket"][aria-pressed="true"] { border-bottom-color: var(--cricket); }
   .filters button[data-sport="f1"][aria-pressed="true"] { border-bottom-color: var(--f1); }
   .filters button[data-sport="football"][aria-pressed="true"] { border-bottom-color: var(--football); }
   .filters button[data-sport="tennis"][aria-pressed="true"] { border-bottom-color: var(--tennis); }
-
   .theme-toggle {
     margin-left: auto;
-    font-family: var(--f-display);
-    font-weight: 600;
-    font-size: .72rem;
-    letter-spacing: .12em;
-    text-transform: uppercase;
-    color: var(--chalk-faint);
-    background: none;
-    border: 0;
-    padding: .38rem .2rem;
-    cursor: pointer;
+    font-family: var(--f-display); font-weight: 600; font-size: .72rem;
+    letter-spacing: .12em; text-transform: uppercase; color: var(--paper-faint);
+    background: none; border: 0; padding: .4rem .2rem; cursor: pointer;
   }
-  .theme-toggle:hover { color: var(--chalk); }
+  .theme-toggle:hover { color: var(--paper); }
 
-  /* ---------- day of play ---------- */
-  .day { margin-top: 2.6rem; }
-  .day:first-of-type { margin-top: 1.4rem; }
+  /* ================= featured: the catch of the day ================= */
+  .hero {
+    margin: 2rem 0 .5rem;
+    padding: 1.5rem 1.6rem 1.6rem;
+    border: 1px solid var(--rule-bright);
+    border-left: 4px solid var(--pink);
+    background:
+      linear-gradient(160deg, color-mix(in srgb, var(--pink) 9%, transparent), transparent 55%),
+      var(--ink-raised);
+    box-shadow: 0 20px 44px -28px var(--shadow);
+    transition: transform .2s ease, box-shadow .2s ease;
+  }
+  .hero:hover { transform: translateY(-2px); box-shadow: 0 26px 52px -26px var(--shadow); }
+  .hero .kicker {
+    display: flex; align-items: center; gap: .55rem;
+    font-family: var(--f-display); font-weight: 700; font-size: .74rem;
+    letter-spacing: .16em; text-transform: uppercase; color: var(--pink);
+    margin-bottom: .6rem;
+  }
+  .hero .kicker::after {
+    content: ""; flex: 1; height: 1px;
+    background: linear-gradient(90deg, color-mix(in srgb, var(--pink) 55%, transparent), transparent);
+  }
+  .hero .h-meta {
+    font-family: var(--f-display); font-weight: 600; font-size: .72rem;
+    letter-spacing: .08em; text-transform: uppercase; color: var(--paper-faint);
+    margin-bottom: .4rem;
+  }
+  .hero .h-meta .sport { color: var(--paper-dim); }
+  .hero[data-sport="cricket"] .h-meta .sport { color: var(--cricket); }
+  .hero[data-sport="f1"] .h-meta .sport { color: var(--f1); }
+  .hero[data-sport="football"] .h-meta .sport { color: var(--football); }
+  .hero[data-sport="tennis"] .h-meta .sport { color: var(--tennis); }
+  .hero h2 {
+    margin: 0 0 .5rem;
+    font-family: var(--f-head); font-optical-sizing: auto; font-weight: 500;
+    font-size: clamp(1.4rem, 3.6vw, 2rem); line-height: 1.22; letter-spacing: -.012em;
+  }
+  .hero h2 a { text-decoration: none; }
+  .hero h2 a:hover { color: var(--pink); }
+  .hero p { margin: 0; color: var(--paper-dim); font-size: .98rem; line-height: 1.55; }
+
+  /* ================= day of play — chapter break ================= */
+  .day { margin-top: 3.4rem; }
+  main > .day:first-of-type { margin-top: 2rem; }
   .day-head {
-    display: flex;
-    align-items: baseline;
-    gap: .6rem;
-    padding-bottom: .5rem;
-    margin-bottom: .3rem;
-    border-bottom: 1px solid var(--line-bright);
+    display: flex; align-items: baseline; flex-wrap: wrap; gap: .1rem .7rem;
+    padding-bottom: .35rem; margin-bottom: .5rem;
+    border-bottom: 3px solid var(--pink);
   }
   .day-head .wk {
-    font-family: var(--f-display);
-    font-weight: 700;
-    font-size: 1.12rem;
-    text-transform: uppercase;
-    letter-spacing: .14em;
+    font-family: var(--f-display); font-weight: 700;
+    font-size: clamp(1.9rem, 6vw, 3rem); line-height: .95;
+    text-transform: uppercase; letter-spacing: .01em;
   }
   .day-head .dt {
-    font-family: var(--f-display);
-    font-weight: 600;
-    font-size: 1.12rem;
-    letter-spacing: .1em;
-    text-transform: uppercase;
-    color: var(--chalk-dim);
+    font-family: var(--f-display); font-weight: 600;
+    font-size: clamp(.95rem, 2.4vw, 1.2rem); letter-spacing: .12em;
+    text-transform: uppercase; color: var(--paper-dim);
   }
   .day-head .today {
-    font-family: var(--f-mono);
-    font-size: .62rem;
-    letter-spacing: .12em;
-    text-transform: uppercase;
-    color: var(--sodium);
-    align-self: center;
+    align-self: center; font-family: var(--f-mono); font-size: .6rem;
+    letter-spacing: .14em; text-transform: uppercase;
+    color: var(--on-pink); background: var(--pink);
+    padding: .18em .5em; border-radius: 2px;
   }
   .day-head .n {
-    margin-left: auto;
-    font-family: var(--f-mono);
-    font-size: .78rem;
-    color: var(--chalk-faint);
+    margin-left: auto; align-self: baseline;
+    font-family: var(--f-mono); font-size: 1.05rem; color: var(--paper-dim);
     font-variant-numeric: tabular-nums;
   }
-  .day-head .n b { color: var(--chalk-dim); font-weight: 500; }
+  .day-head .n .oftotal { color: var(--paper-faint); font-size: .8rem; }
 
-  /* ---------- the spine + entries ---------- */
+  /* ================= the spine + entries ================= */
   .entries { position: relative; list-style: none; margin: 0; padding: 0; }
   .entries::before {
-    content: "";
-    position: absolute;
-    left: var(--rail);
-    top: 0;
-    bottom: 0;
-    width: 1px;
-    background: var(--line-bright);
-    transform: scaleY(var(--spine, 1));
-    transform-origin: top;
-    transition: transform .55s cubic-bezier(.2, .8, .2, 1);
+    content: ""; position: absolute; left: var(--rail); top: 0; bottom: 0;
+    width: 2px; background: var(--rule-bright);
+    transform: scaleY(var(--spine, 1)); transform-origin: top;
+    transition: transform .6s cubic-bezier(.2, .8, .2, 1);
   }
 
   .entry {
-    position: relative;
-    padding: .82rem 0 .82rem calc(var(--rail) + var(--content-gap));
+    position: relative; padding: .95rem 0 .95rem calc(var(--rail) + var(--gap));
     min-height: 3rem;
   }
-  .entry + .entry { border-top: 1px solid var(--line); }
+  .entry + .entry { border-top: 1px solid var(--rule); }
   .entry.is-hidden { display: none; }
 
+  .js .entry { opacity: 0; transform: translateY(12px); transition: opacity .5s ease, transform .5s ease, background-color .15s ease; }
+  .js .entry.seen { opacity: 1; transform: none; }
+
   .entry .time {
-    position: absolute;
-    left: 0;
-    top: 1.05rem;
-    width: calc(var(--rail) - .7rem);
-    text-align: right;
-    font-family: var(--f-mono);
-    font-weight: 500;
-    font-size: .76rem;
-    color: var(--chalk-dim);
-    font-variant-numeric: tabular-nums;
+    position: absolute; left: 0; top: 1.05rem; width: calc(var(--rail) - .7rem);
+    text-align: right; font-family: var(--f-mono); font-weight: 500;
+    font-size: .76rem; color: var(--paper-dim); font-variant-numeric: tabular-nums;
   }
-  /* sport lane: a coloured segment of the spine for this entry */
   .entry .lane {
-    position: absolute;
-    left: calc(var(--rail) - 1px);
-    top: 0;
-    bottom: 0;
-    width: 3px;
-    background: var(--chalk-faint);
+    position: absolute; left: calc(var(--rail) - 1px); top: 0; bottom: 0;
+    width: 3px; background: var(--paper-faint); transition: width .15s ease;
   }
   .entry[data-sport="cricket"] .lane { background: var(--cricket); }
   .entry[data-sport="f1"] .lane { background: var(--f1); }
@@ -289,208 +293,132 @@
   .entry[data-sport="tennis"] .lane { background: var(--tennis); }
 
   .entry .node {
-    position: absolute;
-    left: calc(var(--rail) - 3.5px);
-    top: 1.15rem;
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: var(--sodium);
-    box-shadow: 0 0 0 3px var(--pitch), 0 0 10px 1px color-mix(in srgb, var(--sodium) 60%, transparent);
+    position: absolute; left: calc(var(--rail) - 4px); top: 1.15rem;
+    width: 9px; height: 9px; border-radius: 50%; background: var(--pink);
+    box-shadow: 0 0 0 3px var(--ink), 0 0 12px 1px color-mix(in srgb, var(--pink) 70%, transparent);
     display: none;
   }
-  .entry.is-new .node { display: block; }
-  .entry.is-new .time { color: var(--sodium); }
+  .entry.is-new .node { display: block; animation: ping 2.4s ease-out infinite; }
+  .entry.is-new .time { color: var(--pink); }
+  @keyframes ping {
+    0%, 60% { box-shadow: 0 0 0 3px var(--ink), 0 0 0 0 color-mix(in srgb, var(--pink) 55%, transparent); }
+    100% { box-shadow: 0 0 0 3px var(--ink), 0 0 0 9px transparent; }
+  }
 
   .entry .label {
-    font-family: var(--f-display);
-    font-weight: 600;
-    font-size: .69rem;
-    text-transform: uppercase;
-    letter-spacing: .085em;
-    margin-bottom: .18rem;
-    color: var(--chalk-faint);
+    font-family: var(--f-display); font-weight: 600; font-size: .7rem;
+    text-transform: uppercase; letter-spacing: .09em; color: var(--paper-faint);
+    margin-bottom: .2rem;
   }
-  .entry .label .sport { color: var(--chalk-dim); }
+  .entry .label .sport { color: var(--paper-dim); }
   .entry[data-sport="cricket"] .label .sport { color: var(--cricket); }
   .entry[data-sport="f1"] .label .sport { color: var(--f1); }
   .entry[data-sport="football"] .label .sport { color: var(--football); }
   .entry[data-sport="tennis"] .label .sport { color: var(--tennis); }
 
   .entry .headline {
-    font-family: var(--f-head);
-    font-optical-sizing: auto;
-    font-weight: 460;
-    font-size: 1.02rem;
-    line-height: 1.34;
-    letter-spacing: -.003em;
-    margin: 0 0 .28rem;
+    margin: 0 0 .3rem;
+    font-family: var(--f-head); font-optical-sizing: auto; font-weight: 460;
+    font-size: 1.075rem; line-height: 1.33; letter-spacing: -.004em;
   }
-  .entry .headline a { text-decoration: none; }
-  .entry .headline a:hover { color: var(--sodium); }
-  .entry:hover .lane { width: 5px; }
+  .entry .headline a {
+    text-decoration: none;
+    background-image: linear-gradient(var(--pink), var(--pink));
+    background-size: 0% 2px; background-position: 0 100%; background-repeat: no-repeat;
+    transition: background-size .25s ease, color .15s ease;
+  }
+  .entry:hover .headline a, .entry.is-cursor .headline a { color: var(--pink); background-size: 100% 2px; }
+  .entry:hover .lane, .entry.is-cursor .lane { width: 6px; }
 
   .entry .dek {
-    margin: 0;
-    font-size: .9rem;
-    line-height: 1.5;
-    color: var(--chalk-dim);
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 2;
-    line-clamp: 2;
-    overflow: hidden;
+    margin: 0; font-size: .9rem; line-height: 1.5; color: var(--paper-dim);
+    display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
+    line-clamp: 2; overflow: hidden;
   }
-  .entry .dek.stub { font-style: italic; color: var(--chalk-faint); }
+  .entry .dek.stub { font-style: italic; color: var(--paper-faint); }
+  .headline, .dek { overflow-wrap: anywhere; }
+
+  .entry[data-sport="cricket"]:hover { background: color-mix(in srgb, var(--cricket) 7%, transparent); }
+  .entry[data-sport="f1"]:hover { background: color-mix(in srgb, var(--f1) 8%, transparent); }
+  .entry[data-sport="football"]:hover { background: color-mix(in srgb, var(--football) 7%, transparent); }
+  .entry[data-sport="tennis"]:hover { background: color-mix(in srgb, var(--tennis) 8%, transparent); }
 
   .day.is-empty { display: none; }
 
-  /* ---------- earlier fold ---------- */
-  .earlier { margin-top: 2.6rem; }
+  /* ================= earlier fold ================= */
+  .earlier { margin-top: 3rem; }
   .earlier > summary {
-    font-family: var(--f-display);
-    font-weight: 600;
-    font-size: .9rem;
-    text-transform: uppercase;
-    letter-spacing: .12em;
-    color: var(--chalk-dim);
-    cursor: pointer;
-    padding: .8rem 0;
-    border-top: 2px solid var(--line-bright);
+    font-family: var(--f-display); font-weight: 600; font-size: .95rem;
+    text-transform: uppercase; letter-spacing: .12em; color: var(--paper-dim);
+    cursor: pointer; padding: .85rem 0; border-top: 2px solid var(--rule-bright);
     list-style: none;
   }
   .earlier > summary::-webkit-details-marker { display: none; }
-  .earlier > summary::after { content: " ▾"; color: var(--chalk-faint); }
+  .earlier > summary::after { content: " ▾"; color: var(--paper-faint); }
   .earlier[open] > summary::after { content: " ▴"; }
-  .earlier > summary .tally { font-family: var(--f-mono); font-weight: 400; letter-spacing: 0; color: var(--chalk-faint); }
+  .earlier > summary .tally { font-family: var(--f-mono); font-weight: 400; letter-spacing: 0; color: var(--paper-faint); }
 
-  /* ---------- footer ---------- */
+  /* ================= footer ================= */
   .foot {
-    margin-top: 4rem;
-    padding-top: 1.2rem;
-    border-top: 1px solid var(--line);
-    font-family: var(--f-mono);
-    font-size: .74rem;
-    line-height: 1.7;
-    color: var(--chalk-faint);
+    margin-top: 4rem; padding-top: 1.2rem; border-top: 1px solid var(--rule);
+    font-family: var(--f-mono); font-size: .74rem; line-height: 1.7; color: var(--paper-faint);
   }
   .foot details { margin-top: .5rem; }
-  .foot summary { cursor: pointer; color: var(--chalk-dim); }
+  .foot summary { cursor: pointer; color: var(--paper-dim); }
   .foot .sources { list-style: none; margin: .5rem 0 0; padding: 0; }
   .foot .sources li { padding: .12rem 0; }
   .foot .sources .down { color: var(--cricket); }
 
   .empty {
-    padding: 3rem 0;
-    text-align: center;
-    font-family: var(--f-display);
-    font-size: 1rem;
-    letter-spacing: .1em;
-    text-transform: uppercase;
-    color: var(--chalk-faint);
+    padding: 3rem 0; text-align: center; font-family: var(--f-display);
+    font-size: 1rem; letter-spacing: .1em; text-transform: uppercase; color: var(--paper-faint);
   }
 
-  /* ---------- skip link ---------- */
-  .skip {
-    position: absolute;
-    left: 1rem;
-    top: -3rem;
-    z-index: 50;
-    padding: .5rem .8rem;
-    background: var(--sodium);
-    color: var(--sodium-ink);
-    font-family: var(--f-display);
-    font-weight: 600;
-    letter-spacing: .06em;
-    text-transform: uppercase;
-    font-size: .8rem;
-    text-decoration: none;
-    transition: top .15s;
-  }
-  .skip:focus { top: 1rem; }
-
-  /* ---------- "N new" jump ---------- */
-  #new-jump {
-    font: inherit;
-    color: var(--sodium);
-    background: none;
-    border: 0;
-    padding: 0;
-    cursor: pointer;
-    letter-spacing: inherit;
-  }
-  #new-jump:hover { text-decoration: underline; text-underline-offset: 3px; }
-  #new-jump .lit { font-weight: 600; }
-
-  /* ---------- keyboard cursor ---------- */
-  .entry.is-cursor {
-    background: color-mix(in srgb, var(--sodium) 7%, transparent);
-    box-shadow: inset 2px 0 0 var(--sodium);
-  }
-  .entry.is-cursor .lane { width: 5px; }
-
-  /* ---------- shortcuts panel ---------- */
+  /* ================= shortcuts ================= */
   .kbd-hint {
-    position: fixed;
-    right: 1.1rem;
-    bottom: 1.1rem;
-    z-index: 40;
-    width: 2rem;
-    height: 2rem;
-    border-radius: 50%;
-    border: 1px solid var(--line-bright);
-    background: var(--pitch-raised);
-    color: var(--chalk-dim);
-    font-family: var(--f-mono);
-    font-size: .9rem;
-    cursor: pointer;
+    position: fixed; right: 1.1rem; bottom: 1.1rem; z-index: 40;
+    width: 2rem; height: 2rem; border-radius: 50%;
+    border: 1px solid var(--rule-bright); background: var(--ink-raised);
+    color: var(--paper-dim); font-family: var(--f-mono); font-size: .9rem; cursor: pointer;
   }
-  .kbd-hint:hover { color: var(--chalk); border-color: var(--chalk-faint); }
+  .kbd-hint:hover { color: var(--paper); border-color: var(--pink); }
   .kbd-panel {
-    position: fixed;
-    right: 1.1rem;
-    bottom: 3.6rem;
-    z-index: 40;
-    width: 15rem;
-    padding: .9rem 1rem;
-    background: var(--pitch-raised);
-    border: 1px solid var(--line-bright);
-    box-shadow: 0 12px 32px var(--shadow);
-    font-family: var(--f-mono);
-    font-size: .74rem;
-    color: var(--chalk-dim);
+    position: fixed; right: 1.1rem; bottom: 3.6rem; z-index: 40; width: 15rem;
+    padding: .9rem 1rem; background: var(--ink-raised);
+    border: 1px solid var(--rule-bright); box-shadow: 0 12px 32px var(--shadow);
+    font-family: var(--f-mono); font-size: .74rem; color: var(--paper-dim);
   }
   .kbd-panel b {
-    display: block;
-    font-family: var(--f-display);
-    font-weight: 700;
-    letter-spacing: .12em;
-    text-transform: uppercase;
-    color: var(--chalk-faint);
-    margin-bottom: .5rem;
+    display: block; font-family: var(--f-display); font-weight: 700;
+    letter-spacing: .12em; text-transform: uppercase; color: var(--paper-faint); margin-bottom: .5rem;
   }
   .kbd-panel dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: .3rem .8rem; }
-  .kbd-panel dt { color: var(--sodium); white-space: nowrap; }
+  .kbd-panel dt { color: var(--pink); white-space: nowrap; }
   .kbd-panel dd { margin: 0; }
-
   @media (hover: none) { .kbd-hint, .kbd-panel { display: none; } }
 
   @media (max-width: 560px) {
-    :root { --rail: 3.4rem; --content-gap: 1rem; }
+    :root { --rail: 3.3rem; --gap: 1rem; }
     .shell { padding: 0 .9rem 5rem; }
     .filters { margin: 0 -.9rem; padding: .6rem .9rem; }
+    .hero { padding: 1.2rem 1.1rem 1.3rem; }
     .entry .time { font-size: .68rem; }
-    .day-head .wk, .day-head .dt { font-size: 1rem; }
+    .entry::before { inset: 0 -.9rem 0 calc(var(--rail) - 1px); }
   }
 
   @media (prefers-reduced-motion: reduce) {
     html { scroll-behavior: auto; }
+    body::before { animation: none; }
     .entries::before { transition: none !important; }
+    .js .entry { opacity: 1; transform: none; transition: none; }
+    .entry.is-new .node { animation: none; }
+    .progress { transition: none; }
   }
 </style>
 </head>
 <body>
 <a class="skip" href="#feed">Skip to the feed</a>
+<div class="progress" id="progress" aria-hidden="true"></div>
 <div class="shell">
 
   <header class="masthead">
@@ -514,6 +442,15 @@
     {% endfor %}
     <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch day / night">Night</button>
   </nav>
+
+  {% if featured %}
+  <article class="hero" data-sport="{{ featured.item.sport }}">
+    <div class="kicker">The catch of the day</div>
+    <div class="h-meta"><span class="sport">{{ sport_labels.get(featured.item.sport, featured.item.sport) }}</span> · {{ featured.item.source_name }} · {{ featured.time }}</div>
+    <h2><a href="{{ featured.item.url }}" target="_blank" rel="noopener noreferrer">{{ featured.item.title }}</a></h2>
+    <p>{{ featured.item.summary }}</p>
+  </article>
+  {% endif %}
 
   <main id="feed" tabindex="-1">
   {% if not days %}
@@ -591,22 +528,20 @@
   var K_VISIT = "sportsfeed.lastVisit";
   var K_FILTER = "sportsfeed.filter";
   var K_THEME = "sportsfeed.theme";
+  var root = document.documentElement;
+  root.classList.add("js");
+  var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   /* ---- theme ---- */
-  var root = document.documentElement;
   var toggle = document.getElementById("theme-toggle");
-  function readTheme() {
-    try { return localStorage.getItem(K_THEME); } catch (e) { return null; }
-  }
+  function readTheme() { try { return localStorage.getItem(K_THEME); } catch (e) { return null; } }
   function paint(theme) {
     if (theme === "day") root.setAttribute("data-theme", "day");
     else root.removeAttribute("data-theme");
     toggle.textContent = theme === "day" ? "Day" : "Night";
   }
   var saved = readTheme();
-  if (!saved) {
-    saved = window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches ? "day" : "night";
-  }
+  if (!saved) saved = window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches ? "day" : "night";
   paint(saved);
   toggle.addEventListener("click", function () {
     saved = root.hasAttribute("data-theme") ? "night" : "day";
@@ -617,8 +552,7 @@
   /* ---- session clock ---- */
   var clockEl = document.getElementById("clock");
   function tick() {
-    var d = new Date();
-    var p = function (n) { return String(n).padStart(2, "0"); };
+    var d = new Date(), p = function (n) { return String(n).padStart(2, "0"); };
     clockEl.textContent = p(d.getHours()) + ":" + p(d.getMinutes()) + ":" + p(d.getSeconds());
   }
   tick();
@@ -630,8 +564,7 @@
     var b = new Date("{{ generated_at }}");
     var mins = Math.round((Date.now() - b) / 60000);
     built.textContent = mins < 60 ? mins + " min ago"
-      : mins < 1440 ? Math.round(mins / 60) + " h ago"
-      : Math.round(mins / 1440) + " d ago";
+      : mins < 1440 ? Math.round(mins / 60) + " h ago" : Math.round(mins / 1440) + " d ago";
   } catch (e) {}
 
   /* ---- new since last visit ---- */
@@ -655,12 +588,11 @@
   }
   try { localStorage.setItem(K_VISIT, String(Date.now())); } catch (e) {}
 
-  /* ---- new-since-visit jump ---- */
   var firstNew = document.querySelector(".entry.is-new");
-  var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   function revealEntry(el) {
     if (!el) return;
     if (earlier && earlier.contains(el)) earlier.open = true;
+    el.classList.add("seen");
     el.scrollIntoView({ block: "center", behavior: reduce ? "auto" : "smooth" });
   }
   document.getElementById("new-jump").addEventListener("click", function () {
@@ -675,14 +607,11 @@
   var days = Array.prototype.slice.call(document.querySelectorAll(".day"));
   var SPORTS = buttons.map(function (b) { return b.dataset.sport; });
   var BASE_TITLE = document.title;
-  var current = "all";
+  var cursorIndex = -1;
 
   function apply(sport, fromHash) {
     if (SPORTS.indexOf(sport) < 0) sport = "all";
-    current = sport;
-    buttons.forEach(function (b) {
-      b.setAttribute("aria-pressed", String(b.dataset.sport === sport));
-    });
+    buttons.forEach(function (b) { b.setAttribute("aria-pressed", String(b.dataset.sport === sport)); });
     entries.forEach(function (el) {
       var show = sport === "all" || el.getAttribute("data-sport") === sport;
       el.classList.toggle("is-hidden", !show);
@@ -700,13 +629,10 @@
     document.title = label ? label + " · " + BASE_TITLE : BASE_TITLE;
     try { localStorage.setItem(K_FILTER, sport); } catch (e) {}
     if (!fromHash) {
-      var h = sport === "all" ? location.pathname + location.search : "#" + sport;
-      history.replaceState(null, "", h);
+      history.replaceState(null, "", sport === "all" ? location.pathname + location.search : "#" + sport);
     }
     cursorIndex = -1;
-    document.querySelectorAll(".entry.is-cursor").forEach(function (el) {
-      el.classList.remove("is-cursor");
-    });
+    document.querySelectorAll(".entry.is-cursor").forEach(function (el) { el.classList.remove("is-cursor"); });
   }
 
   nav.addEventListener("click", function (e) {
@@ -727,13 +653,11 @@
   }
 
   /* ---- keyboard navigation ---- */
-  var cursorIndex = -1;
   function visibleEntries() {
     return entries.filter(function (el) { return !el.classList.contains("is-hidden"); });
   }
   function setCursor(el) {
-    var list = visibleEntries();
-    var i = list.indexOf(el);
+    var i = visibleEntries().indexOf(el);
     if (i < 0) return;
     document.querySelectorAll(".entry.is-cursor").forEach(function (e) { e.classList.remove("is-cursor"); });
     el.classList.add("is-cursor");
@@ -742,8 +666,7 @@
   function moveCursor(delta) {
     var list = visibleEntries();
     if (!list.length) return;
-    cursorIndex = cursorIndex < 0
-      ? (delta > 0 ? 0 : list.length - 1)
+    cursorIndex = cursorIndex < 0 ? (delta > 0 ? 0 : list.length - 1)
       : Math.min(list.length - 1, Math.max(0, cursorIndex + delta));
     var el = list[cursorIndex];
     document.querySelectorAll(".entry.is-cursor").forEach(function (e) { e.classList.remove("is-cursor"); });
@@ -764,13 +687,11 @@
     if (e.metaKey || e.ctrlKey || e.altKey) return;
     var tag = (document.activeElement && document.activeElement.tagName) || "";
     if (tag === "INPUT" || tag === "TEXTAREA") return;
-
     switch (e.key) {
       case "j": case "ArrowDown": e.preventDefault(); moveCursor(1); break;
       case "k": case "ArrowUp": e.preventDefault(); moveCursor(-1); break;
       case "o": {
-        var list = visibleEntries();
-        var el = list[cursorIndex];
+        var el = visibleEntries()[cursorIndex];
         if (el) { e.preventDefault(); window.open(el.querySelector(".headline a").href, "_blank", "noopener"); }
         break;
       }
@@ -787,7 +708,33 @@
     }
   });
 
-  /* ---- draw each day's spine once, on first paint ---- */
+  /* ---- scroll: progress bar + reveal entries + draw spines ---- */
+  var progress = document.getElementById("progress");
+  var ticking = false;
+  function onScroll() {
+    if (ticking) return;
+    ticking = true;
+    requestAnimationFrame(function () {
+      var h = document.documentElement.scrollHeight - window.innerHeight;
+      progress.style.transform = "scaleX(" + (h > 0 ? Math.min(1, window.scrollY / h) : 0) + ")";
+      ticking = false;
+    });
+  }
+  window.addEventListener("scroll", onScroll, { passive: true });
+  onScroll();
+
+  if (reduce || !("IntersectionObserver" in window)) {
+    entries.forEach(function (el) { el.classList.add("seen"); });
+  } else {
+    var io = new IntersectionObserver(function (rows) {
+      rows.forEach(function (r) {
+        if (r.isIntersecting) { r.target.classList.add("seen"); io.unobserve(r.target); }
+      });
+    }, { rootMargin: "0px 0px -8% 0px" });
+    entries.forEach(function (el) { io.observe(el); });
+    setTimeout(function () { entries.forEach(function (el) { el.classList.add("seen"); }); }, 2500);
+  }
+
   if (!reduce) {
     var spines = document.querySelectorAll(".entries");
     spines.forEach(function (ul) { ul.style.setProperty("--spine", "0"); });
