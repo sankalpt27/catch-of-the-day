@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-29T12:00:45.947059+00:00",
- "count": 684,
+ "generated_at": "2026-08-29T12:10:39.619390+00:00",
+ "count": 689,
  "items": [
   {
    "id": "3308f211d77980d3ff5643888fcaab83ed700c52",
@@ -18,6 +18,21 @@
    "tags": [
     "football"
    ]
+  },
+  {
+   "id": "c5ff0c1b05e330480e311b2a96f7d8597cebd42e",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/bournemouth-vs-everton/live/559455",
+   "title": "Bournemouth vs Everton preview: Hackney 'touch and go' for visitors",
+   "summary": "",
+   "summary_method": "stub",
+   "author": null,
+   "published_at": "2026-08-29T13:00:00+00:00",
+   "fetched_at": "2026-08-29T12:10:20.055086+00:00",
+   "tags": []
   },
   {
    "id": "53d51e95d61e53f72608108869b69694909a2d48",
@@ -405,6 +420,23 @@
    "published_at": "2026-08-29T09:50:29+00:00",
    "fetched_at": "2026-08-29T11:13:03.513192+00:00",
    "tags": []
+  },
+  {
+   "id": "a0f7a7df0c16e5e6cda37906de17423a53a73f70",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/news/articles/c33kv5gjeedo?at_medium=RSS&at_campaign=rss",
+   "title": "Why one of sport's most iconic images resonates 70 years on",
+   "summary": "In 1956 a football photographer captured a moment in time that is still adored 70 years later.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-08-29T06:26:01+00:00",
+   "fetched_at": "2026-08-29T12:10:20.055086+00:00",
+   "tags": [
+    "football"
+   ]
   },
   {
    "id": "7e27e7de312401aa0667ef7759f104575fbced23",
@@ -4447,6 +4479,21 @@
    ]
   },
   {
+   "id": "ccde645486c9d32a414641cc4b5119b8e0992ef2",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/aug/27/cribbed-crest-leyton-orient-call-out-wrexham-for-using-familiar-looking-new-badge",
+   "title": "Cribbed crest? Leyton Orient call out Wrexham for using familiar new badge",
+   "summary": "Leyton Orient have criticised Wrexham’s owners, Ryan Reynolds and Rob Mac, for putting a badge on their new kit that mirrors their own. Wrexham unveiled their new third strip on Wednesday; it is cream with a black collar and terracotta-orange detailing and received the Hollywood seal of approval with pictures of Mac and Reynolds modelling it on the club website.",
+   "summary_method": "feed",
+   "author": "PA Media",
+   "published_at": "2026-08-27T13:40:12+00:00",
+   "fetched_at": "2026-08-29T12:10:20.055086+00:00",
+   "tags": []
+  },
+  {
    "id": "b014422074423518c9f9aadcdce035baaf76f2b3",
    "source": "espn-tennis",
    "source_name": "ESPN",
@@ -5970,6 +6017,23 @@
    "fetched_at": "2026-08-29T09:37:02.370741+00:00",
    "tags": [
     "wicket"
+   ]
+  },
+  {
+   "id": "3c7879b6c2d3a19e3eeac060ace1a3e2a3111348",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe",
+   "title": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
+   "summary": "Kylian Mbappé scored a hat-trick as Real Madrid beat Real Sociedad 4-1 at the Bernabéu on Wednesday ⁠in their first home match since the return of José Mourinho as head coach. Mbappé put Madrid ahead in the 40th minute before Luka Sucic levelled four minutes later, but the ⁠France forward restored the ⁠hosts’ lead on ​the hour. Vinícius Júnior added a third in the 68th minute before Mbappé completed his treble 10 minutes from time.",
+   "summary_method": "feed",
+   "author": "Reuters",
+   "published_at": "2026-08-26T21:39:14+00:00",
+   "fetched_at": "2026-08-29T12:10:20.055086+00:00",
+   "tags": [
+    "real madrid"
    ]
   },
   {
@@ -7660,6 +7724,24 @@
    "published_at": "2026-08-24T22:47:50+00:00",
    "fetched_at": "2026-08-29T09:37:02.370741+00:00",
    "tags": []
+  },
+  {
+   "id": "847c7398e9fa8caf0caf30f1c46fa509c96a101a",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham",
+   "title": "Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson",
+   "summary": "The failure to replace Robert Sánchez remains a mystery but the new-look front three should buy time for the new manager’s principles to bed in After a weekend on which pretty much every potential challenger to Arsenal had demonstrated their flaws, there was a sense, perhaps even a need, for Chelsea to emerge as a serious contender – if only to prevent the title race becoming a procession.",
+   "summary_method": "feed",
+   "author": "Jonathan Wilson at Craven Cottage",
+   "published_at": "2026-08-24T22:33:20+00:00",
+   "fetched_at": "2026-08-29T12:10:20.055086+00:00",
+   "tags": [
+    "arsenal",
+    "chelsea"
+   ]
   },
   {
    "id": "342f549466b81e235a85c9cb187d52436e0410b4",
