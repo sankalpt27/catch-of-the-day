@@ -32,10 +32,6 @@ jobs:
           python-version: "3.12"
           cache: pip
 
-      - uses: actions/configure-pages@v5
-        with:
-          enablement: true
-
       - run: pip install -r requirements.txt
 
       - run: python -m feed build
