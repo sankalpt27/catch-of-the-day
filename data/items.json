@@ -1,7 +1,282 @@
 {
- "generated_at": "2026-08-29T09:40:57.918551+00:00",
- "count": 654,
+ "generated_at": "2026-08-29T11:13:18.907345+00:00",
+ "count": 673,
  "items": [
+  {
+   "id": "3308f211d77980d3ff5643888fcaab83ed700c52",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+   "title": "Off the Ball: Stuart & Tam plus guests Jordan Young & Ashley Reid",
+   "summary": "The most petty and ill-informed football show on radio.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-08-29T13:00:00+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "53d51e95d61e53f72608108869b69694909a2d48",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/live-blog/11095/13577502/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
+   "title": "Derby, Wolves, Middlesbrough in action - EFL LIVE on Sky!",
+   "summary": "To show you this content, we need your permission to use cookies. You can use the buttons below to amend your preferences to enable cookies or to allow those cookies just once.",
+   "summary_method": "extract",
+   "author": null,
+   "published_at": "2026-08-29T12:00:00+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": []
+  },
+  {
+   "id": "92a33b75f9cda3a48de775f00799e8815d5f88f7",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/auqib-nabi-set-for-possible-county-cricket-stint-as-bcci-plans-for-new-zealand-tests-6063/",
+   "title": "Auqib Nabi set for possible county cricket stint as BCCI plans for New Zealand Tests",
+   "summary": "BCCI is in talks with English counties, including Surrey, to arrange red-ball games for Auqib Nabi before India's Test tour of New Zealand in November 2026.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-08-29T11:09:00+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "469fc70f41e6d9acc61d2567756278e61debea1b",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/c74exxnd7r3o?at_medium=RSS&at_campaign=rss",
+   "title": "Cannabis smell at US Open is distracting - Boulter",
+   "summary": "British number one Katie Boulter complains that the smell of cannabis is putting her off her game at the US Open.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-08-29T11:07:31+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "8baf16c96a5ddfec2634355684275edacc96fc47",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/javed-miandad-appeal-crying-imran-khan-release-prison-health-condition/article71404267.ece",
+   "title": "Javed Miandad in tears as he urges for Imran Khan’s release — I know him, he’s an honest man",
+   "summary": "Speaking on a Pakistani YouTube channel, Miandad urged the authorities to get Imran Khan the necessary help for his ailing health.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-08-29T11:03:08+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": []
+  },
+  {
+   "id": "be4540a135f577bc080ebd38fb1ac58c4cf26852",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/gave-him-my-number-and-never-heard-a-word-geoffrey-boycott-reveals-harry-brook-snubbed-mentorship-offer-7602/",
+   "title": "'Gave him my number and never heard a word' - Geoffrey Boycott reveals Harry Brook snubbed mentorship offer",
+   "summary": "The former England opener offered to help the world's No. 1 Test batter after Brook's uncle approached him at Headingley.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-08-29T10:58:44+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": [
+    "batter"
+   ]
+  },
+  {
+   "id": "0b9bb8ecee4b94a3320f9b0bd0fcda03f6d82a53",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live",
+   "title": "Liverpool v Nottingham Forest: Premier League – live",
+   "summary": "Barcola will certainly be put to work when he arrives at Anfield. Iraola sets out the load with this pace-and-eyebrow-raising manifesto. “For me, wingers, forwards, I always tell them that they don’t need to give us 90 minutes. I tell them it is good news when they are exhausted because then we have taken everything from you and someone else will come in.”",
+   "summary_method": "feed",
+   "author": "Scott Murray",
+   "published_at": "2026-08-29T10:58:11+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": [
+    "premier league",
+    "liverpool"
+   ]
+  },
+  {
+   "id": "902bc13449b05acf981f8eef1e8b5cd4072d546a",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/live/2026/aug/29/england-v-pakistan-second-mens-cricket-test-day-three-live",
+   "title": "England v Pakistan: second men’s cricket Test, day three start delayed – live",
+   "summary": "Our very own Luke McLaughlin is getting into the soggy swing of things: “Sticking with 90s Dad Rock rain-related tunes…”",
+   "summary_method": "feed",
+   "author": "James Wallace (now) and Tim de Lisle (later)",
+   "published_at": "2026-08-29T10:45:42+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "90a2a791577ed6cf3ae0eb4d7e9b23783b72255a",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c07lgg84jdmo?at_medium=RSS&at_campaign=rss",
+   "title": "Fulham in talks for Rayo Vallecano defender Ratiu",
+   "summary": "Fulham are in talks to sign Romania defender Andrei Ratiu, 28, from Rayo Vallecano.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-08-29T10:31:12+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": []
+  },
+  {
+   "id": "757d2595418dcc1ecc7d98b927907167d3299765",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-previews/duleep-trophy-2026-south-zone-vs-north-zone-2nd-semi-final-match-preview/",
+   "title": "Duleep Trophy 2026: South Zone vs North Zone, 2nd Semi-Final Match Preview",
+   "summary": "South Zone lock horns with North Zone in the second semi-final of the Duleep Trophy 2026 at the BCCI Centre of Excellence Ground 2 in Bengaluru. This game gets underway on Sunday, August 30.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-08-29T10:21:57+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": []
+  },
+  {
+   "id": "77410c6556894a0f9b096501806fb399f2ea8b97",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/england-vs-pakistan-live-score-day-3-2nd-test-updates-scorecard-highlights-commentary/article71404165.ece",
+   "title": "England vs Pakistan LIVE Score, Day 3: ENG 81/3, leads by 261 runs; Rain delays start — 2nd Test updates",
+   "summary": "ENG vs PAK: Catch the live score, updates, commentary and highlights from the England vs Pakistan second Test match, being played at the Lord’s Cricket Stadium in London.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-08-29T10:17:54+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": [
+    "cricket",
+    "test match"
+   ]
+  },
+  {
+   "id": "6d479823002d52402ceaea36d5b10e5dc764390d",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/dean-elgar-scores-century-two-days-after-announcing-retirement-3988/",
+   "title": "Dean Elgar scores century two days after announcing retirement",
+   "summary": "The former South Africa captain struck his 56th first-class hundred for Essex against Surrey on August 28, 2026, just two days after confirming he would retire at the end of the season.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-08-29T10:13:14+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": []
+  },
+  {
+   "id": "575c80543d1bf7a2a771e82e3fd4bd0f2dfc6965",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/suryakumar-yadav-opens-up-on-shreyas-iyers-appointment-as-india-t20i-captain-9260/",
+   "title": "Suryakumar Yadav opens up on Shreyas Iyer's appointment as India T20I captain",
+   "summary": "The former India captain opens up about his reaction to Shreyas Iyer's appointment and his omission from upcoming tours.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-08-29T10:08:01+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": []
+  },
+  {
+   "id": "3c24fd81077af41fc970d679b132081fe4925b32",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-previews/duleep-trophy-2026-central-zone-vs-east-zone-1st-semi-final-match-preview-8160/",
+   "title": "Duleep Trophy 2026: Central Zone vs East Zone, 1st Semi-Final Match Preview",
+   "summary": "Central Zone are going to face East Zone in the first semi-final of the 2026 Duleep Trophy at the BCCI Centre of Excellence Ground 1 in Bengaluru, starting on Sunday, August 30.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-08-29T10:03:17+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": []
+  },
+  {
+   "id": "fee650b1e597b4a24a3c3f85bd45fefcf3ec0a6c",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/aug/29/britons-unhappy-us-open-tennis-practice-courts-smell-marijuana-new-york",
+   "title": "Keep off the grass: British tennis players complain of marijuana smell at US Open",
+   "summary": "Britain’s US Open hopefuls thought they had put the grass behind them when Wimbledon finished, but the smell of it is all around Flushing Meadows and they are not happy about it. Marijuana is legal for adults in New York and while smoking is not allowed on site, the aroma of weed wafts over some outside courts from the nearby Corona Park.",
+   "summary_method": "feed",
+   "author": "Press Association",
+   "published_at": "2026-08-29T09:57:15+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": [
+    "tennis",
+    "wimbledon",
+    "us open"
+   ]
+  },
+  {
+   "id": "5243f96ecda0c49eb31ccc1993a75adf5ddda22d",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/i-smiled-when-my-name-suryakumar-yadav-opens-up-on-india-t20i-captaincy-removal/",
+   "title": "'I smiled when my name...' - Suryakumar Yadav opens up on India T20I captaincy removal",
+   "summary": "The former India T20I captain breaks silence on his shock removal from leadership after winning the T20 World Cup 2026.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-08-29T09:50:38+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": []
+  },
+  {
+   "id": "16f1178c203f18da84d10fccbeb504ed93afe01f",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/suryakumar-yadav-opens-up-on-how-sanju-samsons-selfless-attitude-earned-his-deep-respect-5578/",
+   "title": "Suryakumar Yadav opens up on how Sanju Samson's selfless attitude earned his deep respect",
+   "summary": "Former India T20 captain Suryakumar Yadav has described a bus conversation with Sanju Samson that changed how he views selflessness in professional sport.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-08-29T09:50:29+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": []
+  },
   {
    "id": "7e27e7de312401aa0667ef7759f104575fbced23",
    "source": "the-race",
@@ -1786,6 +2061,23 @@
    "tags": [
     "us open",
     "alcaraz"
+   ]
+  },
+  {
+   "id": "b2a18db7d7333cadbbb02ab04e4820555c7e5068",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "title": "Tottenham latest: De Zerbi confident of one more signing before window shuts",
+   "summary": "To show you this content, we need your permission to use cookies. You can use the buttons below to amend your preferences to enable cookies or to allow those cookies just once.",
+   "summary_method": "extract",
+   "author": null,
+   "published_at": "2026-08-28T13:30:00+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": [
+    "tottenham"
    ]
   },
   {
@@ -10997,6 +11289,21 @@
    "tags": [
     "formula 1"
    ]
+  },
+  {
+   "id": "510825ccc48e8ba569814a9eb5958aa8c6ef6669",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cj4ke0v4xd1o?at_medium=RSS&at_campaign=rss",
+   "title": "What are the rules on overseas players in The Hundred?",
+   "summary": "BBC Sport's Ask Me Anything team explains what the rules are in The Hundred regarding the eligibility of overseas players.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-07-30T13:15:43+00:00",
+   "fetched_at": "2026-08-29T11:13:03.513192+00:00",
+   "tags": []
   }
  ]
 }
