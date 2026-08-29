@@ -1,0 +1,192 @@
+# Sports Feed — source catalog
+#
+# Every source here is a public RSS/Atom feed, curl-verified 2026-08-29 (HTTP 200,
+# valid XML, multiple recent items). The builder fetches each one; `sport` is the
+# default tag applied when per-item sport rules don't find a better match.
+#
+# Fields:
+#   key          stable slug (used in data/items.json; don't rename casually)
+#   name         display name
+#   feed_url     RSS/Atom URL
+#   site_url     homepage (for attribution links)
+#   sport        cricket | f1 | football | tennis | multi
+#   active       set false to pause without deleting
+#   notes        anything worth knowing
+
+sources:
+
+  # ---------------- Cricket ----------------
+  - key: espncricinfo
+    name: ESPNcricinfo
+    feed_url: https://www.espncricinfo.com/rss/content/story/feeds/0.xml
+    site_url: https://www.espncricinfo.com
+    sport: cricket
+    active: true
+    notes: Main news feed, ~100 items, redirects to cricinfo.com.
+
+  - key: bbc-cricket
+    name: BBC Sport
+    feed_url: https://feeds.bbci.co.uk/sport/cricket/rss.xml
+    site_url: https://www.bbc.com/sport/cricket
+    sport: cricket
+    active: true
+
+  - key: guardian-cricket
+    name: The Guardian
+    feed_url: https://www.theguardian.com/sport/cricket/rss
+    site_url: https://www.theguardian.com/sport/cricket
+    sport: cricket
+    active: true
+    notes: Strong long-form and county coverage.
+
+  - key: sportstar-cricket
+    name: Sportstar
+    feed_url: https://sportstar.thehindu.com/cricket/feeder/default.rss
+    site_url: https://sportstar.thehindu.com/cricket/
+    sport: cricket
+    active: true
+    notes: Indian perspective; titles arrive in CDATA.
+
+  - key: crictracker
+    name: CricTracker
+    feed_url: https://www.crictracker.com/feed/
+    site_url: https://www.crictracker.com
+    sport: cricket
+    active: true
+    notes: High volume, news-y; down-rank later if noisy.
+
+  # ---------------- Formula 1 ----------------
+  - key: bbc-f1
+    name: BBC Sport
+    feed_url: https://feeds.bbci.co.uk/sport/formula1/rss.xml
+    site_url: https://www.bbc.com/sport/formula1
+    sport: f1
+    active: true
+
+  - key: guardian-f1
+    name: The Guardian
+    feed_url: https://www.theguardian.com/sport/formulaone/rss
+    site_url: https://www.theguardian.com/sport/formulaone
+    sport: f1
+    active: true
+
+  - key: autosport-f1
+    name: Autosport
+    feed_url: https://www.autosport.com/rss/feed/f1
+    site_url: https://www.autosport.com/f1/
+    sport: f1
+    active: true
+
+  - key: the-race
+    name: The Race
+    feed_url: https://www.the-race.com/feed/
+    site_url: https://www.the-race.com
+    sport: f1
+    active: true
+    notes: Analysis-led; feed also carries other motorsport — sport rules will sort.
+
+  - key: racefans
+    name: RaceFans
+    feed_url: https://www.racefans.net/feed/
+    site_url: https://www.racefans.net
+    sport: f1
+    active: true
+
+  - key: formula1-official
+    name: Formula1.com (official)
+    feed_url: https://www.formula1.com/en/latest/all.xml
+    site_url: https://www.formula1.com
+    sport: f1
+    active: false
+    notes: Disabled — feed carries no item dates and skews heavily to betting/listicle content.
+
+  # ---------------- Football (soccer) ----------------
+  - key: bbc-football
+    name: BBC Sport
+    feed_url: https://feeds.bbci.co.uk/sport/football/rss.xml
+    site_url: https://www.bbc.com/sport/football
+    sport: football
+    active: true
+
+  - key: guardian-football
+    name: The Guardian
+    feed_url: https://www.theguardian.com/football/rss
+    site_url: https://www.theguardian.com/football
+    sport: football
+    active: true
+    notes: High volume (~60 items); best writing of the mainstream feeds.
+
+  - key: skysports-football
+    name: Sky Sports
+    feed_url: https://www.skysports.com/rss/11095
+    site_url: https://www.skysports.com/football
+    sport: football
+    active: true
+
+  - key: these-football-times
+    name: These Football Times
+    feed_url: https://thesefootballtimes.co/feed/
+    site_url: https://thesefootballtimes.co
+    sport: football
+    active: true
+    notes: Long-form essays, low volume.
+
+  - key: spielverlagerung
+    name: Spielverlagerung
+    feed_url: https://www.spielverlagerung.com/feed/
+    site_url: https://spielverlagerung.com
+    sport: football
+    active: true
+    notes: Deep tactical analysis, low volume.
+
+  - key: the-analyst
+    name: The Analyst (Opta)
+    feed_url: https://theanalyst.com/feed
+    site_url: https://theanalyst.com
+    sport: multi
+    active: true
+    notes: Data/analytics; football-heavy but also covers other sports — rely on sport rules.
+
+  # ---------------- Tennis ----------------
+  - key: bbc-tennis
+    name: BBC Sport
+    feed_url: https://feeds.bbci.co.uk/sport/tennis/rss.xml
+    site_url: https://www.bbc.com/sport/tennis
+    sport: tennis
+    active: true
+
+  - key: guardian-tennis
+    name: The Guardian
+    feed_url: https://www.theguardian.com/sport/tennis/rss
+    site_url: https://www.theguardian.com/sport/tennis
+    sport: tennis
+    active: true
+
+  - key: tennis-majors
+    name: Tennis Majors
+    feed_url: https://www.tennismajors.com/feed/
+    site_url: https://www.tennismajors.com
+    sport: tennis
+    active: true
+
+  - key: perfect-tennis
+    name: Perfect Tennis
+    feed_url: https://www.perfect-tennis.com/feed/
+    site_url: https://www.perfect-tennis.com
+    sport: tennis
+    active: true
+    notes: Low volume, analysis and gear.
+
+  - key: last-word-tennis
+    name: Last Word On Tennis
+    feed_url: https://www.lastwordonsports.com/tennis/feed/
+    site_url: https://lastwordontennis.com
+    sport: tennis
+    active: true
+
+  - key: espn-tennis
+    name: ESPN
+    feed_url: https://www.espn.com/espn/rss/tennis/news
+    site_url: https://www.espn.com/tennis/
+    sport: tennis
+    active: true

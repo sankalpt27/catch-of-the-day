@@ -1,0 +1,803 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<meta name="color-scheme" content="dark light">
+<title>Sports Feed — Order of Play</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500&family=Barlow+Condensed:wght@500;600;700&family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  /* ---------- palette: a floodlit sporting evening ---------- */
+  :root {
+    --pitch: #0f1c18;          /* floodlit grass, near-black with a green cast */
+    --pitch-raised: #142621;
+    --chalk: #f1efe4;          /* line paint */
+    --chalk-dim: #93a29a;
+    --chalk-faint: #61716a;
+    --line: #24352e;           /* hairline / the time spine */
+    --line-bright: #3b544a;
+    --sodium: #f6a623;         /* sodium floodlight — the one accent */
+    --sodium-ink: #1a1205;
+    --cricket: #e0674a;        /* seam of a new ball */
+    --f1: #b07cf2;             /* the fastest-lap purple */
+    --football: #4bab63;       /* pitch green */
+    --tennis: #d9e04b;         /* ball yellow */
+    --shadow: rgba(0,0,0,.45);
+
+    --rail: 3.7rem;            /* time gutter + spine */
+    --content-gap: 1.3rem;    /* spine -> text */
+    --maxw: 43rem;
+
+    --f-display: "Barlow Condensed", "Arial Narrow", system-ui, sans-serif;
+    --f-head: "Fraunces", Georgia, "Times New Roman", serif;
+    --f-body: "Barlow", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --f-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  }
+  :root[data-theme="day"] {
+    --pitch: #e7e6db;          /* concrete terrace, chalk dust */
+    --pitch-raised: #f0efe6;
+    --chalk: #17211d;
+    --chalk-dim: #566b62;
+    --chalk-faint: #8a978f;
+    --line: #d0d0c4;
+    --line-bright: #b9baac;
+    --sodium: #c9781a;
+    --sodium-ink: #fff7ec;
+    --cricket: #c14a2f;
+    --f1: #7b46c9;
+    --football: #2f8f49;
+    --tennis: #8f9a17;
+    --shadow: rgba(31,40,36,.14);
+  }
+
+  * { box-sizing: border-box; min-width: 0; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    overflow-x: hidden;
+    background:
+      radial-gradient(120% 42% at 50% -8%, color-mix(in srgb, var(--sodium) 9%, transparent), transparent 70%),
+      var(--pitch);
+    background-attachment: fixed;
+    color: var(--chalk);
+    font: 400 16px/1.6 var(--f-body);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  .headline, .dek { overflow-wrap: anywhere; }
+  a { color: inherit; }
+  ::selection { background: var(--sodium); color: var(--sodium-ink); }
+  a:focus-visible, button:focus-visible, summary:focus-visible {
+    outline: 2px solid var(--sodium);
+    outline-offset: 2px;
+    border-radius: 1px;
+  }
+
+  .shell { max-width: var(--maxw); margin: 0 auto; padding: 0 1.15rem 6rem; }
+
+  /* ---------- masthead: a timing-screen nameplate ---------- */
+  .masthead {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 2.4rem 0 1rem;
+  }
+  .wordmark {
+    font-family: var(--f-display);
+    font-weight: 700;
+    font-size: clamp(1.9rem, 6vw, 2.9rem);
+    line-height: .9;
+    letter-spacing: .012em;
+    text-transform: uppercase;
+    margin: 0;
+  }
+  .wordmark .of {
+    display: block;
+    font-size: .3em;
+    letter-spacing: .34em;
+    color: var(--sodium);
+    margin-top: .5em;
+    padding-left: .12em;
+  }
+  .clock {
+    font-family: var(--f-mono);
+    font-weight: 500;
+    font-size: .95rem;
+    color: var(--sodium);
+    letter-spacing: .04em;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .ledger {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .35rem 1rem;
+    font-family: var(--f-mono);
+    font-size: .74rem;
+    color: var(--chalk-faint);
+    letter-spacing: .02em;
+    padding-bottom: 1.1rem;
+    border-bottom: 2px solid var(--line-bright);
+  }
+  .ledger .lit { color: var(--sodium); }
+
+  .warn {
+    margin: 1rem 0 0;
+    padding: .55rem .8rem;
+    border-left: 3px solid var(--cricket);
+    background: var(--pitch-raised);
+    color: var(--chalk-dim);
+    font-size: .82rem;
+  }
+
+  /* ---------- filter: scoreboard tabs ---------- */
+  .filters {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    display: flex;
+    flex-wrap: wrap;
+    gap: .1rem .3rem;
+    margin: 0 -1.15rem;
+    padding: .7rem 1.15rem;
+    background: color-mix(in srgb, var(--pitch) 92%, transparent);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--line);
+  }
+  .filters button {
+    font-family: var(--f-display);
+    font-weight: 600;
+    font-size: .82rem;
+    text-transform: uppercase;
+    letter-spacing: .07em;
+    color: var(--chalk-dim);
+    background: none;
+    border: 0;
+    padding: .38rem .5rem .32rem;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    transition: color .12s;
+  }
+  .filters button:hover { color: var(--chalk); }
+  .filters button[aria-pressed="true"] {
+    color: var(--chalk);
+    border-bottom-color: var(--sodium);
+  }
+  .filters button .tally {
+    font-family: var(--f-mono);
+    font-weight: 400;
+    font-size: .68rem;
+    letter-spacing: 0;
+    color: var(--chalk-faint);
+    margin-left: .3em;
+  }
+  .filters button[data-sport="cricket"][aria-pressed="true"] { border-bottom-color: var(--cricket); }
+  .filters button[data-sport="f1"][aria-pressed="true"] { border-bottom-color: var(--f1); }
+  .filters button[data-sport="football"][aria-pressed="true"] { border-bottom-color: var(--football); }
+  .filters button[data-sport="tennis"][aria-pressed="true"] { border-bottom-color: var(--tennis); }
+
+  .theme-toggle {
+    margin-left: auto;
+    font-family: var(--f-display);
+    font-weight: 600;
+    font-size: .72rem;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--chalk-faint);
+    background: none;
+    border: 0;
+    padding: .38rem .2rem;
+    cursor: pointer;
+  }
+  .theme-toggle:hover { color: var(--chalk); }
+
+  /* ---------- day of play ---------- */
+  .day { margin-top: 2.6rem; }
+  .day:first-of-type { margin-top: 1.4rem; }
+  .day-head {
+    display: flex;
+    align-items: baseline;
+    gap: .6rem;
+    padding-bottom: .5rem;
+    margin-bottom: .3rem;
+    border-bottom: 1px solid var(--line-bright);
+  }
+  .day-head .wk {
+    font-family: var(--f-display);
+    font-weight: 700;
+    font-size: 1.12rem;
+    text-transform: uppercase;
+    letter-spacing: .14em;
+  }
+  .day-head .dt {
+    font-family: var(--f-display);
+    font-weight: 600;
+    font-size: 1.12rem;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: var(--chalk-dim);
+  }
+  .day-head .today {
+    font-family: var(--f-mono);
+    font-size: .62rem;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--sodium);
+    align-self: center;
+  }
+  .day-head .n {
+    margin-left: auto;
+    font-family: var(--f-mono);
+    font-size: .78rem;
+    color: var(--chalk-faint);
+    font-variant-numeric: tabular-nums;
+  }
+  .day-head .n b { color: var(--chalk-dim); font-weight: 500; }
+
+  /* ---------- the spine + entries ---------- */
+  .entries { position: relative; list-style: none; margin: 0; padding: 0; }
+  .entries::before {
+    content: "";
+    position: absolute;
+    left: var(--rail);
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: var(--line-bright);
+    transform: scaleY(var(--spine, 1));
+    transform-origin: top;
+    transition: transform .55s cubic-bezier(.2, .8, .2, 1);
+  }
+
+  .entry {
+    position: relative;
+    padding: .82rem 0 .82rem calc(var(--rail) + var(--content-gap));
+    min-height: 3rem;
+  }
+  .entry + .entry { border-top: 1px solid var(--line); }
+  .entry.is-hidden { display: none; }
+
+  .entry .time {
+    position: absolute;
+    left: 0;
+    top: 1.05rem;
+    width: calc(var(--rail) - .7rem);
+    text-align: right;
+    font-family: var(--f-mono);
+    font-weight: 500;
+    font-size: .76rem;
+    color: var(--chalk-dim);
+    font-variant-numeric: tabular-nums;
+  }
+  /* sport lane: a coloured segment of the spine for this entry */
+  .entry .lane {
+    position: absolute;
+    left: calc(var(--rail) - 1px);
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: var(--chalk-faint);
+  }
+  .entry[data-sport="cricket"] .lane { background: var(--cricket); }
+  .entry[data-sport="f1"] .lane { background: var(--f1); }
+  .entry[data-sport="football"] .lane { background: var(--football); }
+  .entry[data-sport="tennis"] .lane { background: var(--tennis); }
+
+  .entry .node {
+    position: absolute;
+    left: calc(var(--rail) - 3.5px);
+    top: 1.15rem;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--sodium);
+    box-shadow: 0 0 0 3px var(--pitch), 0 0 10px 1px color-mix(in srgb, var(--sodium) 60%, transparent);
+    display: none;
+  }
+  .entry.is-new .node { display: block; }
+  .entry.is-new .time { color: var(--sodium); }
+
+  .entry .label {
+    font-family: var(--f-display);
+    font-weight: 600;
+    font-size: .69rem;
+    text-transform: uppercase;
+    letter-spacing: .085em;
+    margin-bottom: .18rem;
+    color: var(--chalk-faint);
+  }
+  .entry .label .sport { color: var(--chalk-dim); }
+  .entry[data-sport="cricket"] .label .sport { color: var(--cricket); }
+  .entry[data-sport="f1"] .label .sport { color: var(--f1); }
+  .entry[data-sport="football"] .label .sport { color: var(--football); }
+  .entry[data-sport="tennis"] .label .sport { color: var(--tennis); }
+
+  .entry .headline {
+    font-family: var(--f-head);
+    font-optical-sizing: auto;
+    font-weight: 460;
+    font-size: 1.02rem;
+    line-height: 1.34;
+    letter-spacing: -.003em;
+    margin: 0 0 .28rem;
+  }
+  .entry .headline a { text-decoration: none; }
+  .entry .headline a:hover { color: var(--sodium); }
+  .entry:hover .lane { width: 5px; }
+
+  .entry .dek {
+    margin: 0;
+    font-size: .9rem;
+    line-height: 1.5;
+    color: var(--chalk-dim);
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    overflow: hidden;
+  }
+  .entry .dek.stub { font-style: italic; color: var(--chalk-faint); }
+
+  .day.is-empty { display: none; }
+
+  /* ---------- earlier fold ---------- */
+  .earlier { margin-top: 2.6rem; }
+  .earlier > summary {
+    font-family: var(--f-display);
+    font-weight: 600;
+    font-size: .9rem;
+    text-transform: uppercase;
+    letter-spacing: .12em;
+    color: var(--chalk-dim);
+    cursor: pointer;
+    padding: .8rem 0;
+    border-top: 2px solid var(--line-bright);
+    list-style: none;
+  }
+  .earlier > summary::-webkit-details-marker { display: none; }
+  .earlier > summary::after { content: " ▾"; color: var(--chalk-faint); }
+  .earlier[open] > summary::after { content: " ▴"; }
+  .earlier > summary .tally { font-family: var(--f-mono); font-weight: 400; letter-spacing: 0; color: var(--chalk-faint); }
+
+  /* ---------- footer ---------- */
+  .foot {
+    margin-top: 4rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid var(--line);
+    font-family: var(--f-mono);
+    font-size: .74rem;
+    line-height: 1.7;
+    color: var(--chalk-faint);
+  }
+  .foot details { margin-top: .5rem; }
+  .foot summary { cursor: pointer; color: var(--chalk-dim); }
+  .foot .sources { list-style: none; margin: .5rem 0 0; padding: 0; }
+  .foot .sources li { padding: .12rem 0; }
+  .foot .sources .down { color: var(--cricket); }
+
+  .empty {
+    padding: 3rem 0;
+    text-align: center;
+    font-family: var(--f-display);
+    font-size: 1rem;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: var(--chalk-faint);
+  }
+
+  /* ---------- skip link ---------- */
+  .skip {
+    position: absolute;
+    left: 1rem;
+    top: -3rem;
+    z-index: 50;
+    padding: .5rem .8rem;
+    background: var(--sodium);
+    color: var(--sodium-ink);
+    font-family: var(--f-display);
+    font-weight: 600;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    font-size: .8rem;
+    text-decoration: none;
+    transition: top .15s;
+  }
+  .skip:focus { top: 1rem; }
+
+  /* ---------- "N new" jump ---------- */
+  #new-jump {
+    font: inherit;
+    color: var(--sodium);
+    background: none;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    letter-spacing: inherit;
+  }
+  #new-jump:hover { text-decoration: underline; text-underline-offset: 3px; }
+  #new-jump .lit { font-weight: 600; }
+
+  /* ---------- keyboard cursor ---------- */
+  .entry.is-cursor {
+    background: color-mix(in srgb, var(--sodium) 7%, transparent);
+    box-shadow: inset 2px 0 0 var(--sodium);
+  }
+  .entry.is-cursor .lane { width: 5px; }
+
+  /* ---------- shortcuts panel ---------- */
+  .kbd-hint {
+    position: fixed;
+    right: 1.1rem;
+    bottom: 1.1rem;
+    z-index: 40;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    border: 1px solid var(--line-bright);
+    background: var(--pitch-raised);
+    color: var(--chalk-dim);
+    font-family: var(--f-mono);
+    font-size: .9rem;
+    cursor: pointer;
+  }
+  .kbd-hint:hover { color: var(--chalk); border-color: var(--chalk-faint); }
+  .kbd-panel {
+    position: fixed;
+    right: 1.1rem;
+    bottom: 3.6rem;
+    z-index: 40;
+    width: 15rem;
+    padding: .9rem 1rem;
+    background: var(--pitch-raised);
+    border: 1px solid var(--line-bright);
+    box-shadow: 0 12px 32px var(--shadow);
+    font-family: var(--f-mono);
+    font-size: .74rem;
+    color: var(--chalk-dim);
+  }
+  .kbd-panel b {
+    display: block;
+    font-family: var(--f-display);
+    font-weight: 700;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--chalk-faint);
+    margin-bottom: .5rem;
+  }
+  .kbd-panel dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: .3rem .8rem; }
+  .kbd-panel dt { color: var(--sodium); white-space: nowrap; }
+  .kbd-panel dd { margin: 0; }
+
+  @media (hover: none) { .kbd-hint, .kbd-panel { display: none; } }
+
+  @media (max-width: 560px) {
+    :root { --rail: 3.4rem; --content-gap: 1rem; }
+    .shell { padding: 0 .9rem 5rem; }
+    .filters { margin: 0 -.9rem; padding: .6rem .9rem; }
+    .entry .time { font-size: .68rem; }
+    .day-head .wk, .day-head .dt { font-size: 1rem; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    .entries::before { transition: none !important; }
+  }
+</style>
+</head>
+<body>
+<a class="skip" href="#feed">Skip to the feed</a>
+<div class="shell">
+
+  <header class="masthead">
+    <h1 class="wordmark">Sports Feed<span class="of">Order of Play</span></h1>
+    <time class="clock" id="clock" datetime="{{ generated_at }}">--:--:--</time>
+  </header>
+
+  <div class="ledger">
+    <span><span class="lit" id="filed">{{ total }}</span> filed · {{ statuses|length }} sources</span>
+    <button type="button" id="new-jump" hidden><span class="lit" id="new-count">0</span> new since your last visit ↓</button>
+    <span>rebuilt 07:00 &amp; 19:00 IST · last <span id="built">{{ generated_at[11:16] }} UTC</span></span>
+  </div>
+  {% if broken %}
+  <p class="warn">{{ broken|length }} source{{ '' if broken|length == 1 else 's' }} didn’t report this run — listed at the foot of the page.</p>
+  {% endif %}
+
+  <nav class="filters" id="filters" aria-label="Filter by discipline">
+    <button data-sport="all" aria-pressed="true">All<span class="tally">{{ total }}</span></button>
+    {% for s in sports %}
+    <button data-sport="{{ s }}" aria-pressed="false">{{ sport_labels[s] }}<span class="tally">{{ counts[s] }}</span></button>
+    {% endfor %}
+    <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch day / night">Night</button>
+  </nav>
+
+  <main id="feed" tabindex="-1">
+  {% if not days %}
+  <p class="empty">No play today</p>
+  {% endif %}
+
+  {% for day in days %}
+  {% if loop.index0 == recent_open and days|length > recent_open %}
+  <details class="earlier" id="earlier">
+    <summary>Earlier play <span class="tally">{{ days[recent_open:]|sum(attribute='count') }} items</span></summary>
+  {% endif %}
+
+  <section class="day" data-day="{{ day.key }}" data-count="{{ day.count }}">
+    <div class="day-head">
+      <span class="wk">{{ day.weekday }}</span>
+      <span class="dt">{{ day.date_label }}</span>
+      {% if day.key == today_key %}<span class="today">Today</span>{% endif %}
+      <span class="n"><b class="shown">{{ day.count }}</b><span class="oftotal" data-total="{{ day.count }}"></span></span>
+    </div>
+    <ul class="entries">
+      {% for e in day.entries %}
+      <li class="entry" data-sport="{{ e.item.sport }}" data-fetched="{{ e.item.fetched_at }}" data-published="{{ e.item.published_at }}">
+        <span class="time">{{ e.time }}</span>
+        <span class="lane" aria-hidden="true"></span>
+        <span class="node" aria-hidden="true"></span>
+        <div class="label"><span class="sport">{{ sport_labels.get(e.item.sport, e.item.sport) }}</span> · {{ e.item.source_name }}</div>
+        <h2 class="headline"><a href="{{ e.item.url }}" target="_blank" rel="noopener noreferrer">{{ e.item.title }}</a></h2>
+        {% if e.item.summary %}
+        <p class="dek">{{ e.item.summary }}</p>
+        {% else %}
+        <p class="dek stub">Filed without a summary — open the report.</p>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endfor %}
+  {% if days|length > recent_open %}
+  </details>
+  {% endif %}
+  </main>
+
+  <footer class="foot">
+    <p>A personal reading table for cricket, Formula 1, football and tennis writing.
+       Every headline links to the original publisher.</p>
+    <details>
+      <summary>{{ statuses|selectattr('ok')|list|length }} of {{ statuses|length }} sources reporting</summary>
+      <ul class="sources">
+        {% for s in statuses %}
+        <li class="{{ 'down' if not s.ok else '' }}">
+          {{ '·' if s.ok else '×' }} {{ s.name }} — {{ s.detail }}{% if s.ok and s.entries %} · {{ s.entries }} in feed{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </details>
+  </footer>
+</div>
+
+<button type="button" class="kbd-hint" id="kbd-hint" aria-label="Keyboard shortcuts" aria-expanded="false">?</button>
+<div class="kbd-panel" id="kbd-panel" role="dialog" aria-label="Keyboard shortcuts" hidden>
+  <b>Keyboard</b>
+  <dl>
+    <dt>j / k</dt><dd>next / previous</dd>
+    <dt>o</dt><dd>open article</dd>
+    <dt>1–5</dt><dd>All · Cricket · F1 · Football · Tennis</dd>
+    <dt>g / G</dt><dd>top / bottom</dd>
+    <dt>t</dt><dd>day / night</dd>
+    <dt>?</dt><dd>this panel</dd>
+  </dl>
+</div>
+
+<script>
+(function () {
+  "use strict";
+  var K_VISIT = "sportsfeed.lastVisit";
+  var K_FILTER = "sportsfeed.filter";
+  var K_THEME = "sportsfeed.theme";
+
+  /* ---- theme ---- */
+  var root = document.documentElement;
+  var toggle = document.getElementById("theme-toggle");
+  function readTheme() {
+    try { return localStorage.getItem(K_THEME); } catch (e) { return null; }
+  }
+  function paint(theme) {
+    if (theme === "day") root.setAttribute("data-theme", "day");
+    else root.removeAttribute("data-theme");
+    toggle.textContent = theme === "day" ? "Day" : "Night";
+  }
+  var saved = readTheme();
+  if (!saved) {
+    saved = window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches ? "day" : "night";
+  }
+  paint(saved);
+  toggle.addEventListener("click", function () {
+    saved = root.hasAttribute("data-theme") ? "night" : "day";
+    paint(saved);
+    try { localStorage.setItem(K_THEME, saved); } catch (e) {}
+  });
+
+  /* ---- session clock ---- */
+  var clockEl = document.getElementById("clock");
+  function tick() {
+    var d = new Date();
+    var p = function (n) { return String(n).padStart(2, "0"); };
+    clockEl.textContent = p(d.getHours()) + ":" + p(d.getMinutes()) + ":" + p(d.getSeconds());
+  }
+  tick();
+  setInterval(tick, 1000);
+
+  /* ---- localise the "last built" stamp ---- */
+  try {
+    var built = document.getElementById("built");
+    var b = new Date("{{ generated_at }}");
+    var mins = Math.round((Date.now() - b) / 60000);
+    built.textContent = mins < 60 ? mins + " min ago"
+      : mins < 1440 ? Math.round(mins / 60) + " h ago"
+      : Math.round(mins / 1440) + " d ago";
+  } catch (e) {}
+
+  /* ---- new since last visit ---- */
+  var entries = Array.prototype.slice.call(document.querySelectorAll(".entry"));
+  var lastVisit = 0;
+  try { lastVisit = parseInt(localStorage.getItem(K_VISIT) || "0", 10) || 0; } catch (e) {}
+  var newCount = 0, newInEarlier = false;
+  var earlier = document.getElementById("earlier");
+  entries.forEach(function (el) {
+    var seen = Date.parse(el.getAttribute("data-fetched"));
+    if (lastVisit && seen && seen > lastVisit) {
+      el.classList.add("is-new");
+      newCount++;
+      if (earlier && earlier.contains(el)) newInEarlier = true;
+    }
+  });
+  if (newCount) {
+    document.getElementById("new-count").textContent = newCount;
+    document.getElementById("new-tally").hidden = false;
+    if (newInEarlier && earlier) earlier.open = true;
+  }
+  try { localStorage.setItem(K_VISIT, String(Date.now())); } catch (e) {}
+
+  /* ---- new-since-visit jump ---- */
+  var firstNew = document.querySelector(".entry.is-new");
+  var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  function revealEntry(el) {
+    if (!el) return;
+    if (earlier && earlier.contains(el)) earlier.open = true;
+    el.scrollIntoView({ block: "center", behavior: reduce ? "auto" : "smooth" });
+  }
+  document.getElementById("new-jump").addEventListener("click", function () {
+    var target = document.querySelector(".entry.is-new:not(.is-hidden)") || firstNew;
+    revealEntry(target);
+    setCursor(target);
+  });
+
+  /* ---- filter by discipline (buttons, URL hash, keys 1–5) ---- */
+  var nav = document.getElementById("filters");
+  var buttons = Array.prototype.slice.call(nav.querySelectorAll("button[data-sport]"));
+  var days = Array.prototype.slice.call(document.querySelectorAll(".day"));
+  var SPORTS = buttons.map(function (b) { return b.dataset.sport; });
+  var BASE_TITLE = document.title;
+  var current = "all";
+
+  function apply(sport, fromHash) {
+    if (SPORTS.indexOf(sport) < 0) sport = "all";
+    current = sport;
+    buttons.forEach(function (b) {
+      b.setAttribute("aria-pressed", String(b.dataset.sport === sport));
+    });
+    entries.forEach(function (el) {
+      var show = sport === "all" || el.getAttribute("data-sport") === sport;
+      el.classList.toggle("is-hidden", !show);
+    });
+    days.forEach(function (d) {
+      var shown = d.querySelectorAll(".entry:not(.is-hidden)").length;
+      d.classList.toggle("is-empty", shown === 0);
+      d.querySelector(".day-head .shown").textContent = shown;
+      var ot = d.querySelector(".day-head .oftotal");
+      ot.textContent = sport === "all" ? "" : " / " + ot.getAttribute("data-total");
+    });
+    var label = sport === "all" ? "" : buttons.filter(function (b) {
+      return b.dataset.sport === sport;
+    })[0].firstChild.textContent.trim();
+    document.title = label ? label + " · " + BASE_TITLE : BASE_TITLE;
+    try { localStorage.setItem(K_FILTER, sport); } catch (e) {}
+    if (!fromHash) {
+      var h = sport === "all" ? location.pathname + location.search : "#" + sport;
+      history.replaceState(null, "", h);
+    }
+    cursorIndex = -1;
+    document.querySelectorAll(".entry.is-cursor").forEach(function (el) {
+      el.classList.remove("is-cursor");
+    });
+  }
+
+  nav.addEventListener("click", function (e) {
+    var btn = e.target.closest("button[data-sport]");
+    if (btn) apply(btn.dataset.sport);
+  });
+  window.addEventListener("hashchange", function () {
+    apply((location.hash || "").replace("#", "") || "all", true);
+  });
+
+  var hash = (location.hash || "").replace("#", "");
+  if (SPORTS.indexOf(hash) > -1) {
+    apply(hash, true);
+  } else {
+    var stored = "all";
+    try { stored = localStorage.getItem(K_FILTER) || "all"; } catch (e) {}
+    if (stored !== "all") apply(stored);
+  }
+
+  /* ---- keyboard navigation ---- */
+  var cursorIndex = -1;
+  function visibleEntries() {
+    return entries.filter(function (el) { return !el.classList.contains("is-hidden"); });
+  }
+  function setCursor(el) {
+    var list = visibleEntries();
+    var i = list.indexOf(el);
+    if (i < 0) return;
+    document.querySelectorAll(".entry.is-cursor").forEach(function (e) { e.classList.remove("is-cursor"); });
+    el.classList.add("is-cursor");
+    cursorIndex = i;
+  }
+  function moveCursor(delta) {
+    var list = visibleEntries();
+    if (!list.length) return;
+    cursorIndex = cursorIndex < 0
+      ? (delta > 0 ? 0 : list.length - 1)
+      : Math.min(list.length - 1, Math.max(0, cursorIndex + delta));
+    var el = list[cursorIndex];
+    document.querySelectorAll(".entry.is-cursor").forEach(function (e) { e.classList.remove("is-cursor"); });
+    el.classList.add("is-cursor");
+    revealEntry(el);
+  }
+
+  var hint = document.getElementById("kbd-hint");
+  var panel = document.getElementById("kbd-panel");
+  function togglePanel(force) {
+    var open = force === undefined ? panel.hidden : force;
+    panel.hidden = !open;
+    hint.setAttribute("aria-expanded", String(open));
+  }
+  hint.addEventListener("click", function () { togglePanel(); });
+
+  document.addEventListener("keydown", function (e) {
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+    var tag = (document.activeElement && document.activeElement.tagName) || "";
+    if (tag === "INPUT" || tag === "TEXTAREA") return;
+
+    switch (e.key) {
+      case "j": case "ArrowDown": e.preventDefault(); moveCursor(1); break;
+      case "k": case "ArrowUp": e.preventDefault(); moveCursor(-1); break;
+      case "o": {
+        var list = visibleEntries();
+        var el = list[cursorIndex];
+        if (el) { e.preventDefault(); window.open(el.querySelector(".headline a").href, "_blank", "noopener"); }
+        break;
+      }
+      case "g": window.scrollTo({ top: 0, behavior: reduce ? "auto" : "smooth" }); break;
+      case "G": window.scrollTo({ top: document.body.scrollHeight, behavior: reduce ? "auto" : "smooth" }); break;
+      case "t": toggle.click(); break;
+      case "?": togglePanel(); break;
+      case "Escape": togglePanel(false); break;
+      case "1": case "2": case "3": case "4": case "5": {
+        var s = SPORTS[parseInt(e.key, 10) - 1];
+        if (s) { apply(s); var f = buttons.filter(function (b) { return b.dataset.sport === s; })[0]; f && f.focus(); }
+        break;
+      }
+    }
+  });
+
+  /* ---- draw each day's spine once, on first paint ---- */
+  if (!reduce) {
+    var spines = document.querySelectorAll(".entries");
+    spines.forEach(function (ul) { ul.style.setProperty("--spine", "0"); });
+    requestAnimationFrame(function () {
+      requestAnimationFrame(function () {
+        spines.forEach(function (ul) { ul.style.setProperty("--spine", "1"); });
+      });
+    });
+  }
+})();
+</script>
+</body>
+</html>
