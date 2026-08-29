@@ -530,6 +530,8 @@
   var K_THEME = "sportsfeed.theme";
   var root = document.documentElement;
   root.classList.add("js");
+  // failsafe: if anything below throws, don't leave the feed invisible
+  window.addEventListener("error", function () { root.classList.remove("js"); });
   var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   /* ---- theme ---- */
@@ -581,9 +583,10 @@
       if (earlier && earlier.contains(el)) newInEarlier = true;
     }
   });
+  var newJump = document.getElementById("new-jump");
   if (newCount) {
     document.getElementById("new-count").textContent = newCount;
-    document.getElementById("new-tally").hidden = false;
+    newJump.hidden = false;
     if (newInEarlier && earlier) earlier.open = true;
   }
   try { localStorage.setItem(K_VISIT, String(Date.now())); } catch (e) {}
@@ -595,7 +598,7 @@
     el.classList.add("seen");
     el.scrollIntoView({ block: "center", behavior: reduce ? "auto" : "smooth" });
   }
-  document.getElementById("new-jump").addEventListener("click", function () {
+  newJump.addEventListener("click", function () {
     var target = document.querySelector(".entry.is-new:not(.is-hidden)") || firstNew;
     revealEntry(target);
     setCursor(target);
