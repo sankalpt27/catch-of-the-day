@@ -6,6 +6,7 @@ continuous time spine with articles pinned to their publish time.
 from __future__ import annotations
 
 import json
+import re
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
@@ -22,6 +23,9 @@ from .config import (
 from .models import Item
 
 _TZ = ZoneInfo(DISPLAY_TZ)
+
+# Betting/tips content — fine in the feed, but a poor "lead story" for a sport.
+_TIPS = re.compile(r"\b(best bets?|predictions?|betting|\bodds\b|acca|value bets?|tips)\b", re.IGNORECASE)
 
 
 def _env() -> Environment:
@@ -67,20 +71,28 @@ def render(items: list[Item], statuses: list[dict]) -> None:
     now = datetime.now(timezone.utc)
     days = group_by_day(visible)
 
-    # Feature "the catch of the day": the newest recent item that actually reads
-    # as a story — a real (non-stub) summary of decent length, filed in the last
-    # 20h. Skip the hero entirely if nothing qualifies.
-    featured = None
+    # "The catch of the day" — one lead per sport: that discipline's newest item
+    # from the most recent day that reads as a story (real summary, ~last 22h).
+    # Sports with nothing fresh get no card. The picks are pulled out of the feed
+    # list so they don't show twice.
+    featured: list[dict] = []
     if days:
-        for cand in days[0]["entries"][:10]:
-            it = cand["item"]
-            age_h = (now - _local(it.published_at or it.fetched_at)
-                     .astimezone(timezone.utc)).total_seconds() / 3600
-            if age_h <= 20 and it.summary_method in ("feed", "extract") and len(it.summary) >= 140:
-                featured = cand
-                days[0]["entries"] = [e for e in days[0]["entries"] if e is not cand]
-                days[0]["count"] -= 1
-                break
+        for sport in SPORTS:
+            for cand in days[0]["entries"]:
+                it = cand["item"]
+                if it.sport != sport:
+                    continue
+                age_h = (now - _local(it.published_at or it.fetched_at)
+                         .astimezone(timezone.utc)).total_seconds() / 3600
+                if (age_h <= 22 and it.summary_method in ("feed", "extract")
+                        and len(it.summary) >= 110 and not _TIPS.search(it.title)):
+                    featured.append(cand)
+                    break
+        if featured:
+            picked = {id(c) for c in featured}
+            kept = [e for e in days[0]["entries"] if id(e) not in picked]
+            days[0]["count"] -= len(days[0]["entries"]) - len(kept)
+            days[0]["entries"] = kept
 
     html = _env().get_template("index.html.j2").render(
         days=days,

@@ -186,47 +186,101 @@
   }
   .theme-toggle:hover { color: var(--paper); }
 
-  /* ================= featured: the catch of the day ================= */
-  .hero {
-    margin: 2rem 0 .5rem;
-    padding: 1.5rem 1.6rem 1.6rem;
-    border: 1px solid var(--rule-bright);
-    border-left: 4px solid var(--pink);
-    background:
-      linear-gradient(160deg, color-mix(in srgb, var(--pink) 9%, transparent), transparent 55%),
-      var(--ink-raised);
-    box-shadow: 0 20px 44px -28px var(--shadow);
-    transition: transform .2s ease, box-shadow .2s ease;
-  }
-  .hero:hover { transform: translateY(-2px); box-shadow: 0 26px 52px -26px var(--shadow); }
-  .hero .kicker {
-    display: flex; align-items: center; gap: .55rem;
+  /* ================= featured: the catch of the day (one lead per sport) ===== */
+  .features { margin: 2rem 0 .5rem; }
+  .features[hidden] { display: none; }
+  .features-head {
+    display: flex; align-items: center; gap: .55rem; margin-bottom: .8rem;
     font-family: var(--f-display); font-weight: 700; font-size: .74rem;
     letter-spacing: .16em; text-transform: uppercase; color: var(--pink);
-    margin-bottom: .6rem;
   }
-  .hero .kicker::after {
+  .features-head::after {
     content: ""; flex: 1; height: 1px;
     background: linear-gradient(90deg, color-mix(in srgb, var(--pink) 55%, transparent), transparent);
   }
-  .hero .h-meta {
-    font-family: var(--f-display); font-weight: 600; font-size: .72rem;
-    letter-spacing: .08em; text-transform: uppercase; color: var(--paper-faint);
-    margin-bottom: .4rem;
+  /* All tab: a horizontal, auto-advancing carousel */
+  .features-grid {
+    display: flex; gap: .9rem;
+    overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; -ms-overflow-style: none;
+    padding-bottom: .15rem;
   }
-  .hero .h-meta .sport { color: var(--paper-dim); }
-  .hero[data-sport="cricket"] .h-meta .sport { color: var(--cricket); }
-  .hero[data-sport="f1"] .h-meta .sport { color: var(--f1); }
-  .hero[data-sport="football"] .h-meta .sport { color: var(--football); }
-  .hero[data-sport="tennis"] .h-meta .sport { color: var(--tennis); }
-  .hero h2 {
-    margin: 0 0 .5rem;
+  .features-grid::-webkit-scrollbar { display: none; }
+  .feature {
+    flex: 0 0 100%; scroll-snap-align: start;
+    display: flex; flex-direction: column;
+    padding: 1rem 1.15rem 1.1rem;
+    border: 1px solid var(--rule-bright);
+    border-top: 3px solid var(--paper-faint);
+    background:
+      linear-gradient(170deg, color-mix(in srgb, var(--pink) 6%, transparent), transparent 60%),
+      var(--ink-raised);
+    box-shadow: 0 16px 36px -28px var(--shadow);
+    transition: transform .16s ease, border-color .16s ease;
+  }
+  .feature:hover { transform: translateY(-2px); }
+  .feature.is-hidden { display: none; }
+  .feature[data-sport="cricket"] { border-top-color: var(--cricket); }
+  .feature[data-sport="f1"] { border-top-color: var(--f1); }
+  .feature[data-sport="football"] { border-top-color: var(--football); }
+  .feature[data-sport="tennis"] { border-top-color: var(--tennis); }
+  .feature .f-tag {
+    font-family: var(--f-display); font-weight: 700; font-size: .66rem;
+    letter-spacing: .12em; text-transform: uppercase; color: var(--paper-dim);
+    margin-bottom: .35rem;
+  }
+  .feature[data-sport="cricket"] .f-tag { color: var(--cricket); }
+  .feature[data-sport="f1"] .f-tag { color: var(--f1); }
+  .feature[data-sport="football"] .f-tag { color: var(--football); }
+  .feature[data-sport="tennis"] .f-tag { color: var(--tennis); }
+  .feature h2 {
+    margin: 0 0 .4rem;
     font-family: var(--f-head); font-optical-sizing: auto; font-weight: 500;
-    font-size: clamp(1.4rem, 3.6vw, 2rem); line-height: 1.22; letter-spacing: -.012em;
+    font-size: clamp(1.05rem, 2.4vw, 1.22rem); line-height: 1.26; letter-spacing: -.008em;
   }
-  .hero h2 a { text-decoration: none; }
-  .hero h2 a:hover { color: var(--pink); }
-  .hero p { margin: 0; color: var(--paper-dim); font-size: .98rem; line-height: 1.55; }
+  .feature h2 a {
+    text-decoration: none;
+    background-image: linear-gradient(var(--pink), var(--pink));
+    background-size: 0% 2px; background-position: 0 100%; background-repeat: no-repeat;
+    transition: background-size .25s ease, color .15s ease;
+  }
+  .feature:hover h2 a { color: var(--pink); background-size: 100% 2px; }
+  .feature p {
+    flex: 1; margin: 0; color: var(--paper-dim); font-size: .88rem; line-height: 1.5;
+    display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; line-clamp: 3; overflow: hidden;
+  }
+  .feature .f-meta {
+    margin-top: .7rem; font-family: var(--f-mono); font-size: .68rem;
+    color: var(--paper-faint); letter-spacing: .02em;
+  }
+
+  .features-nav {
+    display: flex; align-items: center; justify-content: center; gap: .8rem;
+    margin-top: .8rem;
+  }
+  .fnav {
+    width: 1.7rem; height: 1.7rem; border-radius: 50%;
+    border: 1px solid var(--rule-bright); background: var(--ink-raised);
+    color: var(--paper-dim); font: 400 1rem/1 var(--f-body); cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .fnav:hover { color: var(--paper); border-color: var(--pink); }
+  .dots { display: flex; gap: .45rem; }
+  .dot {
+    width: .5rem; height: .5rem; border-radius: 50%; padding: 0; cursor: pointer;
+    border: 1px solid var(--paper-faint); background: none; transition: transform .15s;
+  }
+  .dot[aria-current="true"] { transform: scale(1.35); border-color: transparent; }
+  .dot[data-sport="cricket"][aria-current="true"] { background: var(--cricket); }
+  .dot[data-sport="f1"][aria-current="true"] { background: var(--f1); }
+  .dot[data-sport="football"][aria-current="true"] { background: var(--football); }
+  .dot[data-sport="tennis"][aria-current="true"] { background: var(--tennis); }
+
+  /* Sport tab: a single full-width card, no carousel */
+  .features[data-mode="solo"] .features-grid { display: block; overflow: visible; }
+  .features[data-mode="solo"] .feature { flex: none; }
+  .features[data-mode="solo"] .features-nav { display: none; }
 
   /* ================= day of play — chapter break ================= */
   .day { margin-top: 3.4rem; }
@@ -401,7 +455,7 @@
     :root { --rail: 3.3rem; --gap: 1rem; }
     .shell { padding: 0 .9rem 5rem; }
     .filters { margin: 0 -.9rem; padding: .6rem .9rem; }
-    .hero { padding: 1.2rem 1.1rem 1.3rem; }
+    .feature { flex-basis: 100%; }
     .entry .time { font-size: .68rem; }
     .entry::before { inset: 0 -.9rem 0 calc(var(--rail) - 1px); }
   }
@@ -413,6 +467,7 @@
     .js .entry { opacity: 1; transform: none; transition: none; }
     .entry.is-new .node { animation: none; }
     .progress { transition: none; }
+    .features-grid { scroll-behavior: auto; }
   }
 </style>
 </head>
@@ -444,12 +499,30 @@
   </nav>
 
   {% if featured %}
-  <article class="hero" data-sport="{{ featured.item.sport }}">
-    <div class="kicker">The catch of the day</div>
-    <div class="h-meta"><span class="sport">{{ sport_labels.get(featured.item.sport, featured.item.sport) }}</span> · {{ featured.item.source_name }} · {{ featured.time }}</div>
-    <h2><a href="{{ featured.item.url }}" target="_blank" rel="noopener noreferrer">{{ featured.item.title }}</a></h2>
-    <p>{{ featured.item.summary }}</p>
-  </article>
+  <section class="features" id="features" data-mode="carousel" aria-label="Today’s lead story per sport">
+    <div class="features-head">The catch of the day</div>
+    <div class="features-grid" id="features-track">
+      {% for f in featured %}
+      <article class="feature" data-sport="{{ f.item.sport }}">
+        <div class="f-tag">{{ sport_labels.get(f.item.sport, f.item.sport) }}</div>
+        <h2><a href="{{ f.item.url }}" target="_blank" rel="noopener noreferrer">{{ f.item.title }}</a></h2>
+        <p>{{ f.item.summary }}</p>
+        <div class="f-meta">{{ f.item.source_name }} · {{ f.time }}</div>
+      </article>
+      {% endfor %}
+    </div>
+    {% if featured|length > 1 %}
+    <div class="features-nav" id="features-nav">
+      <button class="fnav" type="button" data-dir="-1" aria-label="Previous lead">‹</button>
+      <div class="dots">
+        {% for f in featured %}
+        <button class="dot" type="button" data-i="{{ loop.index0 }}" data-sport="{{ f.item.sport }}" aria-label="{{ sport_labels.get(f.item.sport, f.item.sport) }} lead"{% if loop.first %} aria-current="true"{% endif %}></button>
+        {% endfor %}
+      </div>
+      <button class="fnav" type="button" data-dir="1" aria-label="Next lead">›</button>
+    </div>
+    {% endif %}
+  </section>
   {% endif %}
 
   <main id="feed" tabindex="-1">
@@ -608,7 +681,61 @@
   var nav = document.getElementById("filters");
   var buttons = Array.prototype.slice.call(nav.querySelectorAll("button[data-sport]"));
   var days = Array.prototype.slice.call(document.querySelectorAll(".day"));
+  var featureCards = Array.prototype.slice.call(document.querySelectorAll(".feature"));
+  var featuresBox = document.getElementById("features");
   var SPORTS = buttons.map(function (b) { return b.dataset.sport; });
+
+  /* ---- featured carousel (All tab only) ---- */
+  var carTrack = document.getElementById("features-track");
+  var carNav = document.getElementById("features-nav");
+  var carDots = carNav ? Array.prototype.slice.call(carNav.querySelectorAll(".dot")) : [];
+  var carTimer = null;
+  var carIndex = 0;
+
+  function carGo(i, smooth) {
+    if (!carTrack || !featureCards.length) return;
+    carIndex = (i + featureCards.length) % featureCards.length;
+    var left = featureCards[carIndex].offsetLeft;
+    try { carTrack.scrollTo({ left: left, behavior: (smooth === false || reduce) ? "auto" : "smooth" }); }
+    catch (e) { carTrack.scrollLeft = left; }
+    carDots.forEach(function (d, di) { d.setAttribute("aria-current", String(di === carIndex)); });
+  }
+  function carStop() { if (carTimer) { clearInterval(carTimer); carTimer = null; } }
+  function carStart() {
+    carStop();
+    if (reduce || featureCards.length < 2) return;
+    if (!featuresBox || featuresBox.dataset.mode !== "carousel") return;
+    carTimer = setInterval(function () { if (!document.hidden) carGo(carIndex + 1); }, 7000);
+  }
+
+  if (carNav) {
+    carNav.addEventListener("click", function (e) {
+      var arrow = e.target.closest(".fnav"), dot = e.target.closest(".dot");
+      if (arrow) carGo(carIndex + parseInt(arrow.dataset.dir, 10));
+      else if (dot) carGo(parseInt(dot.dataset.i, 10));
+      else return;
+      carStart();
+    });
+  }
+  if (carTrack) {
+    carTrack.addEventListener("mouseenter", carStop);
+    carTrack.addEventListener("mouseleave", carStart);
+    carTrack.addEventListener("focusin", carStop);
+    carTrack.addEventListener("focusout", carStart);
+    var carScrollT;
+    carTrack.addEventListener("scroll", function () {
+      clearTimeout(carScrollT);
+      carScrollT = setTimeout(function () {
+        var mid = carTrack.scrollLeft + carTrack.clientWidth / 2, near = 0, best = Infinity;
+        featureCards.forEach(function (c, ci) {
+          var d = Math.abs((c.offsetLeft + c.clientWidth / 2) - mid);
+          if (d < best) { best = d; near = ci; }
+        });
+        carIndex = near;
+        carDots.forEach(function (d, di) { d.setAttribute("aria-current", String(di === near)); });
+      }, 120);
+    }, { passive: true });
+  }
   var BASE_TITLE = document.title;
   var cursorIndex = -1;
 
@@ -619,6 +746,14 @@
       var show = sport === "all" || el.getAttribute("data-sport") === sport;
       el.classList.toggle("is-hidden", !show);
     });
+    featureCards.forEach(function (el) {
+      el.classList.toggle("is-hidden", !(sport === "all" || el.getAttribute("data-sport") === sport));
+    });
+    if (featuresBox) {
+      featuresBox.hidden = featureCards.every(function (el) { return el.classList.contains("is-hidden"); });
+      featuresBox.dataset.mode = (sport === "all" && featureCards.length > 1) ? "carousel" : "solo";
+      if (featuresBox.dataset.mode === "carousel") { carGo(0, false); carStart(); } else carStop();
+    }
     days.forEach(function (d) {
       var shown = d.querySelectorAll(".entry:not(.is-hidden)").length;
       d.classList.toggle("is-empty", shown === 0);
@@ -653,6 +788,7 @@
     var stored = "all";
     try { stored = localStorage.getItem(K_FILTER) || "all"; } catch (e) {}
     if (stored !== "all") apply(stored);
+    else carStart();
   }
 
   /* ---- keyboard navigation ---- */
