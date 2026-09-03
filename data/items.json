@@ -1,7 +1,1373 @@
 {
- "generated_at": "2026-09-02T17:15:36.972287+00:00",
- "count": 1613,
+ "generated_at": "2026-09-03T06:15:12.006918+00:00",
+ "count": 1695,
  "items": [
+  {
+   "id": "e9d5f96200879422fdeb9c91018fd7d5bde636e1",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/zimbabwe-vs-namibia-tri-nation-series-5th-t20i-live-streaming-details-where-to-watch/article71422556.ece",
+   "title": "Zimbabwe vs Namibia, 5th T20I live streaming details: When, where to watch the Tri-Nation series?",
+   "summary": "ZIM vs NAM live streaming info: Here’s how you can watch Zimbabwe vs Namibia T20I match set to be played at the Namibia Cricket Ground in Windhoek.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-03T05:57:27+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "f8c87b333ec66c633a446b7021ba571384177db8",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-appeal/top-3-indian-pacers-to-watch-out-for-in-nz-vs-ind-test-series/",
+   "title": "Top 3 Indian pacers to watch out for in NZ vs IND Test series",
+   "summary": "India are set to tour New Zealand for a two-match Test series starting November 19, with the pace bowling spots drawing significant attention.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-03T05:56:13+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "28ad0a28111d6786fb0502bf76106774b0d3cbb9",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/its-impossible-to-play-them-all-alcaraz-says-he-will-start-missing-tournaments-860156.html",
+   "title": "“Impossible to play them all” – Three days into his return, Alcaraz is already planning to miss tournaments",
+   "summary": "Carlos Alcaraz lost four and a half months of this season to a wrist injury, and he says he will now start taking time off by choice. The defending champion put a number on the problem in New York: 40 weeks of tennis a year if a player honors every mandatory event, and more injuries to come if nothing changes.",
+   "summary_method": "feed",
+   "author": "Cédric Rouquette",
+   "published_at": "2026-09-03T05:52:40+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "tennis",
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "41d3fc41a315b80d5f400c166efa2ed66fa6c40c",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/mohsin-naqvi-invokes-indias-loss-to-ireland-to-defend-pakistan-cricket-amid-backlash-1239/",
+   "title": "Mohsin Naqvi invokes India's loss to Ireland to defend Pakistan cricket amid backlash",
+   "summary": "PCB chief Mohsin Naqvi pointed to India's T20I series defeat to Ireland and South Africa's loss to Namibia as he responded to mounting criticism of Pakistan cricket.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-03T05:41:03+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "5527f12230f1eb549b41b289660b8c516a16fb74",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c3v4k74d1n7o?at_medium=RSS&at_campaign=rss",
+   "title": "Flex your football brain with our daily quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-03T05:37:48+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "c0b1bbd965ae8d64c3047399e86b0fad6662eaa4",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/imam-ul-haq-could-face-two-year-ban-over-fake-calf-injury-at-lords-9784/",
+   "title": "Imam-ul-Haq could face two-year ban over fake calf injury at Lord's",
+   "summary": "The PCB is preparing to form a high-level committee to examine the circumstances surrounding Imam-ul-Haq's calf injury during the second Test at Lord's.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-03T05:34:23+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "d4a6778728293fc546aa28fb2049e35eaf364e06",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/03/atp-us-open-best-bets-auger-aliassime-khachanov/",
+   "title": "ATP US Open Best Bets Including Felix Auger-Aliassime Vs Karen Khachanov",
+   "summary": "The moneyline and set prices for this ATP US Open match aren’t great, so getting Auger-Aliassime for a small game spread is probably the best bet you can make – not mainly for the price, but mainly for the likelihood of winning the bet. Confidence level on a scale of 1-10: 4 – you should not bet more than half a unit on this match.",
+   "summary_method": "extract",
+   "author": "Matt Zemek",
+   "published_at": "2026-09-03T05:30:01+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "08b6add9c5a188032bcef13d41e5f1b791704053",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/asian-games-2026-bangladesh-squad-for-cricket-men-aichi-nagoya-asiad-full-list-of-players/article71422392.ece",
+   "title": "Bangladesh squad for Asian Games — Full list of men’s cricket team players for Aichi-Nagoya 2026",
+   "summary": "Bangladesh’s squad sees the return of major names from the team that played against Zimbabwe in July, including Litton Das and Najmul Hossain Shanto.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-03T05:08:14+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "a982c878e51cec4175ab5e349dfa8f0ad4a59761",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/sri-lankas-19-year-old-tony-greig-a-young-fast-bowler-with-bradman-waugh-and-lara-in-his-family-8241/",
+   "title": "Sri Lanka's 19-year-old Tony Greig - a young fast bowler with Bradman, Waugh and Lara in his family",
+   "summary": "A teenage fast bowler from Nuwara Eliya carries the names of cricket's greatest legends across his family, yet remains the only one in it who actually plays the game.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-03T05:06:56+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "cricket",
+    "bowler"
+   ]
+  },
+  {
+   "id": "db8cb05f2e7ab53f1e36073e8030beaa78bd2bfd",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/sher-e-punjab-t20-2026-match-10-bht-vs-ams-match-prediction-who-will-win-todays-sher-e-punjab-t20-match-between-bathinda-royals-vsamritsar-soormas/",
+   "title": "Sher-E-Punjab T20 2026: Match 10, BHT vs AMS Match Prediction – Who will win today’s Sher-E-Punjab T20 match between Bathinda Royals vsAmritsar Soormas?",
+   "summary": "Bathinda Royals will lock horns with Amritsar Soormas in the 10th match of the Sher-E-Punjab T20 League 2026 at the Punjab Cricket Association IS Bindra Stadium in Mohali on Friday, September 4.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-03T05:01:43+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "5efa65cc776f83332481024715172f3c3afaef32",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/03/atp-us-open-best-bets-struff-cerundolo/",
+   "title": "ATP US Open Best Bets Including Jan-Lennard Struff Vs Francisco Cerundolo",
+   "summary": "The 2026 ATP US Open tournament continues with the second round. Confidence level on a scale of 1-10: 1 – you should not bet on this match.",
+   "summary_method": "extract",
+   "author": "Matt Zemek",
+   "published_at": "2026-09-03T05:00:33+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "f743d6134b2fda7637ef86a429b21bf093f04312",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/03/michael-zheng-us-open-americans-shelton-tiafoe-pegula",
+   "title": "Columbia’s Michael Zheng comes full circle as Americans advance at US Open",
+   "summary": "Michael Zheng spent years making the long trek from northern New Jersey, first by bus across the Hudson River to the Port Authority bus terminal and then nearly the full length of the No 7 subway line, all for the opportunity to train at the USTA Billie Jean King National Tennis Center. On a rainswept Wednesday afternoon in Queens, the destination was the same but the purpose had changed entirely.",
+   "summary_method": "feed",
+   "author": "Bryan Armen Graham at Flushing Meadows",
+   "published_at": "2026-09-03T04:59:53+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "tennis",
+    "us open"
+   ]
+  },
+  {
+   "id": "c0b9e6b5743d83fdbdbecc87a3af7588af69dd87",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/coachs-favourites-are-back-gautam-gambhir-slammed-over-india-squad-for-afghanistan-t20is/",
+   "title": "'Coach's favourites are back' - Gautam Gambhir slammed over India squad for Afghanistan T20Is",
+   "summary": "Former India batter S Badrinath has questioned the selection of Washington Sundar and Nitish Kumar Reddy in the squad, citing coach Gautam Gambhir's preferences.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-03T04:48:37+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "batter"
+   ]
+  },
+  {
+   "id": "ba105cc77a31418e65d733b224a0fc98cbbe00e7",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/cpl-2026-match-25-skn-vs-slk-match-prediction-who-will-win-todays-cpl-match-between-st-kitts-and-nevis-patriots-and-saint-lucia-kings/",
+   "title": "CPL 2026: Match 25, SKN vs SLK Match Prediction – Who will win today’s CPL match between St Kitts and Nevis Patriots and Saint Lucia Kings?",
+   "summary": "St Kitts and Nevis Patriots emerged victorious in the earlier fixture this season.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-03T04:39:38+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "1d567b085cb7c0faf138df59650c9dc564decdff",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1552649.html?ex_cid=OTC-RSS",
+   "title": "Cornwall, Nawaz keep Falcons on top; TKR on the brink of elimination",
+   "summary": "Kieron Pollard, who scored a 36-ball 41 in the chase, received a standing ovation in what might have been his final home game in the CPL",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-03T04:37:19+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "ec9f67fd7264def87fb608644302240e1ac76b76",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/chamari-athapaththu-scripts-history-with-record-breaking-hat-trick-as-sri-lanka-women-beat-indonesia/",
+   "title": "Chamari Athapaththu scripts history with record-breaking hat-trick as Sri Lanka Women beat Indonesia",
+   "summary": "Sri Lanka Women are leading the points table in their group.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-03T04:32:30+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "5c71b3ac523d70518eac1158a286dae180733428",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cqjkdnv729jo?at_medium=RSS&at_campaign=rss",
+   "title": "Alcaraz 'stays calm' in US Open fightback",
+   "summary": "Defending champion Carlos Alcaraz fights back from a set down to reach the US Open third round on his injury comeback.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-03T04:31:08+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open",
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "2a696b9dbb4d70fc2d4409699a500948d958323b",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/sri-lanka-recall-dasun-shanaka-for-england-tour-asalanka-earns-t20i-recall/",
+   "title": "Sri Lanka recall Dasun Shanaka for England tour, Asalanka earns T20I recall",
+   "summary": "Sri Lanka’s tour begins on September 15 with three T20Is.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-03T04:12:29+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "59ff1553515ab67402223053205331ddc0859924",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/03/wta-us-open-keys-bondar/",
+   "title": "WTA US Open Second Round Best Bets Including Madison Keys vs Anna Bondar",
+   "summary": "The bigger reality is that three different players have won Major titles this year in women’s tennis, and the odds are good that we will see a fourth separate player win in New York. Bucsa will probably win this WTA US Open match, but Sakatsume looked good in her first-round match victory and should be able to keep this close on the game spread.",
+   "summary_method": "extract",
+   "author": "Kane Webb",
+   "published_at": "2026-09-03T04:10:03+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "98b1a17fbd363ae10c6cd9d50d9fb17061abf324",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/big-bash-league-bbl-2026-ben-stokes-to-open-for-adelaide-strikers-former-england-captain/article71422314.ece",
+   "title": "Big Bash League — Former England captain Ben Stokes set to open for Adelaide Strikers",
+   "summary": "Ben Stokes retired from international cricket midway through England’s recent Test series against New Zealand but has continued playing county cricket for Durham.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-03T04:09:07+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "cricket",
+    "big bash",
+    "ben stokes"
+   ]
+  },
+  {
+   "id": "265932c53a37b0aa5336f21fbd04c1b6addecc8c",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/03/wta-us-open-potapova-jeanjean/",
+   "title": "WTA US Open Second Round Best Bets Including Anastasia Potapova vs Leolia Jeanjean",
+   "summary": "Open tennis tournament at USTA Billie Jean King National Tennis Center.",
+   "summary_method": "feed",
+   "author": "Kane Webb",
+   "published_at": "2026-09-03T04:03:27+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "tennis",
+    "us open"
+   ]
+  },
+  {
+   "id": "ff2245cc4b0633e94755713dca78b85cf97d7e8b",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/us-open-alcaraz-concedes-five-games-in-three-sets-and-moves-past-nadal-on-an-all-time-list-860146.html",
+   "title": "US Open: Alcaraz concedes five games in three sets and moves past Nadal on an all-time list",
+   "summary": "Carlos Alcaraz lost the first set to Jaime Faria and won five of the next twenty-three games against him, coming through 4-6, 6-0, 6-3, 6-2 on his second night back from a four-and-a-half-month absence. The defending champion's career Grand Slam win rate now trails only Bjorn Borg's in the Open Era.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-03T03:20:08+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "grand slam",
+    "us open",
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "1825270936c28cc520e51e8a63c9160034a05544",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/02/carlos-alcaraz-storms-into-us-open-third-round-after-slow-start/",
+   "title": "Carlos Alcaraz Storms Into US Open Third Round After Slow Start",
+   "summary": "Down a set, Alcaraz faced break points in his very first game of the second set. Carrying that momentum into the third set, Alcaraz got up a break early on as Faria continued to struggle while serving.",
+   "summary_method": "extract",
+   "author": "Zain Mustafa",
+   "published_at": "2026-09-03T03:17:27+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open",
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "79172ab2fd518c60fca3b045d3086e58872f7624",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/03/australia-mens-cricket-batting-transitional-period",
+   "title": "Race for baggy green hots up as Australian men’s cricket enters transitional period | Jack Snape",
+   "summary": "Many have decried the state of Australian batting but a group of a dozen or more Test aspirants should be a source of excitement, according to chief selector George Bailey Flowing left-hander Ollie Peake made an eye-catching half-century on his first class debut for Victoria last year, but he thought he would have to wait much longer for the opportunity.",
+   "summary_method": "feed",
+   "author": "Jack Snape",
+   "published_at": "2026-09-03T02:56:17+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "08f7fbd46bd074f706f0d3a0377c5f934c37c27e",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/ce8emkzpxmmo?at_medium=RSS&at_campaign=rss",
+   "title": "Sabalenka earns 53-minute US Open win - but tension still shows",
+   "summary": "Two-time defending champion Aryna Sabalenka cruises into the US Open third round before a spiky exchange with a journalist.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-03T02:21:11+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open",
+    "sabalenka"
+   ]
+  },
+  {
+   "id": "31c3208d651bba067e65ef78989b239267ba4e69",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/02/bu-makes-open-history/",
+   "title": "Lucky Loser Bu Yunchaokete Makes Open Era History",
+   "summary": "Open tennis tournament at USTA Billie Jean King National Tennis Center.",
+   "summary_method": "feed",
+   "author": "Tope Oke",
+   "published_at": "2026-09-03T01:57:27+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "tennis"
+   ]
+  },
+  {
+   "id": "79ccc7ff4617d9227a703ebfdd26cd7a21a40d65",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/02/navone-argentina-to-ashe/",
+   "title": "The Story Behind Mariano Navone: From Argentina to Arthur Ashe",
+   "summary": "Mariano Navone, the young Argentine who recently outlasted Novak Djokovic 7-6 5-7 4-6 6-2 6-1 to hand the 24-time Grand Slam champion his earliest exit in two decades, proved just how resilient and determined a player can be, even when facing the toughest opponents on the circuit. By his own merit, it was the first time Navone had ever faced Djokovic on a tennis court.",
+   "summary_method": "extract",
+   "author": "Chiara Pastore",
+   "published_at": "2026-09-03T01:48:02+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "1ba6ac4ca7ad2dc89a6f0f602b6a1bd309fcc19e",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/02/us-open-day-5-predictions-gauff-vs-badosa/",
+   "title": "US Open Day 5 Predictions Including Coco Gauff vs Paula Badosa",
+   "summary": "Open tennis tournament at the USTA Billie Jean King National Tennis Center.",
+   "summary_method": "feed",
+   "author": "Steen Kirby",
+   "published_at": "2026-09-03T01:11:30+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "tennis",
+    "us open",
+    "coco gauff"
+   ]
+  },
+  {
+   "id": "4d07deed852b9ae03c4cd8b27148d7a810559290",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/september-3-2006-the-day-andre-agassi-played-his-last-professional-match-285238.html",
+   "title": "September 3, 2006: The day Agassi played his final professional match",
+   "summary": "Every day, Tennis Majors takes you back to look at the some of the most memorable moments in tennis history.",
+   "summary_method": "feed",
+   "author": "Alexandre Sokolowski",
+   "published_at": "2026-09-03T00:46:57+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "tennis"
+   ]
+  },
+  {
+   "id": "0c2f55f4f64274ae52a553a2e901ece92f1ce8aa",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/02/us-open-day-5-womens-predictions-alexandra-eala-vs-oliynykova/",
+   "title": "US Open Day 5 Women’s Predictions Including Alexandra Eala vs Oleksandra Oliynykova",
+   "summary": "Tope: Oliynykova enters with the 1-0 head-to-head edge and fresh confidence after grinding past Brantmeier in the opener, but this feels like a different test entirely on hard courts. Steen: Every match Eala plays features a raucous crowd these days, and she’s now 32-19 at tour level this season.",
+   "summary_method": "extract",
+   "author": "Steen Kirby",
+   "published_at": "2026-09-03T00:17:41+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "a95e5b03c06e10c94f04950ad2f8a602a1418e89",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/02/us-open-predictions-de-minaur-van-de-zandschulp/",
+   "title": "US Open Day 5 Men’s Predictions Including Alex de Minaur vs Botic van de Zandschulp",
+   "summary": "Both players had to complete their US Open first-round matches over two days, and now play three days in a row to reach the third round. I never would have guessed that Alex de Minaur could win a Major, but the draw is pretty open for him. van de Zandschulp has the ability to blast the Australian off the court, but he hasn’t shown the consistency necessary for that in a few years now.",
+   "summary_method": "extract",
+   "author": "Shane Black",
+   "published_at": "2026-09-02T23:55:07+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "71a1d90ad1981b048d69535f4a291d8c201e6ce3",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/03/alex-de-minaur-us-open-first-round-andrea-guerrieri",
+   "title": "Alex de Minaur finally reaches US Open second round amid scheduling backlog",
+   "summary": "After having his tournament opener against Andrea Guerrieri postponed until day four, Alex de Minaur had to endure another two-hour rain delay before putting away the Italian qualifier in straight sets. The world No 7 advanced with a 6-2, 6-2, 6-4 victory to set up a second-round clash with Dutchman Botic van de Zandschulp.",
+   "summary_method": "feed",
+   "author": "Australian Associated Press",
+   "published_at": "2026-09-02T23:10:31+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "e2f118ee21d4cccd1c3571e2ba88c51a3cc337c9",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/03/womens-super-league-2026-27-preview-no-13-tottenham-hotspur",
+   "title": "Women’s Super League 2026-27 preview No 13: Tottenham Hotspur",
+   "summary": "After a record equalling finish under Martin Ho last season and a summer recruitment strategy that has turned heads can Spurs push into the top four?",
+   "summary_method": "feed",
+   "author": "Suzanne Wrack",
+   "published_at": "2026-09-02T23:01:37+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "tottenham"
+   ]
+  },
+  {
+   "id": "ec6b99eb23f2d1ebf336ff44fcbf1de3bcad4cdf",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cjdv3gxl5zgo?at_medium=RSS&at_campaign=rss",
+   "title": "Boulter wins one game in 58-minute US Open defeat",
+   "summary": "British number one Katie Boulter is dumped out in the second round of the US Open as she wins just one game in a 58-minute demolition by Karolina Muchova.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T22:56:24+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "e58317a3fd267b0e4d6dd39f9691658573f3e221",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/02/championship-roundup-wrexham-millwall-qpr-cardiff-burnley-miiddlesbrough",
+   "title": "Championship roundup: Wrexham rout Millwall to seal first league victory",
+   "summary": "Wrexham powered to their first Championship win this season with a ruthless 3-0 rout of injury-plagued Millwall on Wednesday. The Welsh side had drawn with Cardiff and Watford before losing at home to Birmingham prior to this match. But they bounced back in emphatic fashion in south London to kickstart their bid for promotion to the Premier League after narrowly missing out on the playoffs last term.",
+   "summary_method": "feed",
+   "author": "Agence France-Presse",
+   "published_at": "2026-09-02T22:10:36+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "2dbf5c5a6b4d0e4affcc4fbbd31cf689da75fd8a",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/02/scottish-premiership-celtic-aberdeen-kenny-dalglish-rangers-falkirk",
+   "title": "Scottish Premiership: Durán inspires Celtic to convincing victory after Dalglish ovation",
+   "summary": "The Celtic striker Camilo Durán inspired the Scottish champions’ 3-0 win over Aberdeen, while Rangers snatched a 2-1 victory against Falkirk on Wednesday. Durán has scored six goals in five matches for Martin O’Neill’s side after his latest eye-catching contribution at Parkhead. The Colombian netted in the 14th minute with the latest in his series of spectacular strikes since joining from Qarabag in the close-season.",
+   "summary_method": "feed",
+   "author": "Agence France-Presse",
+   "published_at": "2026-09-02T22:09:35+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "striker"
+   ]
+  },
+  {
+   "id": "76ed2c1e497979f2570f0cce0b1815193bb9f6cc",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss",
+   "title": "Man City buy costly new midfield - but have they overlooked Haaland cover?",
+   "summary": "Manchester City have completed a squad overhaul including a fully revamped midfield to the tune of a Premier League record £458m, but that eyewatering number does not tell the full story.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T22:07:52+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "premier league",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "d022e401e0fdf4f10fdca6d166b5d78792519c11",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/falkirk-vs-rangers/report/558359",
+   "title": "Shankland at the double as Rangers win at Falkirk",
+   "summary": "Lawrence Shankland's stunning double secured back-to-back Scottish Premiership wins for Rangers with a 2-1 victory at Falkirk on Wednesday night.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T21:50:00+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "78962242a090433ad5fc5bf87a74f919b4ade16a",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/no-injury-no-fatigue-jodar-rules-out-every-explanation-but-one-860105.html",
+   "title": "No injury, no fatigue: Jodar rules out every explanation but one",
+   "summary": "Rafael Jodar, who rose from No. 168 to No. 11 this season, suffered a surprising 6-2, 6-1, 6-1 loss in his US Open debut. The 19-year-old dismissed injury, fatigue, and rain delays, attributing the defeat solely to his opponent playing better.",
+   "summary_method": "feed",
+   "author": "Cédric Rouquette",
+   "published_at": "2026-09-02T21:48:42+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "07f22c8a4de2acdda0fcb7f8be4568fece8fce74",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13580536/richarlison-transfer-news-tottenham-striker-agrees-terms-with-trabzonspor-paper-talk",
+   "title": "Papers: Wantaway Spurs striker Richarlison agrees Trabzonspor terms",
+   "summary": "The top stories and transfer rumours from Thursday's newspapers",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T21:45:00+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "striker"
+   ]
+  },
+  {
+   "id": "fafbfb64c1f99f2e022d44320765964e0b202f09",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
+   "title": "Chelsea make contact with Wijnaldum - Thursday's gossip",
+   "summary": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free transfers, plus more.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T21:36:32+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "midfielder",
+    "striker",
+    "arsenal",
+    "liverpool",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "8723deca7622b391decfb2b6a9b5b22e20f64529",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yd4rz7zv6o?at_medium=RSS&at_campaign=rss",
+   "title": "Birds stop play but Medvedev flies into third round",
+   "summary": "An interruption from a pair of birds ruffles Daniil Medvedev's feathers but fails to disrupt the seventh seed as he eases into the US Open third round with a dominant victory over Sebastian Gorzny.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T21:35:32+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open",
+    "medvedev"
+   ]
+  },
+  {
+   "id": "ffce1cb07fa2bea9019b152daa0f67ec648fb8c1",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/celtic-vs-aberdeen/report/558357",
+   "title": "Duran nets again as Celtic maintain perfect start with win over Aberdeen",
+   "summary": "Camilo Duran scored another stunner as Celtic continued their perfect start to the Scottish Premiership season with a 3-0 win over Aberdeen.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T21:35:00+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "d0655f8b04b3fd6a5b190f2bce54ab753c73afcc",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/millwall-vs-wrexham/report/560543",
+   "title": "Wrexham earn first win of the season at Millwall",
+   "summary": "Wrexham got their first win of the Championship season in style as Millwall were swept aside 3-0 at the New Den.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T21:35:00+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "3bbc58123b3275bda4474b94d6d201e5e12a85bb",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/burnley-vs-middlesbrough/report/560542",
+   "title": "Burnley battle back to hold Middlesbrough",
+   "summary": "Ugo Raghouber's first goal for Burnley earned only their second point from their opening four Championship matches as they came from behind to draw 1-1 with Middlesbrough.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T21:35:00+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "265906fbd5fd5cd7ba7a3914589f3fdc2166e86b",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/queens-park-rangers-vs-cardiff-city/report/560544",
+   "title": "Burrell double steers QPR to victory",
+   "summary": "Rumarn Burrell scored both QPR goals as they beat Cardiff 2-1 at Loftus Road to continue their impressive start to the Championship season.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T21:35:00+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "54edd81af1034c5812fa46a47aa3a716679c151d",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/west-bromwich-albion-vs-charlton-athletic/report/560545",
+   "title": "Charlton hit back to hold West Brom",
+   "summary": "Charlton's 100 per cent record was brought to and end but they remain unbeaten as Tyreece Campbell's second-half strike earned a 1-1 draw against West Brom.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T21:35:00+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "dae4d652367ad370f5d2c607e2260b0dbfd62429",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c8e3783peglo?at_medium=RSS&at_campaign=rss",
+   "title": "Wrexham boss pleased to see transfer window close",
+   "summary": "Phil Parkinson admits he is pleased the summer transfer window has closed and says Wrexham's 3-0 win at Millwall highlights the progress his side have made.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T21:33:58+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "1e0902aedb14ccfa5c8071f5b7266c2aac1c2065",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/02/katie-boulter-us-open-second-round-karolina-muchova-tennis",
+   "title": "Katie Boulter crashes out of US Open after Karolina Muchova nightmare",
+   "summary": "With the grounds of the Billie Jean King National Tennis Centre at a standstill in the middle of a furious downpour and all eyes on the only two stadium courts under retractable roofs, there was nowhere for Katie Boulter to hide as her grand slam season came to a bitter end with an excruciating 6-1, 6-0 beating by the seventh seed, Karolina Muchova, in the second round of the US Open.",
+   "summary_method": "feed",
+   "author": "Tumaini Carayol at Flushing Meadows",
+   "published_at": "2026-09-02T21:20:33+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "tennis",
+    "grand slam",
+    "us open"
+   ]
+  },
+  {
+   "id": "4c7d57394a20f8f24d978da0cc9d26e723b5635b",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/jodar-goes-out-without-earning-a-single-break-point-to-bu-a-lucky-loser-ranked-no-124-860094.html",
+   "title": "Jodar goes out without earning a single break point, to Bu, a lucky loser ranked No. 124 !",
+   "summary": "Rafael Jodar's first US Open ended without a contest. The No. 12 seed lost 6-2, 6-1, 6-1, won four games and never earned a break point. Bu Yunchaokete, a lucky loser ranked No. 124 who had never won a match at a major, becomes the fourth Chinese man to win one in the Open Era.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-02T21:00:11+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open",
+    "break point"
+   ]
+  },
+  {
+   "id": "bb30e8964b3c876f3a2096ea6c284206f713d0e7",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/shelton-on-the-best-run-of-his-season-refuses-to-let-a-four-setter-become-a-five-against-hurkacz-860089.html",
+   "title": "Shelton, on the best run of his season, refuses to let a four-setter become a five against Hurkacz",
+   "summary": "Ben Shelton edged out Hubert Hurkacz 6-3, 5-7, 7-6 (3), 7-5 on Wednesday evening.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-02T20:40:07+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "c7fbd69d2d7f51715db8e0e30e26d2d069613030",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0p7mkv4?at_medium=RSS&at_campaign=rss",
+   "title": "BBC Women's Football Weekly",
+   "summary": "Gareth Taylor, Khiara Keating, Sam Kerr and Sara Agrež join Em Sanders!",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T20:23:00+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "8bc5293ca63099120fdb0d1d676396db7fd3b2a9",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/real-sociedad-women-vs-chelsea-women/report/577459",
+   "title": "Walsh winner helps send Chelsea through in Women’s Champions League",
+   "summary": "Chelsea booked their spot in the Women's Champions League league phase after a 1-0 win over Real Sociedad in the second leg of their third qualifying round tie.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T20:15:00+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "qualifying",
+    "champions league",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "7823990597a409d1f2dfd242fac169c5169ba333",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/02/walsh-caps-champions-league-progress-for-chelsea-despite-real-sociedad-grind",
+   "title": "Walsh caps Champions League progress for Chelsea despite Real Sociedad grind",
+   "summary": "Chelsea ensured there will be three Women’s Super League teams in the league phase of the Champions League as Keira Walsh’s second-half strike against Real Sociedad extended their three-goal margin from the first leg of the third-round qualifier. The 5-2 win against the Spanish side in Chelsea’s first game at Wimbledon’s Cherry Red Records stadium gave Sonia Bompastor’s side a commanding lead in the tie, after a rusty start had forced them to come from a goal down.",
+   "summary_method": "feed",
+   "author": "Suzanne Wrack",
+   "published_at": "2026-09-02T19:54:27+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "champions league",
+    "chelsea",
+    "wimbledon"
+   ]
+  },
+  {
+   "id": "c5e62f1d8a73d8b50ef28417702d73367502b3d5",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/02/social-media-norris-forms-junior-team-ln4fusion-to-race-in-f3-and-potentially-f2/",
+   "title": "Social Media: Norris forms junior team LN4Fusion to race in F3 and potentially F2 | Brief",
+   "summary": "Norris forms junior team LN4Fusion to race in F3 and potentially F2",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-02T19:34:49+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "8df034c78ea9904993437cf7cf313aa6df5858a8",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/02/a-commodity-ismaila-sarrs-agent-wants-respect-for-african-players-in-transfer-deals",
+   "title": "‘A commodity’: Ismaïla Sarr’s agent wants respect for African players in transfer deals",
+   "summary": "Ismaïla Sarr’s agent has claimed some African players are treated like “a commodity” after Crystal Palace turned down Liverpool’s approach for the Senegal forward and Lamine Camara’s move from Monaco to Chelsea broke down on deadline day. Palace are understood to have rejected a bid from Liverpool for Sarr last week and insisted last season’s top scorer was not for sale.",
+   "summary_method": "feed",
+   "author": "Ed Aarons",
+   "published_at": "2026-09-02T19:29:01+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "liverpool",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "7a84e36756e927ae0171612a09b1a005e3de54ca",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/live-blog/11095/13579447/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one",
+   "title": "Wrexham, QPR win as Burnley hold Boro - EFL highlights",
+   "summary": "",
+   "summary_method": "stub",
+   "author": null,
+   "published_at": "2026-09-02T19:15:00+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "b22617b30e3228df0e4161486cb2cd6db58ccc18",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-spending-transfer-window-summer-2026-chelsea-enzo-fernandez",
+   "title": "Premier League money has lost all meaning amid chaotic spectacle of excess | Barney Ronay",
+   "summary": "The transfer window has broken all rational rules and limits, leaving us to marvel and, ultimately, pick up the bill There was a research study a few years back into a key period in the life of the TV show Location, Location, Location. You know the one. Half an hour of mid-morning drift.",
+   "summary_method": "feed",
+   "author": "Barney Ronay",
+   "published_at": "2026-09-02T19:00:32+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "aecb15c3145fa27c1c218fb85f8e26c6570d0601",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cwyzpy818nlo?at_medium=RSS&at_campaign=rss",
+   "title": "Norris sets up junior team to help drivers to F1",
+   "summary": "World champion Lando Norris is setting up his own junior team to support young drivers on their route to Formula 1.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T18:51:01+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "formula 1",
+    "lando norris"
+   ]
+  },
+  {
+   "id": "72b790adb73314c92d41ef59982030674ea9800f",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1552634.html?ex_cid=OTC-RSS",
+   "title": "Nilakshika fifty, Athapaththu seven-for rescue Sri Lanka against Indonesia",
+   "summary": "Athapaththu picked up a hat-trick as the defending Asia Cup champions cruised to victory despite posting only 124 for 7",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T18:41:44+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "c3431819dd283335e574b402c68beda4d232db79",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1552599.html?ex_cid=OTC-RSS",
+   "title": "Fisher channels disappointment at former club for Surrey's survival",
+   "summary": "Axed by England for the third Pakistan Test, Fisher lifted Surrey in their relegation bout with Yorkshire",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T18:37:47+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "da13a7fcf076c6112971e0e2e082f3bd2b50b89b",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq8jyw0zdn8o?at_medium=RSS&at_campaign=rss",
+   "title": "Northern Ireland boss O'Neill 'hopeful' training centre plans progress",
+   "summary": "Northern Ireland manager Michael O'Neill says that he is \"certainly hopeful\" that the Irish Football Association can move forward with plans to have a National Training Centre open by 2028.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T18:32:09+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "3a8d7e415fb9bc09de5255e589cc4491aa3065c0",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13580477/why-folarin-baloguns-everton-move-collapsed-on-deadline-day-leaving-toffees-chelsea-and-monaco-frustrated",
+   "title": "Why Balogun's move collapsed to leave Everton, Chelsea and Monaco upset",
+   "summary": "The biggest controversy of the summer transfer window happened on Deadline Day, involving three clubs and two players.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T18:25:00+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "chelsea"
+   ]
+  },
+  {
+   "id": "581a451007bea59332e15c4865ec960d1db828f8",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cg495r295w7o?at_medium=RSS&at_campaign=rss",
+   "title": "Pears push on after bowling out Kent at Canterbury",
+   "summary": "Worcestershire shade day one at Canterbury as they bowl Kent out for 238, before reaching 80-2 at the close.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T18:20:07+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "c03cf89cb1c069a3ba0d511ba01b3df5df7a2703",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1552604.html?ex_cid=OTC-RSS",
+   "title": "Worcestershire ahead in promotion tussle with Kent",
+   "summary": "Wasted starts and lower-order collapse sees Kent bowled out for 238 on day one at Canterbury",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T18:18:50+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "81be8b91647ebd9f1b2f742f397e20e8a167962d",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/england-women-vs-ireland-women-prediction-2nd-odi-who-will-win-todays-match-between-eng-w-vs-ire-w/",
+   "title": "England Women vs Ireland Women Prediction, 2nd ODI – Who will win today’s match between ENG W vs IRE W?",
+   "summary": "Maia Bouchier starred in England's win in the series opener.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-02T18:08:34+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "9dafb4008b31822480e3e91391d41f0651bce3fe",
+   "source": "guardian-f1",
+   "source_name": "The Guardian",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/02/lando-norris-launches-ln4-fusion-team-to-develop-young-drivers-in-f1-and-motorsport",
+   "title": "Lando Norris launches LN4 Fusion team to develop young drivers in F1 and motorsport",
+   "summary": "Lando Norris has co-founded a new junior, single-seater racing team. Named LN4 Fusion it will compete in multiple championships including the feeder series for Formula One, F3 and F2, as the current F1 world champion commits to helping young drivers make it to the top level in motorsport. Norris’s involvement, including a personal financial undertaking alongside an investment group, represents the first time an F1 world champion has directly backed a team in the modern junior single-seater era.",
+   "summary_method": "feed",
+   "author": "Giles Richards",
+   "published_at": "2026-09-02T18:06:32+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "formula one",
+    "lando norris"
+   ]
+  },
+  {
+   "id": "3c06e871123d2cb874e3a2c611e4b589b9654ff8",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1552598.html?ex_cid=OTC-RSS",
+   "title": "Leaning rebuilds amid Porter cameo from the bench",
+   "summary": "Charlie Bennett's injury saw Essex call on Jamie Porter, who was originally rested for this round",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T18:05:06+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "7f2914807661ca40ffa2aa5884a23f01621b7980",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/02/deadline-day-shambles-leaves-everton-and-david-moyes-fighting-the-odds-again",
+   "title": "Deadline-day shambles leaves Everton and David Moyes fighting the odds again",
+   "summary": "From accepting a bid for Armstrong to collapse of Balogun deal, TFG has shown an amateurish and unambitious approach To be placed in the same bracket as owners whose lack of ambition, lack of resources and/or incompetence has contributed to the longest trophy drought in Everton’s history, particularly 20 months into a reign that has accompanied the move to a glittering new stadium and the clearing of onerous debt, should be cause for considerable discomfort and embarrassment at The Friedkin",
+   "summary_method": "feed",
+   "author": "Andy Hunter",
+   "published_at": "2026-09-02T18:02:02+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "5a82aeb5269ff5b8e0fa34df18771919fd7acc93",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/02/england-drop-fast-bowler-brydon-carse-for-third-test-against-pakistan-at-edgbaston",
+   "title": "England omit Brydon Carse again for third Test against Pakistan at Edgbaston",
+   "summary": "Brydon Carse has been left out of England’s squad for the final Test of the summer, against Pakistan at Edgbaston next week, with police still investigating allegations of an assault connected with the late-night incident at a Derby bar last month that led to the Durham seamer being briefly arrested and placed in handcuffs. The Cricket Regulator is also investigating the incident.",
+   "summary_method": "feed",
+   "author": "Simon Burnton",
+   "published_at": "2026-09-02T17:56:55+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "08dfa911988f8bf16dc89fb83805666c63864326",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/chamari-athapaththu-seven-wicket-haul-records-womens-asia-cup-sri-lanka-vs-indonesia-highlights/article71421092.ece",
+   "title": "Chamari Athapaththu shatters records with historic Asia Cup seven-wicket haul",
+   "summary": "Sri Lankan captain Chamari Athapaththu’s historic seven-wicket haul broke a number of records in the Women’s Asia Cup.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T17:54:28+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "wicket"
+   ]
+  },
+  {
+   "id": "34f49cc9d679d2ea3822770d6bdbd942281da5aa",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1552601.html?ex_cid=OTC-RSS",
+   "title": "Seamers run riot to keep Somerset's title hopes on track",
+   "summary": "Migael Pretorious leads attack to dismiss Glamorgan for 194 before Somerset openers chip off 92",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T17:47:11+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "cd58b63d6ee51e4f9332302158917aa3fa318609",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/02/folarin-balogun-transfer-deadline-day-collapse-monaco-everton-lamine-camara-chelsea",
+   "title": "Balogun pulled out of Everton move over handling of his medical, claim Monaco",
+   "summary": "Folarin Balogun pulled out of a £40m move to Everton because of how he was treated over his medical, according to Monaco’s chief executive, Thiago Scuro, who also defended the late decision not to sell Lamine Camara to Chelsea. Balogun signed a deal sheet shortly before 11pm on deadline day to allow Everton to complete his transfer only to reject the move shortly after.",
+   "summary_method": "feed",
+   "author": "Andy Hunter",
+   "published_at": "2026-09-02T17:46:40+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "chelsea"
+   ]
+  },
+  {
+   "id": "5bf7aa9f9d0eaf83fb077a6f39412245f2f06e42",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/norris-sets-up-racing-team-with-ex-prema-chief/",
+   "title": "Norris sets up racing team with ex-Prema chief",
+   "summary": "Lando Norris has co-founded a new racing team – LN4 Fusion – as part of a bid to help young driving talent on the way to Formula 1",
+   "summary_method": "feed",
+   "author": "Jon Noble",
+   "published_at": "2026-09-02T17:45:15+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "formula 1",
+    "lando norris"
+   ]
+  },
+  {
+   "id": "a030c152de8d255cbfe2207887a0f283500466bb",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c8d396geyg2o?at_medium=RSS&at_campaign=rss",
+   "title": "Title-chasing Somerset punish Glamorgan on day one",
+   "summary": "Somerset dominate Glamorgan on day one of their Division One match to boost their title chase.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T17:40:39+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "55c59411f856b65c326e465ef12cafcf3bc1bba0",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/india-vs-hong-kong-asia-cup-preview-batting-middle-order-problems-players-to-watch-out-for/article71421080.ece",
+   "title": "IND v HK, Asia Cup preview: Indian middle-order in focus after opening collapse",
+   "summary": "The Women in Blue, the most successful team in the tournament’s history, enters its second encounter against Hong Kong as the favourites but will want to stamp their authority more vehemently this time.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T17:32:05+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "1e7fd514cd5ad0bc8fb790555a9ed0d5a2657142",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/aavishkar-salvi-india-batting-collapse-thailand-womens-asia-cup-2026-t20-format/article71420885.ece",
+   "title": "India bowling coach Salvi on batting collapse vs Thailand: In T20s, we won’t be executing our plans every time",
+   "summary": "While Shafali Verma’s 64 had set the foundation for a daunting total before cracks formed, a crucial 15 not out from pacer Kranti Gaud took the side past the 150-run mark.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T17:31:12+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "000a44faf0e5a05ed4a2c386b22ed0eacbace6bf",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c0qxw8nx9n0o?at_medium=RSS&at_campaign=rss",
+   "title": "Surrey pacemen dominate against Yorkshire",
+   "summary": "Surrey's seam attack dominates against Yorkshire as the visitors close day one on 113-7 at The Oval.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T17:29:08+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "12a3d1ce80ec1e7688ed00289bf4e76d7b95dbac",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/tamil-nadu-begin-ranji-trophy-pre-season-camp-with-major-overhaul-ahead-of-2026-27-season-6132/",
+   "title": "Tamil Nadu begin Ranji Trophy pre-season camp with major overhaul ahead of 2026-27 season",
+   "summary": "Tamil Nadu open their 2026-27 Ranji Trophy preparations in Chennai on September 3, 2026, with a new head coach, an expanded probables group and sweeping structural changes at TNCA.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-02T17:18:49+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "ranji"
+   ]
+  },
+  {
+   "id": "51e53d8b34e0f1522a8aac51ca4861fe7678789b",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1552608.html?ex_cid=OTC-RSS",
+   "title": "David Bedingham underlines class to resist Northamptonshire",
+   "summary": "South African batter strikes 57*, repairing Durham's innings and passing 1,000 season runs",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T17:18:39+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "batter",
+    "innings"
+   ]
+  },
+  {
+   "id": "2c647d6e81a9accff5aceef5cc9eca3e4d249281",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cx2zjvnx99ro?at_medium=RSS&at_campaign=rss",
+   "title": "Bedingham helps Durham to steady start at Northants",
+   "summary": "Durham's David Bedingham again proves the thorn in Northamptonshire's side as he scores an unbeaten 57 on the opening day at Wantage Road.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-02T17:15:19+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": []
+  },
+  {
+   "id": "93a147d8820ca67b294ae1abd676fa27758d36d8",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/02/richarlison-could-still-leave-tottenham-as-trabzonspor-weigh-up-bid-for-striker",
+   "title": "Richarlison could still leave Tottenham as Trabzonspor weigh up bid for striker",
+   "summary": "Richarlison is the subject of firm interest from Trabzonspor and could move there from Tottenham before the closure of the transfer window in Turkey on Friday night. The striker has asked to leave, according to the Spurs manager, Roberto De Zerbi, who did not stand in the way of two of his other players who did so before the deadline in England on Tuesday night: Kevin Danso and Pape Sarr. They were allowed to join Sunderland and Juventus respectively on loans with purchase clauses.",
+   "summary_method": "feed",
+   "author": "David Hytner",
+   "published_at": "2026-09-02T17:11:00+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "striker",
+    "tottenham"
+   ]
+  },
   {
    "id": "84aca8c379c5e968a4216988746cbb328cf32aa2",
    "source": "bbc-cricket",
@@ -17,6 +1383,24 @@
    "fetched_at": "2026-09-02T17:15:01.747620+00:00",
    "tags": [
     "county championship"
+   ]
+  },
+  {
+   "id": "cf371c8a78512176db4f6db8a26004b01ffb92dd",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/michelsen-removes-nakashima-the-man-with-the-most-hard-court-wins-on-tour-in-straight-sets-860072.html",
+   "title": "Michelsen removes Nakashima, the man with the most hard-court wins on tour, in straight sets",
+   "summary": "Brandon Nakashima has won more hard-court matches than any man on tour this year, and Alex Michelsen beat him 6-3, 6-4, 6-4 without dropping serve at the wrong moment once. It is the 22-year-old American's first US Open third round, and it comes in the quarter Novak Djokovic vacated on Sunday night.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-02T17:10:07+00:00",
+   "fetched_at": "2026-09-03T06:14:33.603526+00:00",
+   "tags": [
+    "us open",
+    "novak djokovic"
    ]
   },
   {
@@ -26912,23 +28296,6 @@
    "published_at": "2026-08-06T06:45:00+00:00",
    "fetched_at": "2026-08-29T09:37:02.370741+00:00",
    "tags": []
-  },
-  {
-   "id": "a34b7e06eed612ebf6d257f01273a51067fe2c40",
-   "source": "bbc-football",
-   "source_name": "BBC Sport",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/football/articles/ced4lq94ldvo?at_medium=RSS&at_campaign=rss",
-   "title": "The summer that changed Welsh football",
-   "summary": "A decade on from Euro 2016, key figures tell BBC Sport Wales the inside story of the summer that changed Welsh football forever.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-03T23:47:17+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "football"
-   ]
   }
  ]
 }
