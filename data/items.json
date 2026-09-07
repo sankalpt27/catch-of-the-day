@@ -1,7 +1,1549 @@
 {
- "generated_at": "2026-09-06T16:24:07.812083+00:00",
- "count": 2454,
+ "generated_at": "2026-09-07T06:29:46.747653+00:00",
+ "count": 2554,
  "items": [
+  {
+   "id": "d807e61ac320fe279004fa80ba28ce7623de9193",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/september-7-1953-the-day-maureen-connolly-completed-the-first-grand-slam-in-the-history-of-womens-tennis-483952.html",
+   "title": "September 7, 1953: The day Maureen “Little Mo” Connolly became the first woman to complete the calendar-year Grand Slam",
+   "summary": "Every day Tennis Majors takes you back in time to celebrate a great moment in tennis history.",
+   "summary_method": "feed",
+   "author": "Alexandre Sokolowski",
+   "published_at": "2026-09-07T10:15:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "tennis",
+    "grand slam"
+   ]
+  },
+  {
+   "id": "875de8ac8b47386b4d8d6c15d977e931e7999fed",
+   "source": "perfect-tennis",
+   "source_name": "Perfect Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.perfect-tennis.com/us-open-2026-day-eight-recap/",
+   "title": "US Open 2026 Day Eight Recap",
+   "summary": "Day 8 saw the first four quarter-final places decided, and the American contingent continues to do well. The biggest result came from Frances Tiafoe, who finally solved the Daniil Medvedev problem with an excellent straight-sets win on his favourite Louis Armstrong Stadium. Carlos Alcaraz was even more convincing against Tommy Paul.",
+   "summary_method": "feed",
+   "author": "Jonathan",
+   "published_at": "2026-09-07T06:29:12+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "us open",
+    "alcaraz",
+    "medvedev"
+   ]
+  },
+  {
+   "id": "264c574a6f02af8b38a4b770510c107ba254ca3e",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/duleep-trophy-day-2-live-score-final-updates-east-zone-vs-south-zone-highlights-news-september-7/article71437342.ece",
+   "title": "Duleep Trophy Final Day 2 Live Score — East Zone vs South Zone updates: Kushagra falls after century, Kishan past 150",
+   "summary": "Duleep Trophy Final LIVE: Catch the live score, updates, commentary, news and highlights from Day 2 of the East Zone vs South Zone match being played at the M.A. Chidambaram Stadium in Chennai.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T06:20:12+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "0fb487ebe8213750285251a361c8b140f587b202",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553120.html?ex_cid=OTC-RSS",
+   "title": "Capsey a keeper as Edwards reflects on summer's lessons",
+   "summary": "England Women's head coach planning greater focus on Tests ahead of 2027 Ashes",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T06:18:44+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "ca447254ae7ba834cd972b5c705ca17c5aaa3ba5",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/rajat-patidar-reveals-virat-kohlis-backing-gave-him-all-the-support-he-needed-as-rcb-captain-1938/",
+   "title": "Rajat Patidar reveals Virat Kohli's backing gave him all the support he needed as RCB captain",
+   "summary": "Rajat Patidar has opened up about how Virat Kohli's support shaped his journey as RCB captain, with the side having won back-to-back IPL titles in 2025 and 2026.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-07T06:16:23+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "kohli"
+   ]
+  },
+  {
+   "id": "b882559d50c95f3f6a42e076feed12f46e43f110",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-analysis/afghanistans-predicted-xi-for-t20i-series-against-india-1018/",
+   "title": "Afghanistan’s Predicted XI for T20I Series against India",
+   "summary": "Here is Afghanistan's possible playing XI for the T20I series against India.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-07T05:35:38+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "6ab4c5c714a877c53bacdffb47d5282bb2c478f4",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/no-guts-no-fight-ab-de-villiers-pins-the-blame-on-pakistan-players-after-horror-show-in-england/",
+   "title": "'No guts, no fight': AB de Villiers pins the blame on Pakistan players after horror show in England",
+   "summary": "The former South Africa batter pulled no punches in his assessment of Pakistan's batting unit following their 2-0 series deficit in England.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-07T05:28:26+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "batter"
+   ]
+  },
+  {
+   "id": "50b4e7bbf88cf405eafe3f8e178bdc8749bc9b17",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c046pxeeqe6o?at_medium=RSS&at_campaign=rss",
+   "title": "Flex your football brain with our daily quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T05:05:20+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "be2bbd4f3ed4490f66926e87f1daa79b35675aa1",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/07/atp-us-open-best-bets-khachanov-tien/",
+   "title": "ATP US Open Best Bets Including Karen Khachanov Vs Learner Tien",
+   "summary": "This ATP US Open match is not easy to predict, so you shouldn’t bet a lot on it. Confidence level on a scale of 1-10: 1 – you should bet on this match.",
+   "summary_method": "extract",
+   "author": "Matt Zemek",
+   "published_at": "2026-09-07T05:00:08+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "695ab39490696a07403f844f47ebc2fbca889687",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553119.html?ex_cid=OTC-RSS",
+   "title": "Samarawickrama's composed knock seals Sri Lanka's semi-final berth",
+   "summary": "Samarawickrama's unbeaten 48 and Praboda's career-best three wickets helped Sri Lanka survive Bangladesh scare",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T04:43:33+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "0f5cafe99e110300fc5819ef9adc389f196f0283",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/marnus-labuschagne-retained-in-australias-test-squad-for-south-africa-tour-3265/",
+   "title": "Marnus Labuschagne retained in Australia's Test squad for South Africa tour",
+   "summary": "Australia name a 16-man squad for the three-Test series in South Africa, with Labuschagne keeping his place despite a prolonged lean run with the bat.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-07T04:30:30+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "8069ad9cff77afa7680ca20edeb2a445b4552aef",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553121.html?ex_cid=OTC-RSS",
+   "title": "Labuschagne survives for South Africa Tests, Connolly included",
+   "summary": "Selectors keep faith in Labuschagne despite extended form slump with Connolly, Neser and Kuhnemann finding spots for the three-Test series",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T04:26:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "033aa695fa36dff5b36df942ea04bfec91bb0e9d",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/07/wta-us-open-jovic-gauff/",
+   "title": "WTA US Open Round of 16 Best Bets Including Iva Jovic vs Coco Gauff",
+   "summary": "Tennis - U.S. Open - Flushing Meadows, New York, United States - September 3, 2026 Coco Gauff of the U.S.",
+   "summary_method": "feed",
+   "author": "Kane Webb",
+   "published_at": "2026-09-07T04:25:25+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "tennis",
+    "us open",
+    "coco gauff"
+   ]
+  },
+  {
+   "id": "23c8fc0684c917c8f0e76e4542eea023c41c730a",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553132.html?ex_cid=OTC-RSS",
+   "title": "Mujeeb and de Kock star as Tridents end four-match losing streak",
+   "summary": "Mujeeb took three wickets to restrict St Lucia Kings to 138 before de Kock steered Barbados Tridents home with an unbeaten 47",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T04:21:43+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "fef864bc2603adc3e4b70ad06e906a2072883387",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cn4kge7gl99o?at_medium=RSS&at_campaign=rss",
+   "title": "Alcaraz delivers statement win to reach last eight",
+   "summary": "Carlos Alcaraz continues his return from long-term injury with a hugely impressive fourth-round win against Tommy Paul at the US Open.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T03:58:15+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "us open",
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "13128fdbe509dc2421ec7e0b6673c12b27dbbb24",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553133.html?ex_cid=OTC-RSS",
+   "title": "Amazon Warriors make it six in six after Nabi's all-round starrer",
+   "summary": "Romario Shepherd and Shamar Joseph were the other bowling stars for Guyana Amazon Warriors as they finished St Kitts and Nevis Patriots off for 128 to set up the win",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T03:39:32+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "1c36d43027981de8177e3c9b484e8d5eedac3397",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
+   "title": "Sabalenka overcomes tricky Townsend test at US Open",
+   "summary": "Two-time defending champion Aryna Sabalenka emulates Serena Williams by overcoming Taylor Townsend to reach a sixth straight US Open quarter-final.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T03:30:14+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "us open",
+    "sabalenka"
+   ]
+  },
+  {
+   "id": "c842c512d12401eaf4a40dd0665f986c30e80a26",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/marnus-labuschagne-australia-squad-south-africa-test-series-new-additions-news/article71437300.ece",
+   "title": "Labuschagne retains spot in Australia Test squad for South Africa tour; Connolly, Kuhnemann called up",
+   "summary": "The 32-year-old was dropped from the ODI squad last week after a run of poor returns with the bat, but has managed to keep his place for the longer format.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T02:44:21+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "64d18b2fbfa8d067d204db69ebdcc2d42218b8ce",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/shelton-blows-past-tsitsipas-into-his-first-us-open-quarterfinal-since-2023-alcaraz-next-860459.html",
+   "title": "Shelton blows past Tsitsipas into his first US Open quarterfinal since 2023, Alcaraz next",
+   "summary": "Ben Shelton did not face a break point in beating Stefanos Tsitsipas 6-2, 6-3, 6-4 to reach his first US Open quarterfinal since 2023, and now runs into a Carlos Alcaraz who has beaten him three times out of three and every American he has met at a major. The 23-year-old is promising fireworks on Ashe on Tuesday night.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-07T01:15:07+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "us open",
+    "alcaraz",
+    "break point"
+   ]
+  },
+  {
+   "id": "a08e6d7242287aa0c86f577a33c41e300ad391ba",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/pegula-and-navarro-sweep-through-to-set-up-an-all-american-us-open-quarterfinal-860457.html",
+   "title": "Pegula and Navarro sweep through to set up an all-American US Open quarterfinal",
+   "summary": "Jessica Pegula's 49th win of the season, more than anyone on tour, and Emma Navarro's first major quarterfinal in more than a year have left one quarter of the US Open draw entirely American. Pegula has beaten Navarro in all four of their meetings, and one of them will be in the semifinals in New York.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-07T00:35:06+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "12cada320aee516fa08dde7ca496649f63d6cbbc",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/07/marnus-labuschagne-australia-cricket-squad-south-africa-tour",
+   "title": "Australia keep faith in Marnus Labuschagne as Test squad for South Africa tour named",
+   "summary": "Australian selectors have stuck with struggling batter Marnus Labuschagne for next month’s Test tour of South Africa, as chair George Bailey admitted he is mulling a return up the order for Steve Smith. Sixteen players were named in the touring party on Monday, including all those involved in the most recent defeat of Bangladesh in Mackay. Fast bowler Michael Neser, spinner Matthew Kuhnemann and batter Cooper Connolly will join the group for the series starting in Durban on 9 October.",
+   "summary_method": "feed",
+   "author": "Jack Snape",
+   "published_at": "2026-09-07T00:20:49+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "batter",
+    "bowler",
+    "steve smith"
+   ]
+  },
+  {
+   "id": "bc07a62ed040c603747ade6c9c184cae9c2aa913",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/06/frances-tiafoe-us-open-quarterfinals/",
+   "title": "Frances Tiafoe Rises to the Occasion Again in New York to Reach US Open Quarterfinals",
+   "summary": "Tennis - U.S. Open - Flushing Meadows, New York, United States - September 6, 2026 Frances Tiafoe of the U.S.",
+   "summary_method": "feed",
+   "author": "Zain Mustafa",
+   "published_at": "2026-09-06T23:17:16+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "tennis",
+    "us open"
+   ]
+  },
+  {
+   "id": "43dd94369fd7a88f1cce0bdd8dcc01530004387a",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/cpwlqre0qy9o?at_medium=RSS&at_campaign=rss",
+   "title": "Young praises Rashford and Shaw chemistry",
+   "summary": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left in Manchester United's 2-2 draw against Everton.at the Hill Dickinson Stadium.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T23:07:31+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "manchester united"
+   ]
+  },
+  {
+   "id": "4e5ce7c7676975c769970bb1073894e5165ca70d",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/cgk531g8gr2o?at_medium=RSS&at_campaign=rss",
+   "title": "Gabriel was 'extremely lucky' to avoid red - Rooney",
+   "summary": "Match of the Day pundit Wayne Rooney says Gabriel was 'extremely lucky' to stay on the pitch after his challenge on Chelsea's Emi Martinez.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T22:50:22+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "chelsea"
+   ]
+  },
+  {
+   "id": "d4d66a55157f9984f99d5bcd63e2c1ec3212a68d",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/utiafoe-finally-cracks-medvedev-michelsen-has-not-lost-a-set-the-us-open-gets-an-all-american-quarterfinal-860445.html",
+   "title": "Tiafoe finally cracks Medvedev, Michelsen has not lost a set: the US Open gets an all-American quarterfinal",
+   "summary": "Frances Tiafoe had beaten Daniil Medvedev once in seven attempts before dispatching the No. 7 seed 7-6 (1), 6-4, 7-6 (6) to reach a fourth US Open quarterfinal, where he meets a 22-year-old compatriot who has not lost a set in New York, Alex Michelsen.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-06T22:50:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "us open",
+    "medvedev"
+   ]
+  },
+  {
+   "id": "a4a2e702517c3a92639f10106d7d40b972eb5474",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13582586/transfer-news-former-manchester-united-and-england-winger-jadon-sancho-lined-up-for-stunning-borussia-dortmund-return-paper-talk",
+   "title": "Papers: Ex Man-Utd winger Sancho set for stunning Dortmund return",
+   "summary": "The top stories and transfer rumours from Monday's newspapers",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T22:41:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "4c39d0c219ffcb51c9d79544663b53d23794fcb4",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/c8e34k1r3j9o?at_medium=RSS&at_campaign=rss",
+   "title": "Odegaard 'desire' in Chelsea win impresses Rooney",
+   "summary": "Match of the Day pundit Wayne Rooney analyses how Martin Odegaard took control of the game as Arsenal faced Chelsea at the Emirates Stadium.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T22:32:06+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "arsenal",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "828c52f9cd83fdecb5037ba3d226ac37cc8afc90",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/iplayer/episode/m0031fdx?at_medium=RSS&at_campaign=rss",
+   "title": "Watch: England v Ireland - third ODI highlights on BBC iPlayer",
+   "summary": "",
+   "summary_method": "stub",
+   "author": null,
+   "published_at": "2026-09-06T22:30:40+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "b3aebbbbd5ee8a3cfec1a4b97ea0109b1e98033f",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
+   "title": "Who has made Troy's Premier League team of the week?",
+   "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T22:06:40+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "31a785bb3d713436916f3f284dae2f87cecb6ad7",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/06/us-open-day-9-predictions-zverev-darderi/",
+   "title": "US Open Day 9 Predictions Including Alexander Zverev vs Luciano Darderi",
+   "summary": "Arthur Gea has made as good a second go in a Slam as anyone recently, as the lucky loser now finds himself in the second week against Botic van de Zandschulp. In unfavorable conditions for his natural game, Luciano Darderi has done well to make the second week at the US Open, where he now faces Alexander Zverev.",
+   "summary_method": "extract",
+   "author": "Yesh Ginsburg",
+   "published_at": "2026-09-06T21:45:14+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "us open",
+    "zverev"
+   ]
+  },
+  {
+   "id": "c8953a4e62d4cc7c03efbf98cd8cbaab65578327",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cde0znwjx61o?at_medium=RSS&at_campaign=rss",
+   "title": "WSL investigating after Palace break substitution rules",
+   "summary": "The Women's Super League says an investigation is underway after Crystal Palace use four substitution windows in their win over Everton.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T21:37:08+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "47abd61fc56f1286ba2754aa4687eb7f6e09864a",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cdx5vxpl37zo?at_medium=RSS&at_campaign=rss",
+   "title": "When Man City call you don't say no - Ndiaye",
+   "summary": "New £60m Manchester City signing Iliman Ndiaye says playing in the Champions League is where he belongs.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T21:30:03+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "champions league",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "a367412e66f85aa6f62fc76aa51081416718cf9d",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milan",
+   "title": "European football: Lamine Yamal’s double powers Barcelona to rout of Valencia",
+   "summary": "Lamine Yamal struck twice for Barcelona as they demolished Valencia 5-0 on Sunday to maintain their 100% start in La Liga. The reigning champions moved three points clear at the top of La Liga after Jose Mourinho’s Real Madrid lost 1-0 at Real Betis on Friday. Fermín López, Raphinha and Pedri were also on target for Hansi Flick’s swaggering visitors on a hot afternoon on Spain’s east coast.",
+   "summary_method": "feed",
+   "author": "Agencies",
+   "published_at": "2026-09-06T21:25:17+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "football",
+    "la liga",
+    "real madrid",
+    "barcelona"
+   ]
+  },
+  {
+   "id": "f0f8f86c51054fc4d0cd011f4a6c89b325275615",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/06/richard-hughes-confirmed-as-al-hilal-sporting-director-after-liverpool-departure",
+   "title": "Richard Hughes confirmed as Al-Hilal sporting director after Liverpool departure",
+   "summary": "Richard Hughes has been appointed as the sporting director ⁠of Al-Hilal, the Saudi Pro League club confirmed on ⁠Sunday, following ⁠his ​departure from Liverpool. Hughes, 47, joined Liverpool in 2024 from Bournemouth. ⁠He appointed Arne Slot as Jürgen Klopp’s successor as head coach, ⁠a decision that paid immediate dividends ​as the Reds ‌claimed the ‌Premier League title in 2024-25. Slot ‌was sacked and replaced by Andoni Iraola in June.",
+   "summary_method": "feed",
+   "author": "Reuters and Guardian sport",
+   "published_at": "2026-09-06T21:15:14+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "premier league",
+    "liverpool"
+   ]
+  },
+  {
+   "id": "fcb14d607c5cf90d947a383fcb9c95312291be14",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-2026",
+   "title": "Wild opening salvo against Chelsea hints at exciting times for Arsenal fans | Barney Ronay",
+   "summary": "The home side’s response to Chelsea’s early goal was to play breathless attacking football We’re back, baby. So, so back. Well, OK, not exactly back. But back down the time tunnel, for a while at least, as on a powder blue afternoon at the Emirates Stadium, Arsenal and Chelsea produced an opening half-hour that felt like a throwback to prime Barclays of the early 2000s.",
+   "summary_method": "feed",
+   "author": "Barney Ronay at the Emirates Stadium",
+   "published_at": "2026-09-06T21:08:19+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "football",
+    "arsenal",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "38d05d9dd789049aeac081a0f52dd68f6190ae11",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/m00319lp?at_medium=RSS&at_campaign=rss",
+   "title": "Football Daily",
+   "summary": "Rick Edwards, Luke Edwards and Clinton Morrison discuss the Premier League weekend.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T21:07:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "football",
+    "premier league"
+   ]
+  },
+  {
+   "id": "0b30d62aaa285495db7f8f666028650a93845f39",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cj3dj6djrd3o?at_medium=RSS&at_campaign=rss",
+   "title": "Chelsea plot early move for Scott - Monday's gossip",
+   "summary": "Chelsea plot early move for Bournemouth midfielder Alex Scott, Chelsea winger Pedro Neto attracts interest, and Manchester United and Newcastle United inquire about Christopher Nkunku.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T20:54:40+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "midfielder",
+    "manchester united",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "b43097f1fd7911eb5638e5cb442d2d410894dc03",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/full-power-i-think-so-alcaraz-sweeps-paul-aside-to-storm-into-the-us-open-quarterfinals-860423.html",
+   "title": "“Full power? I think so”:  Alcaraz sweeps Paul aside to storm into the US Open quarterfinals",
+   "summary": "Five months lost to a wrist injury looked a long way behind Carlos Alcaraz as the No. 2 seed dismantled No. 20 seed Tommy Paul 6-4, 6-3, 6-4 to reach a fifth US Open quarterfinal.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-06T20:40:06+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "us open",
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "0d36023c7a11b66689c0594d783421367e10ba0e",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cr7dz7j10dro?at_medium=RSS&at_campaign=rss",
+   "title": "Four wins in a row, but can it only get better for Hearts?",
+   "summary": "Hearts move up to second place in the Premiership as new head coach Wouter Vrancken gets to grips with a much-changed squad at Tynecastle.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T20:30:28+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "b41a730c195110c506c8f358ea2582c7009a759d",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&at_campaign=rss",
+   "title": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
+   "summary": "Nine points from three games, one goal conceded and big players stepping up - are Arsenal still ahead of the rest in the race for the Premier League title?",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T20:25:24+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "premier league",
+    "striker",
+    "arsenal",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "772a22b2fe2c7f7dee91f0c995864fcd4a32d0d9",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/formula1/videos/c3057ld9400o?at_medium=RSS&at_campaign=rss",
+   "title": "Is Antonelli a generational talent?",
+   "summary": "On The Chequered Flag Podcast, F1 journalist Rebecca Clancy and British racing driver Alex Lynn debate whether Kimi Antonelli is a generational talent, after the Mercedes prodigy became the first Italian to win on home soil since 1966 at the Italian Grand Prix at Monza.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T20:24:23+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "grand prix"
+   ]
+  },
+  {
+   "id": "2429b65f896cfe0c0fae8cdfa002b66a8e6ede80",
+   "source": "guardian-f1",
+   "source_name": "The Guardian",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/06/lewis-hamilton-ferrari-italian-grand-prix-formula-one",
+   "title": "Lewis Hamilton rules out world title challenge after Italian Grand Prix setback",
+   "summary": "Lewis Hamilton has conceded the Formula One world ­championship this year is all but out of reach after a bruising Italian Grand Prix. ­Hamilton’s afternoon included a clash with his Ferrari teammate Charles Leclerc, which he thought was the result of the team’s failure to listen to his entreaties to manage their drivers and execute races better. The race at Monza was won by Kimi Antonelli after a remarkable comeback by the Mercedes driver from 19th on the grid.",
+   "summary_method": "feed",
+   "author": "Giles Richards at Monza",
+   "published_at": "2026-09-06T20:16:37+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "formula one",
+    "grand prix",
+    "hamilton",
+    "leclerc"
+   ]
+  },
+  {
+   "id": "b825ef5b4da30de198921a888c31cc3be2db6462",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis",
+   "title": "Carlos Alcaraz takes it up a level as he reaches US Open quarter-final",
+   "summary": "The straightforward scoreline at the end of Carlos Alcaraz’s third-round win over Wu Yibing did not quite reflect the Spaniard’s slight irritation with one aspect of his game. Alcaraz felt he had missed a few too many forehands, and almost immediately after departing Arthur Ashe Stadium, he reappeared on the practice court pounding forehands in the afternoon heat.",
+   "summary_method": "feed",
+   "author": "Tumaini Carayol at Flushing Meadows",
+   "published_at": "2026-09-06T20:16:01+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "us open",
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "c6c1294590fe0593c858951a39351affba4eee8f",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13582543/arsenal-2-1-chelsea-gary-neville-questions-chelseas-all-over-the-place-back-three-after-defeat-but-is-confident-they-can-finish-top-three",
+   "title": "'All over the place' - Neville questions Chelsea defence after defeat",
+   "summary": "Gary Neville criticised Chelsea's \"all over the place\" back three in their Super Sunday defeat to Arsenal - but believes Xabi Alonso's side are capable of finshing second or third in the Premier League table.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T20:14:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "premier league",
+    "arsenal",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "7dd704cc2044f18651cf46eef58f00db2a2602a4",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/audi-appeals-fia-stewards-decision-yuki-tsunoda-aborted-start-monza/",
+   "title": "Audi appeals stewards' decision in Tsunoda aborted start case",
+   "summary": "Audi has lodged an appeal against the Italian GP stewards's decision not to apply F1's sporting regulations in relation to an alleged infringement of the start procedure by Yuki Tsunoda",
+   "summary_method": "feed",
+   "author": "Jack Cozens",
+   "published_at": "2026-09-06T20:04:11+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "ecabc888760053416c98ef8277304051c322a5f6",
+   "source": "autosport-f1",
+   "source_name": "Autosport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.autosport.com/f1/news/hamilton-says-ferrari-has-left-it-too-late-to-back-him-in-f1-title-fight/10853218/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "title": "Hamilton says Ferrari has left it \"too late\" to back him in F1 title fight",
+   "summary": "The Italian Grand Prix is probably the worst venue for a spat to brew up between team-mates but that is what happened at Monza as Lewis Hamilton finished a distant sixth after Charles Leclerc barged him into the gravel on the opening lap. Leclerc then spun off into the Parabolica barrier at high speed at the end of the second lap, inducing a red flag.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T20:03:58+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "grand prix",
+    "hamilton",
+    "leclerc"
+   ]
+  },
+  {
+   "id": "d0171ab580cc4d516f151de32ab68eeac9b2871c",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13582506/man-utd-miss-attacking-spark-against-everton-as-ezri-konsa-for-arsenal-premier-league-hits-and-misses",
+   "title": "Carrick's Man Utd missing spark as Konsa shines for Arsenal",
+   "summary": "Carrick put his head down in sheer disbelief after his side were twice pegged back by worldie strikes at the Hill Dickinson, but the question that needs answering is why Everton were invited back in in the first place. It also summed up an excellent first start for Arsenal, as Konsa topped a lot of metrics despite playing just 20 minutes of competitive football since the World Cup ended before this Chelsea game.",
+   "summary_method": "extract",
+   "author": null,
+   "published_at": "2026-09-06T20:00:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "arsenal"
+   ]
+  },
+  {
+   "id": "ad3711842ad4dad29e023f01403d2996f511296f",
+   "source": "autosport-f1",
+   "source_name": "Autosport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.autosport.com/f1/news/audi-lodges-intention-to-appeal-against-yuki-tsunodas-italian-gp-verdict/10853215/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "title": "Audi signals appeal over Tsunoda’s Italian GP non-penalty",
+   "summary": "The Audi Formula 1 team has notified the FIA of its intention to appeal against Yuki Tsunoda's non-penalty in the Italian Grand Prix. Amid confusion over where he was supposed to line up on a lap 6 restart, Tsunoda parked in his correct 14th grid slot, but at an angle towards the inside wall.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T19:58:24+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix"
+   ]
+  },
+  {
+   "id": "6c63e92ca61e1bbb651ba4c6971039bd6bf9092d",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13582539/everton-2-2-man-utd-gary-neville-fearful-that-manchester-uniteds-liability-of-conceding-goals-isnt-going-away",
+   "title": "Nev fearful Man Utd's habit of conceding goals isn't going away",
+   "summary": "Gary Neville is fearful that Manchester United's habit of conceding goals isn't going away after they shipped two goals for the third game running at Everton.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T19:55:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "manchester united"
+   ]
+  },
+  {
+   "id": "ccf6ae7711eb3a844fbb847f72a0dce21faeec25",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2my2z365lo?at_medium=RSS&at_campaign=rss",
+   "title": "Antonelli 'walks over water' for win that will go down in F1 folklore",
+   "summary": "Kimi Antonelli delivered one of the great F1 drives to win the Italian Grand Prix and leave Mercedes' team-mate George Russell's title hopes almost a lost cause.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T19:53:30+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "grand prix",
+    "george russell"
+   ]
+  },
+  {
+   "id": "0a4a7347920082b28bef19668e4e556ea18553ca",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/06/exceptional-arteta-arsenal-fightback-win-chelsea",
+   "title": "‘Exceptional performance’: Arteta hails fightback win and says best yet to come",
+   "summary": "Mikel Arteta warned that Arsenal are capable of hitting even greater heights after the Premier League champions sent a statement to their title rivals by fighting back from a goal down to beat Chelsea on Sunday. Arteta’s side were under pressure after conceding for the first time this season when Morgan Rogers struck early at the Emirates Stadium, but the response to the setback was outstanding.",
+   "summary_method": "feed",
+   "author": "Jacob Steinberg at the Emirates Stadium",
+   "published_at": "2026-09-06T19:52:24+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "premier league",
+    "arsenal",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "ce065a99810b2d2ff8aad6239179530790a9829f",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/sri-lanka-beat-bangladesh-womens-asia-cup-2026-semifinal-qualification-scenarios/article71436379.ece",
+   "title": "Sri Lanka seals Women’s Asia Cup semifinal berth with win over Bangladesh",
+   "summary": "This win ensured Sri Lanka joined India in the knockout stage, following their strong performances in Group B which helped the side go unbeaten.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T19:48:12+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "f3dfb3d2a347a86d97b0ed7c1ddb6b06bf1cf901",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&at_campaign=rss",
+   "title": "Two right-backs in midfield - are Chelsea short despite £349m spent?",
+   "summary": "Chelsea ended Sunday's 2-1 defeat by champions Arsenal with two right-backs alongside each other in midfield - how did they get here?",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T19:31:17+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "arsenal",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "2636f73583dbfe7d81ad5bf011a8b4abfbf6745d",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/ferrari-italian-gp-handling-f1-2026-title-fight-our-verdict/",
+   "title": "Is Ferrari shooting itself in the foot? Our Italian GP verdict",
+   "summary": "Ferrari's home F1 race always brings added pressure, but it never really got going at Monza. Did it embarrass itself - and is it fumbling a title shot?",
+   "summary_method": "feed",
+   "author": "The Race Team",
+   "published_at": "2026-09-06T19:27:08+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "3a4cf6d9c82bb643222373366d8fe6d31867ca9d",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/noskova-gives-up-two-match-points-against-kostyuk-and-reaches-her-first-us-open-quarterfinal-anyway-860416.html",
+   "title": "Noskova gives up two match points against Kostyuk and reaches her first US Open quarterfinal anyway",
+   "summary": "Linda Noskova (No. 6) beat Marta Kostyuk (No. 11) 7-5, 5-7, 6-4 in the fourth round of the US Open 2026 on Sunday to reach the quarterfinals in New York for the first time. The Wimbledon champion wasted two match points serving for the match in the second set, extending her Grand Slam winning streak to 11. Sabalenka next.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-06T19:25:06+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "grand slam",
+    "wimbledon",
+    "us open",
+    "sabalenka"
+   ]
+  },
+  {
+   "id": "6193c50136b8e9cdf589453c9f1a188d58d7af87",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
+   "title": "After transfer worries, Everton have an unlikely new hero",
+   "summary": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T19:09:59+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "870443e09f6acf24de828f008ff847500e3eef76",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g72gw7pkdo?at_medium=RSS&at_campaign=rss",
+   "title": "How to follow Spanish Grand Prix on the BBC",
+   "summary": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 11-13 September at the new Madring circuit.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T19:06:26+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "grand prix"
+   ]
+  },
+  {
+   "id": "b797091ea79a4fdf617d787be8fe0093459a3e6d",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/iplayer/episode/m0031d5f?at_medium=RSS&at_campaign=rss",
+   "title": "Watch: Sportscene highlights as Hearts & St Johnstone win",
+   "summary": "With St Johnstone v Hibs and Hearts v Dundee plus all of Saturday’s stories",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T19:00:25+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "676e5980e87a1d339640bfc4a6bc2ae1fe3bb565",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13582329/martin-odegaard-kai-havertz-and-bukayo-saka-show-arsenal-can-level-up-their-attack-even-without-the-blockbuster-signing-they-craved",
+   "title": "No blockbuster signing but Arsenal's attack still finding another level",
+   "summary": "Midway through the second half at the Emirates Stadium, Martin Odegaard picked up the ball in an inside-right position and threaded a pass towards Kai Havertz, whose flick allowed the onrushing Bukayo Saka to test Emiliano Martinez.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T19:00:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "arsenal"
+   ]
+  },
+  {
+   "id": "94eaf5b52a152602cd146e7cfdea61a4aea1cfba",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
+   "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+   "summary": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:58:33+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "football",
+    "premier league",
+    "manchester united"
+   ]
+  },
+  {
+   "id": "5c917bc56ffd37827c1813e91c2f96dc616585ba",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
+   "title": "Champions Arsenal come from behind to beat Chelsea",
+   "summary": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:58:27+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "arsenal",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "6385292c4f7be12b806fbef51f5ba4114cde33f1",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/ckgvx2y657go?at_medium=RSS&at_campaign=rss",
+   "title": "Liverpool beat newly-promoted Charlton 4-0",
+   "summary": "Grace Fisk scores twice as Liverpool beat newly promoted Charlton in the Women's Super League at The Valley.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:53:52+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "liverpool"
+   ]
+  },
+  {
+   "id": "f1612d500e88564a977b67ab5b4b66597436c493",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/06/david-moyes-ainsley-maitland-niles-everton-manchester-united-premier-league",
+   "title": "‘No excuses’: Moyes says transfer troubles will not hurt Everton after United draw",
+   "summary": "David Moyes praised Everton’s resilient response to a troubled week after his side twice came from behind to salvage a point against Manchester United through Ainsley Maitland-Niles’s long-range strike. The deadline-day signing, who was introduced in the 77th minute after James Garner pulled up with cramp, preserved Everton’s unbeaten start to the season with a 25-yard effort in the 96th minute.",
+   "summary_method": "feed",
+   "author": "Andy Hunter at Hill Dickinson Stadium",
+   "published_at": "2026-09-06T18:49:39+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "manchester united"
+   ]
+  },
+  {
+   "id": "7f4282dd2105c188787b0527aef8626f79bbe90b",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/c9v9e0e1pvro?at_medium=RSS&at_campaign=rss",
+   "title": "Shaw double leads Man City to victory over Birmingham",
+   "summary": "Manchester City's defence of their Women's Super League title gets off to the perfect start with victory over newly promoted Birmingham City.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:47:15+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "manchester city"
+   ]
+  },
+  {
+   "id": "17f1ecad8ac63d481d0377cd73acac894bb8fa3c",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/watch/video/13582508/arsenal-2-1-chelsea-premier-league-highlights",
+   "title": "Arsenal come from behind to beat Chelsea in thrilling derby",
+   "summary": "FREE TO WATCH: Highlights from the Premier League match between Arsenal and Chelsea.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:43:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "premier league",
+    "arsenal",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "c40693c55dada646564150881784a4b6e447b593",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/c4gj7y52393o?at_medium=RSS&at_campaign=rss",
+   "title": "Chelsea defeat by Arsenal hurts - Alonso",
+   "summary": "Chelsea manager Xabi Alonso reacts to their 2-1 defeat by rivals Arsenal in a thrilling London derby at the Emirates Stadium.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:35:26+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "arsenal",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "ff17517d0e6d9043eb4791a5bc2d867cdeaba7c2",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/06/womens-super-league-wsl-roundup-khadija-shaw-manchester-city-birmingham",
+   "title": "Women’s Super League: Shaw doubles up to give Manchester City winning start",
+   "summary": "Some things just feel inevitable. Some strikers just feel inevitable. Despite a new season, a fresh start and new opponents, it is still the same storyline for Manchester City: Khadija Shaw wins them the game. The Jamaica striker began the campaign exactly how she finished the previous league season, with two goals, and demonstrated why it was so crucial that the club eventually persuaded her to sign a new contract in the summer.",
+   "summary_method": "feed",
+   "author": "Tom Garry at the Joie Stadium",
+   "published_at": "2026-09-06T18:35:01+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "striker",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "fc6ccbcd5be551c9c516b9d39446975ac8517a1a",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cj9x3wlg11po?at_medium=RSS&at_campaign=rss",
+   "title": "New contenders emerge on WSL return - but Man City start strong",
+   "summary": "The Women’s Super League returned this weekend and with it a host of new signings, improved squads and unexpected results.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:34:54+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "bea644977461fb0936fa4521c92cc3c2060e7656",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c9dwqdwp3e5o?at_medium=RSS&at_campaign=rss",
+   "title": "The Blaze win again to boost treble hopes",
+   "summary": "The Blaze beat Somerset in the Women's One-Day Cup to strengthen their treble hopes, while there were also wins for Hampshire, Lancashire and Surrey.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:30:47+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "cd9b2ec8c5389eaee0dd787bd55ef301d99f64fe",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/06/us-open-day-9-predictions-gauff-jovic/",
+   "title": "US Open Day 9 Women’s Predictions Including Coco Gauff vs Iva Jovic",
+   "summary": "Osaka has shown grit to battle through two three-setters already, but Rybakina’s serve and her recent comeback win over Osaka in Toronto make her the narrow favourite in a match likely to hinge on a handful of points. Expect big hitting, minimal breaks, and another three-set thriller between these two with the Japanese star billed to cause an upset Andreeva and Potapova played each other at the US Open last year, with Andreeva winning in straight sets in the second round.",
+   "summary_method": "extract",
+   "author": "Yesh Ginsburg",
+   "published_at": "2026-09-06T18:30:32+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "us open",
+    "coco gauff"
+   ]
+  },
+  {
+   "id": "b52459a9653f41f70b36188df6563d59ef943323",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13582432/wsl-talking-points-london-city-arsenal-and-man-city-make-winning-starts-on-opening-weekend-but-chelsea-and-man-utd-stutter",
+   "title": "What did we learn from opening weekend in WSL?",
+   "summary": "After an opening weekend that saw new contenders arrive on the scene and old ones flatter to deceive, Sky Sports analyses the key talking points from the opening fixtures of the 2026/27 Women's Super League.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:30:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "3a6f3ba43d4691c618dd95993066cc59377ca41b",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c4gvkd530dxo?at_medium=RSS&at_campaign=rss",
+   "title": "Martindale interim boss as Livingston dismiss Whelan after nine games",
+   "summary": "Livingston sack Glenn Whelan after just nine games, with David Martindale returning to the head coach position on a temporary basis.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:26:51+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "3b412d671155bda151379c8423e4853fd79d903a",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/why-yuki-tsunoda-innocent-in-aborted-italian-gp-start/",
+   "title": "Why Tsunoda was ruled innocent in aborted Italian GP start",
+   "summary": "Yuki Tsunoda's first point of his stand-in F1 spell is no longer in jeopardy as the Racing Bulls driver escaped a penalty for causing an extra formation lap at Monza",
+   "summary_method": "feed",
+   "author": "Samarth Kanal",
+   "published_at": "2026-09-06T18:24:21+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "0e6d1435af4e8f4999a85850405404b7db9b0fd7",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553115.html?ex_cid=OTC-RSS",
+   "title": "Henry heroics seal Empress' come-from-behind win in thriller",
+   "summary": "The allrounder hit three sixes in five balls against Amazon Warriors' Tryon to chase 17 in the final over",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:22:23+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "cbb04429b5ce21bd36a2ecb1aa150bc004732653",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c5y4k1v7gryo?at_medium=RSS&at_campaign=rss",
+   "title": "Far too late for title fight priority - Hamilton",
+   "summary": "Lewis Hamilton says it is \"far too late\" for Ferrari to give him priority over team-mate Charles Leclerc in the championship fight.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:22:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "hamilton",
+    "leclerc"
+   ]
+  },
+  {
+   "id": "f027893a4bcf6e200ccca4e0bdfb6c1b11764b57",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c8xkgx74xyxo?at_medium=RSS&at_campaign=rss",
+   "title": "Antonelli extraordinary as Gasly has superb weekend - driver ratings",
+   "summary": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Italian Grand Prix.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:18:12+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "grand prix"
+   ]
+  },
+  {
+   "id": "d3bf297582d13e950ed038081426d7a809ce88e3",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0p89grt?at_medium=RSS&at_campaign=rss",
+   "title": "F1: Chequered Flag",
+   "summary": "Harry and the team react to a dramatic and memorable Italian Grand Prix.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:18:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "grand prix"
+   ]
+  },
+  {
+   "id": "2ac584a1f40fb12d86ae38405de849075ff25f7b",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/06/qinwen-zheng-shocks-madison-keys-us-open/",
+   "title": "Qinwen Zheng Shocks Madison Keys in US Open Third Round",
+   "summary": "121 Qinwen Zheng defeated #24 Madison Keys 1-6 7-6(3) 7-5, in a stunning third-round comeback at the US Open, rallying from a 0-5 deficit in the deciding set, and saving match point along the way, to book her spot in the Round 16. “Tennis just feels really hard right now… I felt like I couldn’t play tennis anymore, and it just felt like it was a much bigger deal than just playing a tennis match all of a sudden.”",
+   "summary_method": "extract",
+   "author": "Coby Spratte",
+   "published_at": "2026-09-06T18:15:12+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "039167e64118ef5d2c0918adc1dc8f589c4b480f",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/arsenal-vs-chelsea/report/559464",
+   "title": "Arsenal edge out Chelsea in pulsating London derby",
+   "summary": "Arsenal came from behind to beat Chelsea 2-1 in the first real major Premier League heavyweight clash of the new campaign - in an early contender for game of the season.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:15:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "premier league",
+    "arsenal",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "c21b3f204397e96f4b9d9cdf8de876651bd16e3e",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553083.html?ex_cid=OTC-RSS",
+   "title": "Kate Cross, Sophie Morris keep Lancashire title defence alive",
+   "summary": "Durham stumble short after Hollie Armitage fifty as champions apply late squeeze",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T18:11:19+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "a3952907564187213c537b1d9e084afd1fe14581",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/f1-2026-italian-grand-prix-winners-losers/",
+   "title": "Winners and losers from F1's 2026 Italian Grand Prix",
+   "summary": "Kimi Antonelli stole the show by winning his home F1 race from 19th (then 12th) on the grid, but who else shone in the Italian GP?",
+   "summary_method": "feed",
+   "author": "The Race Team",
+   "published_at": "2026-09-06T18:04:28+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "grand prix"
+   ]
+  },
+  {
+   "id": "ebdbed2074f888f5bf4af480906350d2c932c48f",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/06/manchester-uniteds-front-four-show-flashes-but-need-more-time-to-become-fantastic",
+   "title": "Manchester United’s front four show flashes but need more time to become fantastic | Will Unwin",
+   "summary": "Mbeumo’s goal was a moment of individual inspiration but Michael Carrick will want more from Fernandes, Cunha and Rashford Tunnel vision allowed Bryan Mbeumo seconds of focus, ignoring everyone in red around him, while those in blue provided a guard of honour. In a team game, it was an act of selfishness but sometimes they are the most satisfying, and Manchester United celebrated the single-mindedness when the ball rippled the inside of the netting.",
+   "summary_method": "feed",
+   "author": "Will Unwin at Hill Dickinson Stadium",
+   "published_at": "2026-09-06T18:00:11+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "manchester united"
+   ]
+  },
+  {
+   "id": "fdcf9389cc7204f786b9b26dbf76b229c8707dc4",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/06/cavan-sullivan-lebron-james-celebration-mls",
+   "title": "16-year-old Cavan Sullivan welcomes LeBron James to Philly after scoring: MLS roundup",
+   "summary": "Philadelphia Union midfielder Cavan Sullivan became the youngest player in MLS history ⁠to record a five-match goal contribution streak on Saturday. At 16 years and 342 ⁠days old, ⁠Sullivan ​scored in his third consecutive MLS match on Saturday when he tallied in the ⁠75th minute of the Union’s 2-0 victory over CF Montreal. He has three goals and ⁠three assists during his past five league matches.",
+   "summary_method": "feed",
+   "author": "Agencies",
+   "published_at": "2026-09-06T17:35:56+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "midfielder"
+   ]
+  },
+  {
+   "id": "d577197ff5bd09baa36fbdead4ec9d5a140c107f",
+   "source": "autosport-f1",
+   "source_name": "Autosport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.autosport.com/f1/news/why-mercedes-didnt-pit-george-russell-under-virtual-safety-car-in-italian-gp-we-didnt-know-which-st/10853147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "title": "Why Mercedes didn't pit Russell under virtual safety car in Italian GP",
+   "summary": "Kimi Antonelli's sensational win from the back of the grid in the Italian Grand Prix was thanks to a great drive, but perhaps also a little help from strategy and a timely virtual safety car. The Italian was the only Mercedes driver to make a pitstop during the race - and ultimately defeated his team-mate and championship rival George Russell.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T17:34:16+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "grand prix",
+    "george russell"
+   ]
+  },
+  {
+   "id": "cd4b642199cbded4a1118b09497c1911636d6c7d",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/here-there-are-no-rules-hamilton-calls-ferrari-out/",
+   "title": "'Here there are no rules' - Hamilton calls Ferrari out",
+   "summary": "Lewis Hamilton has hit out at a lack of rules at Ferrari, after an Italian GP compromised by an early incident with team-mate Charles Leclerc",
+   "summary_method": "feed",
+   "author": "Valentin Khorounzhiy",
+   "published_at": "2026-09-06T17:33:41+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "hamilton",
+    "leclerc"
+   ]
+  },
+  {
+   "id": "afa62f5267d2bf87c8440814c0291adbbc82efdf",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&at_campaign=rss",
+   "title": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
+   "summary": "How Arsenal and Chelsea's players rated following their Premier League match.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T17:31:56+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "premier league",
+    "arsenal",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "2d0840aefc86a5ebcd1d6faef18c11cd32c1e2df",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553082.html?ex_cid=OTC-RSS",
+   "title": "Sarah Bryce, Emma Jones keep Blaze treble on hopes on track",
+   "summary": "Lucy Higham bags four-for to help dismiss Somerset for 192 despite Sophie Luff fifty",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T17:20:22+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "ff0d537a381e657c7b618bb75264952b2357e3be",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
+   "title": "Man Utd cannot ignore more dropped points despite positives",
+   "summary": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T17:18:32+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "manchester united"
+   ]
+  },
+  {
+   "id": "9a29bd8b1dc685d5861f0a6e48813bbd6c7c3492",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/sabalenka-survives-seven-breaks-of-serve-against-townsend-to-reach-a-sixth-straight-us-open-quarterfinal-860411.html",
+   "title": "Sabalenka survives seven breaks of serve against Townsend to reach a sixth straight US Open quarterfinal",
+   "summary": "Aryna Sabalenka (No. 1) beat Taylor Townsend 6-4, 6-3 in the fourth round of the US Open 2026 on Sunday to reach her sixth consecutive quarterfinal at the tournament and her 17th at a Grand Slam. She next plays the winner of No. 11 seed Marta Kostyuk and No. 6 seed Linda Noskova.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-06T17:10:07+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "grand slam",
+    "us open",
+    "sabalenka"
+   ]
+  },
+  {
+   "id": "ee62c6c224d68f33448fd14a9a7f11db17c2526f",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/videos/cvgyp363rp9o?at_medium=RSS&at_campaign=rss",
+   "title": "Dunkley century helps England seal ODI series sweep over Ireland",
+   "summary": "Sophia Dunkley's century helped secure England's comprehensive 114-run win in the third and final one-day international against Ireland at Worcester. The victory completes a 3-0 series sweep for the hosts, on a day that also saw Ireland's Arlene Kelly receive a guard of honour as she retired from international cricket.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T17:09:50+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
   {
    "id": "7f4a8b98aa4984acd9c0bac0dc1d2b947e4991a5",
    "source": "skysports-football",
@@ -21,6 +1563,103 @@
    ]
   },
   {
+   "id": "dee819b6fbc9f81c6f8851716c1e6686d2281bf6",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/06/england-women-ireland-third-odi-match-report-cricket",
+   "title": "Sophia Dunkley’s 119 guides England to 3-0 win over Ireland despite batting collapse",
+   "summary": "A fine hundred from Sophia Dunkley ensured England sealed a series clean sweep in their third one-day international against Ireland at Worcester on Sunday, but not before a disappointing batting collapse. The hosts, batting first for the first time in the series, had looked on course for a huge total after Dunkley’s and Maia Bouchier’s powerful ball‑striking up top.",
+   "summary_method": "feed",
+   "author": "Raf Nicholson at Worcester",
+   "published_at": "2026-09-06T17:01:40+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "6df3c25756b7e0f2f0313d7ad3e125dbf6a27227",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/south-africa-clinch-t20i-tri-series-title-with-commanding-win-over-zimbabwe-6711/",
+   "title": "South Africa clinch T20I Tri-Series title with commanding win over Zimbabwe",
+   "summary": "The Proteas posted 205/5 and bowled Zimbabwe out in the 18th over to lift the tri-series trophy in Windhoek, despite injury absences.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-06T17:00:19+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "c0cf18d5ec6854eae7053605858524d7df3eb68d",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553081.html?ex_cid=OTC-RSS",
+   "title": "Chatterji stars with bat and ball as Surrey ease past Essex",
+   "summary": "Allrounder top-scores with 77 then claims two wickets in comprehensive win at Chelmsford",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T16:54:26+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
+  },
+  {
+   "id": "13a0f748fe32fdf4b6994840ab7b180c1602fdf7",
+   "source": "autosport-f1",
+   "source_name": "Autosport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.autosport.com/f1/news/after-kimi-antonellis-italian-gp-win-is-the-f1-world-title-fight-over-our-writers-have-their-say/10853110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "title": "After Antonelli’s Italian GP win, is the F1 title fight over? Our writers have their say",
+   "summary": "Kimi Antonelli’s Italian Grand Prix win from 19th on the grid was a statement performance and extends his lead in the Formula 1 world championship to 66 points. With a maximum of 10 rounds left – subject to the Qatar and Abu Dhabi GPs and the situation in the Middle East – the Italian driver is in a supremely strong position to seal the 2026 world title.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T16:44:21+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix"
+   ]
+  },
+  {
+   "id": "bdf8da86240cb260cccd2038e40c4e783efc7707",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/czxz0j29eg2o?at_medium=RSS&at_campaign=rss",
+   "title": "Baum scores on debut as Arsenal edge Brighton",
+   "summary": "Lisa Baum scores on her Arsenal debut as the Gunners beat Brighton 1-0 in the Women's Super League.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T16:42:05+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "arsenal"
+   ]
+  },
+  {
+   "id": "7ec0e646223e0133f3a94640cbc7fdda21f72060",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/cqxven59511o?at_medium=RSS&at_campaign=rss",
+   "title": "Tottenham ease to WSL opening-game win over West Ham",
+   "summary": "Kirsty Hanson scores twice on her debut as Tottenham ease to a Women's Super League opening-game win over West Ham.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T16:40:01+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "tottenham"
+   ]
+  },
+  {
    "id": "9f96ad8af863f597c3f50703b4c09070aede7545",
    "source": "skysports-football",
    "source_name": "Sky Sports",
@@ -37,6 +1676,38 @@
     "arsenal",
     "chelsea"
    ]
+  },
+  {
+   "id": "b1cf3764d26ed02d495a09fbb4ece3528b0f0ac3",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/local-and-foreign-coaches-treated-differently-in-pakistan-cricket-alleges-misbah-ul-haq-0294/",
+   "title": "Local and foreign coaches treated differently in Pakistan cricket, alleges Misbah ul Haq",
+   "summary": "Former chief selector raises concerns over differential treatment and reactive decision-making in Pakistan cricket.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-06T16:38:58+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "d9cf7361b008f1702d09a4719a5cb9e489c1fb77",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-analysis/indias-predicted-playing-xi-for-t20is-vs-afghanistan/",
+   "title": "India's predicted playing XI for T20Is vs Afghanistan",
+   "summary": "Shreyas Iyer leads the squad as India prepares for a three-match T20I series against Afghanistan starting September 13.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-06T16:32:45+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
   },
   {
    "id": "71d4fcbf6970483df550aa2748ff5b0e6bb0b138",
@@ -88,6 +1759,24 @@
    "tags": []
   },
   {
+   "id": "18f950d48ab0f1f3addafae679962bf6c245deb3",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/watch/video/13582401/everton-2-2-man-united-premier-league-highlights",
+   "title": "Late SCENES! Maitland-Niles' incredible last-gasp goal nicks point for Everton",
+   "summary": "FREE TO WATCH: Highlights from Everton’s match against Manchester United in the Premier League.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T16:19:00+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "premier league",
+    "manchester united"
+   ]
+  },
+  {
    "id": "e04f527cf2587c850ceef310dff54cbc9adab8f7",
    "source": "racefans",
    "source_name": "RaceFans",
@@ -103,6 +1792,23 @@
    "tags": [
     "formula 1",
     "grand prix"
+   ]
+  },
+  {
+   "id": "4cb580a68b77f8a1205f166030e926812bdc957d",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/ckg72549wg6o?at_medium=RSS&at_campaign=rss",
+   "title": "Man Utd result won't calm Everton fans  - Moyes",
+   "summary": "Everton manager David Moyes says Everton's 2-2 draw against Manchester United won't calm the unrest from Toffees fans over the state of their squad.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T16:17:24+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": [
+    "manchester united"
    ]
   },
   {
@@ -1092,6 +2798,21 @@
    "tags": [
     "bowler"
    ]
+  },
+  {
+   "id": "06c1c237eafab51ddd9ce25c7e0aefff16b4610a",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/pakistan-vs-hong-kong-china-live-streaming-info-where-to-watch-womens-asia-cup-2026-pak-vs-hk/article71435143.ece",
+   "title": "Pakistan vs Hong Kong LIVE streaming info: Where to watch PAK vs HK Women’s Asia Cup 2026 match?",
+   "summary": "Find out where you can catch the Women’s Asia Cup 2026 tournament match between Pakistan and Hong Kong China on Monday LIVE.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-06T12:13:07+00:00",
+   "fetched_at": "2026-09-07T06:29:04.706930+00:00",
+   "tags": []
   },
   {
    "id": "4046b3f5dda4c54da131fad535138b6b4ff34c62",
@@ -40891,21 +42612,6 @@
    "summary_method": "feed",
    "author": null,
    "published_at": "2026-08-11T01:16:34+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "00e86b05ba16e6960ee50567fa0978b529ed4099",
-   "source": "bbc-football",
-   "source_name": "BBC Sport",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
-   "title": "Life as a Wag in the transfer window",
-   "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-07T23:45:34+00:00",
    "fetched_at": "2026-08-29T09:37:02.370741+00:00",
    "tags": []
   }
