@@ -1,7 +1,724 @@
 {
- "generated_at": "2026-09-07T18:20:25.522554+00:00",
- "count": 2688,
+ "generated_at": "2026-09-08T06:20:05.025722+00:00",
+ "count": 2739,
  "items": [
+  {
+   "id": "7334596fb910ca48b7d1627ba0afd6473824dbd0",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/rohit-yadav-removed-from-india-u19-squad-over-age-fraud-bcci-names-replacements-1198/",
+   "title": "Rohit Yadav removed from India U19 squad over age fraud, BCCI names replacements",
+   "summary": "Aryan Savsani and Tanmay Baloda have been added to both the One-Day and Multi-Day squads for the home series against Australia Under-19.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-08T06:06:27+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "c95a11cda90528e6ed1ec0497b31f9c4adbbba20",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/social-tracker-cricket/kl-rahul-thanks-parth-jindal-quashes-delhi-capitals-rift-rumours-2708/",
+   "title": "KL Rahul thanks Parth Jindal, quashes Delhi Capitals rift rumours",
+   "summary": "Delhi Capitals and co-owner Parth Jindal backed Rahul publicly after reports linked him to a move to Kolkata Knight Riders ahead of IPL 2027.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-08T06:02:38+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "684fbab74fec4717e02c9b64109637de2c2c8c73",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&at_campaign=rss",
+   "title": "Newcastle were 'preparing for months' for Howe departure",
+   "summary": "Newcastle United sporting director Ross Wilson says the club were preparing for former head coach Eddie Howe's departure for up to nine months.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T05:52:48+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "c720798367d9811519a432a1cd150dae4047f1d2",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553219.html?ex_cid=OTC-RSS",
+   "title": "Mehidy Hasan Miraz set for CPL debut after joining Amazon Warriors",
+   "summary": "Mehidy Hasan Miraz will replace Mohammad Nabi, while Mohammad Haris will join the squad in place of Rahmanullah Gurbaz",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T05:51:52+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "1969b20454bd56630a15b2932aaf28b70fa87101",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553204.html?ex_cid=OTC-RSS",
+   "title": "CSA withdraws South African county players ahead of domestic season",
+   "summary": "Counties will lose key players for final three rounds of Championship following board edict",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T05:46:10+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "83a380086fcba3d3f4ad28efc43697b46ef24e89",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/duleep-trophy-live-day-3-score-updates-east-zone-vs-south-zone-final-highlights-september-8/article71441175.ece",
+   "title": "Duleep Trophy Live Score Day 3 — East vs South Final updates: Padikkal, Jagadeesan steady the innings; South Zone 67/1",
+   "summary": "Duleep Trophy LIVE Score Day 3 - Catch the live score, updates, commentary, news and highlights from the East Zone vs South Zone Final being played at the MA Chidambaram Stadium in Chennai.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T05:38:34+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "innings"
+   ]
+  },
+  {
+   "id": "ca4ccbbb6a9f95436f95a392616d533c09aa658c",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553218.html?ex_cid=OTC-RSS",
+   "title": "Kendel Kadowaki-Fleming to lead familiar looking Japan squad for India T20I",
+   "summary": "The Japan squad named for the one-off T20I against India is the same as the one that will take part in the Asian Games soon afterwards",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T05:36:58+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "aba4175d28d40947c0bb623757a31af3f368be48",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553214.html?ex_cid=OTC-RSS",
+   "title": "CA green lights BBL privatisation despite being 'a long way' from deal with players",
+   "summary": "CA board ratifies self-determination model for states on selling stakes in BBL clubs, starting with Melbourne Renegades, while players have asked for independent assessment on a revenue share dispute",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T05:36:55+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "816f6b15766decec39c379534f3b7ea1f552108b",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5yegg8zz6no?at_medium=RSS&at_campaign=rss",
+   "title": "No goals but Emery knows Villa's forwards need time",
+   "summary": "Aston Villa have not scored in their opening three Premier League games - how will manager Unai Emery find their attacking edge?",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T05:28:19+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "d69d6e73991548c339a8861ad9aab3336929a62f",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/pakistan-vs-england-3rd-test-eng-vs-pak-pcb-news/article71441323.ece",
+   "title": "Will Pakistan’s roll of the dice earn a consolation win over England in third Test?",
+   "summary": "In the aftermath of the series loss, PCB took the extraordinary step of sending seven players home and calling up another seven, five of whom are uncapped at Test level.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T05:27:21+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "2d4fc8313bb4c23b34f2b3f4ccbb95198e1e7638",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/fatima-wants-improvement-from-pakistan-in-asia-cup-semis/",
+   "title": "Fatima wants improvement from Pakistan in Asia Cup semis",
+   "summary": "Pakistan captain Fatima Sana has called for better strike rotation and partnerships ahead of the Women's Asia Cup semi-final against unbeaten Sri Lanka.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-08T05:26:14+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "80c977dea2114d55836bcd527a9846681af5e43a",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cx2z03re41ro?at_medium=RSS&at_campaign=rss",
+   "title": "Flex your football brain with our daily quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T05:19:15+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "5e94968b993dac20f7e3a781a39c695228f3e120",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/08/atp-us-open-best-bets-shelton-alcaraz/",
+   "title": "ATP US Open Best Bets Including Ben Shelton Vs Carlos Alcaraz",
+   "summary": "Carlos Alcaraz defeated Cameron Norrie 6-3, 6-4 in their BNP Paribas Open quarterfinal match on Stadium 1 at the Indian Wells Tennis Garden in Indian Wells, Calif., on Thursday, March 12, 2026.",
+   "summary_method": "feed",
+   "author": "Matt Zemek",
+   "published_at": "2026-09-08T05:00:36+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "tennis",
+    "us open",
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "c68757744d8ac57a7bdbf253f09ce3e9c04b7596",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/08/cricket-australia-shake-up-big-bash-privatisation",
+   "title": "Cricket in Australia set for dramatic shake-up after BBL privatisation plan approved",
+   "summary": "Cricket Australia say opening up the Big Bash League to private investors is in the best long-term interests of the sport in this country. Privatisation in the BBL has been approved, just months after Cricket Victoria controversially decided it wanted to merge the Melbourne Stars and Melbourne Renegades.",
+   "summary_method": "feed",
+   "author": "Australian Associated Press",
+   "published_at": "2026-09-08T04:33:11+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "cricket",
+    "big bash"
+   ]
+  },
+  {
+   "id": "66c7b5b2cc2ccdcd403aff0daac1516166eca219",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-appeal/who-are-indias-top-3-best-odi-bowlers-in-2026-so-far-6276/",
+   "title": "Who are India's top 3 best ODI bowlers in 2026 so far?",
+   "summary": "India have kicked off their preparation for the 2027 ODI World Cup in Africa, where it will be entering with hopes of going that one step further after heartbreak in a home final in 2023. The injury to Jasprit Bumrah leaves the side without an attack leader, and Arshdeep, with his left-arm angle and ability to take wickets with the new ball, could be a vital cog in India's ODI machine for the next cycle.",
+   "summary_method": "extract",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-08T04:31:08+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "e6a77dbdd28da9a66d134cad72e96e6862ef3106",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cx2zj6223dpo?at_medium=RSS&at_campaign=rss",
+   "title": "From match point to US Open exit - lucky loser denied history",
+   "summary": "France's Arthur Gea held match point to become the first lucky loser to reach a Grand Slam quarter-final - three hours later he was out of the US Open.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T04:24:44+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "grand slam",
+    "us open"
+   ]
+  },
+  {
+   "id": "e9168fa4de178afa0962e7e580d8d163529bd7d9",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/india-vs-australia-u19-aryan-savsani-tanmay-baloda-replace-rohit-yadav-age-fraud-accused-ind-v-aus/article71441247.ece",
+   "title": "IND vs AUS, U-19 series: Savsani, Baloda named replacements for age-fraud accused Rohit",
+   "summary": "Aryan Savsani will replace Rohit Yadav in the One-Day squad while Tanmay Baloda took Rohit’s spot in the Multi-Day squad for India vs Australia.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T04:22:33+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "74f7ff8d6998347a27649fa0ff2709b20ec8977e",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c4grdkrdy13o?at_medium=RSS&at_campaign=rss",
+   "title": "Worrall out to make Wrexham point after Burnley exit",
+   "summary": "Deadline day Wrexham signing Joe Worall says opportunities were \"scarce\" at Burnley, as he prepares to welcome his former side to the Racecourse.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T04:20:25+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "0c17c02080140629ac09f5fa34dc84c54bafe65b",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/ce8xzejr2d5o?at_medium=RSS&at_campaign=rss",
+   "title": "Swansea's golden boot winner yet to kick start season",
+   "summary": "Zan Vipotnik has been backed to return to form for Swansea City, even though he is still not guaranteed to return to the starting side.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T04:20:16+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "e0608980a8e91034b41827aa11627992f9a8cc7d",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553215.html?ex_cid=OTC-RSS",
+   "title": "Aryan Savsani and Tanmay Baloda replace suspended Rohit Yadav in India Under-19 squads",
+   "summary": "Rohit Yadav, a legspinner who was part of the India Under-19 tour of Sri Lanka in July this year, was handed a two-year ban for age discrepancy last Friday",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T04:09:23+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "43c368b97f2c5bd4130fc1e7d117bd36019a6e9d",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/08/coco-gauff-iva-jovic-us-open-quarter-finals-mirra-andreeva",
+   "title": "Coco Gauff dismantles Iva Jovic to reach quarter-finals in confident US Open run",
+   "summary": "Coco Gauff continued her serene march through the US Open women’s draw with her most complete performance yet on Monday night, seeing off fellow American Iva Jovic 6-1, 6-4 to reach the last eight in New York for the first time since winning it all in her grand slam breakthrough three years ago.",
+   "summary_method": "feed",
+   "author": "Bryan Armen Graham at Flushing Meadows",
+   "published_at": "2026-09-08T04:00:41+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "grand slam",
+    "us open",
+    "coco gauff"
+   ]
+  },
+  {
+   "id": "f3a603bc0ea6091a826b30fd6349cf7340842f05",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/zverev-sweeps-aside-darderi-to-complete-the-us-open-last-eight-and-a-quarterfinal-at-all-four-majors-blockx-and-khachanov-in-860532.html",
+   "title": "Zverev sweeps aside Darderi to complete the US Open last eight and a quarterfinal at all four majors, Blockx and Khachanov in",
+   "summary": "Alexander Zverev has now reached the quarterfinals of all four Grand Slams this season, the only man to manage it, the top seed beating No. 21 seed Luciano Darderi 6-2, 6-2, 7-6 (3) for a 50th win of a year that already holds his first major title. He completes a US Open last eight that also gained Karen Khachanov, through from two sets to one down against Learner Tien, and Alexander Blockx, the first Belgian man ever to reach this stage in New York.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-08T03:50:07+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "us open",
+    "zverev"
+   ]
+  },
+  {
+   "id": "2731e8623ab2b16e3033cbabe43602de0a43ef71",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/07/wta-us-open-pegula-navarro/",
+   "title": "WTA US Open Quarterfinal Best Bets Including Jessica Pegula vs Emma Navarro",
+   "summary": "This WTA US Open match begins with the fact that Jessica Pegula is 4-0 against Emma Navarro, including one very recent match in Cincinnati, which Pegula won 7-5, 6-2. Pegula is 9-1 in her last 10 matches, the only loss being to Coco Gauff, the player many think is the favorite to win the WTA US Open title.",
+   "summary_method": "extract",
+   "author": "Kane Webb",
+   "published_at": "2026-09-08T03:40:32+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "bf9ce0279c293c556f50106d0dd17bbc90b608a4",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
+   "title": "Gauff's statement win completes stacked US Open last eight",
+   "summary": "Coco Gauff powers past teenage star Iva Jovic as the top six seeds reach the US Open women's quarter-finals for the first time in 28 years.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T02:59:35+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "us open",
+    "coco gauff"
+   ]
+  },
+  {
+   "id": "b816681c2086826ccfcb64ec917d6cfff080ec74",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/van-de-zandschulp-saves-a-match-point-and-outlasts-gea-in-the-fourth-longest-match-in-us-open-history-860522.html",
+   "title": "Van de Zandschulp saves a match point and outlasts Gea in the fourth-longest match in US Open history",
+   "summary": "Arthur Gea held a match point and then served for the match, and finished 5 hours and 13 minutes of the fourth-longest contest in US Open history with nothing, Botic van de Zandschulp winning 3-6, 6-7 (0), 7-6 (7), 7-6 (3), 6-4 to reach his first quarterfinal in New York since 2021. Lucky losers are now 0-13 in Grand Slam fourth rounds.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-08T02:05:07+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "grand slam",
+    "us open"
+   ]
+  },
+  {
+   "id": "91c4c73da1e9ea4c7427b5cc57c6b9b666f4387d",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/september-8-2002-sampras-signs-off-in-style-286844.html",
+   "title": "September 8, 2002: Pete Sampras goes out on a high with US Open title",
+   "summary": "On this day in tennis history, Pistol Pete faced an old foe in the US Open final, and wrapped up his storied career in style",
+   "summary_method": "feed",
+   "author": "Alexandre Sokolowski",
+   "published_at": "2026-09-08T01:49:57+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "tennis",
+    "us open"
+   ]
+  },
+  {
+   "id": "592d09ae84bf984eb6f2225e57ba7024a70780d3",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553208.html?ex_cid=OTC-RSS",
+   "title": "Chapman shifts to casual New Zealand contract to play in the BBL",
+   "summary": "Chapman set to play in the white-ball series against India in November before heading to the BBL with seamer Matt Fisher elevated to the full-time contract list",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T01:18:38+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "7c8d3652d998cf7f2bc0a742033fa9b39255727f",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/gauff-overpowers-jovic-to-set-up-an-andreeva-quarterfinal-and-complete-a-star-studded-last-eight-860515.html",
+   "title": "Gauff overpowers Jovic to set up an Andreeva quarterfinal and complete a star-studded last eight",
+   "summary": "Coco Gauff was broken in the first game and won six straight, beating 18-year-old compatriot Iva Jovic 6-1, 6-4 to reach a US Open quarterfinal for the first time since her 2023 title. Nineteen sets have now passed without the American losing one, and Mirra Andreeva is next.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-08T00:50:10+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "us open",
+    "coco gauff"
+   ]
+  },
+  {
+   "id": "ff63738dc8a541d9ae18a718b39219420c7fa115",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13582860/transfer-news-borussia-dortmund-midfielder-felix-nmecha-on-man-utds-radar-paper-talk",
+   "title": "Papers: Man Utd monitoring Dortmund star Nmecha",
+   "summary": "The top stories and transfer rumours from Tuesday's newspapers",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T23:15:00+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "7da2e44afaa702c77cb67e361fa71bba5dc1a9a1",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/08/on-this-day-zanardi-grabs-laguna-sena-win-with-last-lap-pass-in-corkscrew/",
+   "title": "On This Day: Zanardi grabs Laguna Sena win with last-lap pass in Corkscrew | Brief",
+   "summary": "Zanardi grabs Laguna Sena win with last-lap pass in Corkscrew",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-07T23:01:14+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "81b1aa4994f690f42e7e925afc7d03a0622fb714",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cvgy87d2lj9o?at_medium=RSS&at_campaign=rss",
+   "title": "Chiesa might leave Liverpool - Tuesday's gossip",
+   "summary": "Federico Chiesa's future at Liverpool is in doubt, Jadon Sancho might return to the Premier League, Real Madrid's Endrick is attracting interest from Italy, plus more.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T22:05:37+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "premier league",
+    "liverpool",
+    "real madrid"
+   ]
+  },
+  {
+   "id": "d8583381d1edc2bd716e9c86f87d3127934dc3eb",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/07/enzo-maresca-erling-haaland-manchester-city-porto-champions-league",
+   "title": "Maresca eyes rest for busy dad Haaland as Manchester City prepare for Porto",
+   "summary": "Enzo Maresca believes Erling Haaland has become “complete” as his priorities have changed after the birth of the Manchester City No 9’s son two years ago. Haaland has again started the campaign in prolific form, scoring three goals in City’s opening three Premier League victories. In three of the 26‑year‑old’s four previous seasons at City he has won the Premier League golden boot. Maresca pointed to how the birth of his son in 2024 changed the Norwegian’s motivation.",
+   "summary_method": "feed",
+   "author": "Jamie Jackson in Porto",
+   "published_at": "2026-09-07T21:55:30+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "premier league",
+    "manchester city",
+    "erling haaland"
+   ]
+  },
+  {
+   "id": "be9c964784226afdc41e64032aa896754628bb95",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/07/preview-ben-shelton-faces-biggest-test-yet-against-carlos-alcaraz-in-the-us-open-quarterfinals/",
+   "title": "Preview: Ben Shelton Faces Biggest Test Yet Against Carlos Alcaraz in the US Open Quarterfinals",
+   "summary": "We are near the business end of the final Major of the year, as the quarterfinal matchups in one half of the draw are now set, with American No.1 Ben Shelton taking on what many believe, despite his ranking, is the best player on the planet currently, Carlos Alcaraz. Getting the crowd into the match, against the ultimate crowd favourite in Alcaraz, will also be crucial for Shelton.",
+   "summary_method": "extract",
+   "author": "Zain Mustafa",
+   "published_at": "2026-09-07T21:45:28+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "us open",
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "517a89e87afd0d80677f8b91bcea1d6f594989ed",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/07/qinwen-zheng-outlasts-swiatek-us-open/",
+   "title": "Qinwen Zheng Outlasts Iga Świątek in a Thrilling US Open Clash",
+   "summary": "Tennis - U.S. Open - Flushing Meadows, New York, United States - September 5, 2026 China's Qinwen Zheng reacts during her third round match against Madison Keys of the U.S.",
+   "summary_method": "feed",
+   "author": "Chiara Pastore",
+   "published_at": "2026-09-07T21:31:04+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "tennis",
+    "us open"
+   ]
+  },
+  {
+   "id": "e6a5b561f2b7512f5316c64cb1f3754e90ec2c1e",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/07/us-open-womens-quarterfinal-predictions-sabalenka-noskova/",
+   "title": "US Open Women’s Quarterfinal Predictions Including Aryna Sabalenka vs Linda Noskova",
+   "summary": "While Navarro has played some excellent tennis to get to the quarterfinals, Pegula is one of her worst matchups and she’s playing just as well. Navarro played some exceptional tennis in dismissing Muchova and Kalinskaya, but Pegula won’t give her any rhythm to settle in this match.",
+   "summary_method": "extract",
+   "author": "Yesh Ginsburg",
+   "published_at": "2026-09-07T21:30:54+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "us open",
+    "sabalenka"
+   ]
+  },
+  {
+   "id": "e1f91536b14896ae82200264d4a7ab6852df2a67",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/one-win-from-world-no-1-rybakina-overpowers-osaka-to-reach-her-first-us-open-quarterfinal-860506.html",
+   "title": "One win from world No. 1: Rybakina overpowers Osaka to reach her first US Open quarterfinal",
+   "summary": "Elena Rybakina hit 29 winners to nine and lost her serve once all evening, beating two-time champion Naomi Osaka 6-1, 6-4 to reach a US Open quarterfinal for the first time and complete the set at all four majors. One more win in New York and the Kazakh, still without a set dropped this fortnight, will be world No. 1.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-07T21:25:07+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "b3a0cf193bc61defeb70329894f579c2f57d02b9",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0p8ggvr?at_medium=RSS&at_campaign=rss",
+   "title": "Test Match Special Podcast",
+   "summary": "Mark Chapman is joined by Jimmy Anderson, Michael Vaughan and Stephan Shemilt.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T21:22:00+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "test match"
+   ]
+  },
+  {
+   "id": "200482e3f85deedbb7db8f09d7d63a303d85daa4",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/ferrari-now-facing-pivotal-f1-choices/",
+   "title": "The pivotal choices Ferrari is now facing",
+   "summary": "If the Italian GP result was disappointing for Ferrari, the fallout from the rest of the weekend amounts to a crisis. What next for F1 team and leader?",
+   "summary_method": "feed",
+   "author": "Ben Anderson",
+   "published_at": "2026-09-07T20:38:39+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "38eb930ca538fe9d4aaafb6e6786bfeea80c9b39",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/07/emery-ready-to-ignite-aston-villas-season-at-club-brugge-after-familiar-slow-start",
+   "title": "Emery ready to ignite Aston Villa’s season at Club Brugge after familiar slow start",
+   "summary": "Manager remains calm despite his side taking one point and scoring no goals in opening three Premier League games Unai Emery is not panicking. He may kick every ball on the touchline but, behind closed doors, Aston Villa’s players are used to him being the calmest person in the room, routinely more demanding after victory than defeat.",
+   "summary_method": "feed",
+   "author": "Ben Fisher in Bruges",
+   "published_at": "2026-09-07T20:35:03+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "2369df9aa024e18d443a2b34f944758a52a5f6ae",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0p8gcc1?at_medium=RSS&at_campaign=rss",
+   "title": "US Open: What next for Iga Swiatek?",
+   "summary": "Iga Swiatek will go a calendar year without winning a Slam for the first time since 2021.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T20:32:00+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "us open",
+    "swiatek"
+   ]
+  },
+  {
+   "id": "59b684e2aecb47c7867dbaa940c925b06bcdae24",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss",
+   "title": "Champions League returns - who are favourites and players to watch?",
+   "summary": "The Champions League is back and BBC Sport take a look at who the favourites are to win the title plus predictions from the experts.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T20:30:53+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "champions league"
+   ]
+  },
+  {
+   "id": "62b667546f7c27b70c01b93427e90b7b22215432",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/07/us-open-quarterfinal-predictions-alcaraz-shelton/",
+   "title": "US Open Quarterfinal Predictions Including Carlos Alcaraz vs Ben Shelton",
+   "summary": "We have two amazing men’s quarterfinal matches scheduled at the US Open on Tuesday, including possibly the biggest match for an American man in New York in decades (well, second-biggest, as Taylor Fritz made the final in 2024). Shelton, with his aggressive play and big serve himself, can stay in this match for stretches, but the Spaniard is just too good of a baseliner and returner not to win this match, given he has already shown that the wrist injury is behind him.",
+   "summary_method": "extract",
+   "author": "Yesh Ginsburg",
+   "published_at": "2026-09-07T20:30:48+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "us open",
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "ffc84979ce7da7d047f0477499a724f2f833bc17",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/07/zheng-qinwen-erases-another-5-0-deficit-to-stun-swiatek-and-reach-us-open-quarter-finals",
+   "title": "Zheng Qinwen erases another 5-0 deficit to stun Swiatek and reach US Open quarter-finals",
+   "summary": "The most important takeaway from 12 days at the US Open is simple: do not, by any means, lead 5-0 against Zheng Qinwen. No scoreline is as hazardous. On Friday, the former Australian Open champion Madison Keys learned this lesson the hard way as she led Zheng 5-0 in the final set of an intense tussle before Zheng, the Olympic gold medallist, rolled through seven consecutive games to win the match. Somehow, two days later, Zheng repeated the trick in her very next set against a greater opponent.",
+   "summary_method": "feed",
+   "author": "Tumaini Carayol at Flushing Meadows",
+   "published_at": "2026-09-07T20:10:27+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "us open",
+    "australian open",
+    "swiatek"
+   ]
+  },
   {
    "id": "32d24c4c37ca0b77778e3c7e71f3274b348969e4",
    "source": "bbc-football",
@@ -16,6 +733,86 @@
    "published_at": "2026-09-07T20:00:00+00:00",
    "fetched_at": "2026-09-07T18:19:44.628864+00:00",
    "tags": []
+  },
+  {
+   "id": "78ade74683d83f17fcadf936ac792818fa324dac",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/07/social-media-sainz-to-use-his-original-helmet-design-for-first-race-in-madrid/",
+   "title": "Social Media: Sainz to use his original helmet design for first race in Madrid | Brief",
+   "summary": "Sainz brings back his original helmet design for first race in Madrid",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-07T19:40:02+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "e8ef1dd464e601fa875ebe9def97b62c750baeb2",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/07/lawson-and-tsunoda-continue-for-another-weekend-as-injury-keeps-hadjar-out-for-third-round/",
+   "title": "Lawson and Tsunoda called up again as injury keeps Hadjar out for third weekend | Formula 1",
+   "summary": "Isack Hadjar will miss a third consecutive grand prix due to his wrist injury. Liam Lawson will remain at Red Bull and Yuki Tsunoda at Racing Bulls.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-07T19:17:13+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix"
+   ]
+  },
+  {
+   "id": "4e72d47df1dac8504ea6d1b392d67a28d55a8146",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/07/kevin-pietersen-must-tread-carefully-as-england-mentor-after-life-as-an-outspoken-pundit",
+   "title": "Kevin Pietersen must tread carefully as England mentor after life as an outspoken pundit | Mark Ramprakash",
+   "summary": "The former player’s credentials speak for themselves but the ECB has also taken a risk in employing him until the end of next year For most of the time since his retirement as a player Kevin Pietersen has worked as a pundit and commentator, encouraged to be outspoken, hold strong opinions and state them powerfully. After his surprise appointment as a specialist mentor to the England men’s white-ball teams he will have to tread a bit more carefully.",
+   "summary_method": "feed",
+   "author": "Mark Ramprakash",
+   "published_at": "2026-09-07T19:00:15+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "cf7d92849f3c2f6a44990d6739d66e11ac8ff116",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/womens-asia-cup-pakistan-vs-hong-kong-semifinals-qualifiers/article71440226.ece",
+   "title": "Women’s Asia Cup: Pakistan makes light work of Hong Kong, seals spot in semifinals",
+   "summary": "With the win, Pakistan finished second in Group A behind India with two wins and one defeat, and will face Sri Lanka in the second semifinal on September 11.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T18:44:52+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
+  },
+  {
+   "id": "96b625ed5ff3670771f7af91eb9dcffddcb0344d",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553203.html?ex_cid=OTC-RSS",
+   "title": "Sandhu's 6 for 7 seals Pakistan's semi-final spot",
+   "summary": "She became the first Pakistan bowler to bag a six-for in women's T20Is as Pakistan crushed Hong Kong by 72 runs to set up a semi-final date with Sri Lanka",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T18:37:49+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "bowler"
+   ]
   },
   {
    "id": "6b09060d5066c5d91de3f94b0017f016d3563e7c",
@@ -137,6 +934,24 @@
    "tags": []
   },
   {
+   "id": "66f100f803bedb896faeedf3679ad1c3592309d5",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/zheng-erases-0-5-for-the-second-match-running-and-knocks-swiatek-out-of-the-us-open-860492.html",
+   "title": "Zheng erases 0-5 for the second match running and knocks Swiatek out of the US Open",
+   "summary": "Qinwen Zheng trailed Iga Swiatek 5-0 and won the set, then the match, beating the No. 8 seed 7-5, 6-3 to reach the US Open quarterfinals as a qualifier ranked No. 121. It is the second match running in which the Chinese player has recovered a set from 0-5, and she is the first qualifier into the last eight in New York since Emma Raducanu in 2021.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-07T17:45:06+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "us open",
+    "swiatek"
+   ]
+  },
+  {
    "id": "c12dc7b60ad5ca1414cbb5818d78025660ff1477",
    "source": "guardian-football",
    "source_name": "The Guardian",
@@ -167,6 +982,23 @@
    "published_at": "2026-09-07T17:40:31+00:00",
    "fetched_at": "2026-09-07T18:19:44.628864+00:00",
    "tags": []
+  },
+  {
+   "id": "eb0172b91ef399f612fda94c2abeff6e3cd8d200",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/andreeva-recovers-to-reach-her-first-us-open-quarterfinal-as-potapova-is-hurt-in-the-third-860491.html",
+   "title": "Andreeva recovers to reach her first US Open quarterfinal as Potapova is hurt in the third",
+   "summary": "Mirra Andreeva turned the match around after losing the opening set and beat Anastasia Potapova 5-7, 6-4, 6-3 to reach her first US Open quarterfinal, at a tournament where she had never got past the third round. The 19-year-old Roland-Garros champion crossed the net to check on her friend after Potapova hurt her leg at 5-3 in the decider.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-07T17:40:06+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": [
+    "us open"
+   ]
   },
   {
    "id": "359ba74a1f331152501e2d6eee5c1b36e1540fd0",
@@ -643,6 +1475,21 @@
    "tags": [
     "football"
    ]
+  },
+  {
+   "id": "1fb9ae59d4cd1965ee270c069f2caa6c86f82fa4",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/news/articles/c780nz2669do?at_medium=RSS&at_campaign=rss",
+   "title": "Barton to remain in custody before 2027 trial",
+   "summary": "The former footballer, who is accused of an assault at a golf club, has been refused bail.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-07T14:43:32+00:00",
+   "fetched_at": "2026-09-08T06:19:20.923996+00:00",
+   "tags": []
   },
   {
    "id": "3ba6a6fbb3e5e25dbab570006ca8be0bb527822a",
