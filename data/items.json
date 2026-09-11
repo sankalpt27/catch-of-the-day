@@ -1,7 +1,1282 @@
 {
- "generated_at": "2026-09-10T17:05:53.998290+00:00",
- "count": 3299,
+ "generated_at": "2026-09-11T06:28:43.039991+00:00",
+ "count": 3380,
  "items": [
+  {
+   "id": "3d58bf1394eb2acb85ea6363ece2aea808573598",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/september-11-1999-serenas-first-slam-287709.html",
+   "title": "September 11, 1999: The day Serena Williams won her first Grand Slam title at the US Open",
+   "summary": "Every day Tennis Majors takes you back in time to celebrate a great moment in tennis history.",
+   "summary_method": "feed",
+   "author": "Alexandre Sokolowski",
+   "published_at": "2026-09-11T10:28:47+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "tennis",
+    "grand slam",
+    "us open"
+   ]
+  },
+  {
+   "id": "69ff007225a7ac61f687e6577b3233777a4d4937",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/heading-into-this-game-finding-that-flow-was-my-primary-goal-mohammed-siraj-explains-reason-behind-duleep-trophy-appearance/",
+   "title": "'Heading into this game, finding that flow was my primary goal' - Mohammed Siraj explains reason behind Duleep Trophy appearance",
+   "summary": "India pacer Mohammed Siraj opens up on his struggle to find rhythm after a two-month break and how the Duleep Trophy final helped him regain his pace and flow.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-11T06:23:44+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "006214cc6140a05fd70575fad7621ef3fa48dd6a",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/cook-labels-lack-of-centuries-from-england-a-concern-5684/",
+   "title": "Cook labels lack of centuries from England a 'concern'",
+   "summary": "England batters have managed 22 50-plus scores throughout the summer, but Ben Duckett's 113 against New Zealand at Trent Bridge remains the only hundred scored across six Tests.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-11T06:21:00+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "ce8947c5abb829a548d53bc7e641212db9f2af57",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553691.html?ex_cid=OTC-RSS",
+   "title": "Shafali, Deepti power India into sixth T20 Asia Cup final",
+   "summary": "Both teams were sub-par with their fielding, but India comfortably prevailed over Bangladesh in Dubai",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T06:09:07+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "8495210aaf9d11558003afe7c22b2597530c7c40",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cd08728rz0xo?at_medium=RSS&at_campaign=rss",
+   "title": "Leeds want boss Farke to stay 'long-term'",
+   "summary": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on the same page\" as they look to agree a new contract.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T06:00:35+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "23cb695f99db56c57141bfd02a4ef18bad47e7f2",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cx2zngqxylpo?at_medium=RSS&at_campaign=rss",
+   "title": "'I want to play for mum' – Arsenal's Cooney-Cross",
+   "summary": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to her bereavement \"one day at a time\".",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T05:52:56+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "arsenal"
+   ]
+  },
+  {
+   "id": "c235dc6ca60ca49d85e63fa100a76e13fdcac0ef",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/clymlve2v0xo?at_medium=RSS&at_campaign=rss",
+   "title": "Flex your football brain with our daily quizzes",
+   "summary": "Test your ball knowledge against Who Am I?, Five in Five and Brainteaser.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T05:52:39+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "dacf388bcc6744c282f384d0d6fc99b2e6148905",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/womens-asia-cup-final-india-deepti-sharma-fielding-issues-news/article71454846.ece",
+   "title": "Women’s Asia Cup 2026: Deepti brushes aside India’s fielding woes, says team ready for final",
+   "summary": "Despite winning all its encounters in the tournament so far, India has been lacklustre in the field and was guilty of dropping four chances during the semifinal against Bangladesh.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T05:50:07+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "67d5c03166e2d551c05b6a613a2b36798f44b59b",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/disrespect-and-disregard-for-test-match-cricket-hussain-blasts-pakistan-over-saim-ayub-call-up/",
+   "title": "'Disrespect and disregard for Test match cricket' - Hussain blasts Pakistan over Saim Ayub call-up",
+   "summary": "Ayub, who had been taking part in the CPL in the West Indies, was dismissed for a pair at Edgbaston.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-11T05:34:12+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "cricket",
+    "test match"
+   ]
+  },
+  {
+   "id": "32b457ba9b06df3def5cb7318929cae78af75eab",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/ce8xzg9e81ro?at_medium=RSS&at_campaign=rss",
+   "title": "Saint-Maximin on speaking out after his children were racially abused",
+   "summary": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T05:23:22+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "77835b3393c3476e0d7b7e67a71e03f9091e0584",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/cpl-2026-match-33-gaw-vs-tkr-match-prediction-who-will-win-todays-cpl-match-between-guyana-amazon-warriors-vs-trinbago-knight-riders/",
+   "title": "CPL 2026: Match 33, GAW vs TKR Match Prediction – Who will win today’s CPL match between Guyana Amazon Warriors vs Trinbago Knight Riders?",
+   "summary": "Guyana Amazon Warriors (GAW) take on Trinbago Knight Riders (TKR) in match No. 33 of the ongoing Caribbean Premier League (CPL) 2026 at the Providence Stadium in Guyana on Saturday, September 12.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-11T05:18:29+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "8188f69884170cd232ae97d6af47b5ca22df4ea6",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/pakistan-vs-sri-lanka-semifinal-live-streaming-info-where-to-watch-womens-asia-cup-pak-sl/article71454753.ece",
+   "title": "Pakistan vs Sri Lanka LIVE streaming info: Where to watch PAK vs SL Women’s Asia Cup 2026 semifinal?",
+   "summary": "Find out where you can catch the Women’s Asia Cup 2026 tournament semifinal match between Pakistan and Sri Lanka on Friday LIVE.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T05:01:34+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "916873d71d282d94d4b06637db5b171e85990258",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/11/ashes-legal-dispute-hampshire-damages-england-cricket",
+   "title": "Ashes legal dispute: Hampshire damages claim led to lack of 2027 Test in north of England",
+   "summary": "The lack of Ashes cricket in the north of England next summer is the result of a legal dispute that followed the allocation of venues for the 2023 series against Australia, which also involved the England and Wales Cricket Board (ECB) paying about £1m in damages to Hampshire. The Guardian can reveal that Hampshire brought a legal challenge against the ECB after missing out on hosting the Ashes in 2023 to Yorkshire, who staged the third Test – which England won by three wickets – at Headingley.",
+   "summary_method": "feed",
+   "author": "Exclusive by Matt Hughes",
+   "published_at": "2026-09-11T05:00:03+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "cricket",
+    "the ashes"
+   ]
+  },
+  {
+   "id": "109ef457dfe091c66a98416a7dcb1a8f9446f660",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/11/sports-quiz-of-the-week-monza-drama-us-open-heroics-and-unusual-side-hustles",
+   "title": "Sports quiz of the week: Monza drama, US Open heroics and unusual side hustles",
+   "summary": "Test your knowledge of the big stories in football, tennis, cricket, rugby union, F1 and more",
+   "summary_method": "feed",
+   "author": "Will Magee",
+   "published_at": "2026-09-11T05:00:01+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "cricket",
+    "football",
+    "tennis",
+    "us open"
+   ]
+  },
+  {
+   "id": "5940952734e313761f42368ed9a0d9dacaf39e95",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-appeal/duleep-trophy-2026-top-3-wicket-takers/",
+   "title": "Duleep Trophy 2026: Top 3 wicket-takers",
+   "summary": "East Zone clinched the Duleep Trophy 2026 title on the basis of their first-innings lead over South Zone in the final at Chennai.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-11T04:55:21+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "wicket",
+    "innings"
+   ]
+  },
+  {
+   "id": "133e5d08c4cd9576ae94d2e7e34da1dd62ce6312",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-appeal/top-3-youngsters-who-impressed-the-most-in-duleep-trophy-2026-0622/",
+   "title": "Top 3 youngsters who impressed the most in Duleep Trophy 2026",
+   "summary": "East Zone's triumph in the Duleep Trophy 2026 was built on some outstanding performances from young domestic cricketers.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-11T04:52:56+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "14cd192a13078ff6f53a9b6df237ceb99a828088",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/namibia-vs-south-africa-2nd-odi-live-streaming-details-where-to-watch-nam-vs-rsa-series/article71454732.ece",
+   "title": "Namibia vs South Africa, 2nd ODI live streaming details: When, where to watch the second NAM vs RSA ODI?",
+   "summary": "NAM vs RSA live streaming info: Here’s how to watch the 2nd ODI between Namibia and South Africa, set to be played at the Namibia Cricket Ground in Windhoek on Friday.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T04:50:04+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "d9740c9d9098237171f33d6684d2e0e3ffcb5ffd",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
+   "title": "Rybakina sets up blockbuster Sabalenka final at US Open",
+   "summary": "Soon-to-be world number one Elena Rybakina will face Aryna Sabalenka in a blockbuster US Open final between the tournament's top two seeds.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T04:41:31+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "us open",
+    "sabalenka"
+   ]
+  },
+  {
+   "id": "e7f13bec2b8a7f97d9d339f0fadf64cb7eaa9594",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553709.html?ex_cid=OTC-RSS",
+   "title": "Green-fuelled win lifts Tridents from the bottom",
+   "summary": "Wanindu Hasaranga and Jason Holder put in handy shifts for St Kitts and Nevis Patriots but they faltered in all departments on the whole",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T04:41:30+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "9109a0722d1a42d898bb6656c9780799df127e22",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553710.html?ex_cid=OTC-RSS",
+   "title": "'My body doesn't handle long breaks well' - Siraj on losing and rediscovering his rhythm",
+   "summary": "Mohammed Siraj was off the boil in the first innings of the Duleep Trophy final, but then got back in sync in the second innings",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T04:41:29+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "innings"
+   ]
+  },
+  {
+   "id": "449c36793a0edd696c41e8d74d1b6276dcf4ca83",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/environment/2026/sep/11/country-diary-the-slow-magic-of-growing-a-cricket-bat-from-scratch",
+   "title": "Country diary: The slow magic of growing a cricket bat from scratch | Michael White",
+   "summary": "Cranbrook, Kent: We are felling a crop of willow trees that have managed to survive their nemesis – the grey squirrel – and are destined for the batter’s grip As the thwack of leather on willow fades from village greens with the waning of the cricket season, a new sound, perhaps less evocative of the country idyll, fills our little valley. Toppled willow trees rip through the canopies of their doomed neighbours, and drop with dull thuds to the angry screams of chainsaws.",
+   "summary_method": "feed",
+   "author": "Michael White",
+   "published_at": "2026-09-11T04:30:00+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "cricket",
+    "batter"
+   ]
+  },
+  {
+   "id": "8e8bcf2fb7b05169213bbbcba1f4c596c1e4700f",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553708.html?ex_cid=OTC-RSS",
+   "title": "Pakistan or Sri Lanka in the final? 'Doesn't matter,' says Deepti Sharma",
+   "summary": "\"I think that it will be a day here or a day there, it happens,\" Deepti Sharma says after India had another poor fielding day in the Women's T20 Asia Cup semi-final against Bangladesh",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T04:22:30+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "629643b1fa3ed38d68b49c3ecfcc7827ad681de3",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates",
+   "title": "US Open tennis 2026 women’s semi-finals: Rybakina beats Gauff to set up Sabalenka final – as it happened",
+   "summary": "First set: Sabalenka 1-0 *Pegula (*denotes next server) A strong start for Sabalenka, who wins the first game with ease. She gets an ace on the second point of the match and keeps the rallies short to hold.",
+   "summary_method": "feed",
+   "author": "Ella Brockway",
+   "published_at": "2026-09-11T03:36:39+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "tennis",
+    "us open",
+    "sabalenka"
+   ]
+  },
+  {
+   "id": "847a17adc6afcdc99c76c0f2ec95b7dec9a9721b",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/11/elena-rybakina-beats-coco-gauff-us-open-womens-semi-final",
+   "title": "Elena Rybakina rallies to beat Coco Gauff and book US Open final with Aryna Sabalenka",
+   "summary": "One set may have already passed in her first US Open semi-final, but Elena Rybakina still had not arrived inside Arthur Ashe Stadium. While an inspired Coco Gauff blew through the first stanza covering every inch of the acrylic surface as their 22,000-strong audience screamed for the Kazakhstani’s blood, Rybakina was wild and erratic from the baseline and her peerless serve was nowhere to be seen.",
+   "summary_method": "feed",
+   "author": "Tumaini Carayol at Flushing Meadows",
+   "published_at": "2026-09-11T03:28:03+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "us open",
+    "sabalenka",
+    "coco gauff"
+   ]
+  },
+  {
+   "id": "bcaa009859a4f9a53557231f19c01f6cda2e5d20",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/sabalenka-against-rybakina-the-champion-against-the-new-no-1-the-us-open-is-set-for-a-thrilling-final-860703.html",
+   "title": "Sabalenka against Rybakina, the champion against the new No. 1: the US Open is set for a thrilling final",
+   "summary": "The US Open final is between the outgoing world No. 1 and the incoming one. Aryna Sabalenka beat Jessica Pegula 7-5, 6-2 to reach an eighth consecutive Grand Slam final on hard courts, a record nobody in the Open era has matched, and Elena Rybakina beat Coco Gauff 3-6, 6-4, 6-4 to reach her first final here and confirm the ranking she takes from Sabalenka on Monday.",
+   "summary_method": "feed",
+   "author": "Tennis Majors and partners",
+   "published_at": "2026-09-11T03:10:07+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "grand slam",
+    "us open",
+    "sabalenka",
+    "coco gauff"
+   ]
+  },
+  {
+   "id": "359e82be7ea312320023239ffbb74c704bbcc6a4",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/10/aryna-sabalenka-jessica-pegula-us-open-semi-final-tennis",
+   "title": "Aryna Sabalenka on brink of US Open trifecta after blitzing Jessica Pegula",
+   "summary": "Aryna Sabalenka’s grip on the US Open showed no sign of weakening on Thursday night as the two-time defending champion swept past Jessica Pegula 7-5, 6-2 to move one win from a third straight title. The top-seeded Belarusian star finished with 29 winners to Pegula’s 12, her relentless aggression turning what had been a 50-50 fight deep into the opening set into a one-sided affair that marked her 19th consecutive victory at Flushing Meadows.",
+   "summary_method": "feed",
+   "author": "Bryan Armen Graham at Flushing Meadows",
+   "published_at": "2026-09-11T02:49:11+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "us open",
+    "sabalenka"
+   ]
+  },
+  {
+   "id": "a048648c161264929f972fece46ce062dcf56da6",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/czezw6xy782o?at_medium=RSS&at_campaign=rss",
+   "title": "British duo Hewett & Reid into US Open men's wheelchair doubles final",
+   "summary": "British duo Alfie Hewett and Gordon Reid come from a set down to reach the final of the men's wheelchair doubles at the US Open.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T01:23:03+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "8814e4b760ba442da702e875ad65fcc2c8ce52f8",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cr7d009pp9lo?at_medium=RSS&at_campaign=rss",
+   "title": "Harrison & GB's Skupski into US Open men's doubles final",
+   "summary": "Briton Neal Skupski and American Christian Harrison reach the US Open men's doubles final by beating top seeds Henry Patten and Harri Heliovaara.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T00:14:06+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "af0e2a800afffee06728a3323ed08fa1ccd01feb",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0p92dc5?at_medium=RSS&at_campaign=rss",
+   "title": "US Open: Tennis remembers 9/11 25 years on",
+   "summary": "New York native and former top 5 player James Blake shares his memories of September 11",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T23:38:00+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "tennis",
+    "us open"
+   ]
+  },
+  {
+   "id": "b0fd28434c736bc5340e100ab1947cb7a5f80efb",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend",
+   "title": "Premier League: 10 things to look out for this weekend",
+   "summary": "Nicolas Jackson is ready to impress, Spurs are scrambled and the 199th Manchester derby takes place at Old Trafford With 10 top-flight goal contributions between them across three games already this season, the Chelsea trio of Morgan Rogers, João Pedro and Cole Palmer are the early pace-setters for the Premier League’s most prolific, fluid and high octane attacking unit.",
+   "summary_method": "feed",
+   "author": "Guardian sport",
+   "published_at": "2026-09-10T23:01:48+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "premier league",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "a96cc544f24ee3f6348185e9bd8e4bd000cb4481",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/11/on-this-day-antonelli-starts-his-first-car-race-bearman-wins/",
+   "title": "On This Day: Antonelli starts his first car race, Bearman wins | Brief",
+   "summary": "Antonelli starts first car race, Bearman wins (and gets hit by sign)",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-10T23:01:44+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "bd418cff6c943f353fb31cf298e33eada19a1bd0",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13584130/arsenal-transfer-news-martin-zubimendi-may-push-to-leave-premier-league-champions-paper-talk",
+   "title": "Papers: Zubimendi may push to leave Arsenal",
+   "summary": "The top stories and transfer rumours from Friday's newspapers",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T23:00:00+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "arsenal"
+   ]
+  },
+  {
+   "id": "0b62e39b221d042120c7ba062c03f1a8a3e2ad9f",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-european-odyssey-champions-league-analysis",
+   "title": "Mickels miss a turning point as latest stop in Sabah’s odyssey ends with regret | Jamie Jackson",
+   "summary": "Forward’s spurned opportunity to level the match proved decisive in the Champions League newcomers’ loss to Manchester United Football – like much of life – can be a story of what might have been, and on 39 minutes Joy-Lance Mickels had an experience that was a sliding doors moment for the centre-forward and Sabah that may haunt a long time. Azerbaijan’s champions were trailing to Matheus Cunha’s opener when Kaheem Parris spiralled the ball up to the far post of Manchester United’s goal.",
+   "summary_method": "feed",
+   "author": "Jamie Jackson at Old Trafford",
+   "published_at": "2026-09-10T22:56:27+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "football",
+    "champions league",
+    "manchester united"
+   ]
+  },
+  {
+   "id": "3fcd5fbe087151e00422d0a073093af3ecffc072",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
+   "title": "Two goals in two games - Sesko gives Man Utd a different threat",
+   "summary": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T22:41:17+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "premier league",
+    "manchester united",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "ac70faa03ecde6f65199b61a4ddd5fbcfad49e67",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0p9273l?at_medium=RSS&at_campaign=rss",
+   "title": "Ballon d'Or shortlist and a shock resignation",
+   "summary": "The Ballon D'or shortlist, the dominance of Spanish coaches and a shock resignation",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T22:25:00+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "83726a429b24c96539893401ddf5e724b93a6512",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/c0lrkkwdj97o?at_medium=RSS&at_campaign=rss",
+   "title": "Is Dorgu the answer at left -back for Man Utd?",
+   "summary": "Champions League analyst Stephen Warnock and European football journalist Julien Laurens look at the performance of Patrick Dorgu during Manchester United's 4-0 win over Sabah at Old Trafford.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T22:24:15+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "football",
+    "champions league",
+    "manchester united"
+   ]
+  },
+  {
+   "id": "0822d6c3bc14da8ed32b3383ad299e72f88958cc",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/10/us-open-semifinal-prediction-khachanov-zverev/",
+   "title": "US Open Semifinal Prediction – Karen Khachanov vs Alexander Zverev",
+   "summary": "Both Karen Khachanov and Alexander Zverev have played some very impressive tennis, and both will know that in the absence of Carlos Alcaraz and Jannik Sinner, this is a huge opportunity. Both Karen Khachanov and Alexander Zverev have played some very impressive tennis, and both will know that in the absence of Carlos Alcaraz and Jannik Sinner, this is a huge opportunity.",
+   "summary_method": "extract",
+   "author": "Jim Smith",
+   "published_at": "2026-09-10T22:20:13+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "us open",
+    "zverev"
+   ]
+  },
+  {
+   "id": "f7b840e138d02b2f4276c2f428af749be8c0b771",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/10/fenerbahce-coach-resigns-ismail-kartal-roma-champions-league",
+   "title": "Fenerbahce coach resigns after draw with Roma – but president insists he will stay",
+   "summary": "Kartal shocked the post-match press conference by claiming he was ⁠leaving Fenerbahce “never to return”. The 65-year-old added that he was taking the drastic decision “to clear the way for the club” – but the Fenerbahce president, Aziz Yildrim, quickly moved to play down his manager’s remarks.",
+   "summary_method": "feed",
+   "author": "Reuters and Guardian sport",
+   "published_at": "2026-09-10T22:20:11+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "5111f25da0af3f25187fc85590888baf71bd4a66",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/cly4ll2wwz5o?at_medium=RSS&at_campaign=rss",
+   "title": "Late drama as Lens fight back to beat 10-man Slavia Prague",
+   "summary": "Lens score two goals in stoppage time as they come from behind twice to beat 10-man Slavia Prague at the Fortuna Arena.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T22:07:09+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "c9d5fe7bd2a5411162ee43acc36bb20f013fa361",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig",
+   "title": "Champions League: Bayern break down Bodø/Glimt, Como put four past Leipzig",
+   "summary": "Bayern Munich opened their Champions League campaign with a 5-0 thrashing of Norway’s Bodo/Glimt. The six-times winners were frustrated before half-time by Bodo/Glimt but cruised once Jamal Musiala smashed in the opener two minutes into the second period and the floodgates opened.",
+   "summary_method": "feed",
+   "author": "Agencies",
+   "published_at": "2026-09-10T21:57:25+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "champions league",
+    "bayern munich"
+   ]
+  },
+  {
+   "id": "7aadc4b0e0210b455a645d775360b7d65ea475e7",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o?at_medium=RSS&at_campaign=rss",
+   "title": "Olise scores twice as Bayern thrash Bodo/Glimt",
+   "summary": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T21:50:13+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "champions league",
+    "bayern munich"
+   ]
+  },
+  {
+   "id": "e2ea950fa1dc31d93a8c721ab3cd93ff1b694558",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/czxzwwdz19zo?at_medium=RSS&at_campaign=rss",
+   "title": "Champions League new boys Como dominate Leipzig",
+   "summary": "Como made an impressive Champions League debut by defeating visitors RB Leipzig 4-1 in their opening league-phase outing at Stadio Giuseppe Sinigaglia.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T21:45:10+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "champions league"
+   ]
+  },
+  {
+   "id": "add8c14191e9baf3d9ebc85cd9c81ab163cc1306",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o?at_medium=RSS&at_campaign=rss",
+   "title": "Fenerbahce boss stuns club by quitting after Roma draw",
+   "summary": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T21:42:26+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "champions league"
+   ]
+  },
+  {
+   "id": "e596f6119ab52ff01dd7e774e38254f246e47d2d",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/the-us-open-has-an-identity-problem-does-it-want-to-be-known-as-the-best-or-just-the-richest-860460.html",
+   "title": "The US Open has an identity problem. Does it want to be known as the best, or just the richest?",
+   "summary": "Influencers, weed, late nights and creaking infrastructure means new CEO Craig Tiley has a lot of work to do to restore the US Open as pride of place",
+   "summary_method": "feed",
+   "author": "Simon Cambers",
+   "published_at": "2026-09-10T21:35:50+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "9c23d26bab065e0e0568a4acff4dd35d48da3002",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-champions-league-match-report",
+   "title": "Sesko soars as Manchester United surge past Sabah on Champions League return",
+   "summary": "It was a night for romance given the astonishing story that Sabah brought with them to Old Trafford for their Champions League debut. This is a club that did not even exist a decade ago and nobody saw their bolt to the title in Azerbaijan coming last season; in 2024-25, they had finished 41 points off the top. The job that their manager, Valdas Dambrauskas, has done since taking over in the summer of last year is extraordinary. It was also a night for cold, hard reality.",
+   "summary_method": "feed",
+   "author": "David Hytner at Old Trafford",
+   "published_at": "2026-09-10T21:05:24+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "champions league",
+    "manchester united"
+   ]
+  },
+  {
+   "id": "96e78c3aa2ee50a1396e069e30c5e024cd0913e1",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/c1dlnedp7yeo?at_medium=RSS&at_campaign=rss",
+   "title": "Brown scores fine equaliser as Fenerbahce draw with Roma",
+   "summary": "Englishman Archie Brown scores as Fenerbahce begin their return to Champions League football by holding Roma to a draw.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T21:05:17+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "football",
+    "champions league"
+   ]
+  },
+  {
+   "id": "636719261aa0a1a4e8cf58a3ac71d1c8fffecef5",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+   "title": "Man Utd put four past Sabah on Champions League return",
+   "summary": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T21:01:24+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "champions league",
+    "manchester united"
+   ]
+  },
+  {
+   "id": "7ca73f4589cc94447ab7be7a481ed0e65c52c296",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/cx2z0j25mmjo?at_medium=RSS&at_campaign=rss",
+   "title": "PSV & Shakhtar Donetsk open Champions League campaign with draw",
+   "summary": "PSV Eindhoven and Shakhtar Donetsk played out a 1-1 draw to open their Champions League campaign at Philips Stadion.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T21:00:29+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "champions league"
+   ]
+  },
+  {
+   "id": "9ecd62acce2078850ea93d7ecb8c07bae854dc85",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/c70d1rg9e0wo?at_medium=RSS&at_campaign=rss",
+   "title": "Fernandes finishes off brilliant move to double Man Utd lead",
+   "summary": "Manchester United captain Bruno Fernandes rounds off a brilliant team move to double his side's lead over Sabah at Old Trafford.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T20:59:52+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "manchester united"
+   ]
+  },
+  {
+   "id": "c0cd97951435efc29c940e8b5815f8dc84b495b2",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/10/clearlake-capital-closing-buying-out-chelsea-co-owners-todd-boehly-mark-walter-5bn",
+   "title": "Clearlake Capital close on buying out Chelsea co-owners Todd Boehly and Mark Walter",
+   "summary": "Chelsea’s majority owners, Clearlake Capital, are closing in on an agreement to buy out co-owners Todd Boehly and Mark Walter in a deal that would see the pair make a profit on their investment and value the club at around £5bn.",
+   "summary_method": "feed",
+   "author": "Matt Hughes and Jacob Steinberg",
+   "published_at": "2026-09-10T20:49:39+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "chelsea"
+   ]
+  },
+  {
+   "id": "eec50621dbdcc7bf6f9ad2e185427a496c3e0020",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/everything-we-learned-on-day-one-at-f1s-spanish-gp/",
+   "title": "Everything we learned on day one at F1's Spanish GP",
+   "summary": "Fallout from Ferrari's Monza disaster and intrigue - or perhaps trepidation - over the Madring track headline our everything we learned feature from day one in Spain",
+   "summary_method": "feed",
+   "author": "The Race Team",
+   "published_at": "2026-09-10T20:15:53+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "e4d846242c6af9ab6fbae0a1bc357b58569e27fe",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cd68352z4vjo?at_medium=RSS&at_campaign=rss",
+   "title": "Chelsea and Real Madrid keen on Arsenal's Zubimendi - Friday's gossip",
+   "summary": "Martin Zubimendi may seek to leave Arsenal in January, Mauro Icardi open to Everton move while Toffees play down move for Anthony Martial.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T20:13:27+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "arsenal",
+    "chelsea",
+    "real madrid"
+   ]
+  },
+  {
+   "id": "53ce09edb880a55f167439ab44290a42e22372f7",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/10/leclerc-admits-he-should-not-have-put-lewis-in-a-difficult-situation-in-monza-lap-one-clash/",
+   "title": "Leclerc admits he should not have ‘put Lewis in a difficult situation’ in Monza lap one clash | Formula 1",
+   "summary": "Charles Leclerc has admitted he was at fault for forcing his team mate Lewis Hamilton off on the first lap of the Italian Grand Prix.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-10T19:31:15+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix",
+    "hamilton",
+    "leclerc"
+   ]
+  },
+  {
+   "id": "2849a256deef7d88c665af5a2f5d1727da1036d1",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/iplayer/episode/m0031c4h?at_medium=RSS&at_campaign=rss",
+   "title": "Cricket: Today at the Test",
+   "summary": "Day 2 highlights from the third Test match between England and Pakistan at Edgbaston.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T19:00:25+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "cricket",
+    "test match"
+   ]
+  },
+  {
+   "id": "6040a96c06cedb75f02dc177e41b593db62fc560",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/10/englands-dan-lawrence-delighted-with-form-as-pakistan-say-judge-us-by-the-next-tour",
+   "title": "England’s Dan Lawrence delighted with form as Pakistan focus on the future",
+   "summary": "A few hours after his yelp of frustration echoed around Edgbaston, an innings of 65 and the growing conviction that “I was going to make a really big score” ended when he chased a wide delivery and played on, Dan Lawrence’s emotions had settled into something approaching contentment.",
+   "summary_method": "feed",
+   "author": "Simon Burnton at Edgbaston",
+   "published_at": "2026-09-10T18:54:58+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "innings"
+   ]
+  },
+  {
+   "id": "aa5ceb9d1176f111872fb1a72430c3d69fb1b3d8",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/10/tiafoe-v-shelton-semi-final-a-legacy-of-the-departing-gael-monfils",
+   "title": "Tiafoe v Shelton US Open semi-final a legacy of the departing Gaël Monfils",
+   "summary": "Veteran Frenchman bowed out in New York but the clash of two black players in the last four of the men’s singles is testament to his effect The early days of this year’s US Open can be told in a series of farewells to competitors who plan to end their careers this year. The most moving of them all came in the form of Gaël Monfils’s grand departure inside Louis Armstrong Stadium against the wildly talented 20-year-old Learner Tien.",
+   "summary_method": "feed",
+   "author": "Tumaini Carayol at Flushing Meadows",
+   "published_at": "2026-09-10T18:51:34+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "3dcb6bb7665c0be538f25816bb24e15c188211c1",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c62mq8j4j5lo?at_medium=RSS&at_campaign=rss",
+   "title": "Spurs and Richarlison in dispute over contract",
+   "summary": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T18:48:12+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "tottenham"
+   ]
+  },
+  {
+   "id": "3fb2d21a3daf036c718da2872bb4f8eb49a0c2de",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c1dlnq215zeo?at_medium=RSS&at_campaign=rss",
+   "title": "Sutton's predictions v Dorking Wanderers manager Marc White",
+   "summary": "BBC Sport football expert Chris Sutton takes on Dorking Wanderers manager Marc White, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T18:47:34+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "football",
+    "premier league"
+   ]
+  },
+  {
+   "id": "bbf9a57b4804e8d161c293e40eed1f981d72cabe",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/10/england-pakistan-edgbaston-third-test-match-cricket-ollie-robinson",
+   "title": "Ollie Robinson’s feats against Pakistan have yet to convince England’s old guard | Andy Bull",
+   "summary": "Stuart Broad and Jimmy Anderson have praised the bowler’s exploits this summer, but question whether he can do it against better teams on flatter pitches There was a Pakistan fan walking around Edgbaston carrying a small blackboard on the second day. “Free Imran Khan …” he’d written on it, “and get him in the team.” He stopped to talk about it with a couple of the police officers standing guard around the back of the pavilion.",
+   "summary_method": "feed",
+   "author": "Andy Bull at Edgbaston",
+   "published_at": "2026-09-10T18:05:08+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "bowler"
+   ]
+  },
+  {
+   "id": "48a58dac4a22bb8107ed16f723a55642779242b9",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13583782/premier-league-predictions-jones-knows-best-bets-hulls-run-cant-continue-at-chelsea-can-it-oh-it-can",
+   "title": "PL Predictions: Hull's run can't continue at Chelsea, can it? Oh, it can",
+   "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the weekend Premier League action.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T18:00:00+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "premier league",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "e87aae5db2b084fb3550a838a795226a1627d896",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/shubman-gill-shere-punjab-tournament-performances/article71453270.ece",
+   "title": "WATCH: Shubman Gill cleaned up cheaply in Sher-e-Punjab T20 League",
+   "summary": "Opening the innings for Falcons, Gill only managed to hit two fours before pacer Sumit Sharma cleaned him up at the score of nine off seven balls.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:48:35+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "innings"
+   ]
+  },
+  {
+   "id": "5a198713a6f37240edbc2109adc66378d746cf6a",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/india-beats-bangladesh-score-highlights-sixth-womens-asia-cup-2026-final-shafali-deepti-charani/article71453179.ece",
+   "title": "India beats Bangladesh, enters sixth consecutive Women’s Asia Cup final",
+   "summary": "The Women in Blue have been part of every summit clash since the 2012 edition when the tournament’s format was changed to T20. Since then, they have lifted three titles and finished runner-up twice.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:45:57+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "24d6e82a53a5b625e95314ad8c9cf661b9e8a9cd",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/womens-asia-cup-2026-final-who-will-india-face-after-beating-bangladesh-in-semifinal/article71453146.ece",
+   "title": "Who will India face in the Women’s Asia Cup 2026 final?",
+   "summary": "The Women in Blue are in search of a fourth Asia Cup title and have qualified for the final in every edition since the tournament format was changed to T20 in 2012.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:45:11+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "7d4683beb4bd8a5ce2f3a33cdff38e2646c9829c",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553682.html?ex_cid=OTC-RSS",
+   "title": "Bhatia half-century, Ramharack three-for hand Trinbago Knight Riders comfortable win",
+   "summary": "A frugal bowling effort helped Knight Riders restrict Empress to 100 before Bhatia and Dottin helped them chase down the target with 53 balls to spare",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:42:39+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "d77ef2612d9b6541cd449259182f12897501abdd",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgynev45rpo?at_medium=RSS&at_campaign=rss",
+   "title": "Milestone for Carson as Sussex v Surrey set for draw",
+   "summary": "Sussex off-spinner Jack Carson takes his 200th first-class wicket but half-centuries by Ryan Patel, Ben Foakes and Mahipal Lomror keep Surrey's heads above water at gloomy Hove.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:41:58+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "wicket"
+   ]
+  },
+  {
+   "id": "35fbe61e3956808ce64d65be5dba72bbbaaf95bc",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553634.html?ex_cid=OTC-RSS",
+   "title": "Surrey batters tread water as draw looms",
+   "summary": "Ryan Patel, Ben Foakes, Mahipal Lomror fifties offer visitors breathing space at gloomy Hove",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:33:05+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "d08556c0572c30ac42711739fa16f98f97f06854",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553638.html?ex_cid=OTC-RSS",
+   "title": "McKinney 184 leaves Durham on brink of promotion-clinching win",
+   "summary": "League leaders need eight Middlesex wickets on Friday to secure Division One return",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:33:04+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "f9e0e39a3b2c106c12f7080b0f90c8ec84046864",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/joe-root-becomes-the-most-successful-fielder-in-test-cricket-history-at-edgbaston/",
+   "title": "Joe Root becomes the most successful fielder in Test cricket history at Edgbaston",
+   "summary": "The England batter took his 220th catch as a fielder during the third Test against Pakistan at Edgbaston, surpassing Steve Smith's previous record.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-10T17:30:09+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "cricket",
+    "batter",
+    "joe root",
+    "steve smith"
+   ]
+  },
+  {
+   "id": "3dd3435704cdc85274ce25900bf010410a55009e",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/england-vs-pakistan-test-series-ollie-robinson-wickets-eng-pak-whitewash/article71453235.ece",
+   "title": "ENG vs PAK, 3rd Test: Robinson strikes twice as England closes in on Pakistan whitewash",
+   "summary": "Robinson, Player of the Match in the first two Tests, struck ‌with the first ball of Pakistan’s second innings and again three deliveries later ​to leave England closing in on a 3-0 series whitewash.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:29:28+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "innings"
+   ]
+  },
+  {
+   "id": "6fbc2c74d9dbb0c7c0163d85bd54a3f496a5951e",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss",
+   "title": "Hamilton and Leclerc 'squash' Monza controversy",
+   "summary": "Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have \"squashed\" any controversy between them from the Italian Grand Prix.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:27:04+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "grand prix",
+    "hamilton",
+    "leclerc"
+   ]
+  },
+  {
+   "id": "55ee99d0670ed37ba77f4b66d8941d4cace76a5c",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0p90gp1?at_medium=RSS&at_campaign=rss",
+   "title": "Test Match Special Podcast",
+   "summary": "Simon Mann presents reaction from Edgbaston after the second day of England's third and final Test against Pakistan. Hear from Sir Alastair Cook, Phil Tufnell, Ramiz Raja and Jonathan Agnew after a dominant batting performance with England which left them with a commanding lead over Pakistan.",
+   "summary_method": "extract",
+   "author": null,
+   "published_at": "2026-09-10T17:27:00+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "test match"
+   ]
+  },
+  {
+   "id": "c119619eeb687b9aa4402d97e39f3d3708ef33ac",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cdx50dv35yyo?at_medium=RSS&at_campaign=rss",
+   "title": "Durham on course for promotion against Middlesex",
+   "summary": "Durham are on course to secure promotion from Division Two after setting Middlesex a huge target of 424 at the Riverside.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:25:16+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "499099a5376217b30b8446143f632ad0a33210cb",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/sunil-gavaskar-questions-bccis-ranji-trophy-scheduling-calls-for-more-cricketing-expertise/",
+   "title": "Sunil Gavaskar questions BCCI’s Ranji Trophy scheduling, calls for more cricketing expertise",
+   "summary": "The former India captain calls for revival of Technical and Fixtures Committees to restore balance to Indian cricket.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-10T17:22:52+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "cricket",
+    "ranji"
+   ]
+  },
+  {
+   "id": "9d586abcd79a474db42801a952d56cf6fac8dbe4",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553636.html?ex_cid=OTC-RSS",
+   "title": "Rocky Flintoff's maiden fifty keeps Lancashire afloat",
+   "summary": "Kamran Dhariwal half-century and two wickets from James Langridge keep Gloucestershire on course for victory",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:16:53+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
+  {
+   "id": "e1637a0cc98c23b301319497e4b9a0389d0bc64a",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/clyrj9jd9epo?at_medium=RSS&at_campaign=rss",
+   "title": "Bowlers shine as Notts close in on win over Hants",
+   "summary": "Title-chasing Nottinghamshire close in on victory against Hampshire after pace bowlers dominate day three.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:13:50+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
+  },
   {
    "id": "bb959d056bb2e9c062eb50d6e896e55f76bece9e",
    "source": "skysports-football",
@@ -18,6 +1293,38 @@
    "tags": [
     "premier league"
    ]
+  },
+  {
+   "id": "3fa96bcf456624d2d0bae08ed0790291342f4812",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/10/england-pakistan-third-test-day-two-match-report-cricket",
+   "title": "England bat Pakistan out of third Test before Robinson moves in for the kill",
+   "summary": "Friday is the only sold-out day of this third Test but whether that translates into a full house remains to be seen. Much like the series itself, the contest is long since over, set in motion by Pakistan’s howling collapse on the first day and then compounded by England’s ruthlessness on the second. Although for all that England’s march to a 3-0 clean sweep appears a formality, there should in theory be a decent chunk of cricket to enjoy.",
+   "summary_method": "feed",
+   "author": "Ali Martin at Edgbaston",
+   "published_at": "2026-09-10T17:10:30+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "372e982386cca517c60db38ebb5856bfe622c680",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
+   "title": "England march to early win over Pakistan held up by rain",
+   "summary": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:05:35+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
   },
   {
    "id": "77fdfdcb625f684aa897e1147570c03a586b0f75",
@@ -38,6 +1345,23 @@
    ]
   },
   {
+   "id": "5bc7c34dce0e66afcc0e89c8827562de793ff2cc",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/10/gianni-infantino-accused-seriously-damaging-football-french-fa-withdraws-support-fifa",
+   "title": "French FA accuses Infantino of ‘seriously damaging’ football as it withdraws support",
+   "summary": "The French Football Federation’s president, Philippe Diallo, said Gianni Infantino had “seriously damaged the image and the unity of football” as he announced the end of France’s support for the Fifa president’s re-election. The FFF’s executive committee unanimously voted on Thursday to withdraw its backing, which had been formalised at the end of June.",
+   "summary_method": "feed",
+   "author": "Raphaël Jucobin in Paris",
+   "published_at": "2026-09-10T17:03:47+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
    "id": "e2b3cfc256c6b87f1b7b0f28b4af465f81dce4e6",
    "source": "guardian-cricket",
    "source_name": "The Guardian",
@@ -53,6 +1377,21 @@
    "tags": [
     "cricket"
    ]
+  },
+  {
+   "id": "889787fc86ee9adbe69063a4c19167d009fd812d",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c1l6eye1qzlo?at_medium=RSS&at_campaign=rss",
+   "title": "Maiden Flintoff fifty keeps Lancs in hunt with Glos",
+   "summary": "Rocky Flintoff is unbeaten on 57, his first Championship half-century, as Lancashire end on 120-6 in pursuit of 248 to beat Gloucestershire.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T17:01:50+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": []
   },
   {
    "id": "c9c7bf050df4b0b6e62c88b0b25d0419405f2c04",
@@ -1567,6 +2906,23 @@
    ]
   },
   {
+   "id": "8cd5780c4e1607bfc8e6dcc0c2cec05369ac1939",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/10/declan-rice-arsenal-workload-concerns-sustainable",
+   "title": "Declan Rice shrugs off Arsenal concerns and says 60 games a season is sustainable",
+   "summary": "Declan Rice has insisted his body can sustain more than 60 appearances again this season, despite Arsenal’s concerns after he played through pain at the World Cup. Rice racked up 69 appearances last season for Arsenal and England but revealed during the World Cup he had been managing neural back and hamstring pain, for which he is understood to have received a pain-killing injection, after a hamstring injury in December.",
+   "summary_method": "feed",
+   "author": "Ed Aarons in Naples",
+   "published_at": "2026-09-10T11:00:22+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "arsenal"
+   ]
+  },
+  {
    "id": "efb2fe51bc39f6b264a0eced4797d80a5aaabacd",
    "source": "last-word-tennis",
    "source_name": "Last Word On Tennis",
@@ -2030,6 +3386,23 @@
    "fetched_at": "2026-09-10T17:05:02.255968+00:00",
    "tags": [
     "wicket"
+   ]
+  },
+  {
+   "id": "fa1d909d320f672b4e620e28045a598eefe54521",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cy8dvg5vg5eo?at_medium=RSS&at_campaign=rss",
+   "title": "Taylor aims to make Wales a force in deaf football",
+   "summary": "Having transitioned from player to head coach, James Taylor plans to make Wales a force to be reckoned with in deaf football.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T06:54:06+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "football"
    ]
   },
   {
@@ -6746,6 +8119,24 @@
    "tags": [
     "us open",
     "sabalenka"
+   ]
+  },
+  {
+   "id": "2bc805042bed7eeccc9c80a6960cdd3793784811",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/manchester-united-vs-sabah/report/577612",
+   "title": "Man Utd put four past Sabah on Champions League return",
+   "summary": "Manchester United made a winning return to the Champions League as they beat Sabah FC in style with a 4-0 victory at Old Trafford.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-08T20:00:00+00:00",
+   "fetched_at": "2026-09-11T06:27:54.707077+00:00",
+   "tags": [
+    "champions league",
+    "manchester united"
    ]
   },
   {
@@ -54929,21 +56320,6 @@
    "tags": [
     "formula 1"
    ]
-  },
-  {
-   "id": "de28085fcec2c7a461e28ba1c6d23ebe8962e926",
-   "source": "guardian-football",
-   "source_name": "The Guardian",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://www.theguardian.com/football/2026/aug/12/which-footballer-played-for-most-clubs-knowledge",
-   "title": "Which footballer has played for the most clubs in their career? | The Knowledge",
-   "summary": "Plus: players whose names appear in their clubs, big leaps and the top tier short of title-winning managers “Which footballer has played for the most clubs?” asks Paul Gage. Surprisingly, throughout the more than two decades of the Knowledge, this question has not been answered before. But, fear not, it will be now.",
-   "summary_method": "feed",
-   "author": "Guardian sport",
-   "published_at": "2026-08-12T01:30:21+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
   }
  ]
 }
