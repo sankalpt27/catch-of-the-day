@@ -1,7 +1,1685 @@
 {
- "generated_at": "2026-09-11T06:28:43.039991+00:00",
- "count": 3380,
+ "generated_at": "2026-09-11T17:05:47.327255+00:00",
+ "count": 3517,
  "items": [
+  {
+   "id": "c1bf862bc48bed725cb019615e86c766da70cd19",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/live/2026/sep/11/england-v-pakistan-third-cricket-test-day-three-live",
+   "title": "England v Pakistan: third men’s cricket Test, day three – live",
+   "summary": "State-school cricket has had its day at Lord’s, at last. On a ground that has this summer hosted men’s and women’s international Tests, the Women’s T20 World Cup final and the Hundred finals, on Thursday four school teams played in front of the Pavilion and Father Time for the Knight-Stokes Cup, named after two state-educated cricketers who have captained England’s Test teams.",
+   "summary_method": "feed",
+   "author": "James Wallace  at Edgbaston (now) and Rob Smyth (earlier)",
+   "published_at": "2026-09-11T17:03:59+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "407b1a79beda1dbf7c310b0184d40c6b044ff6d9",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/live/2026/sep/11/nottinghamshire-face-crunch-day-against-hampshire-county-cricket-day-four-live",
+   "title": "Nottinghamshire win, Durham promoted and Lancashire slump again: county cricket, day four – live",
+   "summary": "Rocky Flintoff smacks Langridge with gumption, just like dad would have done, for four, but the next ball is collected by long off and that is that. The gap between the two bottom teams shrinks to 18. Five wickets for the impressive JT Langridge in his second first-class match. Three for the very useful Kishore. A cracking 65 for young Rocky Flintoff. And that’s that, done and dusted in 31 minutes.",
+   "summary_method": "feed",
+   "author": "Tanya Aldred at Old Trafford",
+   "published_at": "2026-09-11T17:03:26+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "c0b2975034d25b6bafb94bf158b5f03f5feb5119",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/11/us-open-final-prediction-sabalenka-rybakina/",
+   "title": "US Open Women’s Final Prediction – Aryna Sabalenka vs Elena Rybakina",
+   "summary": "Tennis - U.S. Open - Flushing Meadows, New York, United States - September 10, 2026 Belarus' Aryna Sabalenka in action during the second set of her semi final match against Jessica Pegula of the U.S.",
+   "summary_method": "feed",
+   "author": "Jim Smith",
+   "published_at": "2026-09-11T17:01:56+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "tennis",
+    "us open",
+    "sabalenka"
+   ]
+  },
+  {
+   "id": "bb17d3afa60bd5715a0f03d5f25fa4adaa2c236f",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13584470/man-utd-vs-man-city-kings-of-manchester-hotly-debated-ahead-of-old-trafford-derby-showdown",
+   "title": "Kings of Manchester: Who will reign when United and City clash?",
+   "summary": "Manchester City have been \"the Kings of Manchester\". \"It's one of the biggest derbies in the world and for as long as I've known Manchester, City have been the kings of Manchester,\" Anderson said.",
+   "summary_method": "extract",
+   "author": null,
+   "published_at": "2026-09-11T17:00:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "5f714b027515799fdc6fde43e1e2d2f1d472d302",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553815.html?ex_cid=OTC-RSS",
+   "title": "Durham promoted as Division Two champions with rout of Midlesex",
+   "summary": "Brydon Carse and Callum Parkinson help secure a return to the top flight with two rounds to go",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:57:55+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "f2fde696728c80aaed155da26869eb82bac2c11c",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
+   "title": "Manchester United ban 685 season-ticket holders over touting; Watford sign Antonio: football news – live",
+   "summary": "Matthias Jaissle revealed that summer signing Matias Fernandez-Pardo is edging closer to starting for Newcastle. The 21-year-old forward arrived on Tyneside from Lille on deadline day and has featured as a substitute in Newcastle’s last two matches. Speaking ahead of Monday’s clash with Leeds, Jaissle said: “Yeah, he’s getting closer. I said that we need to be smart with his load management. Now he’s getting more and more minutes.",
+   "summary_method": "feed",
+   "author": "John Brewin (now, and earlier), Tom Bassam and Tom Davies (earlier)",
+   "published_at": "2026-09-11T16:52:19+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "football",
+    "manchester united"
+   ]
+  },
+  {
+   "id": "be01021f76d3a86d07fb5a9b6f5811466701908a",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c8jdmdjydp1o?at_medium=RSS&at_campaign=rss",
+   "title": "Dictator meme shows lack of human awareness - Mbappe",
+   "summary": "Kylian Mbappe criticises a viral meme which superimposes his face on the body of a dictator, saying it shows \"a lack of political and human awareness\".",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:49:50+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "mbappe"
+   ]
+  },
+  {
+   "id": "4b530e333c1c0dd0e57ab68e4d842b962a74109c",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/sri-lanka-vs-pakistan-live-score-semifinal-highlights-womens-asia-cup-2026-sl-w-v-pak-w-latest-updates/article71456817.ece",
+   "title": "SL-W vs PAK-W Live Score, Women’s Asia Cup 2026 semifinal: Sri Lanka top order collapse, Pak in control",
+   "summary": "SL vs PAK: Catch live scores, updates and highlights from the second semifinal of the Women’s Asia Cup 2026 between Sri Lanka and Pakistan in Dubai on Friday.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:48:27+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "c825a76564f4121a0203734b890d469edbab9ecc",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/south-africa-vs-namibia-2nd-odi-highlights-connor-esterhuizen-century/article71457577.ece",
+   "title": "South Africa beats Namibia by 157 runs, takes unassailable 2-0 lead in ODI series",
+   "summary": "The visitor also had a ‌comfortable victory in its first meeting on Wednesday, ​winning by 99 runs on the Duckworth-Lewis-Stern method in a ⁠rain-affected clash.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:46:34+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "1bba231d47784b6a99f4f76b0b0340673756cb7f",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/domestic/mohammed-siraj-named-hyderabad-captain-ranji-trophy-2026-27-chama-milind-vice-captain/article71457523.ece",
+   "title": "Siraj named Hyderabad captain for Ranji Trophy 2026-27 season; Chama Milind vice-captain",
+   "summary": "Siraj’s first stint leading Hyderabad came in the previous Ranji season, when he replaced Rahul Singh and led the side against Mumbai and Chhattisgarh. The home side failed to win both matches.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:33:13+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "ranji"
+   ]
+  },
+  {
+   "id": "7b0978a3952f35c9a71ead44b34c713d9434fe5a",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/bumrah-vs-sooryavanshi-nets-practice-session-india-v-afghanistan-t20-series/article71457515.ece",
+   "title": "Bumrah finds his rhythm against Sooryavanshi in nets ahead of India vs Afghanistan T20I series",
+   "summary": "If greater emphasis on the fielding seemed noticeable, it may be to address India’s sloppiness on the tour of the United Kingdom in June-July.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:19:39+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "bumrah"
+   ]
+  },
+  {
+   "id": "5857d8e811781220af68b11bb4f3aec774ba1ba6",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/england-vs-pakistan-live-score-3rd-test-day-3-updates-scorecard-highlights-commentary/article71455469.ece",
+   "title": "England vs Pakistan LIVE Score, 3rd Test Day 3: Pakistan avoids innings defeat",
+   "summary": "ENG vs PAK: Catch the highlights, updates, and commentary from Day 3 of the third England vs Pakistan Test match, taking place in Edgbaston in Birmingham.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:18:36+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "test match",
+    "innings"
+   ]
+  },
+  {
+   "id": "6faf21cd52b236a281182e6e54e2962c7cf1125e",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/indians-at-the-county-championship-sai-kishore-gloucestershires-performance-score-result/article71457439.ece",
+   "title": "Indians at the County Championship: Sai Kishore stars in Gloucestershire’s win",
+   "summary": "Here is how Indians participating in the County Championship performed in the latest round of fixtures on Saturday.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:18:30+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "county championship"
+   ]
+  },
+  {
+   "id": "1b9c8e1f01fa5315c17c35216ba80e7256084826",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c7v41ype378o?at_medium=RSS&at_campaign=rss",
+   "title": "Athletic Club forward Williams retires from Ghana duty",
+   "summary": "Inaki Williams says the time has come to bring his journey with the Black Stars to an end four years after making his international debut.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:18:27+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "9c0e6432bf58f263a8a9679f1e3b378382a1cf14",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553832.html?ex_cid=OTC-RSS",
+   "title": "Esterhuizen maiden ODI ton, Duan Jansen four-for power South Africa to 2-0 lead",
+   "summary": "De Zorzi scored 79, while Eathan Bosch picked up three wickets as Namibia, chasing 336, suffered their fourth-biggest defeat in the format",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:16:05+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "8ec55f474ce81a4545554b00d5bb9235e214c270",
+   "source": "autosport-f1",
+   "source_name": "Autosport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "title": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
+   "summary": "Kimi Antonelli has topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at the new Madring circuit, while Arvid Lindblad crashed. Antonelli set the fastest lap around the halfway mark in the second one-hour session as drivers and teams kept chipping away at their set-ups on the extremely difficult circuit in Madrid.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:14:44+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix",
+    "leclerc"
+   ]
+  },
+  {
+   "id": "b21d58bf08645f60cfd34d4c5f19010a620d9579",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cew9nr2kx20o?at_medium=RSS&at_campaign=rss",
+   "title": "Lindblad crashes as Antonelli fastest in Madrid",
+   "summary": "Arvid Lindblad crashes his Racing Bulls in Friday practice at the Spanish Grand Prix, where Kimi Antonelli sets the fastest time.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:13:35+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "grand prix"
+   ]
+  },
+  {
+   "id": "fd7dcc197aff307108471c72f015cf82dbf81854",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/all-that-happened-in-second-madring-f1-practice/",
+   "title": "All that happened in second Madring F1 practice",
+   "summary": "Championship leader Kimi Antonelli topped the times in Madring's second practice session",
+   "summary_method": "feed",
+   "author": "Jack Benyon",
+   "published_at": "2026-09-11T16:12:58+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "11db8a638ca1dde137188ee9216e8660e48546f6",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/afghanistan-head-coach-richard-pybus-afghan-cricket-development-test-calendar-international-fixtures/article71457433.ece",
+   "title": "Afghanistan coach Pybus: No side can evolve by playing one Test here and there",
+   "summary": "Richard Pybus argues that the International Cricket Council must ensure equitable opportunities for smaller full member nations to compete and evolve in the sport.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:12:44+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "e68a9e9dd800c25aea897b0e747ee5b353b466ad",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553816.html?ex_cid=OTC-RSS",
+   "title": "Surrey build buffer as match fizzles",
+   "summary": "Surrey still need points to avoid relegation battle but put distance between themselves and Leicestershire despite Tom Haines fifty",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T16:04:56+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "46076171ac53648bcf536ae6aed576b32e1a0c72",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/11/antonelli-leads-ferrari-pair-in-second-practice-as-lindblad-crashes/",
+   "title": "Antonelli leads Ferrari pair in second practice as Lindblad crashes | Formula 1",
+   "summary": "Andrea Kimi Antonelli kept Mercedes ahead in the second practice session. Arvid Lindblad took a strong fourth but crashed.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-11T16:04:18+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "formula 1"
+   ]
+  },
+  {
+   "id": "8a70945a5572f07612cb6220131ad12e2518e758",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/11/carlos-alcaraz-ben-shelton-rtennis-toughest-test/",
+   "title": "Carlos Alcaraz vs Ben Shelton Revealed Tennis Toughest Test",
+   "summary": "Ben Shelton just uncorked his second 146 mph ace of the closing tiebreak to end the latest-finishing match in US Open history, dethroning defending champion Carlos Alcaraz in a five-set war that stretched from prime time into the wee hours of the morning. Tennis has no game plan for fatigue; there is only more tennis.",
+   "summary_method": "extract",
+   "author": "Tope Oke",
+   "published_at": "2026-09-11T16:00:13+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "tennis",
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "4ca23c3260ceb16c2d383c175acd9e73e913ad83",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/11/kiernan-dewsbury-hall-ive-seen-all-of-the-meltdowns-and-it-annoyed-me",
+   "title": "Kiernan Dewsbury-Hall: ‘I’ve seen all of the meltdowns and it annoyed me’",
+   "summary": "Midfielder on rising above the negativity after Everton’s struggles in the transfer window, becoming a leader in the dressing room and a possible England call-up Transfer deadline day may be “exciting for everyone”, as Kiernan Dewsbury-Hall puts it, but his experience of that transfer deadline day at Everton hauled him through the same gamut of emotions as every Evertonian.",
+   "summary_method": "feed",
+   "author": "Andy Hunter",
+   "published_at": "2026-09-11T16:00:09+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "midfielder"
+   ]
+  },
+  {
+   "id": "bc7a39ed67febe02a2842579e84589046bb05505",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/11/us-open-tennis-finals-the-manchester-derby-and-solheim-cup-follow-with-us",
+   "title": "US Open tennis finals, the Manchester derby and Solheim Cup – follow with us",
+   "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports",
+   "summary_method": "feed",
+   "author": "Guardian sport",
+   "published_at": "2026-09-11T15:59:24+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "tennis",
+    "us open"
+   ]
+  },
+  {
+   "id": "782e3f0ca56d3ca89cfee786e27f8ac899f68bd3",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/m00318bk?at_medium=RSS&at_campaign=rss",
+   "title": "Football Daily",
+   "summary": "John Murray, Ian Dennis & Ali Bruce-Ball discuss life as football commentators.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:59:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "3cef6e989d50c1b8ff05de85824775129aa21671",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cn746zm44zzo?at_medium=RSS&at_campaign=rss",
+   "title": "Surrey draw with Sussex to pull clear of drop zone",
+   "summary": "Surrey pull clear of the Division One drop zone as their game with Sussex ends in a draw.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:55:37+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "be13884fe5b744a49fd3580579406ea35fda2b28",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553831.html?ex_cid=OTC-RSS",
+   "title": "Bryce sisters demolish Essex to book Blaze's final spot",
+   "summary": "Nine-wicket win secures top spot and progression straight into the Metro Bank final",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:50:14+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "wicket"
+   ]
+  },
+  {
+   "id": "6913070fcaf617d007f18c86e85f71657dd0c5c1",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c62enezpqvqo?at_medium=RSS&at_campaign=rss",
+   "title": "Blaze beat Essex to seal spot in One-Day Cup final",
+   "summary": "The Blaze beat Essex by nine wickets to secure a place in the Women's One-Day Cup final.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:42:04+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "1c926a259cc2fbb6387b119a595951470b28dce5",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&at_campaign=rss",
+   "title": "Bergvall signs new deal - but no news on Richarlison",
+   "summary": "Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to leave, but there is no update on Richarlison's future",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:40:50+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "tottenham"
+   ]
+  },
+  {
+   "id": "f0daa776cef8c4171a06c455e72a6138b6c41cd7",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553830.html?ex_cid=OTC-RSS",
+   "title": "Shaheen Afridi: 'Red-ball cricket is always my first priority'",
+   "summary": "Left-arm seamer is also keen to regain his spot in Pakistan's Test squad",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:33:28+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "f091518c770a528af03e2b8faf00572fdd8f7e12",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553772.html?ex_cid=OTC-RSS",
+   "title": "Shan Masood 95, Babar Azam 76 as Pakistan find their fight",
+   "summary": "England picked up two more wickets between lunch and tea, but the deficit was down to just 23",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:32:24+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "babar azam"
+   ]
+  },
+  {
+   "id": "9d7e300b5258ba1c2c79ceb085077cc0b782d0ce",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c20939pqy78o?at_medium=RSS&at_campaign=rss",
+   "title": "Liverpool unveil memorials for former manager Beard",
+   "summary": "Liverpool have unveiled permanent memorials at their training ground and outside Anfield in tribute to former women's team manager Matt Beard.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:32:08+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "liverpool"
+   ]
+  },
+  {
+   "id": "3f9f34b58a621bc5144d36f76a9d9d4883a37501",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c36lkl4xp0yo?at_medium=RSS&at_campaign=rss",
+   "title": "Collins a doubt for Republic of Ireland with calf injury",
+   "summary": "Republic of Ireland captain Nathan Collins is a doubt for the start of the upcoming Nations League campaign after picking up a calf injury.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:26:54+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "b11adbb67ab37bd102a5a076967736e7b118e6e1",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c9w4d04xx49o?at_medium=RSS&at_campaign=rss",
+   "title": "Gray has no issue with flak as Hibs eye semi-final",
+   "summary": "David Gray insists he is not preoccupied by rumbling criticism after a disappointing start to the season as Hibernian set their sights on the first semi-final of his reign.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:24:19+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "9f11e7606ab3c22522c4fd83858d43cd89bb33c2",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553823.html?ex_cid=OTC-RSS",
+   "title": "Bosch 83 sets up South Africa's comfortable win",
+   "summary": "SA reduced Zimbabwe to 12 for 4 inside four overs but they recovered to a total of almost a run a ball",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:20:07+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "393790e81445e2e918c832957fa15a97118eeeca",
+   "source": "guardian-f1",
+   "source_name": "The Guardian",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/11/madring-f1-spanish-grand-prix-hybrid-street-circuit",
+   "title": "Welcome to the Madring, a new, brutal and unforgiving F1 challenge for Spanish Grand Prix",
+   "summary": "New hybrid street circuit has fast corners, virtually no margin for error – but limited overtaking opportunities In Madrid’s Puerta del Sol this week, Formula One fans were not shy in calling on the gods to look kindly on their favoured drivers on a newly built circuit that appears punishingly unforgiving. Legend has it that rubbing the paws or backside of the bear in the famous El Oso y el Madroño statue at the square’s heart confers good luck. The drivers may well need it.",
+   "summary_method": "feed",
+   "author": "Giles Richards at the Madring",
+   "published_at": "2026-09-11T15:20:04+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "formula one",
+    "grand prix"
+   ]
+  },
+  {
+   "id": "9a21ba484032cd54a1a187c2f713b520c85fc745",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13584448/rangers-vs-celtic-martin-oneill-reveals-general-behaviour-message-from-police-ahead-of-old-firm-league-cup-clash",
+   "title": "Celtic given 'general behaviour' message by police ahead of Old Firm clash",
+   "summary": "Martin O'Neill revealed Celtic were given a \"general behaviour\" warning by Police Scotland ahead of Sunday's League Cup quarter-final against Rangers at Ibrox.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:15:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "a60edd97ec3f36ca57413f38f4fa051f8a1f085a",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/tendulkar-rahane-mantri-wankhede-stadium-lounges-mca-announcement/article71457086.ece",
+   "title": "Tendulkar, Rahane, Mantri to have lounges named after them at Wankhede, announces MCA",
+   "summary": "“The AGM unanimously adopted the resolution proposing the lounges to honour three of our former captains,” said MCA president Ajinkya Naik.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:10:54+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "9ff2902baee3e7b74a702701db31ed614c86c414",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/namibia-vs-south-africa-live-score-updates-2nd-odi-match-updates-highlights/article71455440.ece",
+   "title": "South Africa vs Namibia Highlights, 2nd ODI: SA wins by 157 runs",
+   "summary": "NAM vs SA: Catch the updates and highlights from the second ODI between Namibia and South Africa being played at the Namibia Cricket Ground in Windhoek.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:05:31+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "6d595ae6778f5cf2656f6bbf841bac6b08d437f8",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&at_campaign=rss",
+   "title": "Ex-West Ham striker Antonio joins Watford",
+   "summary": "Watford announce the signing of former West Ham United striker Michail Antonio on a free transfer.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:04:49+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "striker"
+   ]
+  },
+  {
+   "id": "5f7f170b341f163ef4946904cb059bb0a7cfedd3",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c4gqjrze1q0o?at_medium=RSS&at_campaign=rss",
+   "title": "Durham beat Middlesex to seal Championship promotion",
+   "summary": "Durham seal promotion from Championship Division Two with two games to spare as they beat Middlesex by 93 runs.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:01:35+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "eb130248edc627138e61578f7ebf780950e4d91a",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/11/athleticism-wont-save-coco-gauff-forever/",
+   "title": "Athleticism Won’t Save Coco Gauff Forever",
+   "summary": "Tennis - U.S. Open - Flushing Meadows, New York, United States - September 3, 2026 Coco Gauff of the U.S.",
+   "summary_method": "feed",
+   "author": "Jack Beatnik",
+   "published_at": "2026-09-11T15:00:35+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "tennis",
+    "coco gauff"
+   ]
+  },
+  {
+   "id": "901242cbc122aed7f8e36c92119ae9fb3751bd35",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13584237/man-utd-vs-man-city-ayyoub-bouaddi-elliot-anderson-and-enzo-fernandez-are-the-perfect-answer-to-rodris-summer-exit",
+   "title": "Man City's midfield options prove Rodri is replaceable after all",
+   "summary": "By Enzo Maresca's own admission, Manchester City \"complicated\" their 2-0 win over Porto in the Champions League on Tuesday. The patchiness of their performance led Alan Shearer to call Maresca's side \"weak\" on Prime Video's co-commentary.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:00:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "champions league",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "89499c1a7401b1d0072e6ebf7d9e733b4ce80165",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13584331/rangers-vs-celtic-key-talking-points-ahead-of-first-old-firm-clash-of-season-with-league-cup-semi-final-spot-at-stake",
+   "title": "Rangers vs Celtic: Talking points ahead of first Old Firm clash of season",
+   "summary": "It is the first Old Firm clash of the season and there is a League Cup semi-final place at stake.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T15:00:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "b3b33de8d6866975f2d157b47d902eac655f211d",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5ydqvvlqk3o?at_medium=RSS&at_campaign=rss",
+   "title": "Martin says criticism has become 'really personal'",
+   "summary": "Leicester City boss Russell Martin does not know why he \"upsets so many people\" and says criticism has \"become personal\".",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T14:54:09+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "a6d8b7f8580c24b5257e462b6aff45991223c1ff",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553821.html?ex_cid=OTC-RSS",
+   "title": "Perera, Ayodhya in as Sri Lanka bowl against Pakistan",
+   "summary": "Sri Lanka have left out batter Vishmi Gunaratne and seamer Chethana Vimukthi",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T14:53:03+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "batter"
+   ]
+  },
+  {
+   "id": "e19d766be93458c4343bbcfc1c866b64da02e4ca",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553810.html?ex_cid=OTC-RSS",
+   "title": "Pakistan switch from Dukes to Kookaburra for 2026-27 first-class season",
+   "summary": "Kookaburra ball could help batters spend more time in the crease and spinners to have more impact",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T14:47:11+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "cc0bf9b11a78d30acaf5555b1c58d0f78ec64a4e",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/11/ben-shelton-frances-tiafoe-us-open-semifinal-preview/",
+   "title": "Preview: Ben Shelton vs Frances Tiafoe for a Place in the US Open Final",
+   "summary": "1 American men’s player Ben Shelton takes on a three-time US Open semifinalist in Frances Tiafoe. Against arguably the best returner on tour in his last match, Shelton won almost 70% of his first-serve points, a number that he should only increase against Tiafoe.",
+   "summary_method": "extract",
+   "author": "Zain Mustafa",
+   "published_at": "2026-09-11T14:37:13+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "0dc943a4cb2ff4937305cf5dd3b517f274b62b1f",
+   "source": "autosport-f1",
+   "source_name": "Autosport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.autosport.com/f1/news/why-charles-leclerc-isnt-using-latest-aduo2-engine-in-the-spanish-gp/10854566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "title": "Why Leclerc isn't using latest Ferrari ADUO2 engine in the Spanish GP",
+   "summary": "Charles Leclerc is still feeling the pain of smiting the wall at the exit of the Parabolica in last weekend's Italian Grand Prix, and the result of the crash is that he will not be able to use Ferrari's latest Formula 1 engine spec during the Spanish GP.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T14:33:31+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix",
+    "leclerc"
+   ]
+  },
+  {
+   "id": "08606a17047595659fb45090279253adf8938e38",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553724.html?ex_cid=OTC-RSS",
+   "title": "Rizwan and Imam quizzed by Pakistan's cybercrimes investigators",
+   "summary": "At least one of the two players is believed to have been questioned for several hours, while at least one of them has been given a questionnaire to respond to",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T14:19:32+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "0270b8fe27191a32a50054510985185d4d2080ea",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cz7zrdxj9x0o?at_medium=RSS&at_campaign=rss",
+   "title": "Celtic given 'timely' police reminder before derby",
+   "summary": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely reminder\" about their \"general behaviour\" in Sunday's Premier Sport Cup quarter-final against city rivals Rangers, manager Martin O'Neill reveals.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T14:16:39+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "aeda911478fe75a1a9c585fe5e22cfa4a7ac0c5a",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/other-sports/indian-sports-wrap-september-11-news-results-highlights-updates-summary/article71456109.ece",
+   "title": "Indian sports wrap, September 11: Madappa wins Chennai Open",
+   "summary": "Here are India’s major updates, scores, and results from the world of sports on Friday, September 11.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T14:14:53+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "28fe38ab20cb52525f36f9d2e9917b60558f49fa",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/11/football-daily-email-mikel-arteta-arsenal",
+   "title": "Football Daily | Mikel Arteta hits upon a new psychological wheeze for his champions",
+   "summary": "The use of psychological stratagems and pitchside or locker-room sabotage has long been employed by football managers trying to give their teams an edge over visiting rivals.",
+   "summary_method": "feed",
+   "author": "Barry Glendenning",
+   "published_at": "2026-09-11T14:13:06+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "c65158bab5d9c6333afedd843fa04639d50760aa",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/motogp/bezzecchi-beats-marquez-brothers-to-lead-misano-friday/",
+   "title": "Misano Friday: Who made Q2 and who missed out",
+   "summary": "Aprilia MotoGP rider Marco Bezzecchi outpaced the Marquez brothers to set the Friday pace at Misano",
+   "summary_method": "feed",
+   "author": "Valentin Khorounzhiy",
+   "published_at": "2026-09-11T14:07:42+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "501a62aa556b7f8967b48996dea0cc40e84ebf39",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy08kl91xo?at_medium=RSS&at_campaign=rss",
+   "title": "Hampshire need miracle to avoid relegation - Domingo",
+   "summary": "Hampshire cricket head coach Russell Domingo believes his side need \"a bit of a miracle\" if they are to remain a Division One side in the County Championship.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T14:06:20+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket",
+    "county championship"
+   ]
+  },
+  {
+   "id": "595c4908226552f91bb1d4722d0bbe19038c75a1",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/wcpl-2026-match-4-tkr-w-vs-gaw-w-match-prediction-who-will-win-todays-wcpl-match-between-trinbago-knight-riders-women-vs-guyana-amazon-warriors-women/",
+   "title": "WCPL 2026: Match 4, TKR W vs GAW W Match Prediction – Who will win today’s WCPL match between Trinbago Knight Riders Women vs Guyana Amazon Warriors Women?",
+   "summary": "The Trinbago Knight Riders Women take on the Guyana Amazon Warriors Women in Match 4 of the Women's Caribbean Premier League 2026.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-11T14:06:14+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "1792d633586dcd80226ef4c06a875733d73f5a9c",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/videos/c5ydqr6pgnro?at_medium=RSS&at_campaign=rss",
+   "title": "Calm, classy but no century - brilliant Masood frustrates England",
+   "summary": "Watch the best shots from Pakistan batter Shan Masood as he slows down England's charge towards victory in the third Test, but falls just short of a century after a brilliant catch by Dan Lawrence at Edgbaston.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T14:05:20+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "batter"
+   ]
+  },
+  {
+   "id": "3fbdba4727401aad19fbfc1bfcde491c4fcc00f2",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/jharkhand-red-ball-cricket-duleep-trophy-final-ishan-kishan-planning-vision/article71456561.ece",
+   "title": "A Transition Bearing Fruit: How Jharkhand’s red-ball vision shone through in Duleep Trophy 2026 final",
+   "summary": "In a one-sided Duleep Trophy final in Chennai, East Zone dominated South Zone, with five Jharkhand players making important contributions for the winning team.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T14:03:41+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "be5a21b4d75aadaeaa3f16ab7e338375e3897565",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/videos/cwyzr2dr977o?at_medium=RSS&at_campaign=rss",
+   "title": "Diving duo - Lawrence and Cox produce brilliant catches for England",
+   "summary": "Dan Lawrence and Jordan Cox both produce brilliant, diving catches to dismiss Shan Masood and Babar Azam respectively, with both batters having caused problems for England on day three of the third Test at Edgbaston.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T13:57:05+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "babar azam"
+   ]
+  },
+  {
+   "id": "6279538b565258ba814af09410593634b5926f5e",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c624l1v9853o?at_medium=RSS&at_campaign=rss",
+   "title": "Hull fined £30k & bans issued over Chelsea chant",
+   "summary": "Hull City have been fined £30,000 over discriminatory chanting with the club issuing three supporter bans following their FA Cup defeat by Chelsea in February.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T13:43:54+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "chelsea"
+   ]
+  },
+  {
+   "id": "22c2da10856a4fea59b8123f21518629b846016e",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks",
+   "title": "Champions League opening data shows English dominance and too few shocks",
+   "summary": "The numbers from the first round of the league phase point to Italian teams struggling even if Inter impressed in defeat at Real Madrid The 2026-27 Champions League is under way. There are still 126 matches to play until we know which 24 teams will feature in the knockout phase but that doesn’t mean we haven’t learned anything yet. Here are the key data talking points from week one.",
+   "summary_method": "feed",
+   "author": "Andrew Beasley",
+   "published_at": "2026-09-11T13:29:16+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "champions league",
+    "real madrid"
+   ]
+  },
+  {
+   "id": "d43199a212dd40a290478146e3b875342137a16b",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/11/first-pictures-formula-1-cars-in-action-at-the-new-madring/",
+   "title": "First pictures: Formula 1 cars in action at the new Madring | Formula 1",
+   "summary": "Formula 1 drivers had their first taste of the new Madring when practice for the Spanish Grand Prix began today.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-11T13:27:09+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix"
+   ]
+  },
+  {
+   "id": "591a84701ce7cf2c07a40f0dddea00c26915f528",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-governing-council-elections-arun-dhumal-chairman-khairul-jamal-majumdar/article71456189.ece",
+   "title": "Dhumal, Majumdar set to continue in IPL Governing Council",
+   "summary": "Their unopposed election will ensure continuity in the IPL Governing Council, which oversees the administration and key policy decisions concerning the league.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T13:24:38+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "1037efaaefa0cbbbc4580edd8c6455e956b026f2",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cly41qwpg4do?at_medium=RSS&at_campaign=rss",
+   "title": "Mourinho compares Mbappe and Vini Jr to fruit trees after boos",
+   "summary": "Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe and Vinicius Jr after they were booed by supporters this week.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T13:22:13+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "real madrid",
+    "mbappe"
+   ]
+  },
+  {
+   "id": "e5560cd65908f7cf738fefdd3c87f159ae4448d3",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/reports-ms-dhoni-holds-over-one-lakh-csk-shares-acquired-through-off-market-deals-9089/",
+   "title": "Reports: MS Dhoni holds over one lakh CSK shares acquired through off-market deals",
+   "summary": "The shares were acquired privately through off-market transactions, even as CSK denied any formal stake negotiations with the former captain.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-11T13:19:32+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "780f995a6c0155d491cd5ed73f096e03a063e542",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/manav-suthar-enters-first-class-record-books-with-sensational-spell-in-county-championship/",
+   "title": "Manav Suthar enters first-class record books with sensational spell in County Championship",
+   "summary": "The India left-arm spinner became only the second bowler in first-class history to take wickets in both innings of a match without conceding a single run.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-11T13:18:51+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "county championship",
+    "bowler",
+    "innings"
+   ]
+  },
+  {
+   "id": "47a68be9d7a91bdfee40875c41ba9da00b279408",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/will-not-affect-the-teams-performance-ajinkya-rahanes-massive-take-on-omission-of-rinku-kuldeep-for-afg-vs-ind-2026-t20is/",
+   "title": "'Will not affect the team's performance' - Ajinkya Rahane's massive take on omission of Rinku, Kuldeep for AFG vs IND 2026 T20Is",
+   "summary": "Ajinkya Rahane believes the exclusion of Rinku Singh and Kuldeep Yadav will not impact India's performance in the upcoming T20I series against Afghanistan.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-11T13:02:12+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "c58081655d6760c85a4798f4a38c2e31d0084bcc",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/11/chelsea-pedro-neto-new-contract-xabi-alonso",
+   "title": "Chelsea hand Pedro Neto new deal in wake of his rejecting Manchester City",
+   "summary": "Chelsea have rewarded Pedro Neto’s strong start to the season and commitment to the club by handing the winger a new contract. The Portugal international had summer interest from several Premier League clubs including Manchester City, but indicated a desire to stay and play for Xabi Alonso. He has signed a five-year deal with the option of an extra year and is to receive a pay rise. Alonso has used Neto as an attacking wingback and the 26-year-old has scored twice in five appearances.",
+   "summary_method": "feed",
+   "author": "Jacob Steinberg",
+   "published_at": "2026-09-11T12:55:05+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "premier league",
+    "manchester city",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "1092a260324fe2f3e8ba5e8bd97227366b247ee3",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/f1-2026-spanish-grand-prix-madring-first-practice-what-happened/",
+   "title": "What happened in F1's first-ever Madring practice session",
+   "summary": "George Russell led his Mercedes F1 team-mate Kimi Antonelli in first practice for the Spanish GP at the Madring",
+   "summary_method": "feed",
+   "author": "Samarth Kanal",
+   "published_at": "2026-09-11T12:55:03+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "george russell"
+   ]
+  },
+  {
+   "id": "326d104c6d047eec41ad2cc5286518ba03894996",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/fifty-eight-years-after-ashes-triumph-two-black-americans-meet-for-a-place-in-the-us-open-final-860715.html",
+   "title": "Fifty-eight years after Ashe’s triumph, two Black Americans meet for a place in the US Open final",
+   "summary": "Frances Tiafoe and Ben Shelton qualified for the US Open semifinals on the 58th anniversary of Arthur Ashe's title, and will play each other on the court that bears his name for the right to be the first Black American man in the final since 1968. Coco Gauff, who reached the last four herself, put it plainly: \"I never thought I would see an all-Black semifinal between the guys in my lifetime.\"",
+   "summary_method": "feed",
+   "author": "Cédric Rouquette",
+   "published_at": "2026-09-11T12:50:03+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "us open",
+    "coco gauff"
+   ]
+  },
+  {
+   "id": "bd69b5191d07386b3da9b649f31b7d9bc0196ac4",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/sanju-samson-announces-scholarships-for-1000-upsc-aspirants-0871/",
+   "title": "Sanju Samson announces scholarships for 1,000 UPSC aspirants",
+   "summary": "The Sanju Samson Foundation has partnered with Lead IAS Academy to offer 1,000 UPSC Civil Services scholarships, with a special focus on students from Vizhinjam and nearby coastal areas.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-11T12:44:21+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "859ea73068b937ffe5dceb8f7661b51c4106a034",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/11/russell-leads-mercedes-one-two-in-trouble-free-opening-session-at-madring/",
+   "title": "Russell leads Mercedes one-two in trouble-free opening session at Madring | Formula 1",
+   "summary": "George Russell was quickest for Mercedes as the new Madring circuit held its first official Formula 1 practice session.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-11T12:43:02+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "formula 1",
+    "george russell"
+   ]
+  },
+  {
+   "id": "5a2dafe8b7c98e13841a2011bfc527cdc5583c70",
+   "source": "autosport-f1",
+   "source_name": "Autosport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp1-report/10854512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "title": "F1 Spanish GP: Mercedes tops FP1 with Russell fastest at Madring",
+   "summary": "Mercedes’ George Russell was fastest in the first-ever Formula 1 session at the brand-new Madring track – first practice for the Spanish Grand Prix. Twenty out of 22 cars took to the brand-new track within the first 100 seconds of the session, with Nico Hulkenberg and Franco Colapinto emerging some time later.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T12:40:28+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix",
+    "george russell"
+   ]
+  },
+  {
+   "id": "c10940fcbf5c021f38d00ecccf650171d94b2925",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/f1-spanish-grand-prix-at-the-madring-practice-results/",
+   "title": "F1 Spanish Grand Prix at the Madring: Practice results",
+   "summary": "Kimi Antonelli narrowly beat Charles Leclerc to the fastest time in second practice at the Madring, where Arvid Lindblad finished fourth - but crashed to bring out the sole red flag on Friday.",
+   "summary_method": "feed",
+   "author": "The Race Team",
+   "published_at": "2026-09-11T12:36:13+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "grand prix",
+    "leclerc"
+   ]
+  },
+  {
+   "id": "ef592048c70bc639be0f48f3cde08fed83aa4ba5",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5y48zdxv0ko?at_medium=RSS&at_campaign=rss",
+   "title": "I disrupted pre-season travel plans to prepare players - Arteta",
+   "summary": "Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because he deliberately disrupted their training and travel plans in pre-season to prepare them.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T12:32:20+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "champions league",
+    "arsenal"
+   ]
+  },
+  {
+   "id": "bce221a93f3abf7a83c58b8e689fa48a4aabba8a",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/ajinkya-rahane-urges-indian-team-to-back-samson-says-sooryavanshi-will-get-his-opportunities/",
+   "title": "Ajinkya Rahane urges Indian team to back Samson, says Sooryavanshi will get his opportunities",
+   "summary": "Ajinkya Rahane has urged India to persist with Sanju Samson despite recent form struggles, while backing young Vaibhav Sooryavanshi for future opportunities in the T20 setup.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-11T12:31:54+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "b1ed90bb45372374692e10ca45b5f71cc38e070f",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckg76x3lzlvo?at_medium=RSS&at_campaign=rss",
+   "title": "Davidson's US Shrewsbury takeover involves Friedel",
+   "summary": "Scott Davidson's proposed takeover of League Two club Shrewsbury Town is supported by fellow American Brad Friedel.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T12:30:38+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "14d565002a0652af2593f1b7788d49bc321a2b99",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/clymlz7124xo?at_medium=RSS&at_campaign=rss",
+   "title": "Notts wrap up final-day victory over Hampshire",
+   "summary": "Olly Stone takes match figures of 9-95 as Nottinghamshire wrap up a final-day victory over bottom club Hampshire.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T12:29:41+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "40fb19f10b745cf3703606766c9fbb17e5039811",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/bcci-invites-applications-head-of-sports-science-centre-of-excellence-coe/article71456133.ece",
+   "title": "BCCI invites applications for CoE Head of Sports Science",
+   "summary": "The successful candidate will provide strategic and operational leadership to BCCI’s Sports Science and Medicine services across its elite cricket and CoE programmes, said the BCCI in a release.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T12:27:07+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "3c52417ebd99f3f3313c441c30109b4766714a34",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553754.html?ex_cid=OTC-RSS",
+   "title": "Olly Stone keeps Nottinghamshire's title defence on track",
+   "summary": "A rampant Stone took three of the final Hampshire wickets to keep Notts in a three-horse race",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T12:25:14+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "70132afee3712b67f54384aab8742f3ae5221991",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/byd-has-to-make-serious-offer-to-become-f1s-12th-team/",
+   "title": "Chinese manufacturer has to make 'serious offer' to join F1",
+   "summary": "FIA president Mohammed Ben Sulayem is open to Formula 1 adding a 12th team to the grid, but says any candidate will have to join on the championship’s terms",
+   "summary_method": "feed",
+   "author": "Josh Suttill",
+   "published_at": "2026-09-11T12:22:37+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "formula 1"
+   ]
+  },
+  {
+   "id": "30e3f182c6837af70e692f550ae21f369637e1d2",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/virat-kohli-meets-maharashtra-deputy-cm-eknath-shinde-in-london/",
+   "title": "Virat Kohli meets Maharashtra Deputy CM Eknath Shinde in London",
+   "summary": "The meeting took place on September 11, 2026, with discussions covering Maharashtra's infrastructure projects, welfare schemes and sports development.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-11T12:16:54+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "kohli"
+   ]
+  },
+  {
+   "id": "0fd18e3bcbf8ac21dc714be0e5bf1f92aacec00b",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/rajkumar-sharma-backs-virat-kohli-for-2027-world-cup-says-his-place-should-not-be-a-discussion-0094/",
+   "title": "Rajkumar Sharma backs Virat Kohli for 2027 World Cup, says his place ‘should not be a discussion’",
+   "summary": "Rajkumar Sharma, Virat Kohli's childhood coach, dismisses speculation around the batter's future in ODI cricket ahead of the 2027 World Cup.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-11T12:16:47+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket",
+    "batter",
+    "kohli"
+   ]
+  },
+  {
+   "id": "4a73cd154420471b63af94f9757bc9dc662fec74",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/social-tracker-cricket/david-warner-takes-a-brutal-dig-at-english-cricket-after-barmy-army-remarks-4670/",
+   "title": "David Warner takes a brutal dig at English cricket after Barmy Army remarks",
+   "summary": "The retired Australian opener used a pointed statistical jab and a curfew reference to respond to the England fan group's mockery on X.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-11T11:55:08+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "a66749e90732981cb46c9cf10506af0bee500c8d",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/reece-topley-picks-all-time-t20-xi-leaves-out-rohit-sharma-and-ms-dhoni-exclusive/",
+   "title": "Reece Topley picks all-time T20 XI, leaves out Rohit Sharma and MS Dhoni [Exclusive]",
+   "summary": "England left-arm pacer Reece Topley named his all-time T20 XI in an exclusive CricTracker interview, with Kieron Pollard as captain and no place for Rohit Sharma or MS Dhoni.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-11T11:51:29+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "rohit sharma"
+   ]
+  },
+  {
+   "id": "c09fc4065e6884e1e834eecd73e6b502960250c2",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/tim-david-on-how-r-ashwin-and-ajinkya-rahane-boost-etpls-global-appeal/",
+   "title": "Tim David on how R Ashwin and Ajinkya Rahane boost ETPL's global appeal",
+   "summary": "The Amsterdam Flames batter explains the impact of Indian cricket legends on the European T20 Premier League's profile.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-11T11:49:38+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket",
+    "batter",
+    "premier league"
+   ]
+  },
+  {
+   "id": "1a1cb87ade93e5cc8c9b24c5b59c7171eec0a2ad",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/duleep-trophy-memories-raman-lamba-sachin-tendulkar/article71455845.ece",
+   "title": "I covered Sachin Tendulkar vs Manoj Prabhakar, interviewed Venkatesh Prasad under a street light and filed stories by telex: My Duleep Trophy memories",
+   "summary": "A first-person account of covering the Duleep Trophy’s golden days, from Raman Lamba’s 320 and Sachin Tendulkar dinners to telex machines, train journeys and garba nights.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T11:49:32+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "44a50adbe5d5b7aa8c4c5fe5c1a2b3d062aa4d76",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c1wxgy0jez1o?at_medium=RSS&at_campaign=rss",
+   "title": "No northern Ashes Test a result of 2023 switch",
+   "summary": "The decision not to host a men's Ashes Test in the north next year is a result of the reallocation from Southampton to Headingley in the previous series in 2023.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T11:43:23+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "af2683c842cf7e63bb41921bb2423e6e818fb7ec",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/czjzv47gplwo?at_medium=RSS&at_campaign=rss",
+   "title": "Gloucestershire win basement battle with Lancs",
+   "summary": "Division Two bottom club Gloucestershire win in Manchester to narrow gap to Lancashire to 18 points with two games left.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T11:37:04+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "11e7ae2c9c2a93daa485390d7f08c1b491970169",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
+   "title": "Hull winger Thomas unhurt after car crash",
+   "summary": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T11:33:22+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "4146f2d82242133a5f265bc6b8b08cff60ef2d22",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&at_campaign=rss",
+   "title": "Man Utd ban 685 fan accounts after touting probe",
+   "summary": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans have not been punished.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T11:33:17+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "manchester united"
+   ]
+  },
+  {
+   "id": "6c5edd6636f27cdffd4b80d824822ec435a05c1e",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cx2z0d4z750o?at_medium=RSS&at_campaign=rss",
+   "title": "Who am I? Guess Bundesliga star No 3",
+   "summary": "Work out the identity of today's player in as few attempts as possible.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T11:31:33+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "bundesliga"
+   ]
+  },
+  {
+   "id": "ef480a1e57c03da7ccb7ae960e5fe7e20eb4d3b1",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/it-was-about-making-it-my-own-sachin-tendulkar-reveals-his-special-connection-with-bats-3765/",
+   "title": "‘It was about making it my own’ - Sachin Tendulkar reveals his special connection with bats",
+   "summary": "The cricket legend reveals his hands-on approach to customising his willow during his 24-year career.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-11T11:24:48+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "843c0744fc5ff6fb16e5c3fd58961b31295a1e3d",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-press-release/bcci-seeks-sports-science-and-medicine-expert-at-coe-to-counter-injury-concerns-in-indian-team/",
+   "title": "BCCI seeks Sports Science and Medicine expert at CoE to counter injury concerns in Indian team",
+   "summary": "The successful candidate will report to VVS Laxman, the head of cricket.",
+   "summary_method": "feed",
+   "author": "pr",
+   "published_at": "2026-09-11T11:20:20+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "e89908de9a195b14f561ecf3b2e676202fa5a495",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553759.html?ex_cid=OTC-RSS",
+   "title": "Langridge five-for wraps up Gloucesteshire victory",
+   "summary": "Visitors prevail in low-scoring scrap with Lancashire despite Rocky Flintoff's 65",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T11:18:56+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "9e1025a5b8eb822182862155f0f1d7400d6a1f00",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/11/eva-olid-manchester-united-wsl",
+   "title": "Olid’s United on back foot due to late business and unforgiving WSL start",
+   "summary": "Head coach has harsh spotlight on her as she prepares for Chelsea on Sunday, but she deserves time and investment It was tough watching Manchester United’s players labour ineffectively against the hungry and aggressive press of London City Lionesses in the Women’s Super League’s opening match. Simi Awujo’s late consolation goal did little to ease the mounting concern for a side that have several teams nipping at their heels. Don’t panic; that has to be United’s message.",
+   "summary_method": "feed",
+   "author": "Suzanne Wrack",
+   "published_at": "2026-09-11T11:18:25+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "manchester united",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "82c800afb5e8d1e539d847ba3d3949a1b5b9c893",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwyz92l0gkdo?at_medium=RSS&at_campaign=rss",
+   "title": "What is the Premier League's KMI Panel and how does it work?",
+   "summary": "The Premier League introduced its Key Match Incident (KMI) Panel four years ago",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T11:16:27+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "c2fe4cd86016352b270fd540444d8b46a11c3395",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/11/maresca-backs-elliot-anderson-kings-of-manchester-derby",
+   "title": "Maresca backs Anderson over ‘kings of Manchester’ dig before derby clash",
+   "summary": "Enzo Maresca has backed Elliot Anderson’s assessment that ­Manchester City are the “kings of Manchester” as he prepares for his first derby in charge of the club. City travel to Old Trafford seeking to continue their perfect start to life under Maresca and further prove Anderson’s point. The 23-year-old midfielder made his claim on signing from Nottingham Forest for £116m in the summer and having witnessed City win eight Premier League titles during the past 14 years, compared with United’s one.",
+   "summary_method": "feed",
+   "author": "Will Unwin",
+   "published_at": "2026-09-11T11:02:07+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "premier league",
+    "midfielder",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "4d58bc7f16722a5e37385d18a5f345204623285c",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cx2zr11l9j6o?at_medium=RSS&at_campaign=rss",
+   "title": "Teams need to adapt to fixture scheduling - Maresca",
+   "summary": "Manchester City manager Enzo Maresca says teams \"need to adapt\" to the fixture scheduling as his side head into Sunday's derby with two days extra rest over rivals Manchester United.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T10:55:09+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "manchester united",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "d0a6be742863f92a022cfb3ebc1c51d07e090a18",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/social-tracker-cricket/kisi-pe-phekna-mat-delhi-capitals-epic-reaction-to-kl-rahuls-coffee-post-8263/",
+   "title": "‘Kisi pe phekna mat’ - Delhi Capitals' epic reaction to KL Rahul's coffee post",
+   "summary": "The franchise's official Instagram comment on KL Rahul's post quickly gathered 250 likes and sparked 12 replies.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-11T10:45:12+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "9067f8fdfcd1938bdcfed309112e1fc7668a86ce",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/ddca-distributes-143-crore-prize-money-with-10-increase-across-all-categories/",
+   "title": "DDCA distributes ₹1.43 crore prize money with 10% increase across all categories",
+   "summary": "Delhi and District Cricket Association held its annual prize distribution ceremony on September 10, 2026, at Arun Jaitley Stadium, recognising performances across all competition levels.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-11T10:38:07+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
   {
    "id": "3d58bf1394eb2acb85ea6363ece2aea808573598",
    "source": "tennis-majors",
@@ -19,6 +1697,571 @@
     "tennis",
     "grand slam",
     "us open"
+   ]
+  },
+  {
+   "id": "4c8823cf3e35ad967f3c410d5ddfa4318f9bcb4c",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/etpl-2026-match-22-bfw-vs-rdd-match-prediction-who-will-win-todays-etpl-match-between-belfast-wolves-vs-rotterdam-dockers-4336/",
+   "title": "ETPL 2026: Match 22, BFW vs RDD Match Prediction – Who will win today’s ETPL match between Belfast Wolves vs Rotterdam Dockers?",
+   "summary": "Belfast Wolves will take on Rotterdam Dockers in Match 22 of the European T20 Premier League (ETPL) 2026 at the Malahide Cricket Ground in Dublin on Saturday, September 12.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-11T10:19:38+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket",
+    "premier league"
+   ]
+  },
+  {
+   "id": "3b042589094dd883f77e7231bca70cd715fb3af7",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553735.html?ex_cid=OTC-RSS",
+   "title": "Kadowaki-Fleming hopes India T20I is 'first step in a long history' of playing top-tier teams",
+   "summary": "Japan players hope the one-off T20I against India and then the Asian Games create a buzz about cricket in their country",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T10:16:29+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "e52e36c1b3ef0ed5331aa9ba47a07e8b35b034c0",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13584290/mikel-arteta-arsenal-manager-says-he-deliberately-sabotaged-his-teams-travel-plans-to-prepare-for-difficulties-on-the-road",
+   "title": "Arteta: I sabotage our travel plans so players get used to problems",
+   "summary": "Arsenal manager Mikel Arteta says he deliberately sabotaged the club's travel plans during pre-season - to get his players used to difficulties on the road.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T10:15:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "arsenal"
+   ]
+  },
+  {
+   "id": "f4c2494e1a070e440f887084a28b52dfc0ebdc20",
+   "source": "autosport-f1",
+   "source_name": "Autosport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.autosport.com/f1/news/whats-behind-fernando-alonsos-cryptic-comments-about-his-f1-future/10854444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "title": "What's behind Alonso's cryptic comments about his F1 future?",
+   "summary": "Every Thursday, the media day in the paddock begins with a roundtable session with Mike Krack and Honda's chief engineer Shintaro Orihara. Besides the usual questions about power unit driveability and potential upgrades, one topic returns every race weekend: when can we expect an announcement about Fernando Alonso’s future?",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T10:07:31+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "fernando alonso"
+   ]
+  },
+  {
+   "id": "f465d99d71219eeef0607110d7a7601c1ad6f04e",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/hes-taken-all-the-credit-ishan-kishan-vaibhav-suryavanshi-engage-in-hilarious-drs-banter-after-duleep-trophy-triumph-0628/",
+   "title": "‘He’s taken all the credit’ - Ishan Kishan, Vaibhav Suryavanshi engage in hilarious DRS banter after Duleep Trophy triumph",
+   "summary": "East Zone captain and vice-captain exchange light-hearted remarks following their championship-winning final.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-11T10:07:17+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "49973d9de582c55f7f33e413ff21746044de0ba3",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/11/mikel-arteta-maverick-arsenal-methods-player-challenges-delayed-meals",
+   "title": "‘Delay the meals’: Mikel Arteta reveals latest maverick Arsenal methods",
+   "summary": "Mikel Arteta has revealed that he likes to set players challenges, such as delaying their meals before matches and making the dressing room hotter, to ensure they are fully prepared for any eventuality. Arsenal’s flight to Italy on Tuesday for their Champions League opener against Napoli was delayed for more than five hours, with Arteta forced to cancel his pre-match press conference after the squad arrived in Naples just before 10pm local time.",
+   "summary_method": "feed",
+   "author": "Ed Aarons",
+   "published_at": "2026-09-11T10:04:37+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "champions league",
+    "arsenal"
+   ]
+  },
+  {
+   "id": "205e55d22a52c54f26c203e227e457eaf0b60e09",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/heather-knight-to-continue-playing-career-in-wbbl12-with-sydney-thunder/",
+   "title": "Heather Knight to continue playing career in WBBL|12 with Sydney Thunder",
+   "summary": "The 35-year-old England captain will represent Sydney Thunder in lime green for WBBL|12 following her international retirement in July.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-11T09:56:58+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "d9a407ca25d347287d8a171f12fbb891e450f147",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/rizwan-and-imam-ul-haq-questioned-by-pakistans-cybercrimes-agency-after-lords-test-3937/",
+   "title": "Rizwan and Imam-ul-Haq questioned by Pakistan's cybercrimes agency after Lord's Test",
+   "summary": "The two dropped players appeared before the National Cyber Crimes Investigation Agency in Lahore on Thursday, September 10, with at least one questioned for several hours.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-11T09:51:58+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "2ef1f43aa1fbed77f2fc528833c916eede4de8e7",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c17j90yx9ldo?at_medium=RSS&at_campaign=rss",
+   "title": "A cup weekend that could define three managerial tenures",
+   "summary": "Aberdeen head coach Stephen Robinson, Hibernian boss David Gray and Kilmarnock’s Neil McCann are all feeling the heat. Could League Cup quarter-final weekend shape their futures?",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T09:45:23+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "20e5626ebaef5cf06f2e5f730f74c75586e89fac",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/motogp/marquez-on-top-at-start-of-misano-motogp-weekend/",
+   "title": "Marquez on top at start of Misano MotoGP weekend",
+   "summary": "Marc Marquez led MotoGP title rival Marco Bezzecchi in the opening practice session of the San Marino Grand Prix premier-class weekend at Misano",
+   "summary_method": "feed",
+   "author": "Valentin Khorounzhiy",
+   "published_at": "2026-09-11T09:36:23+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "grand prix"
+   ]
+  },
+  {
+   "id": "18affa41e4b7448bd44991d3877b8c6f53b7c576",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/my-son-has-been-pushing-me-47-year-old-imran-tahir-becomes-oldest-to-take-a-t20-five-for-8429/",
+   "title": "'My son has been pushing me' - 47-year-old Imran Tahir becomes oldest to take a T20 five-for",
+   "summary": "Imran Tahir claimed 5/17 for Guyana Amazon Warriors against Saint Lucia Kings at Providence Stadium, setting a new world record at 47 years and 166 days.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-11T09:28:11+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "30abc26bc1480e68a6b6f83b6240b979579e033c",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss",
+   "title": "Bed at 6:45am - US Open semi-finalists fight effects of late-night finishes",
+   "summary": "New York is known as the city that never sleeps. But that comes at a price for US Open stars - including men's semi-finalists Ben Shelton and Alexander Zverev.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T09:09:59+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "us open",
+    "zverev"
+   ]
+  },
+  {
+   "id": "4564c507a6fdd56eeba35e9baeb08eafba0f4eea",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/11/atp-us-open-best-bets-tiafoe-shelton/",
+   "title": "ATP US Open Best Bets Including Frances Tiafoe Vs Ben Shelton",
+   "summary": "As big as that match is, we have to acknowledge that this tournament has been an amazing streak of good luck for Alexander Zverev. This ATP US Open match will produce a first-time Major finalist.",
+   "summary_method": "extract",
+   "author": "Matt Zemek",
+   "published_at": "2026-09-11T09:00:48+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "us open"
+   ]
+  },
+  {
+   "id": "7876e78203c931a1458b55dae35bdc4340a9337c",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/11/mauricio-pochettino-usmnt-tottenham-europe",
+   "title": "Pochettino’s ‘different’ vow to the US invites unwelcome speculation",
+   "summary": "The US manager’s relationship with the international job has changed with a full World Cup cycle beginning I hope, in this lifetime, you find someone who loves you the way Mauricio Pochettino loves Tottenham Hotspur. The grip Spurs have on his heart seems the stuff of a literary classic: his imperfect partner who called things off at the first sign of trouble must merely check in on him occasionally to rekindle hopes of a reunion.",
+   "summary_method": "feed",
+   "author": "Jeff Rueter",
+   "published_at": "2026-09-11T09:00:02+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "tottenham"
+   ]
+  },
+  {
+   "id": "09b8c8ddabb3d32bb7d459db7a9bc4a024442257",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13584251/lewis-hall-newcastle-united-left-back-signs-long-term-contract-at-st-james-park",
+   "title": "Hall signs new deal at Newcastle after Man Utd interest",
+   "summary": "Lewis Hall has signed a new long-term contract at Newcastle United.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T09:00:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "09a3b39d47c65fc0918ecf1e4a3ce90d8668bb2e",
+   "source": "autosport-f1",
+   "source_name": "Autosport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.autosport.com/f1/news/george-russell-reveals-when-hell-take-his-own-f1-engine-penalty/10854419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "title": "Russell set to take F1 engine penalty after Mercedes introduces power unit upgrade",
+   "summary": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit. Both Mercedes drivers have exceeded or are expected to exceed their power unit allowance for the 2026 season. Kimi Antonelli did so last weekend in Monza, where he took a back-of-the-grid penalty and scythed his way through the field to take a historic victory from 19th.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T08:57:43+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "formula 1",
+    "george russell"
+   ]
+  },
+  {
+   "id": "615cffa02a7fa80ebe1f255d9972531fc955f8c3",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/nepal-vs-uae-acc-premier-cup-2026-final-match-details-squads-live-streaming-where-to-watch/article71455272.ece",
+   "title": "Nepal vs UAE, ACC Men’s Premier Cup: All you need to know about NEP vs UAE tournament final",
+   "summary": "Here’s everything you need to know about the ACC Men’s Premier Cup 2026 final between Nepal and UAE in Kuala Lumpur on Saturday.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T08:44:44+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "799a2e823b41450eaf8a29f5146620a1631690be",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c62kzljxy3yo?at_medium=RSS&at_campaign=rss",
+   "title": "West Ham's Alvarez denies kidnapping accusation",
+   "summary": "West Ham and Mexico midfielder Edson Alvarez posts a statement on social media denying the allegation made by film producer Juan Jose Lopez Ordonez.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T08:42:22+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "midfielder"
+   ]
+  },
+  {
+   "id": "901447948ea86c3d2fe5497f5b085e7ec9d21fbb",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/george-russell-mercedes-f1-engine-penalty-delay/",
+   "title": "What's behind Russell and Mercedes' F1 engine penalty delay",
+   "summary": "George Russell will delay taking his inevitable F1 engine change penalty - potentially until the time of the US GP",
+   "summary_method": "feed",
+   "author": "Jon Noble",
+   "published_at": "2026-09-11T08:29:29+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "george russell"
+   ]
+  },
+  {
+   "id": "839fbdbd2332245a98dfbeaa45e333e305784357",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553721.html?ex_cid=OTC-RSS",
+   "title": "'My son has been pushing me' - 47-year-old Tahir after becoming oldest to bag five-for",
+   "summary": "Tahir's figures of 4-0-17-5 against St Lucia Kings were also his best in T20 cricket",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T08:15:14+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "a0d451011b7b1626cdc153c6ca85e4cc308c4789",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
+   "title": "Hall signs new contract with Newcastle until 2031",
+   "summary": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T08:00:07+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "c166ef785fba444bd18f27750d1f8cd166d090d1",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/11/us-open-five-set-tennis-shelton-alcaraz-late-night-matches",
+   "title": "Five-set tennis is under attack. Killing it would be a colossal unforced error | Andrew Lawrence",
+   "summary": "Five-set matches are physically punishing, occasionally absurd and increasingly under threat. They also produce much of what makes grand slam tennis great Tuesday night’s quarter-final match between Ben Shelton and Carlos Alcaraz had everything a US Open spectacle could ask for: huge stakes, knife-edge drama, top-shelf competition and an American hero who comes through in the end. The only fault to find was really the matter of time.",
+   "summary_method": "feed",
+   "author": "Andrew Lawrence at Flushing Meadows",
+   "published_at": "2026-09-11T08:00:05+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "tennis",
+    "grand slam",
+    "us open",
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "748fcf8fc103ac3c232dfb99239747667c91c732",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13582801/spurs-man-city-and-man-utd-face-defining-premier-league-matches-this-weekend-says-paul-merson",
+   "title": "Merson: Spurs, Man City and Man Utd have defining games this weekend",
+   "summary": "In his latest Sky Sports column, Paul Merson says Tottenham, Manchester City and Manchester United all have defining matches this weekend, even though it is early in the season.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T08:00:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "manchester united",
+    "manchester city",
+    "tottenham"
+   ]
+  },
+  {
+   "id": "b730ecc0a3cf1520632b257f886476f6643702d1",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13584004/cole-palmer-and-morgan-rogers-becoming-one-of-premier-leagues-most-dangerous-double-acts-the-radar",
+   "title": "Rogers and Palmer helping each other thrive",
+   "summary": "This week: Morgan Rogers was bemused when he found out Cole Palmer was man of the match in Chelsea's win over Leeds. Across Chelsea's five games so far, Rogers has played nearly twice as many passes to Palmer as any other player, with 19, while only defender Josh Acheampong has received more passes from Palmer, on 15.",
+   "summary_method": "extract",
+   "author": null,
+   "published_at": "2026-09-11T08:00:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "d7fc22655bb3ebb5d7e59cf4a20aab1d1391118d",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13583499/how-concerned-should-big-spending-tottenham-be-after-winless-and-goalless-start-to-premier-league-season",
+   "title": "No wins and no goals - how concerned should Spurs be over PL start?",
+   "summary": "It has been a winless and goalless start to the new Premier League season for big-spending Tottenham.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T08:00:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "premier league",
+    "tottenham"
+   ]
+  },
+  {
+   "id": "ed95f4b8240e30bd5479e738d2cbaec7fd81bd97",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/yastika-bhatia-half-century-trinbago-knight-riders-womens-cpl-indians-in-caribbean-premier-league-results-scores-performance/article71455310.ece",
+   "title": "Yastika Bhatia scores fifty to lead Trinbago Knight Riders to win over Jamaica Empress in Women’s CPL",
+   "summary": "The 25-year-old Indian wicketkeeper batter struck three sixes and six fours in her innings, with a strike rate of 167.64.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T07:58:14+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "batter",
+    "innings"
+   ]
+  },
+  {
+   "id": "e1ac489f9fb64c8d07ed63233ba654afca1dfebb",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553723.html?ex_cid=OTC-RSS",
+   "title": "Namibia opt to bowl; Subrayen leads SA with Fortuin rested",
+   "summary": "Hosts handed a debut to 18-year-old seamer Waldo Smith, and had Michael van Lingen back",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T07:41:08+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "6fdccd65479ee0cda09f3caf91730438519858b7",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/11/video-first-onboard-lap-of-formula-1s-tight-slow-new-madring-circuit/",
+   "title": "Video: First onboard lap of Formula 1’s tight, slow new Madring circuit | Brief",
+   "summary": "First onboard lap of Formula 1's tight, twisty new Madring circuit",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-11T07:28:12+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "formula 1"
+   ]
+  },
+  {
+   "id": "8a871ba29744f6a160993f2d182b588b59de6412",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c99dgrj1228o?at_medium=RSS&at_campaign=rss",
+   "title": "Just like riding a bike - five things to watch in the EFL",
+   "summary": "BBC Sport looks at five key talking points before the weekend's Championship, League One and League Two action.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T07:27:38+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "2f8759859f1b9cd7465c1cd84fda142c5c465730",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cvgyn32xrdpo?at_medium=RSS&at_campaign=rss",
+   "title": "How 9/11 'shattered the guise of safety' for tennis' travelling circus",
+   "summary": "On Friday, the US Open will pause and remember the victims of the 9/11 terror attack that took place 25 years ago.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T07:02:07+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "tennis",
+    "us open"
+   ]
+  },
+  {
+   "id": "702f9b7a74cc4d8f7a51a3288a84848d15078430",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/11/cricket-knight-stokes-cup-state-schools-lords",
+   "title": "State schools finally get their big day: ‘All of a sudden, playing at Lord’s becomes cool’",
+   "summary": "The inaugural Barclays Knight-Stokes Cup was a special occasion not just for the teenagers playing on Lord’s hallowed turf, but for the English game as a whole State-school cricket has had its day at Lord’s, at last.",
+   "summary_method": "feed",
+   "author": "Billy Munday and Tom Jenkins at Lord's",
+   "published_at": "2026-09-11T07:00:04+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "327adef155385d42b26a06e23e0c0b2b3c5a229e",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0p93d3d?at_medium=RSS&at_campaign=rss",
+   "title": "Podcast: Focus on League Cup quarter-finals",
+   "summary": "Can Stenhousemuir stun Hearts and will Rangers finally deliver against Celtic?",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T07:00:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "8c44c3999ecee269013abd05950dfc19e0ba3210",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/wta-tour-news/report-wta-projected-to-run-out-of-cash-by-late-2027-860711.html",
+   "title": "Report: WTA projected to run out of cash by late 2027",
+   "summary": "The Telegraph reports that figures presented at meetings in New York over the past fortnight project the WTA into the red by the autumn of 2027 if its current rate of losses continues.",
+   "summary_method": "feed",
+   "author": "Cédric Rouquette",
+   "published_at": "2026-09-11T06:42:51+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
+   "id": "8d3b9d42d1b8e77000fb82462aa7c262aa6185c4",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cgmrz1kdm93o?at_medium=RSS&at_campaign=rss",
+   "title": "Is triple Chelsea attack worth it? FPL gameweek four dilemmas",
+   "summary": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek four, including whether to captain Erling Haaland or a Chelsea player.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T06:28:38+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": [
+    "chelsea",
+    "erling haaland"
    ]
   },
   {
@@ -477,6 +2720,21 @@
    ]
   },
   {
+   "id": "fed298c0139cf6ccf2858e22dba97e1ac5bec3af",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-243996?at_medium=RSS&at_campaign=rss",
+   "title": "Namibia v South Africa - second ODI scorecard",
+   "summary": "Latest scorecard from the second one-day international between Namibia and South Africa in Windhoek.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T00:00:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
+  },
+  {
    "id": "af0e2a800afffee06728a3323ed08fa1ccd01feb",
    "source": "bbc-tennis",
    "source_name": "BBC Sport",
@@ -927,6 +3185,21 @@
     "cricket",
     "test match"
    ]
+  },
+  {
+   "id": "710b0bcde81b0fe11b7c839ac82e99ac7580292a",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0p91c9t?at_medium=RSS&at_campaign=rss",
+   "title": "F1: Chequered Flag",
+   "summary": "Jennie, Andrew and Jolyon look ahead to the new Spanish GP in Madrid.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T18:59:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
+   "tags": []
   },
   {
    "id": "6040a96c06cedb75f02dc177e41b593db62fc560",
@@ -3709,6 +5982,21 @@
    "author": "pr",
    "published_at": "2026-09-10T05:08:55+00:00",
    "fetched_at": "2026-09-10T06:24:46.970150+00:00",
+   "tags": []
+  },
+  {
+   "id": "dfd9abdb5d28a1c9bdb7de29e3a1b645eebe1d70",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/iplayer/episode/m00303gc?at_mid=DEZSuyo6Vd&at_campaign=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00303gc&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Secrets_of_the_Bayeux_Tapestry_Inside_the_Museum&at_bbc_team=BBC",
+   "title": "Unravel the secrets of a priceless piece of British history",
+   "summary": "The blockbuster exhibition - with a stellar cast of experts telling the Tapestry's story",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T05:00:00+00:00",
+   "fetched_at": "2026-09-11T17:05:00.303924+00:00",
    "tags": []
   },
   {
@@ -56303,23 +58591,6 @@
    "published_at": "2026-08-13T03:09:52+00:00",
    "fetched_at": "2026-08-29T09:37:02.370741+00:00",
    "tags": []
-  },
-  {
-   "id": "fb7c7d9b117b44487de4ce1c88266d1e60659469",
-   "source": "bbc-f1",
-   "source_name": "BBC Sport",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/c1412k74mzlo?at_medium=RSS&at_campaign=rss",
-   "title": "Cadillac replace team boss Lowdon with Budkowski",
-   "summary": "Formula 1 team Cadillac have a new team principal in former Alpine boss Marcin Budkowski, replacing Graeme Lowdon.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-12T11:18:17+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "formula 1"
-   ]
   }
  ]
 }
