@@ -1,7 +1,1881 @@
 {
- "generated_at": "2026-09-12T06:14:42.644229+00:00",
- "count": 3584,
+ "generated_at": "2026-09-12T16:26:50.704993+00:00",
+ "count": 3696,
  "items": [
+  {
+   "id": "7f63d904a7586f53cbd5defc60da5d82165a1210",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/blackburn-rovers-vs-millwall/report/560570",
+   "title": "Blackburn see off Millwall",
+   "summary": "Dapo Afolayan's brace helped Blackburn secure a much-needed 3-1 win over Millwall at a discontented Ewood Park.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T17:15:00+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "43a89ba39b098d0a617179a29e5db9ce0a00a83d",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/crystal-palace-vs-ipswich-town/report/559478",
+   "title": "Late Ipswich comeback sinks 10-man Palace",
+   "summary": "Ipswich came from behind to secure their first Premier League away win since April 2025 after beating 10-man Crystal Palace 3-2.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T17:07:00+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "c692e80e43ab89b83f48dbd177da81298ea26ecc",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/watch/video/13584964/liverpool-0-0-fulham-premier-league-highlights",
+   "title": "Fulham hold Liverpool at Anfield to claim first point of the season",
+   "summary": "FREE TO WATCH: Highlights from Liverpool’s match against Fulham in the Premier League.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T17:01:00+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "premier league",
+    "liverpool"
+   ]
+  },
+  {
+   "id": "0cff655c18991fb9fc9d6b652c8609321cf3eff2",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/liverpool-vs-fulham/report/559480",
+   "title": "Liverpool held at Anfield as Fulham pick up first point",
+   "summary": "Liverpool were held to a frustrating goalless draw as Fulham picked up their first point of the Premier League season at Anfield.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T17:00:00+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "premier league",
+    "liverpool"
+   ]
+  },
+  {
+   "id": "1bca412a634e9e746ef70925d4f5e5e4f2a4cae9",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/chelsea-vs-hull-city/report/559476",
+   "title": "Poor Chelsea defending sees Hull extend unbeaten run",
+   "summary": "Hull continued their unbeaten start in the Premier League as they capitalised on some poor Chelsea defending to draw 2-2 at Stamford Bridge.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T17:00:00+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "premier league",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "9cf5e59d5d941e29c3b0b1209c07837e2174dd98",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/aston-villa-vs-nottingham-forest/report/559474",
+   "title": "Glasner haunts Emery again as Forest win at Aston Villa",
+   "summary": "Nottingham Forest beat Aston Villa 2-1 at Villa Park to leave Unai Emery's side still searching for their first Premier League victory of the season.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T17:00:00+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "4ff6290fc1d18386eabe9f720d96f2f3ae05eb0a",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553945.html?ex_cid=OTC-RSS",
+   "title": "Tess Flintoff, Milly Illingworth lead Australia A's rout of India A",
+   "summary": "India suffered a top order collapse that they never recovered from and Australia chased down a target of 118 with ease",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T16:12:54+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "e0b6d432a442530edea97da2334788cec2257b4d",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/12/chelsea-hull-premier-league-match-report",
+   "title": "Hull stun Chelsea with Mohamed Belloumi double before João Pedro rescues a point",
+   "summary": "Do not make the mistake of assuming this was a backs-to-the-wall effort from Hull. Their remarkable start to the season goes on and a point was the least Sergej Jakirovic’s side deserved after they pushed Chelsea to the limit in an absorbing game. This was the first time Chelsea have dominated possession in a league game this season and it did not lead to anything pretty.",
+   "summary_method": "feed",
+   "author": "Jacob Steinberg at Stamford Bridge",
+   "published_at": "2026-09-12T16:10:03+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "chelsea"
+   ]
+  },
+  {
+   "id": "f302b84e04d7774f98f39f91a3e1bb77310c4a41",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/live/2026/sep/12/tottenham-v-everton-premier-league-live-updates",
+   "title": "Tottenham Hotspur v Everton: Premier League – live",
+   "summary": "⚽️ Premier League updates from the 5.30pm BST kick-off ⚽️ Live scores | Tables | Top scorers | And email James Elsewhere: Here are the teams:",
+   "summary_method": "feed",
+   "author": "James Wallace",
+   "published_at": "2026-09-12T16:09:59+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "premier league",
+    "tottenham"
+   ]
+  },
+  {
+   "id": "5d4a16373a75edae91abefb7e34c0a931578fd9d",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/12/aston-villa-nottingham-forest-premier-league-match-report",
+   "title": "Igor Jesus and Liam Delap strike for Forest to deepen Aston Villa’s league woes",
+   "summary": "This summer there were a couple of significant pieces of the puzzle for Oliver Glasner to put into place at Nottingham Forest. The first was a mobile striker to lead the line and keep opposition defenders on their toes and the other was a wing-back to fit his favoured 3-4-3 system. Enter Liam Delap and Daniel Munoz, both of whom had a big say in Forest’s first win of the season, though the match-winner was one of the old guard in Igor Jesus.",
+   "summary_method": "feed",
+   "author": "Ben Fisher at Villa Park",
+   "published_at": "2026-09-12T16:09:39+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "striker"
+   ]
+  },
+  {
+   "id": "fd52d5a78ceea9ba2c655a483681a090460cdc5e",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/12/liverpool-fulham-premier-league-match-report",
+   "title": "Frustrated Liverpool fail to take chances as Fulham claim deserved first point",
+   "summary": "In the not-so distant past when they were vying for a right-back role with Spain, Andoni Iraola often lost out to Álvaro Arbeloa. The points were shared at Anfield but the Liverpool head coach was thwarted by his old adversary once again as Fulham deservedly claimed the first Premier League point of Arbeloa’s tenure.",
+   "summary_method": "feed",
+   "author": "Andy Hunter at Anfield",
+   "published_at": "2026-09-12T16:06:00+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "premier league",
+    "liverpool"
+   ]
+  },
+  {
+   "id": "c773d13b6f57379582072eabd7068be96c2849ed",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553884.html?ex_cid=OTC-RSS",
+   "title": "It's spin vs spin as India and Sri Lanka battle for Asia Cup title",
+   "summary": "While there isn't much to separate the teams when it comes to their spin bowling, India have been the better all-round side, and go into the final as the favourites",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T16:01:53+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "da4a491f2cae74d6adbc18778c729130e34acd45",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cj64nxkx22jo?at_medium=RSS&at_campaign=rss",
+   "title": "England chasing the rainbow with more questions than answers",
+   "summary": "Are England a better team in September than in June? BBC cricket correspondent Stephan Shemilt discusses the positives and negatives of the Test summer and what the next period may bring.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T15:59:44+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "817a8294ab6b73a07fc7c1f6f22b71abfc8d17c3",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r60g7nrn6o?at_medium=RSS&at_campaign=rss",
+   "title": "Norris takes Madrid pole with 'gorgeous' lap",
+   "summary": "Lando Norris takes a superb pole position for McLaren at the Spanish Grand Prix, beating Mercedes' Kimi Antonelli and Red Bull's Max Verstappen.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T15:58:27+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "grand prix",
+    "pole position",
+    "verstappen",
+    "lando norris",
+    "mclaren"
+   ]
+  },
+  {
+   "id": "2f534d1f7f17908f24a48af2ad9b690f9c0ee941",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/12/a-star-is-born-razaullah-gives-pakistan-fresh-hopes-despite-england-sweep",
+   "title": "A star is born: Razaullah gives Pakistan fresh hopes despite England sweep | Andy Bull",
+   "summary": "The 21-year-old fast bowler’s eye-catching Test debut lit up an otherwise gloomy summer for the tourists So they didn’t do it. And in the end they weren’t even all that close. But for a moment, when England lost two wickets in the first over, and the first loud cries of ‘Pakistan, Zindabad’ were breaking out, it felt like they just might. Honestly, just the faint possibility was all this match, even this series, needed.",
+   "summary_method": "feed",
+   "author": "Andy Bull at Edgbaston",
+   "published_at": "2026-09-12T15:44:38+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "bowler"
+   ]
+  },
+  {
+   "id": "8dd098371cbc2dc9188b086705b7f02f3c1c83f2",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/tottenham-hotspur-vs-everton/live/559483",
+   "title": "Solanke starts for Spurs as Maitland-Niles handed Everton full debut LIVE!",
+   "summary": "",
+   "summary_method": "stub",
+   "author": null,
+   "published_at": "2026-09-12T15:41:00+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "c7507336905166af80619c65179182637f6a4b63",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/india-vs-afghanistan-1st-t20i-press-conference-ibrahim-zadran-new-captain/article71460855.ece",
+   "title": "IND vs AFG 1st T20I — Ibrahim Zadran keen to enjoy new responsibility",
+   "summary": "The 24-year-old opening batter will be taking charge as a full-time skipper for the first time when Afghanistan plays the first T20I against India in New Delhi.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T15:40:04+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "batter"
+   ]
+  },
+  {
+   "id": "79d6815a7a096f0999c95eb9962a1d5e6dd207da",
+   "source": "guardian-f1",
+   "source_name": "The Guardian",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/live/2026/sep/12/formula-one-2026-spanish-grand-prix-qualifying-at-the-madring-live",
+   "title": "Formula One 2026: Norris pips Antonelli to Spanish Grand Prix pole by 0.011sec – as it happened",
+   "summary": "Lando Norris claimed a spectacular pole position for McLaren with a stunning lap to beat championship leader Kimi Antonelli But Bearman’s picture could have been left out. New chassis needed, no can drive. Portentous countdown time.",
+   "summary_method": "feed",
+   "author": "Philip Cornwall",
+   "published_at": "2026-09-12T15:38:24+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "formula one",
+    "grand prix",
+    "pole position",
+    "lando norris",
+    "mclaren"
+   ]
+  },
+  {
+   "id": "7df6c20d9d99cb56327ebd7be7cb614b68a79f46",
+   "source": "guardian-f1",
+   "source_name": "The Guardian",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/12/lando-norris-f1-spanish-gp-pole",
+   "title": "Lando Norris shocks himself by pipping Kimi Antonelli to F1 Spanish GP pole",
+   "summary": "Lando Norris took the first pole position at Formula One’s newest circuit, the Madring, for the Spanish Grand Prix. The McLaren driver saw off a spirited assault by Mercedes’ Kimi Antonelli, who was second, with a superb lap at a circuit that has proved challenging to master and punishing on the slightest of errors. Red Bull’s Max Verstappen was third with Lewis Hamilton and Charles Leclerc in fourth and fifth for Ferrari and George Russell sixth for Mercedes.",
+   "summary_method": "feed",
+   "author": "Giles Richards at the Madring",
+   "published_at": "2026-09-12T15:32:24+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "formula one",
+    "grand prix",
+    "pole position",
+    "verstappen",
+    "hamilton",
+    "leclerc"
+   ]
+  },
+  {
+   "id": "e959f64b9af808396050327835565d1603584ca2",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/12/stewards-summon-antonelli-russell-and-leclerc-over-qualifying-breaches/",
+   "title": "Stewards summon Antonelli, Russell and Leclerc over qualifying breaches | Formula 1",
+   "summary": "The stewards have summoned three drivers who qualified in the top six places over potential breaches of the regulations.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-12T15:29:55+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "formula 1",
+    "qualifying",
+    "leclerc"
+   ]
+  },
+  {
+   "id": "84554c73e582b2c8d64ae1f4b14d5d83e07ab666",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/12/us-open-final-preview-zverev-shelton/",
+   "title": "US Open Final Preview: Ben Shelton Faces Alexander Zverev for New York Glory",
+   "summary": "The German did make his life tougher in the early matches, playing back-to-back five-setters to start the tournament, but since then he has been spotless, winning all of his matches in straight sets to make the final, where he will get a matchup that he has historically dominated, winning all five of his matches played against Shelton so far.",
+   "summary_method": "extract",
+   "author": "Zain Mustafa",
+   "published_at": "2026-09-12T15:21:26+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "us open",
+    "zverev"
+   ]
+  },
+  {
+   "id": "b57f47db762538da809da695f191b8628bd535a6",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/12/ben-shelton-roof-off/",
+   "title": "Why Ben Shelton Is About to Blow the Roof Off Flushing Meadows",
+   "summary": "Tennis - U.S. Open - Flushing Meadows, New York, United States - September 11, 2026 Ben Shelton of the U.S. celebrates winning his semi final match against Frances Tiafoe of the U.S.",
+   "summary_method": "feed",
+   "author": "Tope Oke",
+   "published_at": "2026-09-12T15:19:18+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "tennis"
+   ]
+  },
+  {
+   "id": "7a2d326f9fe22c4351d6725a8c1a81a16fdd39bd",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/f1-spanish-grand-prix-qualifying-norris-beats-antonelli-pole/",
+   "title": "Norris snatches first Madring Spanish GP pole from Antonelli",
+   "summary": "Lando Norris recovered from a gearbox failure on Friday to deny F1 championship leader Kimi Antonelli pole for the Spanish GP at the Madring",
+   "summary_method": "feed",
+   "author": "Samarth Kanal",
+   "published_at": "2026-09-12T15:18:42+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "lando norris"
+   ]
+  },
+  {
+   "id": "7a5dff4c6f75e413ff4afe03d12dbd33aec17cbe",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/12/featured-comment-ben-sulayems-alonso-comments-reflect-badly-on-formula-1/",
+   "title": "Featured Comment: Ben Sulayem’s Alonso comments reflect badly on Formula 1 | Brief",
+   "summary": "Ben Sulayem's Alonso comments reflect badly on Formula 1",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-12T15:16:12+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "formula 1"
+   ]
+  },
+  {
+   "id": "d8cb2b1e1975ed2f29c2aa966696cb6839cd567b",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553898.html?ex_cid=OTC-RSS",
+   "title": "India face tough selection calls as Afghanistan play hosts in Delhi",
+   "summary": "Shreyas Iyer will have to make the unenviable selection of two openers out of Sanju Samson, Vaibhav Sooryavanshi and Abhishek Sharma",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T15:14:35+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "67b6222b3855063f3f150f2d3a594c23eb6d9573",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/12/england-chaos-test-summer-joe-root-cricket-pakistan",
+   "title": "England in better shape after ‘coming through chaos’ of a torrid summer, says Joe Root",
+   "summary": "Joe Root said England have “come through the other side of the chaos” after a tumultuous summer ended in a 3-0 series sweep of Pakistan. Stephen Fleming, the new Test coach, is due to arrive in the country on Monday and has meetings scheduled with his captain, as well as the interim coach, Marcus Trescothick, as the team look to head into the winter in more settled style.",
+   "summary_method": "feed",
+   "author": "Simon Burnton at Edgbaston",
+   "published_at": "2026-09-12T15:14:05+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "joe root"
+   ]
+  },
+  {
+   "id": "a1b6db94fdacca75e1f25b05044f55e00d155e07",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/12/us-open-prediction-zverev-shelton/",
+   "title": "US Open Final Prediction: Alexander Zverev vs Ben Shelton",
+   "summary": "The US Open men’s final is set, with Alexander Zverev taking on Ben Shelton for the final Grand Slam title of the season. Zverev will be looking to add a second Major title to his resume, while Shelton is playing in his first Grand Slam final and will have the New York crowd firmly behind him.",
+   "summary_method": "extract",
+   "author": "Steen Kirby",
+   "published_at": "2026-09-12T15:11:07+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "us open",
+    "zverev"
+   ]
+  },
+  {
+   "id": "01438832b609e424515daa6e98969a927aeaccb9",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/12/norris-snatches-first-madring-pole-position-off-antonelli/",
+   "title": "Norris snatches first Madring pole position off Antonelli | 2026 Spanish Grand Prix qualifying report",
+   "summary": "Lando Norris snatched pole position for the Spanish Grand Prix off Andrea Kimi Antonelli while an error left George Russell sixth.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-12T15:09:03+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "grand prix",
+    "pole position",
+    "qualifying",
+    "lando norris",
+    "george russell"
+   ]
+  },
+  {
+   "id": "6f47bd72992e271c5c5cb8215158829ba2f5058e",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553938.html?ex_cid=OTC-RSS",
+   "title": "Razaullah's heroics delay Saim Ayub's CPL return by a day",
+   "summary": "Ayub's CPL franchise Jamaica Kingsmen had initially booked him on a flight to Barbados on the night of the third day of the Edgbaston Test",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T15:06:40+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "713b038057bc9fba082ea593fe1fb2db70f23599",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/f1-2026-spanish-grand-prix-qualifying-results/",
+   "title": "Spanish Grand Prix 2026 Madring F1 qualifying results",
+   "summary": "All the times from the first-ever F1 qualifying session at new Spanish GP host venue the Madring",
+   "summary_method": "feed",
+   "author": "The Race Team",
+   "published_at": "2026-09-12T15:05:42+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "grand prix",
+    "qualifying"
+   ]
+  },
+  {
+   "id": "6492715a75e18e577a268f11f1c5442ad7a59f00",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c0klpz5k383o?at_medium=RSS&at_campaign=rss",
+   "title": "England in better place than start of summer - Root",
+   "summary": "Captain Joe Root says England are in a better place at the end of their tumultuous summer and is impressed by how they have handled the chaos.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T15:04:42+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "joe root"
+   ]
+  },
+  {
+   "id": "5043437198ddf78b44a533c0c9d0acbf0bbd6387",
+   "source": "autosport-f1",
+   "source_name": "Autosport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.autosport.com/f1/news/f1-spanish-gp-norris-on-pole/10855001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "title": "F1 Spanish GP: Norris snatches last-gasp pole from Antonelli",
+   "summary": "Formula 1’s reigning world champion Lando Norris has claimed his third pole position of the 2026 season at the Spanish Grand Prix, beating series leader Kimi Antonelli at the debutant Madring circuit. With a last-ditch effort Norris took a mere 0.011s out of Antonelli's benchmark to hand Mercedes its fourth consecutive qualifying defeat.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T15:04:02+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix",
+    "pole position",
+    "qualifying",
+    "lando norris"
+   ]
+  },
+  {
+   "id": "9ec4ef80ba02ecbb498b4fe9e11f027856e6a4bf",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/12/2026-spanish-grand-prix-grid/",
+   "title": "2026 Spanish Grand Prix grid | Formula 1",
+   "summary": "Lando Norris has taken provisional pole position for the Spanish Grand Prix for McLaren ahead of Andrea Kimi Antonelli and Max Verstappen.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-12T15:01:45+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix",
+    "pole position",
+    "verstappen",
+    "lando norris",
+    "mclaren"
+   ]
+  },
+  {
+   "id": "235390e40be1de13da88e797997a747aca162835",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c0j3d70lg3lo?at_medium=RSS&at_campaign=rss",
+   "title": "Hesson open to Pakistan Test job after England approach",
+   "summary": "Mike Hesson is interested in coaching Pakistan's Test side on a permanent basis - and says he was approached earlier this year about the England job.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T14:52:29+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "64dcb9747722373d95f1436571c6955991f4aa5d",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/joe-root-breaks-sachin-tendulkars-record-for-most-fifties-in-test-cricket-2396/",
+   "title": "Joe Root breaks Sachin Tendulkar's record for most fifties in Test cricket",
+   "summary": "Joe Root surpassed Sachin Tendulkar's tally of 68 Test fifties to stand alone atop the all-time list, sealing the milestone during England's series-clinching victory over Pakistan at Edgbaston.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-12T14:46:16+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "cricket",
+    "joe root"
+   ]
+  },
+  {
+   "id": "ca3ea8afd22b4ab3574dc94680136efa231e4295",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/12/video-title-rivals-collide-at-start-of-final-frec-weekend/",
+   "title": "Video: Title rivals collide at start of final FREC weekend | Brief",
+   "summary": "Formula Regional European Championship leader Emanuele Olivieri was pipped to pole position for the final weekend’s opening race by rival Sebastian Wheldon. Having previously worked as a motoring journalist, Keith began running the site full-time in 2010, achieving a long-held ambition to dedicate his full attention to his passion for motor racing.",
+   "summary_method": "extract",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-12T14:45:20+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "4a4a1b4ad8e3f4361c6c5c4bfd46044351e84346",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/watch/video/13584857/west-ham-united-2-1-london-city-lionesses-womens-super-league-highlights",
+   "title": "West Ham shock London City Lionesses for first WSL win of season",
+   "summary": "Highlights of West Ham United against London City Lionesses in the Women's Super League.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T14:44:00+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "167a0ac07330e3e72413a33394846f42bb2b4de0",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/india-vs-sri-lanka-womens-asia-cup-2026-final-harmanpreet-kaur-chamari-athapaththu-quotes/article71460605.ece",
+   "title": "Taking responsibility will be key: Harmanpreet on India’s middle-order issues ahead of Women’s Asia Cup 2026 final",
+   "summary": "Meanwhile, Sri Lanka captain Chamari Athapaththu hailed the performances of her middle-order, singling out the contributions of youngsters Kavisha Dilhari and Harshitha Samarawickrama, as well as senior batter Nilakshi Silva.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T14:43:20+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "batter"
+   ]
+  },
+  {
+   "id": "c99cfa6b98db5e7f590d22fdaaa0e7808507b39f",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553929.html?ex_cid=OTC-RSS",
+   "title": "Mike Hesson 'open' to taking on Pakistan Test head coach role",
+   "summary": "New Zealander was given interim control for Edgbaston Test and could be appointed across formats",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T14:39:49+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "2f8b618acff51b40136d6eeff3685d9f799b36de",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/watch/video/13584832/derby-v-birmingham-that-is-an-extraordinary-miss-vazquez-skies-golden-opportunity",
+   "title": "No, really... Is this actually the worst miss ever?",
+   "summary": "Luis Vasquez was gifted with an easy chance to make it three for Birmingham vs Derby but somehow skied it.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T14:27:00+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "b5b6688a2996301686576411655d91ac50230529",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-appeal/cricketers-retired-in-2026-so-far/",
+   "title": "Cricketers retired in 2026 so far",
+   "summary": "From Australia and New Zealand to India, Pakistan, South Africa, England and Bangladesh, a number of familiar names have left the international cricket scene.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-12T14:16:55+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "ca6ab19f87c512f46688ea890cc8cb57f1237a8e",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/12/london-city-west-ham-wsl-match-report",
+   "title": "London City’s superstars brought down to earth in WSL defeat at West Ham",
+   "summary": "West Ham claimed their first Women’s Super League win of the season with a 2-1 home victory over London City Lionesses. Kelly Gago put the Hammers ahead after 21 minutes, racing between the centre-backs Mapi León and Isa Kardinaal to latch on to Seraina Piubel’s pass from nearly halfway and rounding Elene Lete in the London City goal.",
+   "summary_method": "feed",
+   "author": "Guardian sport and Press Association",
+   "published_at": "2026-09-12T14:11:24+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "7b09749e7ba317b4edc928fd7592ef2fe79ae6fa",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/nepal-qualifies-for-asia-cup-2027-acc-premier-cup-final-result-highlights/article71460468.ece",
+   "title": "Nepal qualifies for Asia Cup 2027 after winning ACC Premier Cup",
+   "summary": "Nepal beat UAE to clinch the ACC Premier Cup, the eight-team tournament that served as the qualifier for the Asia Cup.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T14:10:47+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "15ea34e932aeb14c030b1839a1b7e5cc43c6778d",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/videos/cvgy7827vzgo?at_medium=RSS&at_campaign=rss",
+   "title": "'We'll celebrate' - Root praises team for ignoring 'chaos' in series win",
+   "summary": "England captain Joe Root says he's \"proud\" of his squad after they beat Pakistan on day four of the third Test to seal a 3-0 series win against Pakistan at Edgbaston.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T14:09:39+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "joe root"
+   ]
+  },
+  {
+   "id": "c3c4092ba4b687ab0b8a6fca64647db59e6aeb40",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/12/championship-roundup-west-brom-qpr-derby-birmingham-middlesbrough-southampton-burnley",
+   "title": "Championship roundup: Birmingham sink Derby, West Brom held by QPR",
+   "summary": "Callum Styles earned West Brom a point as they came from behind to draw 1-1 against QPR at The Hawthorns. It meant they failed to regain their position on top of the table after West Ham beat Wrexham 6-0 on Friday. A Chris Mepham own goal put QPR in front in the 38th minute but that lead lasted three minutes as Styles equalised to extend West Brom’s unbeaten home record to 11 games.",
+   "summary_method": "feed",
+   "author": "Press Association",
+   "published_at": "2026-09-12T14:00:26+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "919570aff6efdbeed564372a25189c63b317f6ae",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/the-summit-of-the-womens-season-sabalenka-meets-rybakina-with-the-ranking-settled-and-everything-else-still-on-the-line-860794.html",
+   "title": "The summit of the women’s season: Sabalenka meets Rybakina with the ranking settled and everything else still on the line",
+   "summary": "Aryna Sabalenka plays Elena Rybakina in the final of the US Open 2026, the third final at this tournament between the world No. 1 and No. 2 since 2000. Rybakina takes the No. 1 ranking on Monday regardless of the result, ending Sabalenka's 99-week run. Sabalenka has far more to lose, but she is playing her best tennis of the year.",
+   "summary_method": "feed",
+   "author": "Cédric Rouquette",
+   "published_at": "2026-09-12T13:52:05+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "tennis",
+    "us open",
+    "sabalenka"
+   ]
+  },
+  {
+   "id": "a31d94b7469c79bf7026b9bd0d8ca96ee01386a7",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/indian/shreyas-iyer-jasprit-bumrah-fitness-game-time-india-vs-afghanistan/article71460301.ece",
+   "title": "AFG vs IND, 1st T20I: Important for Bumrah to get game time, says Shreyas",
+   "summary": "Skipper Shreyas Iyer said on Saturday that the idea was to give Bumrah, who is returning from a knee injury, as much game time as possible at this stage.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T13:48:28+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "bumrah"
+   ]
+  },
+  {
+   "id": "2a9b666fbecf480b14ed4446237989a678036d42",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/wtc-points-table-2025-27-standings-latest-update-after-england-vs-pakistan-3rd-test-result/article71459917.ece",
+   "title": "WTC Points Table 2025-27 after ENG vs PAK 3rd Test — England stays sixth despite another win over Pakistan",
+   "summary": "Check the latest standings update in the World Test Championship 2025-27 after England beat Pakistan by eight wickets in Birmingham.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T13:47:49+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "d333ba76c460231ea366f44b082bb0b39458eefa",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/what-it-is-like-watching-f1-crash-unfold-ollie-bearman-haas/",
+   "title": "What it's like watching an F1 crash unfolding in front of you",
+   "summary": "The Race was at the scene of the accident as Ollie Bearman crashed his Haas F1 car in Spanish GP FP3.",
+   "summary_method": "feed",
+   "author": "Jon Noble",
+   "published_at": "2026-09-12T13:43:01+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "9a390a04ccf2292a61318fd274cc43cb577bc78d",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1553913.html?ex_cid=OTC-RSS",
+   "title": "Root, Cox hit fifties as England cruise to 3-0",
+   "summary": "Cox and Root helm England's small chase after Abbas' double-strike",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T13:31:27+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "2b5add53710f80571866f32a645a217cea9ded1a",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/motogp/marquez-outfoxes-bezzecchi-to-take-crucial-misano-sprint-win/",
+   "title": "Marquez outfoxes Bezzecchi to take crucial Misano sprint win",
+   "summary": "Defending MotoGP champion Marc Marquez defeated title rival Marco Bezzecchi to win the sprint race at Misano",
+   "summary_method": "feed",
+   "author": "Valentin Khorounzhiy",
+   "published_at": "2026-09-12T13:27:47+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "a88349851ba271dd48493a1322d3908232bdeee8",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/joe-root-breaks-record-sachin-tendulkar-most-fifties-test-cricket/article71460200.ece",
+   "title": "Root breaks Tendulkar record — The England batter now has most fifties in Test cricket",
+   "summary": "Root notched up an unbeaten 62 off 69 balls on Saturday against Pakistan, taking his team to an eight-wicket victory in the third Test in Birmingham.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T13:26:50+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "cricket",
+    "wicket",
+    "batter"
+   ]
+  },
+  {
+   "id": "895c3c82e37eded4bf458a732b583b40f8c8260c",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/shamar-joseph-gestures-at-kieron-pollard-before-celebrating-his-dismissal-in-fiery-cpl-clash-5683/",
+   "title": "‘Keep blabbering’ - Shamar Joseph’s fiery exchange with Kieron Pollard steals the show in CPL",
+   "summary": "Shamar Joseph's animated send-off of Kieron Pollard lit up Providence Stadium as Guyana Amazon Warriors recorded their 100th CPL victory.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-12T13:20:55+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "96feeb9019460d6b919a7948e6c9f7b784a0c720",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/bournemouth-vs-brentford/live/559475",
+   "title": "Bournemouth still awaiting first PL win of the season after Brentford draw LIVE!",
+   "summary": "",
+   "summary_method": "stub",
+   "author": null,
+   "published_at": "2026-09-12T13:20:00+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "d0593eba97d672b9eafd2141b38630f2a1c582ed",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/afghanistan-vs-india-1st-t20i-shreyas-iyer-sooryavanshi-asian-games-preparations-match-preview/article71460211.ece",
+   "title": "AFG vs IND, 1st T20I: Ahead of Asian Games, full-strength India aims to flex muscle",
+   "summary": "Among those expected to feature for India are Vaibhav Sooryavanshi, who made an impression in India’s last T20Is against Zimbabwe, and Jasprit Bumrah, who will return for injury.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T13:14:06+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "bumrah"
+   ]
+  },
+  {
+   "id": "f2faab12839272e02594a480f8a36abf3c54eee0",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/live/2026/sep/12/england-v-pakistan-third-cricket-test-day-four-live-updates",
+   "title": "England beat Pakistan after early scare: third men’s cricket Test, day four – as it happened",
+   "summary": "After an early scare, Joe Root and Jordan Cox usher England to victory and a 3-0 clean sweep of Pakistan Razaullah’s agent is giving it some welly on X – apparently his phone is ringing red. Razaullah was due to play for Cleethorpes in the Yorkshire Southern Premier League before: “@TheRealPCBMedia come calling - sort his Passport out, and wing him over for @Edgbaston. He’s now made his mark. Franchises already showing interest. Our phones have blown up. Watch this space!”",
+   "summary_method": "feed",
+   "author": "Tanya Aldred",
+   "published_at": "2026-09-12T13:13:28+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "cricket",
+    "joe root",
+    "premier league"
+   ]
+  },
+  {
+   "id": "55f00199520e2e3f571fc68cab5865d3751d5123",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/india-vs-sri-lanka-womens-asia-cup-2026-final-preview-record-titles-news/article71459313.ece",
+   "title": "India faces Sri Lanka in Women’s T20 Asia Cup final eyeing record-extending eighth title",
+   "summary": "This final is a rematch of the 2024 Women’s Asia Cup final where Sri Lanka famously trounced India to lift the trophy before a raucous home crowd in Dambulla.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T13:11:50+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "bc1add067ae04cd3344d39e97e279d1e73f5e0c3",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/12/race-director-issued-formal-request-for-hamilton-to-stop-driving-damaged-car/",
+   "title": "Race director issued “formal request” for Hamilton to stop driving damaged car | Formula 1",
+   "summary": "Lewis Hamilton only parked his damaged Ferrari in practice after the team was ordered to stop him by race director Rui Marques.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-12T13:02:15+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "formula 1",
+    "hamilton"
+   ]
+  },
+  {
+   "id": "21e1571494e7ae18b467861ecbf044e136c5d658",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-analysis/shreyas-iyer-vs-ibrahim-zadran-who-is-the-better-t20i-batter-3910/",
+   "title": "Shreyas Iyer vs Ibrahim Zadran: Who is the better T20I batter?",
+   "summary": "CricTracker analyses deep into a comparison between Shreyas Iyer and Ibrahim Zadran in T20Is.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-12T12:56:54+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "batter"
+   ]
+  },
+  {
+   "id": "77d9cea0ac85ce47c76ba51e12fe5ceada528f92",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/videos/cge4qr13r7do?at_medium=RSS&at_campaign=rss",
+   "title": "Root and Cox to the rescue as England beat Pakistan in third Test",
+   "summary": "Captain Joe Root and Jordan Cox help England fight back from an early scare as the hosts recover from 2-2, to successfully chase down 130 and wrap up an eight-wicket win and a 3-0 series clean sweep against Pakistan at Edgbaston.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T12:56:12+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "wicket",
+    "joe root"
+   ]
+  },
+  {
+   "id": "9fe3a39ac71bcee5d44f27c80a2ba9a2b6ad46cb",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/etpl-2026-match-25-bfw-vs-ggc-match-prediction-who-will-win-todays-etpl-match-between-belfast-wolves-vs-glasgow-cosmics-6666/",
+   "title": "ETPL 2026: Match 25, BFW vs GGC Match Prediction – Who will win today’s ETPL match between Belfast Wolves vs Glasgow Cosmics?",
+   "summary": "Belfast Wolves will take on Glasgow Cosmics in Match 25 of the European T20 Premier League (ETPL) 2026.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-12T12:55:32+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "3be379de7aa163b14c25e228866b72a5961daf05",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/its-unfinished-business-ryan-campbell-reflects-on-durhams-triumphant-return-to-division-one/",
+   "title": "'It's unfinished business' – Ryan Campbell reflects on Durham's triumphant return to Division One",
+   "summary": "Head Coach Ryan Campbell praised the club's response to relegation as Durham secured promotion back to County Championship Division One.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-12T12:50:59+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "county championship"
+   ]
+  },
+  {
+   "id": "e2c91900762cbfca091077b571f6d37e7ce5d180",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/12/ben-sulayem-wants-rules-changes-to-make-alonsos-aston-martin-more-competitive/",
+   "title": "Ben Sulayem wants rules changes to make Alonso’s Aston Martin more competitive | Formula 1",
+   "summary": "FIA president Mohammed Ben Sulayem says he wants to help give Fernando Alonso a more competitive car.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-12T12:40:09+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "formula 1",
+    "fernando alonso"
+   ]
+  },
+  {
+   "id": "30e10bfc9b5773f1f88b7acb35101937dbe99497",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/social-tracker-cricket/dhawan-was-nowhere-in-the-frame-david-warner-hits-back-at-rohit-sharma-3864/",
+   "title": "'Dhawan was nowhere in the frame' – David Warner hits back at Rohit Sharma",
+   "summary": "Warner's Instagram reply to Rohit Sharma's television promo has revived two separate on-field incidents from the 2014 Adelaide Test.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-12T12:28:21+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "rohit sharma"
+   ]
+  },
+  {
+   "id": "310088278711759f5b64f39271c3371ea70cdfc7",
+   "source": "guardian-cricket",
+   "source_name": "The Guardian",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/12/joe-root-no-ball-england-beat-pakistan-third-test-cricket",
+   "title": "Joe Root makes most of no-ball luck as England win despite Pakistan scare",
+   "summary": "It was a run chase that began in alarming fashion for England as Mohammad Abbas hitched up his strides, glided in to the crease and sent Ben Duckett and Emilio Gay trudging back to the pavilion at either end of a magical first over. Pakistan’s players suddenly believed, their supporters inside Edgbaston likewise.",
+   "summary_method": "feed",
+   "author": "Ali Martin at Edgbaston",
+   "published_at": "2026-09-12T12:28:20+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "joe root"
+   ]
+  },
+  {
+   "id": "3f0624b05e833eefaf92f1a7fef805bf59e16cf4",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy4xy8gl9o?at_medium=RSS&at_campaign=rss",
+   "title": "Who has given selectors food for thought? England-Pakistan player ratings",
+   "summary": "Which batter played his most mature innings of the year? Who has given the selectors food for thought? Player ratings from England's win over Pakistan at Edgbaston.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T12:24:31+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "batter",
+    "innings"
+   ]
+  },
+  {
+   "id": "265f1b6100cb2e5ed9d094dc40f6cccfaa56fc3d",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c770z1j5l0ko?at_medium=RSS&at_campaign=rss",
+   "title": "England survive scare to sweep Pakistan series",
+   "summary": "England survive an almighty scare to eventually win the third Test against Pakistan by eight wickets and complete a 3-0 clean sweep.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T12:20:38+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "2666ae83255a21c54ce0ee747a066236916dab83",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/just-look-at-the-intent-shoaib-akhtar-questions-babar-azam-after-razaullahs-blistering-knock-8437/",
+   "title": "'Just look at the intent' - Shoaib Akhtar questions Babar Azam after Razaullah's blistering knock",
+   "summary": "Former Pakistan pacer Shoaib Akhtar has drawn a stark contrast between debutant Razaullah's aggressive 81 and Babar Azam's 76 in the third Test against England at Edgbaston.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-12T12:13:25+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "babar azam"
+   ]
+  },
+  {
+   "id": "3405ef57f395f2a11376275dcc14a4b487713b9c",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/international/england-vs-pakistan-3rd-test-day-4-jordan-cox-joe-root-abbas-scores-results-latest/article71460003.ece",
+   "title": "ENG vs PAK, 3rd Test: Cox, Root fifties help England seal whitewash over Pakistan",
+   "summary": "Root and Cox weathered an early storm from Mohammed Abbas to add a partnership of 128 that helped the side confirm victory.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T12:11:12+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "8310d8c02c7ade295357cc458737c5aeaebcf3d1",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/hamilton-bearman-crash-in-final-madrid-f1-practice/",
+   "title": "Hamilton, Bearman crash in final Madrid F1 practice",
+   "summary": "Formula 1 championship leader Kimi Antonelli headed a final Spanish Grand Prix practice session at the Madring featuring two red flags, including one for a Lewis Hamilton crash at the final corner",
+   "summary_method": "feed",
+   "author": "Jack Cozens",
+   "published_at": "2026-09-12T12:11:06+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix",
+    "hamilton"
+   ]
+  },
+  {
+   "id": "949faa6ca94f5dc9dc65be32bc3f05daf375e06c",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/england-vs-pakistan-live-score-3rd-test-day-4-updates-scorecard-highlights-commentary/article71459580.ece",
+   "title": "ENG vs PAK Highlights, 3rd Test Day 4: Root, Cox fifties give England eight-wicket win",
+   "summary": "ENG vs PAK Highlights: Catch the highlights, updates, and commentary from Day 4 of the third England vs Pakistan Test match, taking place in Edgbaston in Birmingham.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T12:10:51+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "test match",
+    "wicket"
+   ]
+  },
+  {
+   "id": "d54ffaad85a655dba4730ebefc180fbac58af68b",
+   "source": "autosport-f1",
+   "source_name": "Autosport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.autosport.com/f1/news/f1-spanish-gp-antonelli-tops-fp3-as-hamilton-and-bearman-crash/10854923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "title": "F1 Spanish GP: Antonelli tops FP3 after Hamilton and Bearman cause red flags",
+   "summary": "Formula 1 championship leader Kimi Antonelli will head into qualifying at the Spanish Grand Prix’s challenging Madring circuit with the fastest time - following a final practice session marred by two crashes. The Mercedes driver fended off advances by Ferrari's Charles Leclerc to reclaim top spot after a lengthy stoppage during the middle of the practice session in Madrid.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T12:05:22+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix",
+    "qualifying",
+    "hamilton",
+    "leclerc"
+   ]
+  },
+  {
+   "id": "b63299ca71238044d517b07c7a767909a21d5608",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/who-is-razaullah-pakistan-all-rounder-england-edgbaston-profile-feature/article71459962.ece",
+   "title": "Who is Razaullah, the Pakistan all-rounder who stunned England at Edgbaston",
+   "summary": "Razaullah dismissed one of the world’s best batters Joe Root with his fourth ball on his Test debut before smashing nine sixes in a sensational innings of 81 against England at Edgbaston.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T12:04:14+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "innings",
+    "joe root"
+   ]
+  },
+  {
+   "id": "3685dad8ee1b4f561b15dcb526b57cfda305560b",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-previews/afg-vs-ind-2026-1st-t20i-match-preview/",
+   "title": "AFG vs IND 2026: 1st T20I Match Preview",
+   "summary": "India lock horns with Afghanistan in the first T20I in the three-match series at the Arun Jaitley Stadium in Delhi on Sunday, September 13.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-12T11:58:07+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "c7e9b6543d6db88a4e755367f28b76931da6ce7c",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/etpl-2026-match-24-ecr-vs-adf-match-prediction-who-will-win-todays-etpl-match-between-edinburgh-castle-rockers-vs-amsterdam-flames/",
+   "title": "ETPL 2026: Match 24, ECR vs ADF Match Prediction – Who will win today’s ETPL match between Edinburgh Castle Rockers vs Amsterdam Flames?",
+   "summary": "Edinburgh Castle Rockers will take on Amsterdam Flames in Match 24 of the European T20 Premier League (ETPL) 2026 at The Village in Dublin on Sunday, September 13.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-12T11:56:23+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "8395e0267fd8a3160349b9478a1b96d2b5120d68",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/social-tracker-cricket/watch-joe-root-gets-saved-by-a-no-ball-as-mohammad-ali-errs-at-crucial-stage/",
+   "title": "[Watch] Joe Root gets saved by a no-ball as Mohammad Ali errs at crucial stage",
+   "summary": "England were 35 for 2 and still needed 95 runs when the third umpire intervened to overturn Root's dismissal.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-12T11:51:08+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "joe root"
+   ]
+  },
+  {
+   "id": "0550d09706ad962e0023bcddf8e85955131f5b9d",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/12/could-draper-follow-soderling/",
+   "title": "Could Jack Draper Follow the Path of Robin Soderling?",
+   "summary": "And the question it raises, the uncomfortable one that the tennis world has been tiptoeing around since Draper pulled out of the 2026 US Open last week, is how long a career can absorb this kind of damage before the window closes. This is not the first injury of Draper’s career.",
+   "summary_method": "extract",
+   "author": "Jack Beatnik",
+   "published_at": "2026-09-12T11:45:06+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "fc56c4637d8091dfa74fc4c8178acb2ab471f5fa",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/wcpl-2026-match-6-gaw-w-vs-bt-w-match-prediction-who-will-win-todays-wcpl-match-between-guyana-amazon-warriors-women-vs-barbados-tridents-women-9940/",
+   "title": "WCPL 2026: Match 6, GAW W vs BT W Match Prediction – Who will win today’s WCPL match between Guyana Amazon Warriors Women vs Barbados Tridents Women?",
+   "summary": "Barbados Tridents Women are searching for their first victory after losing their opening game.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-12T11:42:53+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "93510bd64800e1aa0aecd1ad38e39c5a031f0a34",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/wtc-2025-27-points-table-updated-ind-vs-sl-2nd-test-draw-india-final-hopes/article71395089.ece",
+   "title": "WTC 2025-27 Points Table updated after IND vs SL 2nd Test — India’s final hopes take a hit after draw",
+   "summary": "Here are the latest updated standings for the World Test Championship 2025-27 after India drew the second Test against Sri Lanka in Colombo on Thursday.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T11:33:50+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "910ba0b18efeff516255c99ce58a97a538ab48ff",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/12/antonelli-quickest-in-final-practice-after-hamilton-and-bearman-crash/",
+   "title": "Antonelli quickest in final practice after Hamilton and Bearman crash | Formula 1",
+   "summary": "Final practice for the Spanish Grand Prix at the Madring did not finish on time after the session was stopped for barrier repairs.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-12T11:31:51+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix",
+    "hamilton"
+   ]
+  },
+  {
+   "id": "69a3f3eaadd33698e5baea3ca919f970e1d8be91",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/middlesbrough-vs-norwich-city/live/560574",
+   "title": "Boro edge Norwich in THRILLER; struggling Burnley lose at Swans - EFL LIVE!",
+   "summary": "",
+   "summary_method": "stub",
+   "author": null,
+   "published_at": "2026-09-12T11:30:00+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "cf4827b756602f2b7dee1acc7b8c2b97d7e2c205",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cx2zpex1w27o?at_medium=RSS&at_campaign=rss",
+   "title": "London Stadium a big advantage for West Ham - Nuno",
+   "summary": "West Ham United head coach Nuno Espirito Santo believes the size of the Hammers' home crowds is a big advantage in the Championship.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T11:27:15+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "78df5dafccef88884344f83e728827186b06263f",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/videos/c14dpkykxv6o?at_medium=RSS&at_campaign=rss",
+   "title": "'Celebrations cut short!' - no-ball saves Root after being bowled",
+   "summary": "England captain Joe Root gets a huge let-off after being bowled for 23 by Mohammed Ali, but the dismissal is overturned after the delivery was a no-ball, with England 35-2, chasing 130 to win the third and final Test at Edgbaston.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T11:24:16+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "joe root"
+   ]
+  },
+  {
+   "id": "d404681e93b271f84a4e57d61815720d49d48ac2",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/you-can-hand-it-to-anyone-out-of-these-three-wasim-jaffer-shares-his-views-on-india-a-captaincy-options-in-series-vs-australia/",
+   "title": "'You can hand it to anyone out of these three' - Wasim Jaffer shares his views on India A captaincy options in series vs Australia",
+   "summary": "Former India batter Wasim Jaffer discusses the merits of Ruturaj Gaikwad, Rajat Patidar and Ishan Kishan as captaincy choices for the upcoming India A ODI series.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-12T11:23:44+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "batter"
+   ]
+  },
+  {
+   "id": "f4d7346837f6de507bbc93c40bae91beda06541e",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/he-is-one-of-them-vivek-razdan-calls-vaibhav-sooryavanshi-a-miracle-ahead-of-afghanistan-series-9110/",
+   "title": "'He is one of them' - Vivek Razdan calls Vaibhav Sooryavanshi a miracle ahead of Afghanistan series",
+   "summary": "Former India cricketer Vivek Razdan praised the young left-hander's remarkable rise ahead of the T20I series against Afghanistan.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-12T11:17:01+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "e0ca1edcd53c3ba8023260352e4bd83689346bbc",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/nepal-beat-uae-by-44-runs-to-win-acc-premier-cup-and-qualify-for-2027-asia-cup-2245/",
+   "title": "Nepal beat UAE by 44 runs to win ACC Premier Cup and qualify for 2027 Asia Cup",
+   "summary": "Nepal defeated the UAE by 44 runs in the final at Bayuemas Oval, Kuala Lumpur, to clinch the ACC Premier Cup and book a place in the 2027 ODI Asia Cup in Bangladesh.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-12T11:06:35+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "1091c21a05acfde0fe2b940cabdc2b062f790518",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/12/febrile-manchester-derby-awaits-amid-growing-rift-between-united-fans-and-club",
+   "title": "Febrile Manchester derby awaits amid growing rift between United fans and club",
+   "summary": "City heading to a fortress but home supporters will protest before kick-off over club’s drive against ticket touts Manchester United’s nine victories from 10 Premier League games at Old Trafford in 2026 cast their stadium as a fortress Manchester City aim to ransack on Sunday, to join Leeds in departing with three points during this calendar year.",
+   "summary_method": "feed",
+   "author": "Jamie Jackson",
+   "published_at": "2026-09-12T11:00:35+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "premier league",
+    "manchester united",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "7fed95e6a1c7a5d11a74c883935e9045eb5888be",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/devdutt-padikkal-india-a-captain-australia-series-mohammed-siraj/article71459798.ece",
+   "title": "Devdutt Padikkal calls India A captaincy ‘great opportunity’ ahead of Australia series",
+   "summary": "Devdutt Padikkal will captain India A in the multi-day matches against Australia A and serve as vice-captain in the white-ball games, while Mohammed Siraj said the Duleep Trophy helped him regain his bowling rhythm.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T10:56:29+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "7ed499b846a90f0fa2de20f48183ce7900a457c7",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/it-hurts-that-players-like-him-are-not-in-the-team-wasim-jaffer-on-mohammed-shami-ahead-of-afg-vs-ind-t20is/",
+   "title": "'It hurts that players like him are not in the team' - Wasim Jaffer on Mohammed Shami ahead of AFG vs IND T20Is",
+   "summary": "Former India batter Wasim Jaffer expresses concern over Mohammed Shami's absence from the squad for the upcoming T20I series against Afghanistan.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-12T10:51:42+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "batter"
+   ]
+  },
+  {
+   "id": "e9fe534676c04fd8f332e06f754d48b6dcba7ac1",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/daryl-mitchell-unfazed-by-icc-odi-rankings-battle-with-shubman-gill-0211/",
+   "title": "Daryl Mitchell unfazed by ICC ODI rankings battle with Shubman Gill",
+   "summary": "New Zealand batter reflects on his pursuit of the top ODI ranking spot ahead of the 2027 World Cup.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-12T10:51:15+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "batter"
+   ]
+  },
+  {
+   "id": "4ccb1ada6f91239f37b5ae1f12c96a6fc55049ef",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/womens-asia-cup-2026-final-ind-w-vs-sl-w-match-prediction-who-will-win-todays-match-between-india-women-vs-sri-lanka-women/",
+   "title": "Women's Asia Cup 2026: Final, IND W vs SL W Match Prediction – Who will win today’s match between India Women vs Sri Lanka Women?",
+   "summary": "India Women (IND W) lock horns with Sri Lanka Women (SL W) in the Final of the Women's Asia Cup 2026 at the Dubai International Cricket Stadium in Dubai on Sunday, September 13.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-12T10:37:42+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "5445ca0b3eebec974489943f63e275d736a5b580",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/videos/c0m3xrr2744o?at_medium=RSS&at_campaign=rss",
+   "title": "'What a start!' - England lose Duckett and Gay in first over",
+   "summary": "England get off to a dreadful start on day four of the final Test as Muhammad Abbas removes Ben Duckett and Emilio Gay in the first over, to leave the home side 2-2, chasing 130 to win at Edgbaston.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T10:34:29+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "b87deb419317814a9965882edc6f69e120314db1",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/zimbabwe-women-vs-south-africa-women-prediction-2nd-t20i-who-will-win-todays-match-between-zim-w-vs-sa-w-1698/",
+   "title": "Zimbabwe Women vs South Africa Women Prediction, 2nd T20I – Who will win today’s match between ZIM W vs SA W?",
+   "summary": "Zimbabwe Women vs South Africa Women Prediction, 2nd T20I – Who will win today’s match between ZIM W vs SA W? Zimbabwe Women will take on South Africa Women in the second T20I of the five-match series on Sunday, September 13, at the Queen Sports Club in Bulawayo.",
+   "summary_method": "extract",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-12T10:17:03+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "cb268bb6920e99d50e01a4e5d8af2882ff4a8730",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cj9x7e40gr2o?at_medium=RSS&at_campaign=rss",
+   "title": "'I've turned the page' - Camara on Chelsea deal collapse",
+   "summary": "Monaco and Senegal midfielder Lamine Camara says he is moving on from his failed £47.1m move to Chelsea.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T10:07:36+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "midfielder",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "7dc8df4c6257e80878974776e50ce2fd4787b977",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/motogp/marco-bezzecchi-new-misano-motogp-lap-record-san-marino-gp-pole/",
+   "title": "New Misano lap record from Bezzecchi as he beats Marquez to pole",
+   "summary": "MotoGP title hopeful Marco Bezzecchi dominated San Marino GP qualifying at Misano, seeing off his main rival this weekend Marc Marquez",
+   "summary_method": "feed",
+   "author": "Valentin Khorounzhiy",
+   "published_at": "2026-09-12T09:46:57+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "qualifying"
+   ]
+  },
+  {
+   "id": "32e36169a141c22602decb438a3edc70fb31200c",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/namibia-vs-south-africa-prediction-3rd-odi-who-will-win-todays-match-between-nam-vs-sa-1995/",
+   "title": "Namibia vs South Africa Prediction, 3rd ODI – Who will win today’s match between NAM vs SA?",
+   "summary": "Namibia and South Africa will lock horns in the third and final One-Day International of the ongoing series at the Namibia Cricket Ground in Windhoek on Sunday, September 13.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-12T09:35:39+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "61d7692a01d3a9f1f87b52b5d3149ed0116a12c5",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/f1-madrid-spanish-gp-tv-coverage-madring/",
+   "title": "F1's TV visuals are letting its Madrid track down",
+   "summary": "F1's newest track Madring looks truly impressive on-site - but bland on TV",
+   "summary_method": "feed",
+   "author": "Edd Straw",
+   "published_at": "2026-09-12T09:13:49+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "1f3863163548027256b9986435e382de5b7e22ee",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cly59yjl5d5o?at_medium=RSS&at_campaign=rss",
+   "title": "'Red rag to a bull' - Sabalenka's extra motivation to win US Open",
+   "summary": "Aryna Sabalenka has lost the world number one ranking to Elena Rybakina - but has the chance to take revenge in the US Open final.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T09:04:13+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "us open",
+    "sabalenka"
+   ]
+  },
+  {
+   "id": "df3a7e486e605cd90e12356d7405273cf2535fcb",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/shes-the-reason-why-ben-shelton-dedicates-first-grand-slam-final-to-grandmother-860789.html",
+   "title": "“She’s the reason why”: Ben Shelton dedicates first Grand Slam final to grandmother",
+   "summary": "Ben Shelton dedicated his first Grand Slam final to the grandmother his family lost this year, saying that without her there would be no Ben Shelton. His father, who coaches him, explained why: a lower-middle-class household in Alabama, a sport nobody could afford, and a mother who found a way to pay for it anyway.",
+   "summary_method": "feed",
+   "author": "Cédric Rouquette",
+   "published_at": "2026-09-12T09:00:35+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "grand slam"
+   ]
+  },
+  {
+   "id": "8cee74c3160cc60f7d507d2fc8e587b050710958",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/12/fifa-gianni-infantino-donald-trump-change",
+   "title": "What can halt Fifa’s authoritarian turn under Infantino? Change from the outside | Jules Boykoff",
+   "summary": "The World Cup and its aftermath made clear that Fifa needs independent oversight by governments and NGOs dedicated to preserving the people’s game The 2026 World Cup was a whirling swirl of scintillating soccer that prompted much-needed conversations about the vitality of diaspora, the fortitude of the underdog, the power of sport.",
+   "summary_method": "feed",
+   "author": "Jules Boykoff",
+   "published_at": "2026-09-12T09:00:30+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "soccer"
+   ]
+  },
+  {
+   "id": "3eefc8f0dccaeb79128eacd87cd122c2f938d32d",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/f1-teams-face-big-madring-strategy-dilemma/",
+   "title": "F1 teams face big Madring strategy dilemma",
+   "summary": "High tyre degradation and a big pitstop time cost will make Madring strategy a huge headache for F1 teams",
+   "summary_method": "feed",
+   "author": "Jon Noble",
+   "published_at": "2026-09-12T08:52:45+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "8df56704fe4c3ce76162b70652bde107ce42669e",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/australia-a-vs-india-a-women-tour-series-schedule-fixtures-squads-live-streaming-info/article71457696.ece",
+   "title": "India A vs Australia A series: Schedule, squads, LIVE streaming info",
+   "summary": "This is the second multi-format series of the calendar year for the Indians. They toured England earlier this year, returning with a 1-2 loss in a three-match T20 series and a 2-1 win in the three-match One-Day series.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T08:51:42+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "54e63910ff6e437eca006f80f1802bf6a1468beb",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/other-sports/indian-sports-wrap-september-12-news-results-highlights-updates-summary/article71459432.ece",
+   "title": "Indian sports wrap, September 12: Asian Cadet Cup to be held in Chennai from November 20-23",
+   "summary": "Here are India’s major updates, scores, and results from the world of sports on Saturday, September 12.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T07:56:49+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "780623705750fe982f077863135b5e1acbadfa1b",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c770z8dmemzo?at_medium=RSS&at_campaign=rss",
+   "title": "Celtic's Nygren reveals summer transfer interest",
+   "summary": "Celtic's Benjamin Nygren reveals summer transfer interest as Rangers rule out a move to Saudi Arabia for Nico Raskin",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T07:47:25+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
+  },
+  {
+   "id": "b768e292ceca24848af99026bbef072fd97d0406",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cj4je2eveewo?at_medium=RSS&at_campaign=rss",
+   "title": "'A legacy' at 26 - how Hemp has grown at Man City",
+   "summary": "Manchester City forward Lauren Hemp has already achieved more than most footballers at the age of 26.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T07:39:53+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "manchester city"
+   ]
+  },
+  {
+   "id": "da6946d27d303468a838befca59f71224bb0c6eb",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/us-open-news/khachanov-on-zverevs-ball-bouncing-it-annoys-a-lot-of-players-860786.html",
+   "title": "Khachanov on Zverev’s ball bouncing: “It annoys a lot of players”",
+   "summary": "Alexander Zverev has been counted at more than 12,000 pre-serve bounces in five matches at this US Open, up to 25 on a single point, and says he has no idea why he does it or what makes him stop. Karen Khachanov, beaten by him in the semifinal, says it annoys a lot of players and that the chair umpire should be dealing with it. The rules set a 25-second clock between points and say nothing at all about bounces.",
+   "summary_method": "feed",
+   "author": "Cédric Rouquette",
+   "published_at": "2026-09-12T07:23:10+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "us open",
+    "zverev"
+   ]
+  },
+  {
+   "id": "900e52717b4e5e7fd639b509b25397fed5517850",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/12/football-men-must-talk-about-pain-together-in-suicide-campaign-premier-league",
+   "title": "Football lends voice to message worth relaying: men should talk about their pain | Barney Ronay",
+   "summary": "Premier League’s link-up with the Together Against Suicide campaign is dispersing simple, blunt and essential messaging If you watched US television adverts during the World Cup for any length of time one thing just kept leaping out. I’ve mentioned this before here, but it still seems both jarring and significant.",
+   "summary_method": "feed",
+   "author": "Barney Ronay",
+   "published_at": "2026-09-12T07:00:27+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "football",
+    "premier league"
+   ]
+  },
+  {
+   "id": "9031618f9617ddf1991d3cee0ee9d55309012263",
+   "source": "perfect-tennis",
+   "source_name": "Perfect Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.perfect-tennis.com/us-open-2026-day-thirteen-semi-final-recap/",
+   "title": "US Open 2026 Day Thirteen Semi Final Recap",
+   "summary": "The finals are set at Flushing Meadows, and Sunday’s championship match will pit the top seed against the American number one. Alexander Zverev continued what has been an exceptional 2026 campaign by edging Karen Khachanov in a straight-sets contest that was considerably closer than the scoreline suggests.",
+   "summary_method": "feed",
+   "author": "Jonathan",
+   "published_at": "2026-09-12T06:59:35+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "us open",
+    "zverev"
+   ]
+  },
+  {
+   "id": "4cb2be33c6009bd784be582c857faf5f2386eb1b",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/12/extremely-challenging-crazy-fast-f1-drivers-first-impressions-of-the-madring/",
+   "title": "“Extremely challenging”, “crazy fast”: F1 drivers’ first impressions of the Madring | Formula 1",
+   "summary": "Formula 1 drivers gave a positive initial verdict on the Madring after their first practice sessions on the new track yesterday.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-12T06:30:27+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "formula 1"
+   ]
+  },
+  {
+   "id": "2bb4ecfb6770bab863ac649977106a1e1b1434fc",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/12/shelton-tips-tiafoe-at-us-open-to-move-one-win-from-ending-23-year-drought",
+   "title": "Shelton tips Tiafoe at US Open to move one win from ending 23-year drought",
+   "summary": "For 23 years they have come and gone. Andy Roddick tried again. Andre Agassi made one final run. James Blake, Mardy Fish, Sam Querrey, John Isner, Tommy Paul and Taylor Fritz all carried the hopes of American men’s tennis deep into the second week of major championships, only to thrash against the ceiling of the sport’s European hegemony time and again. Now Ben Shelton gets his chance.",
+   "summary_method": "feed",
+   "author": "Bryan Armen Graham at Flushing Meadows",
+   "published_at": "2026-09-12T06:28:59+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "tennis",
+    "us open"
+   ]
+  },
+  {
+   "id": "4566f2f35d31e1ec25a17ce3be0c1f03dd4baec6",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss",
+   "title": "Signed instead of Rashford, Gordon is proving worth at Barca",
+   "summary": "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-12T06:14:51+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "barcelona"
+   ]
+  },
   {
    "id": "d3b7995e878c599405465de769f67602080bae86",
    "source": "bbc-tennis",
@@ -406,6 +2280,21 @@
     "us open",
     "zverev"
    ]
+  },
+  {
+   "id": "51a97859d253e0c0d701cc5a013a8c4f51cbd81e",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwyzkxqqnp5o?at_medium=RSS&at_campaign=rss",
+   "title": "West Ham rout among 'lowest points' for Wrexham boss",
+   "summary": "Manager Phil Parkinson is downbeat after Wrexham suffer their heaviest league defeat for more than 22 years at London Stadium.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T22:40:40+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": []
   },
   {
    "id": "360b6a8bec819aecb90c3386425fa49a8492784a",
@@ -2255,6 +4144,23 @@
    ]
   },
   {
+   "id": "3aa18c7f03c63c645aac09ee90794cde52127989",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0p94xz0?at_medium=RSS&at_campaign=rss",
+   "title": "F1: Chequered Flag",
+   "summary": "Max Verstappen sits down with Andrew Benson for an exclusive interview.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-11T12:54:00+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "verstappen"
+   ]
+  },
+  {
    "id": "326d104c6d047eec41ad2cc5286518ba03894996",
    "source": "tennis-majors",
    "source_name": "Tennis Majors",
@@ -2322,6 +4228,25 @@
     "formula 1",
     "grand prix",
     "george russell"
+   ]
+  },
+  {
+   "id": "b3a16aae2a04df49512efd3890caa3b44ac679f7",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/audio/2026/sep/11/perfect-start-for-premier-league-europe-spurs-football-weekly-extra-podcast",
+   "title": "Perfect start for the Premier League in Europe and is it crunch time for Spurs already? Football Weekly Extra – podcast",
+   "summary": "Max Rushden is joined by Barry Glendenning, Lars Sivertsen and Nedum Onuoha to round up the week’s Champions League action, and look ahead to the weekend’s Premier League fixtures Rate, review, share on Apple Podcasts and join the conversation on email. On the podcast today: Max Rushden is joined by Barry Glendenning, Lars Sivertsen, and Nedum Onuoha to round up the week’s Champions League action.",
+   "summary_method": "feed",
+   "author": "Presented by Max Rushden, with Barry Glendenning, Lars Sivertsen, and Nedum Onuoha, produced by Rory Symonand Jesse Howard and the executive producer is Tayo Popoola",
+   "published_at": "2026-09-11T12:39:23+00:00",
+   "fetched_at": "2026-09-12T16:25:54.456853+00:00",
+   "tags": [
+    "football",
+    "premier league",
+    "champions league"
    ]
   },
   {
@@ -59685,38 +61610,6 @@
    "published_at": "2026-08-13T23:31:15+00:00",
    "fetched_at": "2026-09-08T17:20:53.007517+00:00",
    "tags": []
-  },
-  {
-   "id": "f6bf24733aa4c7b0bceb67c6e1495d1c573298e8",
-   "source": "bbc-f1",
-   "source_name": "BBC Sport",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/iplayer/episode/m0030f0p?at_medium=RSS&at_campaign=rss",
-   "title": "The Chequered Flag Podcast",
-   "summary": "How did former F1 driver Kimi Raikkonen catch out Becky Evans in front of 50,000 people?",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-13T11:30:00+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "e9d3d4c58ca913592c16fd270649a88f118a4a4a",
-   "source": "bbc-f1",
-   "source_name": "BBC Sport",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/formula1/videos/c5y3ey5lpydo?at_medium=RSS&at_campaign=rss",
-   "title": "Would more sprint races be a positive change for Formula 1?",
-   "summary": "Chequered Flag's Harry Benjamin and Becky Evans discuss what benefits could come from an increased number of sprint weekends in the Formula 1 calendar, both for drivers and fans.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-13T11:20:45+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "formula 1"
-   ]
   }
  ]
 }
