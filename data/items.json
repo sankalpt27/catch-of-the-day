@@ -1,7 +1,914 @@
 {
- "generated_at": "2026-09-16T17:42:42.224850+00:00",
- "count": 4461,
+ "generated_at": "2026-09-17T06:29:44.750717+00:00",
+ "count": 4526,
  "items": [
+  {
+   "id": "f0b222f9ce80fb596d5595f39a5bfbdf3ac359a2",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck5yl2jgz23jo?at_medium=RSS&at_campaign=rss",
+   "title": "Flex your football brain with our daily quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T06:22:20+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "3fbc5173e9adc36aa711fda326e143188918a91d",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/17/tsunoda-admits-he-wasnt-hugely-disappointed-when-red-bull-dropped-him-last-year/",
+   "title": "Tsunoda admits he wasn’t ‘hugely disappointed’ when Red Bull dropped him last year | Formula 1",
+   "summary": "Yuki Tsunoda said he couldn't have tried harder to understand Red Bull's car and still couldn't fathom it at the end of 2025.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-17T06:16:05+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "formula 1"
+   ]
+  },
+  {
+   "id": "63e502ac522b100bf64fbfffa32bec3d9a8dfaea",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/asian-games/interviews/india-vs-japan-womens-cricket-asian-games-2026/article71475219.ece",
+   "title": "Kaika: How Japanese cricket prepared for a moment of blossoming at Asian Games 2026",
+   "summary": "Japan’s cricket journey reaches a defining moment as its women’s team prepares to face India at the Asian Games on home soil.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T06:15:34+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "19880815cbdaf017eb27e3b3255b0389aed0c44a",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo?at_medium=RSS&at_campaign=rss",
+   "title": "USA midfielder sues doctors after on-pitch heart attack",
+   "summary": "United States women's national team player Savannah DeMelo is suing a hospital and two doctors after she suffered a heart attack on the pitch last year.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T06:15:00+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "midfielder"
+   ]
+  },
+  {
+   "id": "b6ee1a27b9168846bc74327c302f9001ad229052",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
+   "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
+   "summary": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T06:12:30+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "verstappen"
+   ]
+  },
+  {
+   "id": "0c91660de2311c03c5353785428df0a5029e2c1c",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-appeal/ind-vs-wi-2026-three-major-changes-from-indias-last-odi-squad-0663/",
+   "title": "IND vs WI 2026: Three major changes from India's last ODI squad",
+   "summary": "Yashasvi Jaiswal returns, Jasprit Bumrah is absent and two uncapped players earn call-ups as India name their ODI squad for the West Indies home series.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-17T05:46:22+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "bumrah"
+   ]
+  },
+  {
+   "id": "a8a326fbde9065c40d29671c7d6dd092f5c7f60c",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/matthew-wade-announces-bbl-retirement-to-take-up-full-time-coaching-role-8665/",
+   "title": "Matthew Wade announces BBL retirement to take up full-time coaching role",
+   "summary": "The 38-year-old wicketkeeper-batter ends a 15-season Big Bash League career with 2,978 runs across 119 matches, stepping into Australia's white-ball batting coach role.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-17T05:46:11+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "big bash",
+    "batter"
+   ]
+  },
+  {
+   "id": "a763466098dd83e5ec9e78bd6cfc2098f509c92c",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/asian-games/asian-games-2026-cricket-schedule-india-matches-date-time-venue/article71453018.ece",
+   "title": "Asian Games 2026: India men’s and women’s cricket schedule",
+   "summary": "Here’s the full schedule for both men’s and women’s cricket event at the Asian Games 2026.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T05:24:37+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "4a865290cb7c2b6ab514f9dab79dfe77be2e789f",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
+   "title": "A team that offered hope... then, four months later, Hamas attacked Israel",
+   "summary": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T05:23:59+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "5d7504180541d54187a1083d2c3f3c2a91803e4e",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/asian-games/asian-games-2026-india-cricket-squads-men-women-full-list/article71431272.ece",
+   "title": "Asian Games 2026: Indian team squads for cricket",
+   "summary": "Both men’s and women’s teams won gold medal in the 2023 Asian Games in Hangzhou, China.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T05:21:12+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "b37bbe2fdba4a5f9a587d7717818ad64e44a2c02",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1554624.html?ex_cid=OTC-RSS",
+   "title": "Bangladesh through to semi-final after washout against China",
+   "summary": "Bangladesh will now take on the winner of India vs Japan in the semi-final",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T05:19:40+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "0137288fe2e68a441eb89d4acc6bd04806d67ed0",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/leicestershire-27-point-deduction-pitch-breach-bollywood-shoot-county-cricketg-news/article71475396.ece",
+   "title": "Bollywood shoot, extreme heat and a 27-point deduction: Leicestershire’s relegation crisis explained",
+   "summary": "Leicestershire has been docked 27 points for a pitch breach, leaving it on the brink of relegation from County Championship Division One.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T05:17:02+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "county championship"
+   ]
+  },
+  {
+   "id": "dcac8090fc2ba0c5827ec1f86aac9c5e53608ded",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/asian-games-2026-quarter-final-3-mal-w-vs-sl-w-match-prediction-who-will-win-todays-match-between-malaysia-women-vs-sri-lanka-women/",
+   "title": "Asian Games 2026: Quarter-Final 3, MAL W vs SL W Match Prediction – Who will win today’s match between Malaysia Women vs Sri Lanka Women?",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-17T05:04:50+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "ef18f7143a769fa9977c6d7815aaac309ba71e26",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/cpl-2026-qualifier-1-gaw-vs-abf-match-prediction-who-will-win-todays-cpl-match-between-guyana-amazon-warriors-vs-antigua-and-barbuda-falcons-3727/",
+   "title": "CPL 2026: Qualifier 1, GAW vs ABF Match Prediction – Who will win today’s CPL match between Guyana Amazon Warriors vs Antigua and Barbuda Falcons?",
+   "summary": "The winner will qualify for the final of the competition.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-17T04:50:47+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "39211a57fbfdaa443050ca0e0d515544f00e5886",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/zimbabwe-vs-australia-prediction-2nd-odi-who-will-win-todays-match-between-zim-vs-aus-2461/",
+   "title": "Zimbabwe vs Australia Prediction, 2nd ODI – Who will win today’s match between ZIM vs AUS?",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-17T04:42:56+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "7db196ea7b3184d59273b15561d02cabe6a4ad65",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/wcpl-2026-final-tkr-w-vs-gaw-w-match-prediction-who-will-win-todays-wcpl-match-between-trinbago-knight-riders-women-vs-guyana-amazon-warriors-women-0935/",
+   "title": "WCPL 2026: Final, TKR W vs GAW W Match Prediction – Who will win today’s WCPL match between Trinbago Knight Riders Women vs Guyana Amazon Warriors Women?",
+   "summary": "Guyana have qualified to final by defeating Barbados Tridents in the knockout fixture.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-17T04:24:15+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "e978696a089fa262e5765caad8b3e763862554d5",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1554615.html?ex_cid=OTC-RSS",
+   "title": "Sadaqat's 49-ball 112 knocks Tridents out, Kingsmen enter Qualifier 2",
+   "summary": "Barbados Tridents recovered from 30 for 5 to post 144 for 6, but it proved nowhere near enough to challenge Jamaica Kingsmen once Maaz Sadaqat got going",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T04:06:59+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "c7ba87a2f19944e5d26722575e694f8dd864f378",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/16/wta-guadalajara-quarterfinal-predictions-stephens-stearns/",
+   "title": "WTA Guadalajara Quarterfinal Predictions Including Sloane Stephens vs Peyton Stearns",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "Nurein Ahmed",
+   "published_at": "2026-09-17T03:54:00+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "af2a39bd389dc049396a5549879807c56946e979",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1554612.html?ex_cid=OTC-RSS",
+   "title": "'Trying to put my name forward' - Rauf hopes to fulfil Pakistan's need for speed in Tests",
+   "summary": "Haris Rauf has returned to the first-class President's Trophy Grade 1 tournament and picked up a five-wicket haul in his first appearance",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T03:51:14+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "wicket"
+   ]
+  },
+  {
+   "id": "a19da88183bd894bd6ec70ba55edde33f8f69237",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/16/wta-sao-paulo-day-4-predictions-badosa-ortenzi/",
+   "title": "WTA Sao Paulo Day 4 Predictions Including Paula Badosa vs Jasmine Ortenzi",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "Nurein Ahmed",
+   "published_at": "2026-09-17T03:43:17+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "9e70c65b88b0f3ef8aea3d3788da55cfced3e599",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/16/wta-sao-paulo-predictions-avanesyan-charaeva/",
+   "title": "WTA Sao Paulo Day 4 Predictions Including Elina Avanesyan vs Alina Charaeva",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "Nurein Ahmed",
+   "published_at": "2026-09-17T03:41:22+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "9ad508bb0f3560f1e56ced247f5d48db3ad140b0",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/steve-smith-sanderpaper-gate-south-africa-test-series-return-anxiety-interview/article71475229.ece",
+   "title": "Steve Smith still haunted by ‘Sandpaper-gate’ as he prepares for South Africa return",
+   "summary": "Smith was sent home, banned for a year, and sacked as captain after conspiring to alter the ball using sandpaper during the third Test in Cape Town eight years ago.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T03:40:41+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "steve smith"
+   ]
+  },
+  {
+   "id": "363f1efe714c77e89052c6a35ae6d2186b3da473",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1554597.html?ex_cid=OTC-RSS",
+   "title": "Amazon Warriors in final after winning eight-over shootout",
+   "summary": "They will next face TKR in the final in Barbados on Thursday",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T02:52:49+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "85dd8e59032873b15ba61e76b28bab4c1d39a1d8",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/asian-games/news/asian-games-2026-womens-cricket-bangladesh-vs-china-quarterfinal-washout-india-semifinal/article71475182.ece",
+   "title": "Asian Games 2026 — Bangladesh advances to women’s cricket semifinals after China washout",
+   "summary": "Inclement weather has been a feature of the recent days at the Korogi Sports Park in Nisshin on the outskirts of Nagoya, and it proved decisive on Thursday as no play was possible.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T02:44:44+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "27057686042b128fef091f57b70cf9b538a9b002",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/16/another-davis-cup-weekend-is-on-deck-including-usa-vs-czechia-and-canada-vs-france/",
+   "title": "Another Davis Cup Weekend is on Deck Including USA vs Czechia and Canada vs France",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "Steen Kirby",
+   "published_at": "2026-09-17T01:22:44+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "16476cca2f23fffd869cc0e18e6d2571f8f62804",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/asian-games/news/pakistan-women-vs-thailand-live-streaming-info-asian-games-2026-cricket-tv-channel-match-details/article71475088.ece",
+   "title": "Pakistan-W vs Thailand-W LIVE Streaming Info — How to watch Asian Games 2026 women’s cricket match today?",
+   "summary": "Check the match details and the live streaming info for the Asian Games 2026 women’s cricket tournament match between Pakistan and Thailand on Thursday.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T00:27:14+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "fc633d0d3e472b461c806e4e483441b1ce934583",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1554604.html?ex_cid=OTC-RSS",
+   "title": "Matthew Wade calls time on his BBL career",
+   "summary": "Wade played 119 BBL games including 90 for Hurricanes but he will step away to focus on his coaching career",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-17T00:12:24+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "206f08114afc705e2e061e89e33e436b3e71891d",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/atp/september-17-1994-the-day-vitas-gerulaitis-tragically-died-in-his-sleep-495264.html",
+   "title": "September 17, 1994: The day Vitas Gerulaitis tragically died in his sleep from carbon monoxide poisoning",
+   "summary": "Every day Tennis Majors takes you back in time to celebrate a significant moment in tennis history.",
+   "summary_method": "feed",
+   "author": "Alexandre Sokolowski",
+   "published_at": "2026-09-16T23:54:39+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "tennis"
+   ]
+  },
+  {
+   "id": "87f6ea077735ff4fbeebf390c8475b108ae650c1",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13588791/man-utd-2-3-brighton-michael-carricks-old-trafford-tenure-is-only-heading-in-one-direction-as-red-devils-face-familiar-story",
+   "title": "New season, same Man Utd story - Carrick is now firmly feeling the pressure",
+   "summary": "This wasn't just a defeat. This wasn't just a collapse. This wasn't just a cup exit. Another Manchester United managerial project is heading in that one, same direction. And even Michael Carrick recognises that.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T23:47:00+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "manchester united"
+   ]
+  },
+  {
+   "id": "c9faf6a8244a89446470247567cc3570e66c624f",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/watch/video/13588788/barcelona-7-2-racing-de-santander-la-liga-highlights",
+   "title": "Raphina gets hat-trick and Jesus scores as Barca net seven",
+   "summary": "Highlights of the La Liga match between Barcelona and Racing de Santander.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T23:32:00+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "la liga",
+    "barcelona"
+   ]
+  },
+  {
+   "id": "1bb7b303f466399d1c6010446321741acf9915b5",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+   "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
+   "summary": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T23:31:38+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "manchester united"
+   ]
+  },
+  {
+   "id": "dd8bf1181ceb6e36c8d6640fddba6d43aa477b1a",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&at_campaign=rss",
+   "title": "Boehly and Walter sell Chelsea stakes to Clearlake",
+   "summary": "Clearlake Capital acquires full control of Chelsea as chairman Todd Boehly, director Mark Walter and Hansjorg Wyss sell their stakes in the club.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T23:29:10+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "chelsea"
+   ]
+  },
+  {
+   "id": "cd7e3a6dcf0f0f4d5a221b18fc5c6dcb4040d1f1",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/17/boehly-and-walter-sell-chelsea-shares-as-clearlake-capital-takes-full-control-of-club",
+   "title": "Boehly and Walter sell Chelsea shares as Clearlake Capital takes full control of club",
+   "summary": "Todd Boehly and Mark Walter have sold their stakes in Chelsea in a deal under which Clearlake Capital takes full control of the Premier League club. The American billionaire businessmen Boehly and Walter were two of the investors who partnered with Clearlake to buy the club from Roman Abramovich in a sale mandated by the UK government in May 2022.",
+   "summary_method": "feed",
+   "author": "Press Association",
+   "published_at": "2026-09-16T23:28:00+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "premier league",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "e72a7a34ac35d98076d6e636cf7a992c0a1df8c7",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13588777/luke-shaw-may-leave-manchester-united-next-summer-with-no-new-deal-in-sight-paper-talk",
+   "title": "Papers: Shaw could leave Man Utd next summer",
+   "summary": "The top stories and transfer rumours from Thursday's newspapers",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T23:20:00+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "3f8847ecae6b32303bda4fe862310409f9a1ba16",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/asian-games/news/bangladesh-women-vs-china-live-streaming-info-asian-games-2026-cricket-tv-channel-match-details/article71474354.ece",
+   "title": "Bangladesh-W vs China-W LIVE Streaming Info — How to watch Asian Games 2026 women’s cricket match today?",
+   "summary": "Check the match details and the live streaming info for the Asian Games 2026 women’s cricket tournament match between Bangladesh and China on Thursday.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T22:44:29+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "d7ef9da9b54e8a052e1666d6492c71d4085fed25",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13588651/carabao-cup-fourth-round-draw-liverpool-to-host-chelsea-as-arsenal-drawn-away-to-league-two-fleetwood",
+   "title": "Liverpool face Chelsea as Carabao Cup fourth-round draw confirmed",
+   "summary": "Liverpool will host Chelsea in the fourth round of the Carabao Cup, while Premier League champions Arsenal have drawn the lowest-ranked side left in the competition, Fleetwood Town.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T22:36:00+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "premier league",
+    "arsenal",
+    "liverpool",
+    "chelsea"
+   ]
+  },
+  {
+   "id": "13474a8d87fdfdb07014e8e303393b080d287d7e",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0p9zfpn?at_medium=RSS&at_campaign=rss",
+   "title": "Manchester United’s latest nightmare & Sunderland shine in Europe",
+   "summary": "Aaron Paul is joined by Jobi McAnuff, Clinton Morrison and, John Murray.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T22:34:00+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "manchester united"
+   ]
+  },
+  {
+   "id": "694ae1433535536dcd3f66180172de229f46c83d",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1554603.html?ex_cid=OTC-RSS",
+   "title": "Leicestershire facing relegation after 27-point pitch penalty",
+   "summary": "Club sanctioned for breaching the ECB's pitch regulations for home fixture against Glamorgan",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T22:15:35+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "8927c510653cb05c8b252d215efda1d91978b687",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/16/raphinha-hat-trick-santander-barcelona-hit-seven-atletico-madrid",
+   "title": "Raphinha cashes in against Santander with hat-trick as Barça hit seven",
+   "summary": "Raphinha scored a hat-trick as Barcelona ripped Racing Santander to shreds in a spectacular 7-2 triumph in La Liga on Wednesday. The win makes Hansi Flick the club’s first manager to win ⁠the opening seven competitive matches of a season. João Cancelo, Gabriel Jesus and Lamine Yamal also scored for the unstoppable Catalan giants, who have netted 33 goals in those seven games across all competitions, and who moved three points clear of Real Madrid at the top of La Liga.",
+   "summary_method": "feed",
+   "author": "Agence France-Presse",
+   "published_at": "2026-09-16T22:10:33+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "la liga",
+    "real madrid",
+    "barcelona"
+   ]
+  },
+  {
+   "id": "894143fdd813182bd2e32033342d62bc2ad2f6ec",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/everton-vs-wolverhampton-wanderers/report/577575",
+   "title": "Everton strike late to beat much-changed Wolves in Carabao Cup",
+   "summary": "Substitute Charly Alcaraz hit a late winner to give Everton a 1-0 home win over much-changed Wolves in the third round of the Carabao Cup.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T22:10:00+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "189ff5777222b50db7a737acb6ebd944ce561e05",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/watch/video/13588753/manchester-united-2-3-brighton-carabao-cup-third-round-highlights",
+   "title": "Brighton complete SHOCK comeback to beat Man Utd",
+   "summary": "Highlights from the third round of the Carabao Cup match between Manchester United and Brighton.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T22:04:00+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "manchester united"
+   ]
+  },
+  {
+   "id": "885093519915a664561fbfdac705394126e908dc",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6eq8z9wjjqlo?at_medium=RSS&at_campaign=rss",
+   "title": "De la Fuente extends Spain contract to 2032",
+   "summary": "World Cup-winning head coach Luis de la Fuente agrees a contract extension with Spain until 2032.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T22:02:44+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "c2df1e749ba73dbd01a10742d10444e623abe63d",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
+   "title": "League Two Fleetwood host Arsenal in EFL Cup",
+   "summary": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T21:57:04+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "premier league",
+    "arsenal"
+   ]
+  },
+  {
+   "id": "f57aa4201414fd76c1fe11b159faf922f5d4f2a5",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/manchester-united-vs-brighton-and-hove-albion/report/577581",
+   "title": "Man Utd collapse from 2-0 up to exit Carabao Cup to Brighton",
+   "summary": "Manchester United hit a new low under Michael Carrick as they threw away a two-goal lead to lose 3-2 to Brighton - and exit the Carabao Cup at the first hurdle for a second straight year.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T21:35:00+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "manchester united"
+   ]
+  },
+  {
+   "id": "d22dfb46ca0d7712003012207a61b7aea8451c26",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/coventry-city-vs-aston-villa/report/577573",
+   "title": "Abraham double helps Villa cruise past Coventry into fourth round",
+   "summary": "Tammy Abraham scored twice as Aston Villa won 3-1 at Coventry City to book their place in the fourth round of the Carabao Cup.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T21:35:00+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "efec2846acc245d8ea3c60460888d403ddd1010f",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/16/manchester-united-brighton-carabao-cup-third-round-match-report",
+   "title": "De Cuyper and Brighton pile on pain for Manchester United with comeback",
+   "summary": "Across four days Manchester United have lost the 199th derby against Manchester City, were told by JJ Gabriel that he wants to leave, and now they have been knocked out of the Carabao Cup by Brighton. Capitulating after being 2-0 up may be the pick of these dizzying blows, as the prolonged boos at the final whistle suggested, and doing so ends a proud 50-year record: the last time the same lead at Old Trafford ended in defeat was Tottenham’s 3-2 win in September 1976.",
+   "summary_method": "feed",
+   "author": "Jamie Jackson at Old Trafford",
+   "published_at": "2026-09-16T21:18:39+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "manchester united",
+    "manchester city",
+    "tottenham"
+   ]
+  },
+  {
+   "id": "46015cbe82be4a71f3fdf447d46bdd8a92a3b799",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/16/saudi-pro-league-club-al-taawoun-handed-stadium-ban-over-diogo-jota-chants",
+   "title": "Saudi Pro League club Al-Taawoun handed stadium ban over Diogo Jota chants",
+   "summary": "The Saudi Pro League club Al-Taawoun have been fined nearly £20,000 and given a two-game stadium ban after fans chanted about the late Liverpool and Portugal forward Diogo Jota. The Al-Hilal midfielder Rúben Neves, who played with Jota for Wolves and Portugal, was shown gesturing to the sky after audible chants of “Jota” from Al-Taawoun fans could be heard during Saturday’s league game.",
+   "summary_method": "feed",
+   "author": "Press Association",
+   "published_at": "2026-09-16T21:13:14+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "midfielder",
+    "liverpool"
+   ]
+  },
+  {
+   "id": "b05e376eee3671c52c5b5d127f6ea510c92c7abd",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/16/sunderland-az-alkmaar-europa-league-league-stage-match-report",
+   "title": "Enzo Le Fée makes amends from the spot as Sunderland overcome AZ",
+   "summary": "Granit Xhaka, Sunderland’s captain, believes it is not unrealistic to dream about Régis Le Bris’s side travelling all the way to the Europa League final next spring. It is rarely a good idea to dismiss Xhaka but reaching that showpiece in Frankfurt will necessitate considerably more efficient finishing on his team’s part than proved evident on a highly evocative night on Wearside.",
+   "summary_method": "feed",
+   "author": "Louise Taylor at the Stadium of Light",
+   "published_at": "2026-09-16T21:06:31+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "europa league"
+   ]
+  },
+  {
+   "id": "137bb24085a8f9338153039a44e98a9406a0fe12",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/16/tuchel-stands-england-semi-final-subs-wrong-timing-argentina-world-cup-2026",
+   "title": "‘My scar, not your scar’: Tuchel stands by England semi-final subs but admits wrong timing",
+   "summary": "Thomas Tuchel stands by his heavily criticised defensive substitutions in the World Cup semi-final defeat against Argentina this summer, but the England head coach accepts he made them too early. Tuchel said England were “waiting for death”, unable to cope with the attacking tactics adopted by Argentina in Atlanta as they chased the game after Anthony Gordon’s opener on the hour.",
+   "summary_method": "feed",
+   "author": "Press Association",
+   "published_at": "2026-09-16T21:05:50+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "b72d5c9c9bdad227c3c588dfaa0563a8d42f8df7",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/16/coventry-aston-villa-carabao-cup-third-round-match-report",
+   "title": "Tammy Abraham’s double powers Aston Villa to Carabao Cup win at Coventry",
+   "summary": "For Aston Villa, an overdue drama-free outing as Unai Emery’s side cruised into the Carabao Cup fourth round courtesy of a Tammy Abraham double and a Ross Barkley header. The satisfaction was detectable in Emery’s voice as he reflected on a night of positives: Abraham’s first goals of the season, Ibrahim Mbaye’s encouraging full debut and another half-hour for the £52m club-record signing, Johan Manzambi. Are things clicking into gear after a summer of changes?",
+   "summary_method": "feed",
+   "author": "Ben Fisher at the Coventry Building Society Arena",
+   "published_at": "2026-09-16T21:02:19+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "cba4230b6ed3f02621b50e97307c23afae7c3213",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c3qjk2nev7r8o?at_medium=RSS&at_campaign=rss",
+   "title": "Painful endgame for Gray as stale Hibs slump",
+   "summary": "A club hero, David Gray ends his time as Hibs head coach not to the sound of euphoria from fans, but to the sound of a support collectively exhaling in relief, writes Tom English.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T20:53:10+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "2475021cfa0eafcf02bd717584a044b6feb3d84b",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/crkgwyp2287lo?at_medium=RSS&at_campaign=rss",
+   "title": "Leicestershire on brink of relegation after points deduction",
+   "summary": "Leicestershire are on the brink of relegation from County Championship Division One after being deducted 27 points for breaching pitch regulations.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T20:37:39+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "county championship"
+   ]
+  },
+  {
+   "id": "9b0755ee9d25086c451b523f3f72102919bdb4de",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c617jz28nkvgo?at_medium=RSS&at_campaign=rss",
+   "title": "Arsenal rejected Dowman loan offers - Thursday's gossip",
+   "summary": "Arsenal received loan offers for Max Dowman, Luke Shaw could leave Manchester United next summer, Luca Weinhandl attracting interest from multiple Premier League clubs, plus more.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T19:53:12+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "premier league",
+    "arsenal",
+    "manchester united"
+   ]
+  },
+  {
+   "id": "e80868d15e992b1ef919fbc0fe9f60a4414d8bcd",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-usmnt",
+   "title": "USMNT to call up 16-year-old Cavan Sullivan for upcoming friendlies",
+   "summary": "Philadelphia Union midfielder Cavan Sullivan is set to earn his first international call-up with the United States men’s national team later this month, a source with knowledge of the roster told the Guardian on Wednesday. The source requested anonymity as they were not authorized to discuss the roster. The US will face Chile, Peru, Mexico and Canada in late September and early October, with US head coach Mauricio Pochettino expected to announce his roster on Thursday morning.",
+   "summary_method": "feed",
+   "author": "Pablo Iglesias Maurer",
+   "published_at": "2026-09-16T19:25:09+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "midfielder"
+   ]
+  },
+  {
+   "id": "1a15f054c8e5230349148af85704475c0b72607c",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwp842plmyymo?at_medium=RSS&at_campaign=rss",
+   "title": "Saudi club given stadium ban over Jota chants towards Neves",
+   "summary": "Saudi Pro League side Al-Taawoun are ordered to play two matches behind closed doors after supporters taunted Ruben Neves over the death of friend Diogo Jota.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T18:32:11+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
   {
    "id": "e1a5348d5bf57296de3f950464af9056ab47d8b2",
    "source": "skysports-football",
@@ -33,6 +940,56 @@
    "tags": []
   },
   {
+   "id": "9a35e45bb40a7c187d894f7fc56ae2c23eeb4f67",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1554601.html?ex_cid=OTC-RSS",
+   "title": "Bouchier ton, Wellington five-for seal final spot for Hampshire",
+   "summary": "Freya Kemp and Abi Norgrove chip in with fifties to thrash Surrey",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T18:26:18+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "d4f7e70ddbdb1e49406e09c097ca7d278e65b60d",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/indians-in-county-championship-manav-suthar-five-wicket-haul-warwickshire-sai-kishore-71-runs/article71474022.ece",
+   "title": "Indians in County cricket — Manav Suthar picks five-wicket haul for Warwickshire",
+   "summary": "Apart from Suthar, R. Sai Kishore also impressed, scoring 71 off 131 for Gloucestershire against Middlesex.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T18:23:16+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "cricket",
+    "wicket"
+   ]
+  },
+  {
+   "id": "eaefd1ba27c738659839776817f43b92503c5949",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1554490.html?ex_cid=OTC-RSS",
+   "title": "Randell dents Northants promotion hopes as Derbyshire eke out slender lead",
+   "summary": "Hosts concede first-innings lead as rivals Kent close in on three-day win",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T18:20:34+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "innings"
+   ]
+  },
+  {
    "id": "d41d75971be934e25b269f0922fafb5eb75ebf00",
    "source": "skysports-football",
    "source_name": "Sky Sports",
@@ -46,6 +1003,135 @@
    "published_at": "2026-09-16T18:15:00+00:00",
    "fetched_at": "2026-09-16T17:41:19.036934+00:00",
    "tags": []
+  },
+  {
+   "id": "56a9d72eb7b2262d74cc35bc91712b20ef67b483",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/ckq63vqd6z87o?at_medium=RSS&at_campaign=rss",
+   "title": "Clark hits 89 to put Sussex on top against Notts",
+   "summary": "Sussex put themselves in the driving seat on day two against defending champions and title-chasing Nottinghamshire.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T18:08:53+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "3a78b842a1ae72fed74f6390403d22e835874291",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1554486.html?ex_cid=OTC-RSS",
+   "title": "Tribe bats through day for 142 not out as Glamorgan frustrate Surrey",
+   "summary": "England Lions batter makes first Division One century after 20-wicket opening day",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T18:05:21+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "wicket",
+    "batter"
+   ]
+  },
+  {
+   "id": "154f7ca758e607a1866025af8024bde908e63030",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1554491.html?ex_cid=OTC-RSS",
+   "title": "Daaryoush, Kishore dig deep as Gloucestershire frustrate Middlesex",
+   "summary": "Eighth-wicket stand rescue hosts from depths of 128 for 7 to close in on parity",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T18:01:58+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "wicket"
+   ]
+  },
+  {
+   "id": "122d2b43c85d8e6dc073cbc237933a3cb3f17886",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1554487.html?ex_cid=OTC-RSS",
+   "title": "Sussex build imposing lead as Notts' title bid comes under pressure",
+   "summary": "Clark, Price and Tear make half-centuries to take the initiative at halfway mark at Hove",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T17:52:34+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "a96511739a51ddc77647fca6391876c9e493550c",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c6m27xnrxzrvo?at_medium=RSS&at_campaign=rss",
+   "title": "Ahmed leads Gloucs recovery against Middlesex",
+   "summary": "Daz Ahmed's unbeaten 90 helps Gloucestershire recover from 128-7 to stay in the game against Middlesex.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T17:50:12+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "6ae7767f0557a82e85d0c8d586fb41d13b6175ee",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cm3eqd4x3wnlo?at_medium=RSS&at_campaign=rss",
+   "title": "Worcs survive marathon Stokes spell to defy Durham",
+   "summary": "Worcestershire's batsmen defy Division Two champions Durham and survive two marathon spells from Ben Stokes to share the honours on day two.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T17:49:07+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "ben stokes"
+   ]
+  },
+  {
+   "id": "28e225fcc665ece741952b4681f1ced9dd5535bc",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1554492.html?ex_cid=OTC-RSS",
+   "title": "Kent keep promotion prospects on track as Lancashire face further defeat",
+   "summary": "Hosts need a further 56 runs on third day in low-scoring clash at Canterbury",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-16T17:48:40+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": []
+  },
+  {
+   "id": "984ce9be4ad72c07a54dc7874d4ed54f0f9b7e63",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/extra/verstappen-beats-100-karters-from-the-back-in-red-bull-event/",
+   "title": "Verstappen beats 100 karters (from the back) in Red Bull event",
+   "summary": "Max Verstappen came from the back of the grid to beat 100 celebrity karters in Red Bull's highly entertaining Max vs 100 event at Silverstone",
+   "summary_method": "feed",
+   "author": "The Race Team",
+   "published_at": "2026-09-16T17:43:31+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "verstappen"
+   ]
   },
   {
    "id": "7c618ee7c8d7b0c1cc4e7320e75d0c6d926d3cac",
@@ -772,8 +1858,8 @@
    "sports_ok": true,
    "url": "https://www.crictracker.com/cricket-match-predictions/england-vs-sri-lanka-prediction-2nd-t20i-who-will-win-todays-match-between-eng-vs-sl-3407/",
    "title": "England vs Sri Lanka Prediction, 2nd T20I – Who will win today’s match between ENG vs SL?",
-   "summary": "",
-   "summary_method": "stub",
+   "summary": "England vs Sri Lanka Prediction, 2nd T20I – Who will win today’s match between ENG vs SL? England will take on Sri Lanka in the second T20I of the three-match series on Thursday, September 17, at the Sophia Gardens in Cardiff.",
+   "summary_method": "extract",
    "author": "crictrackerstaff",
    "published_at": "2026-09-16T14:14:19+00:00",
    "fetched_at": "2026-09-16T17:41:19.036934+00:00",
@@ -978,8 +2064,8 @@
    "sports_ok": true,
    "url": "https://www.crictracker.com/cricket-match-predictions/zimbabwe-women-vs-south-africa-women-prediction-4th-t20i-who-will-win-todays-match-between-zim-w-vs-sa-w/",
    "title": "Zimbabwe Women vs South Africa Women Prediction, 4th T20I – Who will win today’s match between ZIM W vs SA W?",
-   "summary": "",
-   "summary_method": "stub",
+   "summary": "Zimbabwe Women (ZIM W) will once again take on South Africa Women (SA W) in the fourth T20I in the five-match series at the Queen Sports Club in Bulawayo on Thursday, September 15. The Zimbabwe side will be looking to bounce back after having conceded the series with drubbings in the three matches of the series.",
+   "summary_method": "extract",
    "author": "crictrackerstaff",
    "published_at": "2026-09-16T12:46:17+00:00",
    "fetched_at": "2026-09-16T17:41:19.036934+00:00",
@@ -1197,6 +2283,23 @@
    "published_at": "2026-09-16T11:19:35+00:00",
    "fetched_at": "2026-09-16T17:41:19.036934+00:00",
    "tags": []
+  },
+  {
+   "id": "6db72e9a2bf31e1eca677e20878cd16bf54c332b",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/16/lose-long-rallies-grand-slam-final/",
+   "title": "What Does Two Players Who Lose Long Rallies Making a Grand Slam Final Tell Us",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "Jack Beatnik",
+   "published_at": "2026-09-16T11:15:36+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "grand slam"
+   ]
   },
   {
    "id": "03d0eab51cc9e363d3e3ce0b9dc97e6bb63ad82b",
@@ -1708,8 +2811,8 @@
    "sports_ok": true,
    "url": "https://www.skysports.com/football/news/11095/13586227/gianluigi-donnarumma-interview-man-city-goalkeeper-insists-club-are-not-in-a-transition-year-and-backs-club-to-have-a-great-season",
    "title": "Donnarumma: Man City are not in transition, it's going to be a great season",
-   "summary": "",
-   "summary_method": "stub",
+   "summary": "A man down, everything going against them - City showed mettle and won. \"The objective is to get to the end and compete for everything there is to compete for - in addition to the Premier League, there's the Champions League and the two domestic cups.\" It's a clear warning from City that anything is possible when it comes to this team.",
+   "summary_method": "extract",
    "author": null,
    "published_at": "2026-09-16T08:00:00+00:00",
    "fetched_at": "2026-09-16T17:41:19.036934+00:00",
@@ -1792,6 +2895,23 @@
    "author": "Guardian sport",
    "published_at": "2026-09-16T07:00:14+00:00",
    "fetched_at": "2026-09-16T17:41:19.036934+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "7de97588816591a79d7d8697de19668f86c7b6ee",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia",
+   "title": "Iranian football returns in the shadow of war and with row over last league title",
+   "summary": "Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in Iran Three months ago, Iran was one of the biggest stories in football as Team Melli arrived at the World Cup to try to play in the US, a country that had been bombing and firing missiles at Tehran and other targets.",
+   "summary_method": "feed",
+   "author": "John Duerden",
+   "published_at": "2026-09-16T07:00:13+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
    "tags": [
     "football"
    ]
@@ -18579,6 +19699,23 @@
    "tags": [
     "tennis",
     "us open"
+   ]
+  },
+  {
+   "id": "4e89a0e89664378a94de350653e81f177289113d",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13584180/chelsea-todd-boehly-and-fellow-co-owner-mark-walter-to-sell-stakes-in-premier-league-club",
+   "title": "Co-owners Boehly and Walter agree to sell Chelsea stakes",
+   "summary": "Chelsea chairman Todd Boehly and director Mark Walter have agreed to sell their 25 per cent stake in the club to majority shareholders Clearlake Capital in a deal which values Chelsea at £5bn.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-10T23:27:00+00:00",
+   "fetched_at": "2026-09-17T06:28:51.483199+00:00",
+   "tags": [
+    "chelsea"
    ]
   },
   {
@@ -45289,8 +46426,8 @@
    "sports_ok": true,
    "url": "https://www.skysports.com/football/rangers-vs-motherwell/live/558366",
    "title": "Rangers beat Motherwell but lose Shankland to injury LIVE!",
-   "summary": "",
-   "summary_method": "stub",
+   "summary": "Kim Min-Su (Rangers) right footed shot from the centre of the box is saved in the centre of the goal by Alex Paulsen (Motherwell). Kim Min-Su (Rangers) right footed shot from the centre of the box misses to the right.",
+   "summary_method": "extract",
    "author": null,
    "published_at": "2026-09-03T12:26:00+00:00",
    "fetched_at": "2026-09-05T16:10:33.363208+00:00",
@@ -74113,74 +75250,6 @@
    "tags": [
     "formula 1"
    ]
-  },
-  {
-   "id": "53ea568cda34f00d308cb54585c1be8794eb3539",
-   "source": "autosport-f1",
-   "source_name": "Autosport",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.autosport.com/f1/news/fia-happy-for-f1s-macarena-wings-to-stay-red-bull-had-to-do-more-work/10847016/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "title": "FIA: F1's Macarena wings to stay, but Red Bull had to do \"more work\"",
-   "summary": "One of the most eye-catching innovations of the first half of the 2026 Formula 1 season has been the rotating rear wing, quickly dubbed the Macarena wing by Ferrari team principal Frederic Vasseur. Ferrari was the first to unveil the concept during winter testing and managed to surprise several rivals – including McLaren – with the innovative solution.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-18T03:38:34+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "formula 1",
-    "mclaren"
-   ]
-  },
-  {
-   "id": "22002cfdb340044ea687056215fe3d9d7705775c",
-   "source": "bbc-f1",
-   "source_name": "BBC Sport",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po?at_medium=RSS&at_campaign=rss",
-   "title": "What's going on at Cadillac and Haas? F1 Q&A",
-   "summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the season resumes with the Dutch Grand Prix.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-18T01:27:33+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "grand prix"
-   ]
-  },
-  {
-   "id": "6100585e5fdc19fc533bb9b25ce424e4613b5efc",
-   "source": "perfect-tennis",
-   "source_name": "Perfect Tennis",
-   "sport": "tennis",
-   "sports_ok": true,
-   "url": "https://www.perfect-tennis.com/cincinnati-open-2026-day-five-recap/",
-   "title": "Cincinnati Open 2026 Day Five Recap",
-   "summary": "Day Five in Cincinnati completed the top half of the Round of 32, with Alexander Zverev surviving another stern examination, Rafael Jódar continuing his terrific form and Thiago Agustín Tirante proving his upset of Novak Djokovic was no one-off.",
-   "summary_method": "feed",
-   "author": "Jonathan",
-   "published_at": "2026-08-18T01:06:15+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "novak djokovic",
-    "zverev"
-   ]
-  },
-  {
-   "id": "05dd1a7fc467d799b9f4633f731592f35a3ed2e4",
-   "source": "bbc-tennis",
-   "source_name": "BBC Sport",
-   "sport": "tennis",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o?at_medium=RSS&at_campaign=rss",
-   "title": "Williams sisters 'find our way to each other' but lose on doubles return",
-   "summary": "Serena and Venus Williams lose a thriller at the Cincinnati Open in their first doubles match together for four years.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-18T01:03:17+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
   }
  ]
 }
