@@ -1,7 +1,645 @@
 {
- "generated_at": "2026-09-21T18:52:49.689632+00:00",
- "count": 5264,
+ "generated_at": "2026-09-22T06:37:40.022149+00:00",
+ "count": 5290,
  "items": [
+  {
+   "id": "e1d6af9667f7f2d67b49085939b49f2a492e29f1",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z1jldpnzo?at_medium=RSS&at_campaign=rss",
+   "title": "McPake's 'mad' journey from club-less to Scotland call-up in three years",
+   "summary": "Three years ago, Josh McPake was without a club. Twenty months ago, he was in the shop window but \"no-one wanted him\". This week, he's involved in his first Scotland camp following a heroic start to life at Hearts. Here, BBC Sport Scotland charts the fall and rise of the winger who's got everyone in Scotland talking.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-22T06:32:26+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "281f54f4524959f66c4cb4f1b5efda2e237394f0",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/asian-games/india-vs-sri-lanka-live-score-highlights-asian-games-2026-womens-cricket-gold-medal-match/article71494122.ece",
+   "title": "India vs Sri Lanka LIVE score, Asian Games 2026 women's cricket gold-medal match: Smriti scores fifty for IND in final vs SL",
+   "summary": "IND vs SL: Catch all the LIVE scores, updates, commentary from the Asian Games 2026 women's cricket gold-medal match between defending champion India and Sri Lanka.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-22T06:31:02+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "7cb9f55635c9c9c7bb9733afdee4d7d0db4541d4",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/ind-vs-jap-live-score-one-off-t20i-india-vs-japan-cricket-updates-toss/article71494020.ece",
+   "title": "IND vs JAP, one-off T20I LIVE Score: Toss at 12:00 PM IST",
+   "summary": "Follow Sportstar’s live updates from the one-off T20I between India and Japan at the Sano International Cricket Ground in Japan on Tuesday, September 22.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-22T06:30:28+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "b00f40211d67e645849f59e1af1d888e07bacd0c",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/india-a-vs-australia-a-1st-unofficial-test-live-score-padikkal-sudharsan-latest-updates/article71493017.ece",
+   "title": "India A vs Australia A 1st unofficial Test LIVE: Sudharsan nears 50, India 78/3 at Lunch",
+   "summary": "IND-A vs AUS-A, 1st unofficial Test: Catch all live updates from the first unofficial Test between India A and Australia A at the Cricket Assocation Pondicherry Siechem Ground in Puducherry.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-22T06:28:09+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "f0b13808e0a9dbac23178266645dd441d03f7a64",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/we-want-to-win-tournaments-ks-bharat-targets-uae-stint-after-switching-allegiance-from-india-7756/",
+   "title": "'We want to win tournaments' – KS Bharat targets UAE stint after switching allegiance from India",
+   "summary": "The former India Test cricketer has moved to Dubai and aims to represent the UAE in international cricket while competing in the ILT20.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-22T06:26:57+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "9ac7d69ef916075e84b12d5c2e957a052de542db",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/international/pietersen-teaching-england-how-to-face-spin-says-brook/article71494377.ece",
+   "title": "Pietersen teaching England how to face spin, says Brook",
+   "summary": "Pietersen, England’s third-highest run scorer across ​all formats, was appointed as a specialist mentor ⁠to the white-ball teams this month, in the lead-up to next year’s World Cup.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-22T06:20:12+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "e6dc41be8a03ca7a1d6a57ac415a0b6c6530202b",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
+   "title": "Is Garnacho already at a crossroads at Villa?",
+   "summary": "Alejandro Garnacho joined Aston Villa on loan from Chelsea with a view to kick-starting his career, but his early weeks in the Midlands have been a struggle.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-22T06:19:17+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "chelsea"
+   ]
+  },
+  {
+   "id": "875e7979eb154af3104466f9ff5e197e0f32923f",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/22/saturday-race-title-fight-fades-williams-big-upgrade-and-more-azerbaijan-gp-talking-points/",
+   "title": "Saturday race, title fight fades, Williams’ big upgrade and more Azerbaijan GP talking points | Formula 1",
+   "summary": "Formula 1 embarks upon nine rounds in just eleven weeks to conclude its season. Here are the six talking points for the Azerbaijan Grand Prix.",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-22T06:15:14+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "formula 1",
+    "grand prix"
+   ]
+  },
+  {
+   "id": "d198a7f9f2de73e07a518ee0550f9c3161828fa4",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/waqar-younis-says-pakistan-losing-babar-azam-as-a-player-due-to-captaincy-pressure/",
+   "title": "Waqar Younis says Pakistan 'losing' Babar Azam as a player due to captaincy pressure",
+   "summary": "Former Pakistan pacer Waqar Younis has raised serious concerns about the impact of Test captaincy on Babar Azam's batting, following a 3-0 series defeat to England.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-22T05:56:43+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "babar azam"
+   ]
+  },
+  {
+   "id": "2be4fa4727b9774e0c247168779d68114fb6a43b",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1555295.html?ex_cid=OTC-RSS",
+   "title": "India bat vs Sri Lanka in gold-medal match; both sides unchanged",
+   "summary": "It will be a rematch of the 2023 Asian Games final, which India won by 19 runs",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-22T05:55:29+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "f0b0f3b92b18f70142901e8722b936e8609783f2",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/social-tracker-cricket/most-clever-fast-bowler-ms-dhonis-old-tweet-resurfaces-after-zaheer-khans-csk-head-coach-appointment/",
+   "title": "'Most clever fast bowler' - MS Dhoni's old tweet resurfaces after Zaheer Khan's CSK head coach appointment",
+   "summary": "MS Dhoni once called Zaheer Khan the most clever fast bowler he knew, and that post is doing the rounds again after CSK's latest coaching announcement.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-22T05:43:20+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "bowler"
+   ]
+  },
+  {
+   "id": "446d1245e386c9806cc3afca74a72801b5ab18ba",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-appeal/3-areas-zaheer-khan-needs-to-fix-at-csk-before-ipl-2027-5490/",
+   "title": "3 areas Zaheer Khan needs to fix at CSK before IPL 2027",
+   "summary": "Zaheer Khan takes over as CSK head coach after three consecutive playoff misses, with clear work ahead before IPL 2027.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-22T05:41:33+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "e9b683702c7c65eda396c73730b3bade9df5e82c",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw20v5yelx3mo?at_medium=RSS&at_campaign=rss",
+   "title": "Flex your football brain with our daily quizzes",
+   "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-22T05:40:36+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "1514fb53366ba390740b48fc0280b7d34307c095",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/harry-brook-says-brydon-carse-needs-time-away-from-england-3878/",
+   "title": "Harry Brook says Brydon Carse 'needs time away' from England",
+   "summary": "England captain Harry Brook has spoken publicly about Brydon Carse's absence from the international setup following a police incident in Derby.",
+   "summary_method": "feed",
+   "author": "pranav_ranjith",
+   "published_at": "2026-09-22T05:28:40+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "7289833bfc289eb847ee55afe6a2e3fdd1191af9",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/we-have-to-keep-our-fingers-crossed-sadagoppan-ramesh-on-zaheer-khans-csk-appointment-9221/",
+   "title": "'We have to keep our fingers crossed' – Sadagoppan Ramesh on Zaheer Khan's CSK appointment",
+   "summary": "Former India batter Sadagoppan Ramesh expressed cautious optimism about Zaheer Khan taking over as Chennai Super Kings head coach for IPL 2027.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-22T05:09:37+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "batter"
+   ]
+  },
+  {
+   "id": "941ce5e502acb3278b0853effc7d8d03c78c63dc",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/22/8-withdraw-atp-hangzhou/",
+   "title": "8 Players Withdraw from ATP Hangzhou",
+   "summary": "Matteo Arnaldi, of Italy, returns to Martin Landaluce, of Spain, at the Cincinnati Open at the Lindner Family Tennis Center in Mason, Ohio, on Saturday, August 15, 2026.",
+   "summary_method": "feed",
+   "author": "Amanda Bergman",
+   "published_at": "2026-09-22T04:55:49+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "tennis"
+   ]
+  },
+  {
+   "id": "e9f514fbb0ae6b61c4c3c84c2b1a13e207d617b0",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/lancashire-sack-mark-chilton-and-david-thorley-after-difficult-2026-season-0898/",
+   "title": "Lancashire sack Mark Chilton and David Thorley after difficult 2026 season",
+   "summary": "Lancashire have dismissed their director of cricket performance and director of women's cricket as part of a performance set-up restructure.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-22T04:46:05+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "1ce8c7916c42c66c4c0b1dafc8594411c91a7f70",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/mohammed-saifuddin-ruled-out-of-asian-games-2026-with-hamstring-injury-2319/",
+   "title": "Mohammed Saifuddin ruled out of Asian Games 2026 with hamstring injury",
+   "summary": "The Bangladesh all-rounder has been sidelined after sustaining a right hamstring injury during a practice session, requiring around three weeks of rehabilitation.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-22T04:35:40+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "1c0050f1a8be70926e16108b619db03d867c03dc",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/who-is-rachit-bhatia-ex-ranji-player-named-in-tehelka-cricket-fixing-expose-9346/",
+   "title": "Who is Rachit Bhatia, ex-Ranji player named in Tehelka cricket fixing expose?",
+   "summary": "A Tehelka undercover investigation has named former domestic cricketer Rachit Bhatia in a wide-ranging cricket match-fixing exposé.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-22T04:27:18+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "cricket",
+    "ranji"
+   ]
+  },
+  {
+   "id": "71045963dcffa1554ee91dd37978ca88fa458564",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/22/wta-singapore-krejcikova-friedsam/",
+   "title": "WTA Singapore First Round Best Bets Including Barbora Krejcikova vs Anna-Lena Friedsam",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "Kane Webb",
+   "published_at": "2026-09-22T04:26:44+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "5e988794aef00d89bc6a7623c9e129caa5e95c7d",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/sri-lanka-cricket-overhaul-sees-top-tier-clubs-cut-to-10-and-first-class-games-extended-to-four-days-7026/",
+   "title": "Sri Lanka Cricket overhaul sees top-tier clubs cut to 10 and first-class games extended to four days",
+   "summary": "SLC's Transformation Committee has unveiled sweeping domestic reforms, including a leaner club structure and longer first-class matches, alongside a new constitution submitted to government.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-22T04:25:52+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "8470721ed1021487f62f5f7c2229c7616a0e1363",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/india-a-vs-australia-a-first-unofficial-test-venue-timings-squads-all-you-need-to-know/article71492005.ece",
+   "title": "India-A vs Australia-A 1st unofficial Test match venue, timings, squads, streaming — all you need to know",
+   "summary": "Here is all you need to know about the first unofficial Test between India-A and Australia-A at the Cricket Association Pondicherry Siechem Ground in Puducherry beginning on Tuesday, September 22.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-22T03:53:05+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "cricket",
+    "test match"
+   ]
+  },
+  {
+   "id": "cac97b5837943b302c1b4c40cfc92660c2af4da7",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1555282.html?ex_cid=OTC-RSS",
+   "title": "Fatima Sana and Umm-e-Hani secure bronze for Pakistan in Asian Games",
+   "summary": "Bangladesh were in control of proceedings for the first half of Pakistan's innings, but lost their grip once Fatima Sana got going and never found it again",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-22T03:46:42+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "innings"
+   ]
+  },
+  {
+   "id": "a578a742d6ad8920d81ab55388e5b76a81284403",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/atp/september-22-1997-the-day-roger-federer-earned-his-first-ranking-points-291511.html",
+   "title": "September 22, 1997: The day Roger Federer earned his first ranking points",
+   "summary": "Every day, Tennis Majors takes you back to the biggest moments in tennis history.",
+   "summary_method": "feed",
+   "author": "Alexandre Sokolowski",
+   "published_at": "2026-09-22T03:15:00+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "tennis",
+    "roger federer"
+   ]
+  },
+  {
+   "id": "a1be28d98182dc511be356ff2b791d3e02530cb6",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/i-got-3-crore-by-fixing-5-ipl-matches-by-leaking-inside-info-about-csk-ex-cricketer-to-tehelka-9312/",
+   "title": "I got ₹3 crore by fixing 5 IPL matches by leaking inside info about CSK: Ex-cricketer to Tehelka",
+   "summary": "A former Ranji player has alleged involvement in match-fixing during the 2025 IPL season and offered to fix matches in 2026 tournaments.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-22T03:01:55+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "ranji"
+   ]
+  },
+  {
+   "id": "77dd0e887ba6e8a8bb3a37f92c4d14d35d1dc9ee",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/peter-handscomb-australia-return-interview-career-goals/article71493976.ece",
+   "title": "I have done a lot in my career but there’s still more I want to achieve: Peter Handscomb on potential Australia return",
+   "summary": "As Australia embarks on a busy Test calendar, which includes a five-match Border-Gavaskar Trophy in India in early 2027, Handscomb talks to Sportstar about the labours of domestic cricket, the changing conditions in Australia, learning from his international failures, and what still makes him Australia’s go-to choice to dominate spin bowling in the subcontinent.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-22T02:38:54+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "701fdcc7336b9faa407524c0c68651577e35e329",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/21/4-withdraw-atp-chengdu-open/",
+   "title": "4 Players Withdraw From ATP Chengdu Open",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "Chiara Pastore",
+   "published_at": "2026-09-22T02:27:39+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "399782005f304d467a93409327cf1d96c76b52d1",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/21/wta-singapore-day-2-predictions-krejcikova-friedsam/",
+   "title": "WTA Singapore Day 2 Predictions Including Barbora Krejcikova vs Anna-Lena Friedsam",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "Tope Oke",
+   "published_at": "2026-09-22T01:16:18+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "4c961b3e42d979c075dc40c2d0a5d34ef9a6b652",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/21/wta-seoul-day-2-predictions-birrell-zidansek/",
+   "title": "WTA Seoul Day 2 Predictions Including Kimberly Birrell vs Tamara Zidansek",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "Ateet Shrivastava",
+   "published_at": "2026-09-22T00:54:26+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "e1565739f5cc128a91858d21adf54d4f38c171cf",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/21/wta-singapore-day-2-predictions-sakkari-fruhvirtova/",
+   "title": "WTA Singapore Day 2 Predictions Including Maria Sakkari vs Linda Fruhvirtova",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "Tope Oke",
+   "published_at": "2026-09-22T00:44:01+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "76b5e439d81571c6727c505047e02d725c5715ab",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-244074?at_medium=RSS&at_campaign=rss",
+   "title": "Sri Lanka v India - Asian Games women's final",
+   "summary": "Latest scorecard from the Asian Games women's final between Sri Lanka and India in Nisshin, Japan.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-22T00:00:00+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "187fff4921c3d8b6e90a737d2b9d66b01ccd5a63",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo?at_medium=RSS&at_campaign=rss",
+   "title": "Being run over by pitch roller was terrifying - Townsend",
+   "summary": "Former England winger Andros Townsend says he was lucky to escape from under a pitch roller with just a few \"bumps and bruises\".",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-21T22:13:16+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "139cc0b2f203f3c34de7d87e28242e2a63a60d37",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13590534/arsenal-starlet-max-dowman-to-link-up-with-england-senior-squad-after-mass-withdrawals-paper-talk",
+   "title": "Papers: Dowman to link up with England squad",
+   "summary": "The top stories and transfer rumours from Tuesday's newspapers",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-21T22:00:00+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "f0d6a815a9ab97c363ace287c7b45552a6f3d95c",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck4gqv6m9278o?at_medium=RSS&at_campaign=rss",
+   "title": "Liverpool eye in-demand right-back Read - Tuesday's gossip",
+   "summary": "Liverpool are on the hunt for a new right-back, setting their sights on Dutchman Givairo Read.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-21T21:43:10+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "liverpool"
+   ]
+  },
+  {
+   "id": "f213ea05555a1adf804d7a13a7caef21aa99f23e",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0pbt6j0?at_medium=RSS&at_campaign=rss",
+   "title": "Football Daily",
+   "summary": "What is stopping Brentford & Brighton reaching the next level?",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-21T21:32:00+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "03241f7372bebeef8925f506a379f396b807aaed",
+   "source": "bbc-cricket",
+   "source_name": "BBC Sport",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0pbt66b?at_medium=RSS&at_campaign=rss",
+   "title": "Test Match Special Podcast",
+   "summary": "Mark Chapman is joined by Sir Alastair Cook, Matt Prior and Stephan Shemilt.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-21T21:25:00+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "test match"
+   ]
+  },
+  {
+   "id": "8139f21b390a4bd34a5a7c92af13627ea5c85b0c",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/21/gianni-infantino-proposes-independent-external-review-fifa-governance",
+   "title": "Infantino proposes an ‘independent external review’ of Fifa governance",
+   "summary": "The Fifa president, Gianni Infantino, has agreed to commission an independent governance review after coming under mounting pressure to do so in the wake of the World Cup sale debacle.",
+   "summary_method": "feed",
+   "author": "Matt Hughes",
+   "published_at": "2026-09-21T21:05:26+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": []
+  },
+  {
+   "id": "652a25e604181c0b593aa4c324963d92b34ca614",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-mega-product-brighton-arsenal-international-break",
+   "title": "Come back soon Premier League, the endlessly moreish mega-product | Barney Ronay",
+   "summary": "Brighton have impressed in a goal-laden start to the season, in a league that remains a brutally strong attraction Get ready for the dopamine crash. And this one really is a proper autumn nosedive. The past 17 days up to and including Sunday’s cut-off gave us 30 Premier League games and 79 goals. Which, if you take Spurs out of it – and this is fair because Spurs are now post‑goal, an entertainment concept unrelated to goals or even football itself – is really quite a lot.",
+   "summary_method": "feed",
+   "author": "Barney Ronay",
+   "published_at": "2026-09-21T20:30:24+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "football",
+    "premier league"
+   ]
+  },
+  {
+   "id": "2d106ecf9fa1d2c3de01fc8cd98bf3618b3d8f02",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+   "title": "Infantino says he is open to talks over Fifa reform",
+   "summary": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-21T19:50:57+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "football"
+   ]
+  },
   {
    "id": "17404fe7bcf82b8daa9631a8f9bfb7f177f74169",
    "source": "racefans",
@@ -35,6 +673,23 @@
    "fetched_at": "2026-09-21T18:51:46.434304+00:00",
    "tags": [
     "bowler"
+   ]
+  },
+  {
+   "id": "039ced01de99b9a829a84d8ef648c3f17a7e088f",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13590525/jose-mourinho-atletico-madrid-hit-back-at-real-madrid-boss-after-referee-criticism-following-derby-defeat",
+   "title": "Atletico hit back at Mourinho for ref criticism after derby defeat",
+   "summary": "Atletico Madrid have hit back at Real Madrid's criticism of the referring decisions during the derby on Sunday.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-21T18:00:00+00:00",
+   "fetched_at": "2026-09-22T06:36:34.401672+00:00",
+   "tags": [
+    "real madrid"
    ]
   },
   {
@@ -253,8 +908,8 @@
    "sports_ok": true,
    "url": "https://lastwordonsports.com/tennis/2026/09/21/wta-seoul-day-2-predictions-ostapenko-zakharova/",
    "title": "WTA Seoul Day 2 Predictions Including Jelena Ostapenko vs Anastasia Zakharova",
-   "summary": "",
-   "summary_method": "stub",
+   "summary": "20-year-old Taylah Preston is a rising Australian who was ranked outside the top 200 at the start of the season and is now ranked inside the top 100. She has a favourable first-round match against world #329 Sohyun Park, who has never won a tour-level match but will be flying the flag for Korea this week at WTA Seoul.",
+   "summary_method": "extract",
    "author": "Ateet Shrivastava",
    "published_at": "2026-09-21T17:06:10+00:00",
    "fetched_at": "2026-09-21T18:51:46.434304+00:00",
@@ -1085,8 +1740,8 @@
    "sports_ok": true,
    "url": "https://www.crictracker.com/cricket-news/its-really-important-tim-paine-on-australia-as-india-experience-ahead-of-border-gavaskar-trophy/",
    "title": "‘It’s really important’ - Tim Paine on Australia A’s India experience ahead of Border-Gavaskar Trophy",
-   "summary": "",
-   "summary_method": "stub",
+   "summary": "Australia A are set to face India A for the second time within a year, with the senior Australian team scheduled to play the Border-Gavaskar Trophy next year. Obviously, we’ve had this planned for a couple of years with the Border-Gavaskar Trophy coming up soon, so to give the next generation of cricketers a look at conditions in India, see what it’s like, and figure out how to play, it is really important,” Paine said as quoted by The News Mill.",
+   "summary_method": "extract",
    "author": "ajay_koushik",
    "published_at": "2026-09-21T12:46:24+00:00",
    "fetched_at": "2026-09-21T18:51:46.434304+00:00",
@@ -1417,8 +2072,8 @@
    "sports_ok": true,
    "url": "https://lastwordonsports.com/tennis/2026/09/21/french-wonderkid-moise-kouame/",
    "title": "French Wonderkid Moise Kouame Isn’t Doing Wonder Things Right Now",
-   "summary": "",
-   "summary_method": "stub",
+   "summary": "At 17, he became the youngest Frenchman in the Open Era to reach the Roland Garros third round and the youngest man from any country to reach the third round of a Grand Slam since Rafael Nadal at Wimbledon in 2003. Roland Garros showed what Kouame is capable of producing.",
+   "summary_method": "extract",
    "author": "Jack Beatnik",
    "published_at": "2026-09-21T11:30:45+00:00",
    "fetched_at": "2026-09-21T18:51:46.434304+00:00",
@@ -1432,8 +2087,8 @@
    "sports_ok": true,
    "url": "https://lastwordonsports.com/tennis/2026/09/21/laver-cup-failing-mission/",
    "title": "Is the Laver Cup Failing Its Own Mission?",
-   "summary": "",
-   "summary_method": "stub",
+   "summary": "The Laver Cup returns to The O2 in London from September 25 to 27, 2026, marking the ninth edition of the event. The Laver Cup is not failing.",
+   "summary_method": "extract",
    "author": "Jack Beatnik",
    "published_at": "2026-09-21T11:30:19+00:00",
    "fetched_at": "2026-09-21T18:51:46.434304+00:00",
@@ -86854,232 +87509,6 @@
     "formula 1",
     "grand prix",
     "verstappen"
-   ]
-  },
-  {
-   "id": "1e7f0ca0528ba25c2e279b15bc7477ac586095cb",
-   "source": "the-analyst",
-   "source_name": "The Analyst (Opta)",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://theanalyst.com/articles/premier-league-top-opening-day-goalscorers",
-   "title": "Top Opening-Day Goalscorers in Premier League History",
-   "summary": "Which players have scored the most goals on the opening weekend of Premier League seasons?",
-   "summary_method": "feed",
-   "author": "Matt Furniss",
-   "published_at": "2026-08-23T06:27:22+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "premier league"
-   ]
-  },
-  {
-   "id": "d6a73940909dabc1339900e792eea0b8984daaa9",
-   "source": "espncricinfo",
-   "source_name": "ESPNcricinfo",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.cricinfo.com/ci/content/story/1551210.html?ex_cid=OTC-RSS",
-   "title": "Shanto hopes Bangladesh 'do it' in South Africa after Darwin conquest",
-   "summary": "\"I don't want to point finger at anyone in particular but we played poorly as a team,\" Shanto said after the two-day loss in Mackay",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-23T05:07:21+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "30f941757e18a277d8a8981ccef20e862742e6c4",
-   "source": "espncricinfo",
-   "source_name": "ESPNcricinfo",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.cricinfo.com/ci/content/story/1551205.html?ex_cid=OTC-RSS",
-   "title": "Shanto wants more SENA Tests after Bangladesh rise to No. 6 in rankings",
-   "summary": "Bangladesh drew their first series in Australia in 23 years, and rose above No. 9 on the ICC Test rankings for the first time",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-23T05:06:42+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "6617759c852da32f05ae5537095284f91bf73717",
-   "source": "espncricinfo",
-   "source_name": "ESPNcricinfo",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.cricinfo.com/ci/content/story/1551163.html?ex_cid=OTC-RSS",
-   "title": "Starc claims 10 to demolish Bangladesh in two days",
-   "summary": "It became the second-shortest Test ever played on Australian soil after Bangladesh were bundled for 95 on the second day",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-23T05:05:58+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "fb84260629cd703d88578938a2db52ef8dd045e1",
-   "source": "autosport-f1",
-   "source_name": "Autosport",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.autosport.com/f1/news/toto-wolff-jokes-about-max-verstappens-red-bull-deal-mercedes-has-him-for-the-real-hero-races/10848497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "title": "Wolff jokes that Mercedes already has Verstappen for the \"real hero races\"",
-   "summary": "As is tradition, Mercedes organises a special media session with Wolff and representatives of the Dutch press at Zandvoort. In recent years, those roundtables have often produced some eye-catching comments, much to the amusement of Mercedes team members as well.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-23T02:30:26+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "verstappen"
-   ]
-  },
-  {
-   "id": "2c713aa6740b98d3e08466ae9713ff034c11f307",
-   "source": "the-analyst",
-   "source_name": "The Analyst (Opta)",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://theanalyst.com/articles/newcastle-vs-liverpool-prediction-premier-league-preview-08-26",
-   "title": "Newcastle vs Liverpool Prediction: Premier League Preview",
-   "summary": "Two teams under new management clash at St. James’ Park on Sunday. Look ahead to this showdown with our Newcastle United vs Liverpool prediction and preview.",
-   "summary_method": "feed",
-   "author": "Harry Carr",
-   "published_at": "2026-08-23T02:18:32+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "premier league",
-    "liverpool"
-   ]
-  },
-  {
-   "id": "96b8e65021f066ee4d4464b5bb9921460f2b2490",
-   "source": "espncricinfo",
-   "source_name": "ESPNcricinfo",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.cricinfo.com/ci/content/story/1551200.html?ex_cid=OTC-RSS",
-   "title": "Karn Sharma, 38, calls time on India and domestic career",
-   "summary": "The 38-year-old played four international games, and retires as the only cricketer to have won a hat-trick of IPL trophies with three different teams",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-23T02:09:13+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "458ed90c6ff530e7d5f69a5c91c23a17372daddf",
-   "source": "bbc-cricket",
-   "source_name": "BBC Sport",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/cricket/articles/clyxyj73d0mo?at_medium=RSS&at_campaign=rss",
-   "title": "Can you name the top 20 Test batters in the world?",
-   "summary": "Can you name the top 20 batters in the world based on the International Cricket Council's Test rankings?",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-23T01:31:20+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "cricket"
-   ]
-  },
-  {
-   "id": "703a64e93b43aef0d9347293ea0702c9f46a6074",
-   "source": "guardian-football",
-   "source_name": "The Guardian",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://www.theguardian.com/football/2026/aug/23/lincoln-spirits-soar-despite-defeat-on-second-tier-return-65-years-in-the-making",
-   "title": "Lincoln spirits soar despite defeat on second-tier return 65 years in the making",
-   "summary": "The Imps have not been at this level since 1961 and even a 3-1 loss to Portsmouth could not spoil the sense of joy There is optimism to be found in almost every corner of the footballing landscape at this time of the year, but you would do well to find anyone without a smile on their face on this sunny Saturday lunchtime in one of Britain’s most picturesque cities. Football may not necessarily be the first thing that springs to mind when you think of Lincoln.",
-   "summary_method": "feed",
-   "author": "Aaron Bower at the ProAmpac Stadium",
-   "published_at": "2026-08-23T01:30:26+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "football"
-   ]
-  },
-  {
-   "id": "b4dcd107d8cd10f4b2b8b45050029898832cf799",
-   "source": "perfect-tennis",
-   "source_name": "Perfect Tennis",
-   "sport": "tennis",
-   "sports_ok": true,
-   "url": "https://www.perfect-tennis.com/cincinnati-open-2026-day-ten-semi-final-recap/",
-   "title": "Cincinnati Open 2026 Day Ten Semi Final Recap",
-   "summary": "Arthur Fils and Frances Tiafoe will contest the 2026 Cincinnati Open final after both produced straight-set victories in Saturday’s semi-finals.",
-   "summary_method": "feed",
-   "author": "Jonathan",
-   "published_at": "2026-08-23T01:12:24+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "75baaea2857015266fedc3590ae1e3d048f32b84",
-   "source": "bbc-f1",
-   "source_name": "BBC Sport",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/cn4nkkpgp31o?at_medium=RSS&at_campaign=rss",
-   "title": "Five in Five: Formula 1 quiz No 1",
-   "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-23T00:26:51+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "formula 1"
-   ]
-  },
-  {
-   "id": "1cd5e186cad3ed7b0f4db581640a6d5e7c841170",
-   "source": "espncricinfo",
-   "source_name": "ESPNcricinfo",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.cricinfo.com/ci/content/story/1551185.html?ex_cid=OTC-RSS",
-   "title": "Shadab brilliance takes Falcons top of the table in CPL",
-   "summary": "The allrounder hit an unbeaten 20-ball 52 in a stunning take down of TKR in North Sound",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-22T23:53:56+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "90a531a259555b09d45b5877e33eb0fd5fd08e3f",
-   "source": "espncricinfo",
-   "source_name": "ESPNcricinfo",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.cricinfo.com/ci/content/story/1551183.html?ex_cid=OTC-RSS",
-   "title": "Saransh debuts in place of Kuldeep as India bat in Colombo",
-   "summary": "Kamil Mishara will debut for Sri Lanka, while Pasindu Sooriyabandara keeps his place after coming on as a concussion substitute in Galle",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-22T23:33:58+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "fd90a0e00b4ff20e355fedfbb0dc756710e857a5",
-   "source": "bbc-cricket",
-   "source_name": "BBC Sport",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sounds/play/p0p5trqx?at_medium=RSS&at_campaign=rss",
-   "title": "Test Match Special Podcast",
-   "summary": "Cricket correspondent Stephan Shemilt looks at the current state of play for England.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-22T23:30:00+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "cricket",
-    "test match"
    ]
   }
  ]
