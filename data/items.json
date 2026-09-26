@@ -1,7 +1,834 @@
 {
- "generated_at": "2026-09-25T18:02:59.502588+00:00",
- "count": 5808,
+ "generated_at": "2026-09-26T06:28:55.210882+00:00",
+ "count": 5821,
  "items": [
+  {
+   "id": "40bcff0bfd12f9806d8987163c8c0a899c2e8ff9",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-analysis/shubman-gill-vs-shai-hope-odi-stats-comparison-and-career-analysis-6379/",
+   "title": "Shubman Gill vs Shai Hope: ODI stats comparison and career analysis",
+   "summary": "Two prolific batters with contrasting records face off as India hosts West Indies in a three-match ODI series.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-26T06:11:21+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "71b3f00f7ef7d2457d1a3e10d9074fd35db68cfc",
+   "source": "bbc-f1",
+   "source_name": "BBC Sport",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/ck5ywrn20z3vo?at_medium=RSS&at_campaign=rss",
+   "title": "Chadwick says driving F1 car 'top of bucket list'",
+   "summary": "Jamie Chadwick says testing a Formula 1 car is the highlight of her motorsport career.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-26T06:09:46+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "formula 1"
+   ]
+  },
+  {
+   "id": "73ed8b12a09cf0214d4d1e88f91d72264a4c7901",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/morne-morkel-feels-fortunate-to-have-virat-kohli-and-rohit-sharma-in-dressing-room-3540/",
+   "title": "Morne Morkel feels fortunate to have Virat Kohli and Rohit Sharma in dressing room",
+   "summary": "India's bowling coach highlights the value of senior players ahead of the West Indies ODI series.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-26T06:05:52+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "kohli",
+    "rohit sharma"
+   ]
+  },
+  {
+   "id": "1add419318e00c36448dc9ff68e66d8a0170f59d",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
+   "title": "The computer hacker who tried to take down Man City",
+   "summary": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-26T05:56:40+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "manchester city"
+   ]
+  },
+  {
+   "id": "065c8048c043df974dbbaf7653ddad5835dbb122",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/asian-games-2026-indias-opposition-for-quarter-final-clash-revealed-7322/",
+   "title": "Asian Games 2026: India's opposition for quarter-final clash revealed",
+   "summary": "India, captained by Shreyas Iyer, will meet Afghanistan in the Asian Games 2026 men's cricket quarter-final after the full last-eight line-up was confirmed.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-26T05:56:02+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "cricket"
+   ]
+  },
+  {
+   "id": "ec50611229b7253d7417c3ae0450458ac2faac2d",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/india-vs-west-indies-odi-series-rohit-sharma-kuldeep-yadav-ind-wi-talking-points/article71510184.ece",
+   "title": "From Rohit Sharma’s approach to Kuldeep’s spot in playing XI — talking points ahead of India vs West Indies ODI series",
+   "summary": "India’s bench strength will come under closer scrutiny over the next week. With several first-choice players unavailable through Asian Games duty and injury, the selectors have been forced to turn to some newer faces for these three matches.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-26T05:36:07+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "rohit sharma"
+   ]
+  },
+  {
+   "id": "af7b04ec14a86514ee592ea374f41e6eb84a80c8",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c9lykey73542o?at_medium=RSS&at_campaign=rss",
+   "title": "Flex your football brain with our daily quizzes",
+   "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-26T05:29:07+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "football"
+   ]
+  },
+  {
+   "id": "330a12263e01f9bb7b5fdac8f7a75af241a390a7",
+   "source": "tennis-majors",
+   "source_name": "Tennis Majors",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.tennismajors.com/olympic-games/september-26-2000-the-day-monica-seles-won-the-olympic-bronze-medal-292564.html",
+   "title": "September 26, 2000: The day Monica Seles won the Olympic bronze medal in Sydney",
+   "summary": "On this day in 2000, Monica Seles beat Jelena Dokic in straight sets to claim the bronze medal at the Sydney Olympic Games",
+   "summary_method": "feed",
+   "author": "Alexandre Sokolowski",
+   "published_at": "2026-09-26T05:25:00+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "da0bac9df46c65e9b4d0747eac1210aa913e72f7",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/weve-challenged-the-bowlers-morne-morkel-outlines-bowling-strategy-to-test-fringe-players-ahead-of-2027-world-cup-7984/",
+   "title": "'We’ve challenged the bowlers' - Morne Morkel outlines bowling strategy to test fringe players ahead of 2027 World Cup",
+   "summary": "India's bowling coach emphasises hands-on experience for Prasidh Krishna and Gurnoor Brar during West Indies ODI series.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-26T05:14:00+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "359f6d5beaefd2fd37ce6f44c059d98726195aed",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-match-predictions/south-africa-vs-australia-prediction-2nd-odi-who-will-win-todays-match-between-sa-vs-aus-2134/",
+   "title": "South Africa vs Australia Prediction, 2nd ODI – Who will win today’s match between SA vs AUS?",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-26T05:09:25+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "76f2aa1f6b707a15a392b13658f83b612ec57f5f",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/26/manchester-city-financial-charges-premier-league-uefa-abu-dhabi",
+   "title": "How drawn-out saga of Manchester City’s alleged cheating came to this",
+   "summary": "Club’s ruthless approach was always at odds with their public image and this inglorious story has further to run There is no episode in English football’s history that even resembles a precedent for the epic Manchester City disciplinary drama, which encapsulates the modern game at breaking point.",
+   "summary_method": "feed",
+   "author": "David Conn",
+   "published_at": "2026-09-26T05:00:27+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "football",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "38b6f9ab5492e357d7a69791a40d555c2313c7e4",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/agar-cricketers-se-hi-game-chal-rahi-hoti-virender-sehwag-on-fan-interest-after-kohli-rohit-retire-7750/",
+   "title": "'Agar cricketers se hi game chal rahi hoti...' - Virender Sehwag on fan interest after Kohli, Rohit retire",
+   "summary": "The former India opener argues that cricket's appeal extends beyond individual players, citing accessibility and broader viewership trends.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-26T04:59:32+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "cricket",
+    "kohli"
+   ]
+  },
+  {
+   "id": "73dc3a0c070c040b0074a98787bdbc298c64106b",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/kevin-pietersen-ashes-discussion-stephen-fleming-broadcasting-schedule-latest/article71511720.ece",
+   "title": "Kevin Pietersen confirms Ashes discussions with England coach Fleming",
+   "summary": "Pietersen has joined the white-ball side as a specialist mentor until next year’s ODI World Cup in South Africa, Zimbabwe, and Namibia.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-26T04:58:01+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "1376fcade95cb022abb27f8d60350f3edd12fd9d",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/hardik-pandya-ruled-out-of-new-zealand-series-with-fresh-shin-injury-5146/",
+   "title": "Hardik Pandya ruled out of New Zealand series with fresh shin injury",
+   "summary": "The 32-year-old all-rounder has been advised two weeks of complete rest after scan reports confirmed a right shin injury, ending his chances of featuring in the upcoming white-ball tour.",
+   "summary_method": "feed",
+   "author": "crictrackerstaff",
+   "published_at": "2026-09-26T04:51:40+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "dc7ffd19d46ff8e9eaad92f78b1a8547bda2e612",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1555751.html?ex_cid=OTC-RSS",
+   "title": "Asian Games: Japan knocked out after rain washes out steep chase against Nepal",
+   "summary": "Nepal scored 149 for 4 in 15 overs in the rain-hit match after Sundeep Jora and Lokesh Bam slammed quick, unbeaten half-centuries",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-26T04:50:58+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "e8980bef5c1de366f9774c4dc1674a39a24a6d58",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/26/atp-chengdu-best-bets-vacherot-harris/",
+   "title": "ATP Chengdu Best Bets Including Valentin Vacherot Vs Lloyd Harris",
+   "summary": "U.S. Open - Flushing Meadows, New York, United States - September 4, 2026 Monaco's Valentin Vacherot in action during his third round match against Frances Tiafoe of the U.S.",
+   "summary_method": "feed",
+   "author": "Matt Zemek",
+   "published_at": "2026-09-26T04:41:37+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "160699675b2deb79d3ab0363dcb9cd3597cc26cd",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/former-namibia-captain-yasmeen-khan-named-in-south-africas-28-player-red-ball-camp-6927/",
+   "title": "Former Namibia captain Yasmeen Khan named in South Africa's 28-player red-ball camp",
+   "summary": "The former Namibia skipper, born in George, is one of six uncapped players included in a training camp running from September 27 to 30 ahead of home Tests against India and Australia.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-26T04:37:38+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "5af255880d2aca483bac0865cb1ef1a5b4a2c0e7",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-appeal/3-reasons-virat-kohli-can-succeed-in-west-indies-odis-9922/",
+   "title": "3 reasons Virat Kohli can succeed in West Indies ODIs",
+   "summary": "Kohli returns to ODI cricket against a side he has dominated for years.",
+   "summary_method": "feed",
+   "author": "vishal_jagtap",
+   "published_at": "2026-09-26T04:30:23+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "cricket",
+    "kohli"
+   ]
+  },
+  {
+   "id": "3a49e3050cd6c89bff10fd0e444d1d2aa553038d",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/hes-got-all-the-talent-morne-morkel-backs-nitish-kumar-reddy-for-indias-odi-allrounder-role-6208/",
+   "title": "'He's got all the talent' - Morne Morkel backs Nitish Kumar Reddy for India's ODI allrounder role",
+   "summary": "India's bowling coach believes Nitish Kumar Reddy has the ability to develop into a genuine all-rounder option ahead of the 2027 ODI World Cup.",
+   "summary_method": "feed",
+   "author": "ajay_koushik",
+   "published_at": "2026-09-26T04:24:09+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "052682e551fd2ad9a537073cbe8507f59c44ca13",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/25/laver-cup-predictions-carlos-alcaraz-vs-fritz/",
+   "title": "Laver Cup Day 2 Predictions Including Carlos Alcaraz vs Taylor Fritz",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "Ilemona Onekutu",
+   "published_at": "2026-09-26T00:18:42+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "d092e270b5ca155e68e5c48901fd63c04852fee2",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13591966/transfer-news-crystal-palace-chairman-steve-parish-tells-liverpool-accepting-50m-ismaila-sarr-bid-was-never-going-to-happen-paper-talk",
+   "title": "Papers: Parish tells Liverpool £50m Sarr move was 'never going to happen'",
+   "summary": "The top stories and transfer rumours from Saturday's newspapers",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T23:45:00+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "liverpool"
+   ]
+  },
+  {
+   "id": "be02710ea5504114cee62e492a49473d39df42a6",
+   "source": "racefans",
+   "source_name": "RaceFans",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.racefans.net/2026/09/26/on-this-day-norriss-tyre-error-costs-him-breakthrough-formula-1-win/",
+   "title": "On This Day: Hamilton scores 100th F1 win as Norris throws away his first | Brief",
+   "summary": "Heartbroken Norris loses first F1 win to Hamilton after tyre error",
+   "summary_method": "feed",
+   "author": "Keith Collantine",
+   "published_at": "2026-09-25T23:01:56+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "hamilton"
+   ]
+  },
+  {
+   "id": "9afdb3901e3dd5535e5799d255b5dcac72be0d71",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/25/rodri-adamant-manchester-city-deserved-success-despite-being-found-guilty-of-rule-breaking",
+   "title": "Rodri insists Manchester City ‘deserved’ success despite FFP guilty verdict",
+   "summary": "Rodri says nobody can take away Manchester City players’ success and still believes in his former club’s innocence despite reports they have been found guilty of breaching Premier League financial rules. The football world was rocked on Friday afternoon when a variety of outlets reported that the club had been found guilty on all but one of the 115 charges laid by the league in February 2023.",
+   "summary_method": "feed",
+   "author": "Press Association",
+   "published_at": "2026-09-25T22:42:47+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "football",
+    "premier league",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "fd31e6524fdabcadde67a71a4c9d87b3fea8e70f",
+   "source": "guardian-tennis",
+   "source_name": "The Guardian",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/sport/2026/sep/25/carlos-alcaraz-continues-comeback-as-europe-take-charge-of-laver-cup",
+   "title": "Carlos Alcaraz leads by example as Europe take early lead in Laver Cup",
+   "summary": "By the time Casper Ruud had completed his typically tenacious comeback to capture victory in the opening scuffle of this year’s Laver Cup, Carlos Alcaraz was on the floor. The Spaniard had worked harder than any other player on the sidelines as he repeatedly cheered, animated the crowd and offered a steady stream of thoughtful tactical advice to his teammate.",
+   "summary_method": "feed",
+   "author": "Tumaini Carayol at the O2",
+   "published_at": "2026-09-25T22:37:21+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "alcaraz"
+   ]
+  },
+  {
+   "id": "5466d42d7b5b7a96708c55c6157a34255030b972",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13591930/man-city-premier-league-charges-what-does-the-appeals-process-look-like-and-what-happens-now",
+   "title": "Man City charges - what happens now?",
+   "summary": "Reports claim that an independent tribunal has reached decisions in Manchester City's 115 charges case.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T22:00:00+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "manchester city"
+   ]
+  },
+  {
+   "id": "d40f90cf70be70a4903bf2e034c70e85f27f793a",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rss",
+   "title": "Rodri believes in Man City's 'innocence'",
+   "summary": "Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T21:56:35+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "midfielder",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "dd39970f5b207a7d31aec49c31d770c4f1d8bb57",
+   "source": "bbc-tennis",
+   "source_name": "BBC Sport",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/c38xkkj0q5ggo?at_medium=RSS&at_campaign=rss",
+   "title": "Sinner ruled out of China Open with knee injury",
+   "summary": "World number one Jannik Sinner will not be defending his China Open title as he continues to recover from a knee problem.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T21:45:48+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "jannik sinner"
+   ]
+  },
+  {
+   "id": "eb5cf28e9ac5615a9d51550a6c5bd2023c7f9f80",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/england-u21-vs-kazakhstan-u21/report/527088",
+   "title": "Lankshear scores on debut as England U21s beat Kazakhstan",
+   "summary": "England came from behind to beat Kazakhstan 4-2 in an entertaining affair at Molineux to all but book their place at the European U21 Championship next year.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T21:42:00+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "e0f9d60f22b989231ac1d3b84b3bdb7bc6ed48ef",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/25/nations-league-roundup-turkey-france-kylian-mbappe-italy-belgium",
+   "title": "Nations League: Kylian Mbappé injured after scoring France winner in Turkey",
+   "summary": "Kylian Mbappé limped off with an apparent knee injury, moments after scoring France’s winner against Turkey in the Nations League on Friday. The Real Madrid striker rifled in a low shot in the 55th minute after he was set up by Michael Olise. Soon after his record-extending 67th France goal, Mbappé sat on the ground and grimaced as he rubbed the area around his left knee.",
+   "summary_method": "feed",
+   "author": "Press Association, AFP and AP",
+   "published_at": "2026-09-25T21:35:43+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "striker",
+    "real madrid"
+   ]
+  },
+  {
+   "id": "a20368f0808b13dfa94aadff4279546870305b08",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c84gkkepxxl4o?at_medium=RSS&at_campaign=rss",
+   "title": "No relegation clause in Haaland's City deal - Saturday's gossip",
+   "summary": "Erling Haaland is without a relegation clause, Premier League clubs are eyeing Marcos Llorente, Juventus are considering Crystal Palace's Tyrick Mitchell.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T21:10:17+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "premier league",
+    "erling haaland"
+   ]
+  },
+  {
+   "id": "68167576dcd444c4077af5c1b53cc50d7484d5fc",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/videos/cqrl663ew3kxo?at_medium=RSS&at_campaign=rss",
+   "title": "Late drama as Northern Ireland beat Georgia",
+   "summary": "Watch the best of the action as Shea Charles scores a 99th-minute winner as Northern Ireland beat Georgia in the Nations League.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T20:46:38+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "746e1c7f0258e9b1dcb689bfe10a088f4ffb3fde",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwy7zzdmn4v7o?at_medium=RSS&at_campaign=rss",
+   "title": "Man City fans face up to reality of guilty verdict",
+   "summary": "How Manchester City fans have reacted to news that the club have been found guilty of a majority of the financial rule breaches they were accused of.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T20:30:40+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "manchester city"
+   ]
+  },
+  {
+   "id": "5751b7b7d70cf904a61b676d2c6cc79f54752bdf",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-guilty-verdict-a-historic-decision-says-whistleblower-rui-pinto",
+   "title": "Manchester City guilty verdict ‘a historic decision’, says whistleblower Rui Pinto",
+   "summary": "Years after his leaks shook the foundations of European football, Rui Pinto is claiming vindication following Manchester City’s conviction for financial fair play breaches. The ruling has once again put the controversial whistleblower and his extraordinary archive of documents in the spotlight.",
+   "summary_method": "feed",
+   "author": "Miguel Dantas",
+   "published_at": "2026-09-25T20:27:17+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "football",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "2fd47a88f215c6e72baaffd6631cbc43c51e03d3",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/25/andy-robertson-says-players-are-not-to-blame-for-manchester-citys-actions",
+   "title": "Andy Robertson says players are ‘not to blame’ for Manchester City’s actions",
+   "summary": "The former Liverpool defender Andy Robertson believes trophy-winning Manchester City players should not have their achievements diminished or removed because of the actions of the club’s ownership. Robertson was flying from a training camp in Spain to Slovenia with the Scotland squad when news emerged that City have been found guilty of multiple breaches of the Premier League’s financial fair play rules.",
+   "summary_method": "feed",
+   "author": "Ewan Murray in Ljubljana",
+   "published_at": "2026-09-25T20:16:41+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "premier league",
+    "liverpool",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "01e7d0df887f1c1735a8ff2bd26034a890d37b4e",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+   "title": "Clubs seek legal advice over Man City charges compensation",
+   "summary": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T20:13:53+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "premier league",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "ffdb66792789ecad3626ae92c066c401cb3e3e3e",
+   "source": "skysports-football",
+   "source_name": "Sky Sports",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.skysports.com/football/news/11095/13591915/cole-palmer-england-boss-thomas-tuchel-questions-how-desperate-chelsea-forward-is-to-play-for-three-lions",
+   "title": "Tuchel questions whether Palmer is desperate to play for England",
+   "summary": "Thomas Tuchel is unsure how desperate Cole Palmer is to play for England.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T20:00:00+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "588d9231168a4481eaf5a927e849b9dabcf781b7",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6qxvvw15p0lo?at_medium=RSS&at_campaign=rss",
+   "title": "O'Neill left baffled by refereeing in late NI win",
+   "summary": "Michael O'Neill has said he was \"baffled\" by some of the refereeing decisions in Friday's 1-0 win in Georgia in the Nations League.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T19:54:46+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "4ebff56e275bc6ecc043e8e595dfa04ac5669e50",
+   "source": "bbc-football",
+   "source_name": "BBC Sport",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.bbc.co.uk/sounds/play/p0pckjx7?at_medium=RSS&at_campaign=rss",
+   "title": "Man City guilty of majority of 115 charges - 5 Live reaction",
+   "summary": "What next for Man City and the Premier League after being found guilty of 114 charges?",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T19:48:00+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "premier league"
+   ]
+  },
+  {
+   "id": "5df1432cb1a6eaa2d16f7ec9380787ecf6e82a2a",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/womens-cricket/india-a-beat-australia-a-3rd-one-day-four-wickets-win-series-2-1-recent-record-50-over-top-performances-nikki-prasad-minnu-mani/article71510356.ece",
+   "title": "India-A vs Australia-A, 3rd One-Day: Minnu Mani, Nikki Prasad help India clinch series 2-1",
+   "summary": "A multi-day red ball fixture will close out this multiformat A tour and will take place at this very venue from September 29 to October 2.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T19:40:53+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "95e465868f9efcb6ea4af60df11c9e214ad663c9",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/25/tatiana-prozorova-forced-to-withdraw-from-singapore-semifinal-after-being-hit-in-the-face-during-doubles-match/",
+   "title": "Tatiana Prozorova Forced to Withdraw From Singapore Semifinal After Being Hit in the Face During Doubles Match",
+   "summary": "ug 28, 2023; Flushing, NY, USA; Tatiana Prozorova hits to Caroline Wozniacki of Denmark on day one of the 2023 U.S. Open at the Billie Jean King Tennis Center.",
+   "summary_method": "feed",
+   "author": "Zain Mustafa",
+   "published_at": "2026-09-25T19:26:26+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "tennis"
+   ]
+  },
+  {
+   "id": "9dc731944e331a94d18abfa333fac3e1869bd531",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1555717.html?ex_cid=OTC-RSS",
+   "title": "Hain makes the grind count as Warwickshire put their champagne on ice",
+   "summary": "Second century of the season drives hosts to impregnable position, with ninth County Championship a formality",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T18:59:09+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "county championship"
+   ]
+  },
+  {
+   "id": "99a98363d9e766b22f01afb3b6ace85874eec7b0",
+   "source": "the-race",
+   "source_name": "The Race",
+   "sport": "f1",
+   "sports_ok": true,
+   "url": "https://www.the-race.com/formula-1/alpine-surprise-ex-f1-driver-role-daniil-kvyat/",
+   "title": "The surprise ex-F1 driver aiding Alpine's revival",
+   "summary": "Alpine has revealed a surprise asset supporting its F1 revival this season - ex-Red Bull driver and podium finisher Daniil Kvyat",
+   "summary_method": "feed",
+   "author": "Scott Mitchell-Malm",
+   "published_at": "2026-09-25T18:56:06+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "817b3dcedac87a3a4358f5d5976616ba4fc8620c",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-era-success-all-tainted-now-premier-league-charges",
+   "title": "The age of asterisk: Manchester City’s glittering era of success is tainted now | Barney Ronay",
+   "summary": "Friday’s verdict against Manchester City will change everything we understood about their Premier League title triumphs Welcome, then, to the age of asterisk. Whatever punishment Manchester City and their owners receive at the end of this process, the fact remains, everything is tainted now. Overturn the tables, scatter the gold coins. Throw your medals in the bin. You cheated to win them. Whatever that thing was, it’s done. Stolen glory, stolen income, stolen joy.",
+   "summary_method": "feed",
+   "author": "Barney Ronay",
+   "published_at": "2026-09-25T18:36:58+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "premier league",
+    "manchester city"
+   ]
+  },
+  {
+   "id": "e90aeebc18ebb483d15e92071a4df3201bd8767a",
+   "source": "espncricinfo",
+   "source_name": "ESPNcricinfo",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.cricinfo.com/ci/content/story/1555727.html?ex_cid=OTC-RSS",
+   "title": "Ben Compton hundred keeps Kent promotion train on track",
+   "summary": "Second-placed side take 124-run lead over Gloucestershire in pursuit of victory that would guarantee return to Division One",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T18:16:18+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "37c9c99b5f96912dd94fd6549b4c88387c198039",
+   "source": "last-word-tennis",
+   "source_name": "Last Word On Tennis",
+   "sport": "tennis",
+   "sports_ok": true,
+   "url": "https://lastwordonsports.com/tennis/2026/09/25/atp-hangzhou-predictions-medvedev-royer/",
+   "title": "ATP Hangzhou Day 4 Predictions Including Daniil Medvedev vs Valentin Royer",
+   "summary": "",
+   "summary_method": "stub",
+   "author": "Manuel Traquete",
+   "published_at": "2026-09-25T18:07:10+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "medvedev"
+   ]
+  },
+  {
+   "id": "9f18128fbc0cbec824c192410be0b8f14455d7e7",
+   "source": "sportstar-cricket",
+   "source_name": "Sportstar",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://sportstar.thehindu.com/cricket/indian-players-county-championship-jaydev-unadkat-5-wickets-manav-suthar-bowling/article71510277.ece",
+   "title": "Indians in County Championship: Jaydev Unadkat picks five-wicket for Sussex",
+   "summary": "In other games, Manav Suthar, Yuzvendra Chahal, and R Sai Kishore were also in action along with Mahipal Lomror and Rahul Chahar.",
+   "summary_method": "feed",
+   "author": null,
+   "published_at": "2026-09-25T18:06:32+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "county championship",
+    "wicket"
+   ]
+  },
+  {
+   "id": "e0faf60b3271340cc6714c7d77d5497242f0ec7c",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/25/thomas-tuchel-cole-palmer-england-spain-nations-league",
+   "title": "Thomas Tuchel warns Cole Palmer about ‘missing way too many’ England camps",
+   "summary": "Thomas Tuchel has thrown Cole Palmer’s England future into major doubt by questioning whether the Chelsea attacker wants to be part of his squad. England’s head coach did not hold back on Palmer’s latest withdrawal from international duty, warning that the 24-year-old has missed too many opportunities to play for his country.",
+   "summary_method": "feed",
+   "author": "Jacob Steinberg",
+   "published_at": "2026-09-25T18:00:13+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "chelsea"
+   ]
+  },
+  {
+   "id": "b69536dd762e9f6c14048df2e6402a09efb4848d",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/25/england-spain-thomas-tuchel-nations-league-wonderwall",
+   "title": "England aim to win over Wembley and revive Wonderwall in Spain glamour fixture",
+   "summary": "Emotions of a Nations League match cannot pulse to the same levels as the World Cup but Tuchel needs to reconnect Thomas Tuchel has pictured the scene. It comes after the final whistle has blown on England’s Nations League opener against Spain on Saturday night, the first post-World Cup fixture for both teams, and it has Wembley swaying to the strains of Wonderwall.",
+   "summary_method": "feed",
+   "author": "David Hytner",
+   "published_at": "2026-09-25T18:00:13+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "7b3cf00165b41ddb40bce3deb319de3db2b9074b",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/dan-lawrence-called-up-as-jos-buttler-misses-oval-decider-with-hamstring-injury/",
+   "title": "Dan Lawrence called up as Jos Buttler misses Oval decider with hamstring injury",
+   "summary": "England have added Dan Lawrence to their ODI squad after Jos Buttler injured himself in the second ODI at Headingley, with the series level at 1-1 heading into Sunday's decider.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-25T17:58:58+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": []
+  },
+  {
+   "id": "9825e4caaa273a829ec0a02cb2eab36e8fd4377d",
+   "source": "guardian-football",
+   "source_name": "The Guardian",
+   "sport": "football",
+   "sports_ok": true,
+   "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-fans-fear-relegation-losing-trophies",
+   "title": "We Manchester City fans fear relegation and losing trophies … but club are bang to rights",
+   "summary": "Despite attempts to legally filibuster the charges out of existence for the past three years, we’ve rightfully failed It couldn’t have been more prophetic. In 2008, 15 years before Manchester City were charged with financial fraud, fans started singing “City’s going down with a billion in the bank” to the tune of Yellow Submarine.",
+   "summary_method": "feed",
+   "author": "Simon Hattenstone",
+   "published_at": "2026-09-25T17:51:27+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
+   "tags": [
+    "manchester city"
+   ]
+  },
   {
    "id": "c9a1d7ea1f0d81e3c3b338caae61d93db6144107",
    "source": "espncricinfo",
@@ -81,6 +908,21 @@
    "author": "Gary Anderson",
    "published_at": "2026-09-25T17:44:47+00:00",
    "fetched_at": "2026-09-25T18:02:05.983546+00:00",
+   "tags": []
+  },
+  {
+   "id": "9895afc82ae418eac1fcc9af2f909ce8c96c418e",
+   "source": "crictracker",
+   "source_name": "CricTracker",
+   "sport": "cricket",
+   "sports_ok": true,
+   "url": "https://www.crictracker.com/cricket-news/ncl-gt20-canada-tournament-in-2026-to-be-held-in-the-caribbean-9834/",
+   "title": "NCL GT20 Canada tournament in 2026 to be held in the Caribbean",
+   "summary": "Canada's professional T20 franchise tournament will stage its next edition in St. Vincent and the Grenadines before returning home in 2027.",
+   "summary_method": "feed",
+   "author": "adreejkumarmitra",
+   "published_at": "2026-09-25T17:43:39+00:00",
+   "fetched_at": "2026-09-26T06:28:00.373013+00:00",
    "tags": []
   },
   {
@@ -1477,8 +2319,8 @@
    "sports_ok": true,
    "url": "https://lastwordonsports.com/tennis/2026/09/25/jannik-sinner-beijing/",
    "title": "Jannik Sinner Delays Return After Beijing Withdrawal",
-   "summary": "",
-   "summary_method": "stub",
+   "summary": "1 Jannik Sinner will remain sidelined for at least another week after withdrawing from the China Open in Beijing, extending an injury layoff that has now stretched since his Wimbledon triumph in July.",
+   "summary_method": "extract",
    "author": "Tope Oke",
    "published_at": "2026-09-25T12:43:43+00:00",
    "fetched_at": "2026-09-25T18:02:05.983546+00:00",
@@ -1678,8 +2520,8 @@
    "sports_ok": true,
    "url": "https://lastwordonsports.com/tennis/2026/09/25/de-minaur-slowest-forehand/",
    "title": "Alex de Minaur Has the Slowest Forehand in the Top 10, Yet Somehow the Deepest",
-   "summary": "",
-   "summary_method": "stub",
+   "summary": "Yet his forehand lands deeper than anybody else’s. de Minaur’s average rally forehand lands only 3.54 metres short of the opposing baseline. Sinner averages 82 mph and makes contact 1.03 metres behind the baseline. de Minaur averages 74 mph but makes contact 33 cm farther forward, so Sinner is producing much more violent ball speed. de Minaur is using his positioning to compensate for some of what he lacks in raw pace.",
+   "summary_method": "extract",
    "author": "Jack Beatnik",
    "published_at": "2026-09-25T11:30:30+00:00",
    "fetched_at": "2026-09-25T18:02:05.983546+00:00",
@@ -2247,8 +3089,8 @@
    "sports_ok": true,
    "url": "https://www.racefans.net/2026/09/25/featured-comment-why-swapping-ocon-for-camara-makes-sense-for-haas/",
    "title": "Featured Comment: Why swapping Ocon for Camara makes sense for Haas | Brief",
-   "summary": "",
-   "summary_method": "stub",
+   "summary": "Formula 1 could have one fewer race-winner on the grid in 2027 as Esteban Ocon has given the strongest indication yet he won’t remain at Haas. He’s not bringing in anything and having someone else in the car would make little to no difference to them from a sporting standpoint, it if having a Ferrari academy driver in the car gets them cheaper parts, why wouldn’t you?",
+   "summary_method": "extract",
    "author": "Keith Collantine",
    "published_at": "2026-09-25T08:28:01+00:00",
    "fetched_at": "2026-09-25T18:02:05.983546+00:00",
@@ -3648,8 +4490,8 @@
    "sports_ok": true,
    "url": "https://www.skysports.com/football/news/11095/13590936/every-wsl-game-live-on-sky-this-weekend-including-london-city-vs-brighton-the-merseyside-derby-and-chelsea-vs-arsenal",
    "title": "Man City face first stress test as two derbies promise WSL thrills",
-   "summary": "",
-   "summary_method": "stub",
+   "summary": "Since Ho took over in July 2025, only Man City, Chelsea and Arsenal have won more times than Tottenham's 13. This weekend sees ALL SEVEN games broadcast live across Sky Sports channels, culminating in a huge London derby clash between Chelsea and Arsenal on Sunday at 4.30pm.",
+   "summary_method": "extract",
    "author": null,
    "published_at": "2026-09-24T17:38:00+00:00",
    "fetched_at": "2026-09-25T18:02:05.983546+00:00",
@@ -95189,656 +96031,6 @@
    "summary_method": "feed",
    "author": null,
    "published_at": "2026-08-27T06:32:32+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "9d9a6332867c60d9c5aa29823cf06beb516c49ce",
-   "source": "bbc-f1",
-   "source_name": "BBC Sport",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/c8jdyl78022o?at_medium=RSS&at_campaign=rss",
-   "title": "Colapinto to stay with Alpine for 2027 season",
-   "summary": "Franco Colapinto will remain with Alpine for the 2027 season, the Formula 1 team announces.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T06:26:09+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "formula 1"
-   ]
-  },
-  {
-   "id": "2f7462da160a86503cb737b9218dc875b5d6f6bf",
-   "source": "espncricinfo",
-   "source_name": "ESPNcricinfo",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.cricinfo.com/ci/content/story/1551611.html?ex_cid=OTC-RSS",
-   "title": "Pakistan win toss, bowl as Salman Agha makes way for captain Babar Azam",
-   "summary": "Stand-in skipper replaced by Babar in only change to sides from first Test, won by England",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T06:14:36+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "babar azam"
-   ]
-  },
-  {
-   "id": "7b7286a442e8d83f4f813114a1a98bd239e3d0b2",
-   "source": "the-analyst",
-   "source_name": "The Analyst (Opta)",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://theanalyst.com/articles/premier-league-match-predictions",
-   "title": "Premier League Match Predictions",
-   "summary": "With the help of the Opta supercomputer, we provide our Premier League match predictions for Matchday 2 of the 2026-27 season.",
-   "summary_method": "feed",
-   "author": "Chloe Horswill",
-   "published_at": "2026-08-27T06:05:32+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "premier league"
-   ]
-  },
-  {
-   "id": "b825d66c4492f5bb3646c7cb13d76f996d1c69c1",
-   "source": "the-race",
-   "source_name": "The Race",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.the-race.com/formula-1/f1-new-engine-verdict-what-we-do-and-do-not-know-aduo/",
-   "title": "What F1's new engine verdict has - and hasn't - told us",
-   "summary": "Red Bull might be trapped, but the FIA's findings from its first two ADUO F1 engine performance measurements have left plenty of unknowns",
-   "summary_method": "feed",
-   "author": "Jon Noble",
-   "published_at": "2026-08-27T05:57:20+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "331df56d6fe13bf3d76825e3b698c9a215ac1ac9",
-   "source": "bbc-cricket",
-   "source_name": "BBC Sport",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/cricket/videos/c98018v6r72o?at_medium=RSS&at_campaign=rss",
-   "title": "Vaughan criticises England's 'excuses'  after Carse incident",
-   "summary": "Speaking on Test Match Special, Michael Vaughan and Jonathan Agnew criticise England's culture and attitude after bowler Brydon Carse was handcuffed outside a nightclub, the latest in a number of recent incidents involving the England cricket team.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T05:45:48+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "cricket",
-    "test match",
-    "bowler"
-   ]
-  },
-  {
-   "id": "ba2d21bc483de851bd2d1e90834c50f2839f8fa0",
-   "source": "guardian-football",
-   "source_name": "The Guardian",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://www.theguardian.com/football/2026/aug/27/bundesliga-preview-bayern-munich-borussia-dortmund",
-   "title": "Dortmund best of the rest as Bundesliga clubs grasp at Bayern Munich’s coattails | Andy Brassell",
-   "summary": "BVB are re-energised and Leverkusen have stabilised, but can anyone stop the champions? The Franz Beckenbauer Supercup has a modicum more intensity than most of its European equivalents. There are many reasons for this. The Bundesliga’s traditional season curtain-raiser pitting league champions against cup winners is not played on neutral territory, giving it the feeling of a domestic game with proper stakes.",
-   "summary_method": "feed",
-   "author": "Andy Brassell",
-   "published_at": "2026-08-27T05:44:22+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "bundesliga",
-    "bayern munich"
-   ]
-  },
-  {
-   "id": "3efc2c46cba6481167a491c0bbd552f1c91276d2",
-   "source": "autosport-f1",
-   "source_name": "Autosport",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.autosport.com/f1/news/alpine-completes-f1-2027-lineup-with-colapinto-renewal/10849524/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "title": "Alpine completes F1 2027 line-up with Colapinto renewal",
-   "summary": "Alpine has retained Franco Colapinto for the 2027 Formula 1 season, signing a new deal with the Argentinian for a second full-time campaign. The 23-year-old will remain alongside Alpine’s lead driver Pierre Gasly, who has been Colapinto’s team-mate since he joined the French marque for round seven of 2025.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T05:35:21+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "formula 1"
-   ]
-  },
-  {
-   "id": "35cfd5244e90f477fd1b235b04fa9e9da1a85b6a",
-   "source": "the-analyst",
-   "source_name": "The Analyst (Opta)",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://theanalyst.com/articles/omar-marmoush-tottenham-de-zerbi-ideal-forward",
-   "title": "Omar Marmoush to Spurs: Why Man City Loanee Can Thrive in North London",
-   "summary": "Omar Marmoush is reportedly close to joining Tottenham on loan with an obligation to buy next summer from Manchester City. Why have Spurs turned to the versatile Egyptian forward?",
-   "summary_method": "feed",
-   "author": "David Segar",
-   "published_at": "2026-08-27T05:34:01+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "manchester city",
-    "tottenham"
-   ]
-  },
-  {
-   "id": "5a3175076cd3a6460663f4acf06dd08f11830c58",
-   "source": "the-race",
-   "source_name": "The Race",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.the-race.com/formula-1/franco-colapinto-2027-f1-deal-alpine/",
-   "title": "Colapinto keeps Alpine F1 seat for 2027",
-   "summary": "The Alpine Formula 1 team has completed its line-up for the 2027 season by retaining Franco Colapinto",
-   "summary_method": "feed",
-   "author": "Jack Cozens",
-   "published_at": "2026-08-27T05:30:14+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "formula 1"
-   ]
-  },
-  {
-   "id": "9047c9c9457b26fc7a976a15c4cd32aaeaf5f294",
-   "source": "autosport-f1",
-   "source_name": "Autosport",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.autosport.com/f1/news/why-pierre-gaslys-monaco-case-is-so-complex-and-why-the-outcome-could-take-weeks/10849761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "title": "Why Gasly’s Monaco case is so complex – and why the outcome could take weeks",
-   "summary": "Almost three months after the Monaco Grand Prix, the result of Formula 1’s most prestigious race is still not definitive. Pierre Gasly’s penalty for pitlane speeding was overturned in the week after the race, restoring him to third place at the expense of Isack Hadjar, but that was far from the end of the matter.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T05:14:47+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "formula 1",
-    "grand prix"
-   ]
-  },
-  {
-   "id": "4192815dce5a58edff3b7f79f33f02e623477e91",
-   "source": "bbc-football",
-   "source_name": "BBC Sport",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-   "title": "How to follow the Premier League on the BBC this weekend",
-   "summary": "Our Ask Me Anything team explains how to follow the opening matches of the Premier League season on the BBC this weekend.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T05:02:22+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "premier league"
-   ]
-  },
-  {
-   "id": "f314320df2290533266ef00b0a2a87c3b694f259",
-   "source": "the-analyst",
-   "source_name": "The Analyst (Opta)",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://theanalyst.com/articles/playing-europe-premier-league-form-stats",
-   "title": "How Does Getting Into Europe Affect Premier League Form?",
-   "summary": "Getting into Europe is the aim for most teams at the beginning of the season, but recent evidence suggests some may thrive having failed to qualify last time around.",
-   "summary_method": "feed",
-   "author": "Ali Tweedale",
-   "published_at": "2026-08-27T04:02:34+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "premier league"
-   ]
-  },
-  {
-   "id": "48a0e90470fe1db6ae40c3cb68be6ef3d2e2f6e9",
-   "source": "espncricinfo",
-   "source_name": "ESPNcricinfo",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.cricinfo.com/ci/content/story/1551595.html?ex_cid=OTC-RSS",
-   "title": "UAE's Asif Khan handed 15-month ban for using a banned substance",
-   "summary": "The ban is effective from September 8, 2025 and will run till December 7, 2026",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T03:43:11+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "6b9d1cf9817e7e3316ae8d072cd8cab761015fbb",
-   "source": "bbc-football",
-   "source_name": "BBC Sport",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/football/articles/cvgylrex4gyo?at_medium=RSS&at_campaign=rss",
-   "title": "Martin's reputation on line as he tries to halt Leicester slide",
-   "summary": "Manager Russell Martin is trying to end his own miserable period of results as he attempts to stop Leicester's downward spiral.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T03:26:40+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "8d28b10d5f7583e4384d24c5bd3525df4a78907d",
-   "source": "bbc-football",
-   "source_name": "BBC Sport",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/football/articles/cvgyl2dvvv0o?at_medium=RSS&at_campaign=rss",
-   "title": "Fan backlash as gay World Cup star joins Saudi club",
-   "summary": "Spain forward Esther Gonzalez attracts backlash after signing for Saudi Women's Premier League side Al Qadsiah.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T03:22:41+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "premier league"
-   ]
-  },
-  {
-   "id": "553bdcaf934fc7dda3d174897f274d5cce163d44",
-   "source": "guardian-football",
-   "source_name": "The Guardian",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://www.theguardian.com/football/2026/aug/27/liverpool-bradley-barcola-psg-transfer-window",
-   "title": "Liverpool agree £120m deal for Bradley Barcola after breakthrough talks with PSG",
-   "summary": "Liverpool are closing in on a £120m deal for Bradley Barcola after a breakthrough in talks with Paris Saint-Germain and will attempt to “improve other areas” according to the head coach, Andoni Iraola. Barcola has been Liverpool’s main transfer target all summer only for PSG’s £145m valuation to prove a significant hurdle. However, negotiations on Wednesday night ended in an outline agreement being reached over a compromise fee.",
-   "summary_method": "feed",
-   "author": "Andy Hunter",
-   "published_at": "2026-08-27T02:56:17+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "liverpool"
-   ]
-  },
-  {
-   "id": "aec07cb6ec5917a445039d16588ab892dfb2bb89",
-   "source": "racefans",
-   "source_name": "RaceFans",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.racefans.net/2026/08/27/no-changes-as-fia-completes-second-aduo-power-unit-development-analysis/",
-   "title": "No changes as FIA completes second ADUO power unit development analysis | Formula 1",
-   "summary": "The FIA has confirmed the results of its second analysis of Formula 1 engine performance under its ADUO regulations.",
-   "summary_method": "feed",
-   "author": "Keith Collantine",
-   "published_at": "2026-08-27T02:50:28+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "formula 1"
-   ]
-  },
-  {
-   "id": "b2382bf432a2cd268851146067ed570a611d5440",
-   "source": "racefans",
-   "source_name": "RaceFans",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.racefans.net/2026/08/27/featured-comment-when-schumacher-returned-to-karting-against-hamilton/",
-   "title": "Featured Comment: When Schumacher returned to karting – against Hamilton | Brief",
-   "summary": "Four-times Formula 1 world champion Max Verstappen will compete in a special kart race next month against 100 competitors of varying abilities. He was was mid-grid pace for most of the weekend, until it rained (and thus had somewhat home track knowledge advantage) and he got a podium in the second final.",
-   "summary_method": "extract",
-   "author": "Keith Collantine",
-   "published_at": "2026-08-27T02:33:34+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "hamilton"
-   ]
-  },
-  {
-   "id": "153af26572193e8aac8df68dff7212e6f4fe6cc4",
-   "source": "the-analyst",
-   "source_name": "The Analyst (Opta)",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://theanalyst.com/articles/champions-league-draw-2026-27-arsenal-liverpool-man-utd-city-aston-villa-best-worst-opponents",
-   "title": "Champions League Draw 2026-27: Best and Worst Scenarios for Arsenal, Liverpool, Man Utd, Man City and Aston Villa",
-   "summary": "Ahead of the draw for the league phase of the 2026-27 Champions League, we use the Opta Power Rankings to objectively assess the quality of the English sides’ possible opponents.",
-   "summary_method": "feed",
-   "author": "Ali Tweedale",
-   "published_at": "2026-08-27T02:28:32+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "champions league",
-    "arsenal",
-    "liverpool"
-   ]
-  },
-  {
-   "id": "904ef2fe51cbeb2880516605a59114a203bcd29c",
-   "source": "the-race",
-   "source_name": "The Race",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.the-race.com/formula-e/ex-williams-f1-junior-to-become-formula-es-youngest-driver/",
-   "title": "Ex-Williams F1 junior to become latest Formula E convert",
-   "summary": "Zak O’Sullivan will become the latest junior single-seater racer to switch to Formula E",
-   "summary_method": "feed",
-   "author": "Sam Smith",
-   "published_at": "2026-08-27T02:16:31+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "8949173b70a0577ff60393814f91a9067c06f6a6",
-   "source": "autosport-f1",
-   "source_name": "Autosport",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.autosport.com/f1/news/why-red-bull-has-f1s-top-ranked-engine-and-what-it-reveals-about-aduo/10849694/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "title": "Why Red Bull has F1's top-ranked engine, and what it reveals about ADUO",
-   "summary": "The FIA’s ADUO announcement – the Additional Development and Upgrade Opportunities for Formula 1 power units – had been a long time coming. In fact, after the results of the first period were shared with all teams and manufacturers at the Monaco Grand Prix, the press release was ready to go in exactly this form. The only thing missing was the sentence about the second period.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T02:10:03+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "formula 1",
-    "grand prix"
-   ]
-  },
-  {
-   "id": "529fecc9c6c7c98401bea839bb8d074c3c9bc2e9",
-   "source": "the-analyst",
-   "source_name": "The Analyst (Opta)",
-   "sport": "tennis",
-   "sports_ok": true,
-   "url": "https://theanalyst.com/articles/atp-2026-sinner-alcaraz-dominance-data",
-   "title": "Just How Big Is the Gap Between Sinner, Alcaraz and the Rest in 2026?",
-   "summary": "How big is the gap between Jannik Sinner, Carlos Alcaraz and the rest of the ATP Tour in 2026? We break down decades of data to find out.",
-   "summary_method": "feed",
-   "author": "Ante Jukic",
-   "published_at": "2026-08-27T01:52:00+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "atp tour",
-    "alcaraz",
-    "jannik sinner"
-   ]
-  },
-  {
-   "id": "13c71ee4fc5359c9ea8110b10f207dab7e28cde4",
-   "source": "espncricinfo",
-   "source_name": "ESPNcricinfo",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.cricinfo.com/ci/content/story/1551584.html?ex_cid=OTC-RSS",
-   "title": "Dravid Jr and Sehwag Jr in India Under-19 one-day squad for Australia series",
-   "summary": "Lakshya Raichandani to lead India Under-19s in the one-dayers, and Yashbardhan Chauhan in the multi-day matches",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T01:51:05+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "3d1bd97e5639cfb4cfcb68d7affa13ae822e89bc",
-   "source": "racefans",
-   "source_name": "RaceFans",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.racefans.net/2026/08/27/on-this-day-massa-takes-first-win-and-turkish-gp-promoter-fined-2-5m/",
-   "title": "On This Day: Massa takes first win and Turkish GP promoter fined $2.5m | Brief",
-   "summary": "Massa takes first win and Turkish GP promoter fined $2.5 million",
-   "summary_method": "feed",
-   "author": "Keith Collantine",
-   "published_at": "2026-08-27T01:45:38+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "19e248b6bcf28621f2ba18624e66e781e3f72f11",
-   "source": "bbc-football",
-   "source_name": "BBC Sport",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/football/articles/c9864p3wz1jo?at_medium=RSS&at_campaign=rss",
-   "title": "Why Herrera is playing for free in Spanish third division",
-   "summary": "Ander Herrera has represented some of the world's biggest clubs, but now he is back home playing for free in Spain's third tier - and this is why.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T01:32:50+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": []
-  },
-  {
-   "id": "58ef1245110ec0c9b1836b3c8bc8577e584d1894",
-   "source": "guardian-cricket",
-   "source_name": "The Guardian",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.theguardian.com/sport/2026/aug/27/ecb-pushing-for-more-free-to-air-coverage-with-itv-open-to-showing-test-cricket",
-   "title": "ECB pushing for more free-to-air coverage with ITV open to showing Test cricket",
-   "summary": "The England and Wales Cricket Board is planning to offer more rights packages to free-to-air broadcasters in the next set of TV contracts that begin in 2029. The aim is to broaden the sport’s appeal.",
-   "summary_method": "feed",
-   "author": "Exclusive by Matt Hughes",
-   "published_at": "2026-08-27T01:30:08+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "cricket"
-   ]
-  },
-  {
-   "id": "4491f71e0703f8cbbd0e664fb75b5517d112e92d",
-   "source": "guardian-tennis",
-   "source_name": "The Guardian",
-   "sport": "tennis",
-   "sports_ok": true,
-   "url": "https://www.theguardian.com/sport/2026/aug/27/linda-noskova-wimbledon-champion-fame-desire-tennis-career",
-   "title": "‘You start all over’: Linda Noskova battles fame and desire after Wimbledon glory",
-   "summary": "The women’s singles champion at SW19 on her off-court passions, growing up in Czechia, and the aftermath of achieving her dream Linda Noskova has spent almost her entire life working towards mastering her sport. She began travelling around Czechia, Europe and then the world for tournaments before she was a teenager. Her life decisions have revolved around tennis for as long as she can remember.",
-   "summary_method": "feed",
-   "author": "Tumaini Carayol",
-   "published_at": "2026-08-27T01:30:08+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "tennis",
-    "wimbledon"
-   ]
-  },
-  {
-   "id": "54d3a0e501ec84bcf3ab4afdcc0ca95f000162b6",
-   "source": "guardian-football",
-   "source_name": "The Guardian",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://www.theguardian.com/football/2026/aug/27/manchester-united-michael-carrick-paul-pogba-jadon-sancho-cautionary-tale",
-   "title": "Plight of Pogba, Sancho and others is cautionary tale for any Carrick rebuild",
-   "summary": "Bruno Fernandes is the only surviving attacker from Ole Gunnar Solskjær’s attempt to bridge gap to rivals in 2021 Five years is a long time in football. Manchester United’s summer of 2021 is now remembered as the turning point in Ole Gunnar Solskjær’s reign; the sentimental decision to sign Cristiano Ronaldo the headline act as United set off on the wrong course after a few years of building steadily.",
-   "summary_method": "feed",
-   "author": "Dominic Booth",
-   "published_at": "2026-08-27T01:30:07+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "football",
-    "manchester united",
-    "cristiano ronaldo"
-   ]
-  },
-  {
-   "id": "62bee791221e4e42b1e09be940110861b0cc86bc",
-   "source": "tennis-majors",
-   "source_name": "Tennis Majors",
-   "sport": "tennis",
-   "sports_ok": true,
-   "url": "https://www.tennismajors.com/us-open-news/august-27-1975-the-day-one-special-us-open-edition-began-283395.html",
-   "title": "August 27, 1975: The day a very special US Open edition began, with clay and night sessions",
-   "summary": "Every day, Tennis Majors takes you back in time to relive a tennis event which happened on this specific day.",
-   "summary_method": "feed",
-   "author": "Alexandre Sokolowski",
-   "published_at": "2026-08-27T01:30:00+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "tennis",
-    "us open"
-   ]
-  },
-  {
-   "id": "4569974697afe11130e446e6f05c3ba7d70dbd4f",
-   "source": "espn-tennis",
-   "source_name": "ESPN",
-   "sport": "tennis",
-   "sports_ok": true,
-   "url": "https://www.espn.com/tennis/story/_/id/49738484/karolina-muchova-jakub-mensik-win-us-open-mixed-doubles-championship",
-   "title": "Muchova, Mensik win US Open mixed doubles title",
-   "summary": "Karolina Muchova and Jakub Mensik won the US Open mixed doubles title on Wednesday night, beating Belinda Bencic and Flavio Cobolli 6-3, 1-6 (10-6).",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T01:04:00+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "us open"
-   ]
-  },
-  {
-   "id": "742693051c5aa6541f3562554fe7efd8a84ed358",
-   "source": "bbc-tennis",
-   "source_name": "BBC Sport",
-   "sport": "tennis",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/tennis/articles/czjz9g1g9v8o?at_medium=RSS&at_campaign=rss",
-   "title": "Watson to face fellow Briton Dart for US Open spot",
-   "summary": "Heather Watson will face compatriot Harriet Dart for a place in the US Open main draw as six British players reach the final qualifying round.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T00:53:29+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "qualifying",
-    "us open"
-   ]
-  },
-  {
-   "id": "62eb0c3077e5cd0821734911f9c0af75829067e8",
-   "source": "racefans",
-   "source_name": "RaceFans",
-   "sport": "f1",
-   "sports_ok": true,
-   "url": "https://www.racefans.net/2026/08/27/stats-mclaren-win-formula-1s-last-dutch-grand-prix-at-zandvoort-again/",
-   "title": "Stats: McLaren win Formula 1’s last Dutch Grand Prix at Zandvoort – again | 2026 Dutch Grand Prix stats and facts",
-   "summary": "Formula 1 said farewell to the Dutch Grand Prix with a win for McLaren - just as it did in 1985. Here are the stats from Zandvoort.",
-   "summary_method": "feed",
-   "author": "Keith Collantine",
-   "published_at": "2026-08-27T00:49:42+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "formula 1",
-    "grand prix",
-    "mclaren"
-   ]
-  },
-  {
-   "id": "0a9f2ea6752ca531fa57bc45183eb23b2e9f3850",
-   "source": "bbc-tennis",
-   "source_name": "BBC Sport",
-   "sport": "tennis",
-   "sports_ok": true,
-   "url": "https://www.bbc.co.uk/sport/tennis/articles/c8xken9v4xno?at_medium=RSS&at_campaign=rss",
-   "title": "Mensik & Muchova win US Open mixed doubles title",
-   "summary": "Karolina Muchova and Jakub Mensik save two match points on their way to the US Open mixed doubles title and $1m in prize money.",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-27T00:14:47+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "us open"
-   ]
-  },
-  {
-   "id": "f645858937bcebb01e98d2c420a2729c967d2d2f",
-   "source": "tennis-majors",
-   "source_name": "Tennis Majors",
-   "sport": "tennis",
-   "sports_ok": true,
-   "url": "https://www.tennismajors.com/us-open-news/karolina-muchova-and-jakub-mensik-win-us-open-mixed-doubles-title-beating-bencic-and-cobolli-in-final-set-tiebreak-thriller-859542.html",
-   "title": "Karolina Muchova and Jakub Mensik win US Open mixed doubles title, beating Bencic and Cobolli in final-set tiebreak thriller",
-   "summary": "Czech duo Karolina Muchova and Jakub Mensik have clinched the US Open mixed doubles title, overcoming Belinda Bencic and Flavio Cobolli in a dramatic final-set tiebreak. Their victory caps a strong fortnight for Czech tennis at the tournament.",
-   "summary_method": "feed",
-   "author": "Cédric Rouquette",
-   "published_at": "2026-08-26T23:09:45+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "tennis",
-    "us open"
-   ]
-  },
-  {
-   "id": "a47e461d77a440f125a737aedfd5aa89676fc051",
-   "source": "guardian-tennis",
-   "source_name": "The Guardian",
-   "sport": "tennis",
-   "sports_ok": true,
-   "url": "https://www.theguardian.com/sport/2026/aug/27/muchova-mensik-us-open-mixed-doubles-title-bencic-cobolli",
-   "title": "Muchová and Menšík win $1m US Open mixed doubles title in late-night thriller",
-   "summary": "To many who came to the US Open grounds this week, the showpiece of the mixed doubles championship came Tuesday afternoon, with the returns of Serena Williams (after four years away from tennis) and Carlos Alcaraz (after four months out with a wrist injury). To the players who remained in the field after Williams and Alcaraz exited in the quarter-finals, the real highlight was Wednesday night’s final at Arthur Ashe Stadium, with its $1m in prize money on the line.",
-   "summary_method": "feed",
-   "author": "Ella Brockway at Flushing Meadows",
-   "published_at": "2026-08-26T22:45:54+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "tennis",
-    "us open",
-    "alcaraz"
-   ]
-  },
-  {
-   "id": "e06c78a63478935641ae9c697036ade0cba0a766",
-   "source": "espncricinfo",
-   "source_name": "ESPNcricinfo",
-   "sport": "cricket",
-   "sports_ok": true,
-   "url": "https://www.cricinfo.com/ci/content/story/1551566.html?ex_cid=OTC-RSS",
-   "title": "Seifert's 61-ball 105* and Chase's three-wicket over lift St Lucia Kings to the top",
-   "summary": "St Lucia Kings hit 211 for 4, only the second 200-plus total of the season, and it was never really threatened except when Kieron Pollard smashed a 26-ball 65",
-   "summary_method": "feed",
-   "author": null,
-   "published_at": "2026-08-26T22:18:12+00:00",
-   "fetched_at": "2026-08-29T09:37:02.370741+00:00",
-   "tags": [
-    "wicket"
-   ]
-  },
-  {
-   "id": "3c7879b6c2d3a19e3eeac060ace1a3e2a3111348",
-   "source": "guardian-football",
-   "source_name": "The Guardian",
-   "sport": "football",
-   "sports_ok": true,
-   "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe",
-   "title": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
-   "summary": "Kylian Mbappé scored a hat-trick as Real Madrid beat Real Sociedad 4-1 at the Bernabéu on Wednesday ⁠in their first home match since the return of José Mourinho as head coach. Mbappé put Madrid ahead in the 40th minute before Luka Sucic levelled four minutes later, but the ⁠France forward restored the ⁠hosts’ lead on ​the hour. Vinícius Júnior added a third in the 68th minute before Mbappé completed his treble 10 minutes from time.",
-   "summary_method": "feed",
-   "author": "Reuters",
-   "published_at": "2026-08-26T21:39:14+00:00",
-   "fetched_at": "2026-08-29T12:10:20.055086+00:00",
-   "tags": [
-    "real madrid"
-   ]
-  },
-  {
-   "id": "c54ae6fcf07488fde0c7879ace57ed65c2bb7485",
-   "source": "tennis-majors",
-   "source_name": "Tennis Majors",
-   "sport": "tennis",
-   "sports_ok": true,
-   "url": "https://www.tennismajors.com/atp/marozsan-ends-damms-giant-killing-run-to-reach-winston-salem-quarter-finals-859537.html",
-   "title": "Marozsan ends Damm’s giant-killing run to reach Winston-Salem quarter-finals",
-   "summary": "Fabian Marozsan won against Martin Damm 2-6, 6-3, 6-3 on Thursday night and will play Australian James Duckworth in the next round",
-   "summary_method": "feed",
-   "author": "Tennis Majors and partners",
-   "published_at": "2026-08-26T20:45:06+00:00",
    "fetched_at": "2026-08-29T09:37:02.370741+00:00",
    "tags": []
   }
